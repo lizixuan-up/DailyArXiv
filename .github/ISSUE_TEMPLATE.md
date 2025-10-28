@@ -2,7 +2,7 @@
 title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
 
 ## Multimodal Learning
 | **Title** | **Date** | **Comment** |
