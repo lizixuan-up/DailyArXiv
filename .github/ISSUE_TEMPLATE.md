@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 14, 2025
+title: Latest 15 Papers - November 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## Diffusion Model for Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Models in Recommendation Systems: A Survey](https://arxiv.org/pdf/2501.10548v3)** | 2025-06-16 | 38 pages |
-| **[Sequential Recommendation with Diffusion Models](https://arxiv.org/pdf/2304.04541v2)** | 2023-06-23 |  |
-| **[A Survey on Diffusion Models for Recommender Systems](https://arxiv.org/pdf/2409.05033v2)** | 2024-09-17 | Under Review |
-| **[Asymmetric Diffusion Recommendation Model](https://arxiv.org/pdf/2508.12706v1)** | 2025-08-19 | Accepted by CIKM2025 |
-| **[A Diffusion model for POI recommendation](https://arxiv.org/pdf/2304.07041v5)** | 2023-10-31 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Information Systems (TOIS 2023)</p></details> |
-| **[Plug-in Diffusion Model for Sequential Recommendation](https://arxiv.org/pdf/2401.02913v1)** | 2024-01-08 | <details><summary>Accep...</summary><p>Accepted by AAAI 2024</p></details> |
-| **[RecDiff: Diffusion Model for Social Recommendation](https://arxiv.org/pdf/2406.01629v1)** | 2024-06-05 |  |
-| **[Hyperbolic Diffusion Recommender Model](https://arxiv.org/pdf/2504.01541v2)** | 2025-04-11 |  |
-| **[Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models](https://arxiv.org/pdf/2312.15490v4)** | 2025-02-18 | <details><summary>We re...</summary><p>We request to withdraw our paper from the archive due to significant errors identified in the analysis and conclusions. Upon further review, we realized that these errors undermine the validity of our findings. We plan to conduct additional research to correct these issues and resubmit a revised version in the future</p></details> |
-| **[Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation](https://arxiv.org/pdf/2409.10494v1)** | 2024-09-17 | 8 pages |
-| **[Recommendation model based on opinion diffusion](https://arxiv.org/pdf/0710.2228v2)** | 2007-11-15 | 5 pages, 2 figures |
-| **[Diffusion Recommender Model](https://arxiv.org/pdf/2304.04971v3)** | 2025-06-26 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, accepted for publication in SIGIR'23</p></details> |
-| **[Denoising Diffusion Recommender Model](https://arxiv.org/pdf/2401.06982v4)** | 2024-06-18 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2024</p></details> |
-| **[Dual Conditional Diffusion Models for Sequential Recommendation](https://arxiv.org/pdf/2410.21967v2)** | 2025-03-19 |  |
-| **[DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://arxiv.org/pdf/2312.16890v1)** | 2023-12-29 | <details><summary>This ...</summary><p>This paper is accepted by WSDM'2024 Oral</p></details> |
+| **[Fine-Tuning Diffusion-Based Recommender Systems via Reinforcement Learning with Reward Function Optimization](https://arxiv.org/abs/2511.06937v1)** | 2025-11-10 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 9 tables</p></details> |
+| **[LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation](https://arxiv.org/abs/2511.06254v1)** | 2025-11-09 |  |
+| **[Diffusion Generative Recommendation with Continuous Tokens](https://arxiv.org/abs/2504.12007v3)** | 2025-11-04 |  |
+| **[Listwise Preference Diffusion Optimization for User Behavior Trajectories Prediction](https://arxiv.org/abs/2511.00530v1)** | 2025-11-01 |  |
+| **[A Survey on Generative Recommendation: Data, Model, and Tasks](https://arxiv.org/abs/2510.27157v1)** | 2025-10-31 |  |
+| **[On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders](https://arxiv.org/abs/2510.17245v3)** | 2025-10-22 |  |
+| **[From Newborn to Impact: Bias-Aware Citation Prediction](https://arxiv.org/abs/2510.19246v1)** | 2025-10-22 |  |
+| **[ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization](https://arxiv.org/abs/2510.18433v1)** | 2025-10-21 |  |
+| **[DiffGRM: Diffusion-based Generative Recommendation Model](https://arxiv.org/abs/2510.21805v1)** | 2025-10-21 | 13 pages, 5 figures |
+| **[Continuous Dynamic Modeling via Neural ODEs for Popularity Trajectory Prediction](https://arxiv.org/abs/2410.18742v3)** | 2025-10-20 |  |
+| **[Exploring the design space of diffusion and flow models for data fusion](https://arxiv.org/abs/2510.21791v1)** | 2025-10-20 |  |
+| **[Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening](https://arxiv.org/abs/2510.16306v1)** | 2025-10-18 |  |
+| **[Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models](https://arxiv.org/abs/2510.15429v1)** | 2025-10-17 | <details><summary>PhD T...</summary><p>PhD Thesis of Shashank Gupta defended at the University of Amsterdam on October 13th 2025</p></details> |
+| **[Asking Clarifying Questions for Preference Elicitation With Large Language Models](https://arxiv.org/abs/2510.12015v1)** | 2025-10-13 |  |
+| **[Denoising Diffusion as a New Framework for Underwater Images](https://arxiv.org/abs/2510.09934v1)** | 2025-10-11 |  |
 
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Factorized Multimodal Transformer for Multimodal Sequential Learning](https://arxiv.org/pdf/1911.09826v1)** | 2019-11-25 |  |
-| **[Toward Robust Multimodal Learning using Multimodal Foundational Models](https://arxiv.org/pdf/2401.13697v1)** | 2024-01-26 | Under Review |
-| **[Multimodal Reasoning with Multimodal Knowledge Graph](https://arxiv.org/pdf/2406.02030v2)** | 2024-06-06 | <details><summary>Accep...</summary><p>Accepted by ACL 2024 (Main Conference)</p></details> |
-| **[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295v1)** | 2019-06-04 |  |
-| **[Multimodal Knowledge Expansion](https://arxiv.org/pdf/2103.14431v3)** | 2021-11-01 | <details><summary>Accep...</summary><p>Accepted by ICCV 2021. Project website: https://tsinghua-mars-lab.github.io/MKE/</p></details> |
-| **[Dynamic Multimodal Fusion](https://arxiv.org/pdf/2204.00102v2)** | 2023-04-10 | <details><summary>Accep...</summary><p>Accepted by 6th Multi-Modal Learning and Applications Workshop (MULA), CVPR 2023. Code available at: https://github.com/zihuixue/DynMM</p></details> |
-| **[Needle In A Multimodal Haystack](https://arxiv.org/pdf/2406.07230v2)** | 2024-10-11 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2024 Track Datasets and Benchmarks</p></details> |
-| **[MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs](https://arxiv.org/pdf/2411.02571v2)** | 2025-02-25 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. We release the model weights at: https://huggingface.co/nvidia/MM-Embed</p></details> |
-| **[Multimodal diff-hash](https://arxiv.org/pdf/1111.1461v1)** | 2011-11-08 |  |
-| **[On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782v2)** | 2023-12-19 | ALT 2024, to appear |
-| **[Multimodal Learning with Transformers: A Survey](https://arxiv.org/pdf/2206.06488v2)** | 2023-05-11 | <details><summary>This ...</summary><p>This paper is accepted by IEEE TPAMI</p></details> |
-| **[UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning](https://arxiv.org/pdf/2305.09299v1)** | 2023-05-17 | ACL 2023 Findings |
-| **[What is Multimodality?](https://arxiv.org/pdf/2103.06304v3)** | 2021-08-23 | <details><summary>Paper...</summary><p>Paper accepted for publication at MMSR 2021; 10 pages, 5 figures</p></details> |
-| **[Multimodal Grounding for Language Processing](https://arxiv.org/pdf/1806.06371v2)** | 2019-07-04 | <details><summary>The p...</summary><p>The paper has been published in the Proceedings of the 27 Conference of Computational Linguistics. Please refer to this version for citations: https://www.aclweb.org/anthology/papers/C/C18/C18-1197/</p></details> |
-| **[Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos](https://arxiv.org/pdf/2206.07981v2)** | 2022-06-20 |  |
+| **[URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding](https://arxiv.org/abs/2511.10552v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
+| **[FlowMM: Cross-Modal Information Flow Guided KV Cache Merging for Efficient Multimodal Context Inference](https://arxiv.org/abs/2511.05534v2)** | 2025-11-13 |  |
+| **[TMDC: A Two-Stage Modality Denoising and Complementation Framework for Multimodal Sentiment Analysis with Missing and Noisy Modalities](https://arxiv.org/abs/2511.10325v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering](https://arxiv.org/abs/2510.12174v2)** | 2025-11-13 |  |
+| **[OutSafe-Bench: A Benchmark for Multimodal Offensive Content Detection in Large Language Models](https://arxiv.org/abs/2511.10287v1)** | 2025-11-13 |  |
+| **[MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs](https://arxiv.org/abs/2511.07250v2)** | 2025-11-13 |  |
+| **[Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222v1)** | 2025-11-13 |  |
+| **[MTP: Exploring Multimodal Urban Traffic Profiling with Modality Augmentation and Spectrum Fusion](https://arxiv.org/abs/2511.10218v1)** | 2025-11-13 |  |
+| **[Next-Frame Feature Prediction for Multimodal Deepfake Detection and Temporal Localization](https://arxiv.org/abs/2511.10212v1)** | 2025-11-13 | <details><summary>Under...</summary><p>Under Review, Multimodal Deepfake detection</p></details> |
+| **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](https://arxiv.org/abs/2505.13928v3)** | 2025-11-13 |  |
+| **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/abs/2511.10075v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[VLF-MSC: Vision-Language Feature-Based Multimodal Semantic Communication System](https://arxiv.org/abs/2511.10074v1)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the AI4NextG Workshop at NeurIPS 2025</p></details> |
+| **[MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples](https://arxiv.org/abs/2511.10047v1)** | 2025-11-13 |  |
+| **[Do Language Models Associate Sound with Meaning? A Multimodal Study of Sound Symbolism](https://arxiv.org/abs/2511.10045v1)** | 2025-11-13 | <details><summary>33 pa...</summary><p>33 pages, 27 tables, 10 figures</p></details> |
+| **[AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models](https://arxiv.org/abs/2511.10017v1)** | 2025-11-13 | NeurIPS 2025 |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Representation Learning: A Statistical Perspective](https://arxiv.org/pdf/1911.11374v1)** | 2019-11-27 |  |
-| **[Learning sparse representations in reinforcement learning](https://arxiv.org/pdf/1909.01575v1)** | 2019-09-05 |  |
-| **[When Representations Align: Universality in Representation Learning Dynamics](https://arxiv.org/pdf/2402.09142v2)** | 2024-07-08 | 22 pages, 16 figures |
-| **[Provable benefits of representation learning](https://arxiv.org/pdf/1706.04601v1)** | 2017-06-15 | 22 pages |
-| **[Socially Supervised Representation Learning: the Role of Subjectivity in Learning Efficient Representations](https://arxiv.org/pdf/2109.09390v4)** | 2022-09-23 |  |
-| **[Task-Induced Representation Learning](https://arxiv.org/pdf/2204.11827v1)** | 2022-04-26 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR), 2022</p></details> |
-| **[Meta-Learning Representations for Continual Learning](https://arxiv.org/pdf/1905.12588v2)** | 2019-11-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS19, 15 pages, 10 figures, open-source, representation learning, continual learning, online learning</p></details> |
-| **[Learning Sparse Representations Incrementally in Deep Reinforcement Learning](https://arxiv.org/pdf/1912.04002v1)** | 2019-12-10 |  |
-| **[Playful Interactions for Representation Learning](https://arxiv.org/pdf/2107.09046v1)** | 2021-07-20 |  |
-| **[Representation Learning by Learning to Count](https://arxiv.org/pdf/1708.06734v1)** | 2017-08-23 | ICCV 2017(oral) |
-| **[Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538v3)** | 2014-04-24 |  |
-| **[Matryoshka Representation Learning](https://arxiv.org/pdf/2205.13147v4)** | 2024-02-09 | <details><summary>Edite...</summary><p>Edited related work to include intrinsic dimensionality works</p></details> |
-| **[Flow Factorized Representation Learning](https://arxiv.org/pdf/2309.13167v1)** | 2023-09-26 | NeurIPS23 |
-| **[Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations](https://arxiv.org/pdf/2312.00101v1)** | 2023-12-04 | <details><summary>PhD T...</summary><p>PhD Thesis, 223 pages, Abstract in English, Spanish and Catalan, 4 appendices</p></details> |
-| **[Contextures: The Mechanism of Representation Learning](https://arxiv.org/pdf/2504.19792v1)** | 2025-04-29 | PhD Dissertation |
+| **[Towards Emotionally Intelligent and Responsible Reinforcement Learning](https://arxiv.org/abs/2511.10573v1)** | 2025-11-13 |  |
+| **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/abs/2511.10560v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-offcial/</p></details> |
+| **[vMFCoOp: Towards Equilibrium on a Unified Hyperspherical Manifold for Prompting Biomedical VLMs](https://arxiv.org/abs/2511.09540v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted as an Oral Presentation at AAAI 2026 Main Technical Track (this version is not peer-reviewed; it is the extended version)</p></details> |
+| **[SPOT: Sparsification with Attention Dynamics via Token Relevance in Vision Transformers](https://arxiv.org/abs/2511.10488v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project repository: https://github.com/odedsc/SPOT</p></details> |
+| **[Interpretable Clinical Classification with Kolgomorov-Arnold Networks](https://arxiv.org/abs/2509.16750v2)** | 2025-11-13 |  |
+| **[Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles](https://arxiv.org/abs/2501.16289v5)** | 2025-11-13 | 16 pages, 6 figures |
+| **[Modeling Layout Abstractions Using Integer Set Relations](https://arxiv.org/abs/2511.10374v1)** | 2025-11-13 |  |
+| **[Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment](https://arxiv.org/abs/2511.10334v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Code is available at https://github.com/lessiYin/DSANet</p></details> |
+| **[CLIP4VI-ReID: Learning Modality-shared Representations via CLIP Semantic Bridge for Visible-Infrared Person Re-identification](https://arxiv.org/abs/2511.10309v1)** | 2025-11-13 |  |
+| **[Rethinking Visual Information Processing in Multimodal LLMs](https://arxiv.org/abs/2511.10301v1)** | 2025-11-13 |  |
+| **[LangGPS: Language Separability Guided Data Pre-Selection for Joint Multilingual Instruction Tuning](https://arxiv.org/abs/2511.10229v1)** | 2025-11-13 | <details><summary>AAAI2...</summary><p>AAAI2026 Main Track Accepted</p></details> |
+| **[Improved Offline Reinforcement Learning via Quantum Metric Encoding](https://arxiv.org/abs/2511.10187v1)** | 2025-11-13 |  |
+| **[GPT and Prejudice: A Sparse Approach to Understanding Learned Representations in Large Language Models](https://arxiv.org/abs/2510.01252v3)** | 2025-11-13 | <details><summary>Prepr...</summary><p>Preprint. Draft version, subject to revision</p></details> |
+| **[Unmasking Deepfakes: Leveraging Augmentations and Features Variability for Deepfake Speech Detection](https://arxiv.org/abs/2501.05545v2)** | 2025-11-13 |  |
+| **[VasoMIM: Vascular Anatomy-Aware Masked Image Modeling for Vessel Segmentation](https://arxiv.org/abs/2508.10794v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by the Annual AAAI Conference on Artificial Intelligence (AAAI). Extended version</p></details> |
 
