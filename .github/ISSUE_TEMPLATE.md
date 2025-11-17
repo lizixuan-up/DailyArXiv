@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2025
+title: Latest 15 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding](https://arxiv.org/abs/2511.10552v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
-| **[FlowMM: Cross-Modal Information Flow Guided KV Cache Merging for Efficient Multimodal Context Inference](https://arxiv.org/abs/2511.05534v2)** | 2025-11-13 |  |
-| **[TMDC: A Two-Stage Modality Denoising and Complementation Framework for Multimodal Sentiment Analysis with Missing and Noisy Modalities](https://arxiv.org/abs/2511.10325v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering](https://arxiv.org/abs/2510.12174v2)** | 2025-11-13 |  |
-| **[OutSafe-Bench: A Benchmark for Multimodal Offensive Content Detection in Large Language Models](https://arxiv.org/abs/2511.10287v1)** | 2025-11-13 |  |
-| **[MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs](https://arxiv.org/abs/2511.07250v2)** | 2025-11-13 |  |
-| **[Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222v1)** | 2025-11-13 |  |
-| **[MTP: Exploring Multimodal Urban Traffic Profiling with Modality Augmentation and Spectrum Fusion](https://arxiv.org/abs/2511.10218v1)** | 2025-11-13 |  |
-| **[Next-Frame Feature Prediction for Multimodal Deepfake Detection and Temporal Localization](https://arxiv.org/abs/2511.10212v1)** | 2025-11-13 | <details><summary>Under...</summary><p>Under Review, Multimodal Deepfake detection</p></details> |
-| **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](https://arxiv.org/abs/2505.13928v3)** | 2025-11-13 |  |
-| **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/abs/2511.10075v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[VLF-MSC: Vision-Language Feature-Based Multimodal Semantic Communication System](https://arxiv.org/abs/2511.10074v1)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the AI4NextG Workshop at NeurIPS 2025</p></details> |
-| **[MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples](https://arxiv.org/abs/2511.10047v1)** | 2025-11-13 |  |
-| **[Do Language Models Associate Sound with Meaning? A Multimodal Study of Sound Symbolism](https://arxiv.org/abs/2511.10045v1)** | 2025-11-13 | <details><summary>33 pa...</summary><p>33 pages, 27 tables, 10 figures</p></details> |
-| **[AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models](https://arxiv.org/abs/2511.10017v1)** | 2025-11-13 | NeurIPS 2025 |
+| **[Multimodal Posterior Sampling-based Uncertainty in PD-L1 Segmentation from H&E Images](https://arxiv.org/abs/2511.11486v1)** | 2025-11-14 | <details><summary>Prepr...</summary><p>Preprint (pre-review). Accepted for publication in Lecture Notes in Bioinformatics (Springer, 2025). The final authenticated version will be available on SpringerLink once published</p></details> |
+| **[ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation](https://arxiv.org/abs/2511.11483v1)** | 2025-11-14 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 6 figures</p></details> |
+| **[Synergy vs. Noise: Performance-Guided Multimodal Fusion For Biochemical Recurrence-Free Survival in Prostate Cancer](https://arxiv.org/abs/2511.11452v1)** | 2025-11-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 4 tables</p></details> |
+| **[Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222v2)** | 2025-11-14 |  |
+| **[VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models](https://arxiv.org/abs/2511.11438v1)** | 2025-11-14 | <details><summary>This ...</summary><p>This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
+| **[The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models](https://arxiv.org/abs/2511.11435v1)** | 2025-11-14 |  |
+| **[MicroVQA++: High-Quality Microscopy Reasoning Dataset with Weakly Supervised Graphs for Multimodal Large Language Model](https://arxiv.org/abs/2511.11407v1)** | 2025-11-14 | 11 pages, 4 figures |
+| **[Improving Multimodal Sentiment Analysis via Modality Optimization and Dynamic Primary Modality Selection](https://arxiv.org/abs/2511.06328v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding](https://arxiv.org/abs/2511.11313v1)** | 2025-11-14 |  |
+| **[MOON Embedding: Multimodal Representation Learning for E-commerce Search Advertising](https://arxiv.org/abs/2511.11305v1)** | 2025-11-14 | 31 pages, 12 figures |
+| **[Explicit Multimodal Graph Modeling for Human-Object Interaction Detection](https://arxiv.org/abs/2509.12554v2)** | 2025-11-14 |  |
+| **[AIonopedia: an LLM agent orchestrating multimodal learning for ionic liquid discovery](https://arxiv.org/abs/2511.11257v1)** | 2025-11-14 |  |
+| **[Positional Bias in Multimodal Embedding Models: Do They Favor the Beginning, the Middle, or the End?](https://arxiv.org/abs/2511.11216v1)** | 2025-11-14 | <details><summary>accep...</summary><p>accepted to AAAI 2026 main track</p></details> |
+| **[Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning](https://arxiv.org/abs/2511.11182v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Viper-F1: Fast and Fine-Grained Multimodal Understanding with Cross-Modal State-Space Modulation](https://arxiv.org/abs/2511.11177v1)** | 2025-11-14 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Emotionally Intelligent and Responsible Reinforcement Learning](https://arxiv.org/abs/2511.10573v1)** | 2025-11-13 |  |
-| **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/abs/2511.10560v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-offcial/</p></details> |
-| **[vMFCoOp: Towards Equilibrium on a Unified Hyperspherical Manifold for Prompting Biomedical VLMs](https://arxiv.org/abs/2511.09540v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted as an Oral Presentation at AAAI 2026 Main Technical Track (this version is not peer-reviewed; it is the extended version)</p></details> |
-| **[SPOT: Sparsification with Attention Dynamics via Token Relevance in Vision Transformers](https://arxiv.org/abs/2511.10488v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project repository: https://github.com/odedsc/SPOT</p></details> |
-| **[Interpretable Clinical Classification with Kolgomorov-Arnold Networks](https://arxiv.org/abs/2509.16750v2)** | 2025-11-13 |  |
-| **[Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles](https://arxiv.org/abs/2501.16289v5)** | 2025-11-13 | 16 pages, 6 figures |
-| **[Modeling Layout Abstractions Using Integer Set Relations](https://arxiv.org/abs/2511.10374v1)** | 2025-11-13 |  |
-| **[Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment](https://arxiv.org/abs/2511.10334v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Code is available at https://github.com/lessiYin/DSANet</p></details> |
-| **[CLIP4VI-ReID: Learning Modality-shared Representations via CLIP Semantic Bridge for Visible-Infrared Person Re-identification](https://arxiv.org/abs/2511.10309v1)** | 2025-11-13 |  |
-| **[Rethinking Visual Information Processing in Multimodal LLMs](https://arxiv.org/abs/2511.10301v1)** | 2025-11-13 |  |
-| **[LangGPS: Language Separability Guided Data Pre-Selection for Joint Multilingual Instruction Tuning](https://arxiv.org/abs/2511.10229v1)** | 2025-11-13 | <details><summary>AAAI2...</summary><p>AAAI2026 Main Track Accepted</p></details> |
-| **[Improved Offline Reinforcement Learning via Quantum Metric Encoding](https://arxiv.org/abs/2511.10187v1)** | 2025-11-13 |  |
-| **[GPT and Prejudice: A Sparse Approach to Understanding Learned Representations in Large Language Models](https://arxiv.org/abs/2510.01252v3)** | 2025-11-13 | <details><summary>Prepr...</summary><p>Preprint. Draft version, subject to revision</p></details> |
-| **[Unmasking Deepfakes: Leveraging Augmentations and Features Variability for Deepfake Speech Detection](https://arxiv.org/abs/2501.05545v2)** | 2025-11-13 |  |
-| **[VasoMIM: Vascular Anatomy-Aware Masked Image Modeling for Vessel Segmentation](https://arxiv.org/abs/2508.10794v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by the Annual AAAI Conference on Artificial Intelligence (AAAI). Extended version</p></details> |
+| **[Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities](https://arxiv.org/abs/2511.11512v1)** | 2025-11-14 |  |
+| **[Intrinsic Dimension Estimation for Radio Galaxy Zoo using Diffusion Models](https://arxiv.org/abs/2511.11490v1)** | 2025-11-14 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 2 tables, submitted to NeurIPS 2025 ML4PS Workshop</p></details> |
+| **[Inferring response times of perceptual decisions with Poisson variational autoencoders](https://arxiv.org/abs/2511.11480v1)** | 2025-11-14 | <details><summary>To ap...</summary><p>To appear at the NeurIPS 2025 Workshop on Data on the Mind and Brain</p></details> |
+| **[Gaussian Process Tilted Nonparametric Density Estimation using Fisher Divergence Score Matching](https://arxiv.org/abs/2504.03485v2)** | 2025-11-14 |  |
+| **[Metric Learning Encoding Models: A Multivariate Framework for Interpreting Neural Representations](https://arxiv.org/abs/2402.11608v2)** | 2025-11-14 | 30 pages, 20 figures |
+| **[NervePool: A Simplicial Pooling Layer](https://arxiv.org/abs/2305.06315v2)** | 2025-11-14 | 22 pages, 9 figures |
+| **[Retrofit: Continual Learning with Bounded Forgetting for Security Applications](https://arxiv.org/abs/2511.11439v1)** | 2025-11-14 |  |
+| **[BubbleOKAN: A Physics-Informed Interpretable Neural Operator for High-Frequency Bubble Dynamics](https://arxiv.org/abs/2508.03965v2)** | 2025-11-14 | 36 pages, 21 figures |
+| **[BOFA: Bridge-Layer Orthogonal Low-Rank Fusion for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2511.11421v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[A Global Geometric Analysis of Maximal Coding Rate Reduction](https://arxiv.org/abs/2406.01909v2)** | 2025-11-14 | <details><summary>This ...</summary><p>This work has been accepted for publication in the Proceedings of the 41st International Conference on Machine Learning (ICML 2024)</p></details> |
+| **[Representation Meets Optimization: Training PINNs and PIKANs for Gray-Box Discovery in Systems Pharmacology](https://arxiv.org/abs/2504.07379v2)** | 2025-11-14 |  |
+| **[CAMA: Enhancing Mathematical Reasoning in Large Language Models with Causal Knowledge](https://arxiv.org/abs/2508.02583v3)** | 2025-11-14 |  |
+| **[Universal Safety Controllers with Learned Prophecies](https://arxiv.org/abs/2511.11390v1)** | 2025-11-14 | AAAI 2026 |
+| **[Robust inverse material design with physical guarantees using the Voigt-Reuss Net](https://arxiv.org/abs/2511.11388v1)** | 2025-11-14 |  |
+| **[SoK: Security Evaluation of Wi-Fi CSI Biometrics: Attacks, Metrics, and Systemic Weaknesses](https://arxiv.org/abs/2511.11381v1)** | 2025-11-14 | <details><summary>An im...</summary><p>An improved version will be submitted to Euro S&P 2026, and this paper will be updated in the near future</p></details> |
 
