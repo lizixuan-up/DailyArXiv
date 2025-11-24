@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards](https://arxiv.org/abs/2511.16672v1)** | 2025-11-20 | <details><summary>9 Pag...</summary><p>9 Pages, 6 Figures, 4 Tables</p></details> |
-| **[Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems](https://arxiv.org/abs/2511.16654v1)** | 2025-11-20 |  |
-| **[LightFusion: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2510.22946v4)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
-| **[SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635v1)** | 2025-11-20 | 20 pages |
-| **[Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report](https://arxiv.org/abs/2511.16417v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted to AAAI 26:main technical track Oral</p></details> |
-| **[Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2505.17534v3)** | 2025-11-20 | NeurIPS 2025 |
-| **[OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://arxiv.org/abs/2511.16334v1)** | 2025-11-20 |  |
-| **[Multimodal Evaluation of Russian-language Architectures](https://arxiv.org/abs/2511.15552v2)** | 2025-11-20 |  |
-| **[Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security](https://arxiv.org/abs/2511.16229v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by NDSS 2026</p></details> |
-| **[Can MLLMs Read the Room? A Multimodal Benchmark for Assessing Deception in Multi-Party Social Interactions](https://arxiv.org/abs/2511.16221v1)** | 2025-11-20 |  |
-| **[ChemLabs on ChemO: A Multi-Agent System for Multimodal Reasoning on IChO 2025](https://arxiv.org/abs/2511.16205v1)** | 2025-11-20 | 13 pages, 1 figures |
-| **[When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.16203v1)** | 2025-11-20 |  |
-| **[Reasoning Guided Embeddings: Leveraging MLLM Reasoning for Improved Multimodal Retrieval](https://arxiv.org/abs/2511.16150v1)** | 2025-11-20 |  |
-| **[MMVA: Multimodal Matching Based on Valence and Arousal across Images, Music, and Musical Captions](https://arxiv.org/abs/2501.01094v2)** | 2025-11-20 | <details><summary>Paper...</summary><p>Paper accepted in Artificial Intelligence for Music workshop at AAAI 2025</p></details> |
-| **[Towards Efficient Multimodal Unified Reasoning Model via Model Merging](https://arxiv.org/abs/2510.08987v2)** | 2025-11-20 | <details><summary>Techn...</summary><p>Technical report, Code will be available at https://github.com/buptyqx/Tiny-R1V</p></details> |
+| **[Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models](https://arxiv.org/abs/2511.17487v1)** | 2025-11-21 | <details><summary>Websi...</summary><p>Website at https://web.stanford.edu/~markendo/projects/downscaling_intelligence</p></details> |
+| **[Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition](https://arxiv.org/abs/2511.17477v1)** | 2025-11-21 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables</p></details> |
+| **[MMT-ARD: Multimodal Multi-Teacher Adversarial Distillation for Robust Vision-Language Models](https://arxiv.org/abs/2511.17448v1)** | 2025-11-21 | 10 pages |
+| **[Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models](https://arxiv.org/abs/2511.11910v2)** | 2025-11-21 |  |
+| **[MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment](https://arxiv.org/abs/2511.17397v1)** | 2025-11-21 | AAAI 2026 |
+| **[UAM: A Unified Attention-Mamba Backbone of Multimodal Framework for Tumor Cell Classification](https://arxiv.org/abs/2511.17355v1)** | 2025-11-21 |  |
+| **[Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM](https://arxiv.org/abs/2511.17335v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to ASRU 2025</p></details> |
+| **[MusicAIR: A Multimodal AI Music Generation Framework Powered by an Algorithm-Driven Core](https://arxiv.org/abs/2511.17323v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted by IEEE Big Data 2025</p></details> |
+| **[SpatialGeo:Boosting Spatial Reasoning in Multimodal LLMs via Geometry-Semantics Fusion](https://arxiv.org/abs/2511.17308v1)** | 2025-11-21 |  |
+| **[Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation using Knowledge Soft Integration](https://arxiv.org/abs/2305.07419v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
+| **[DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding](https://arxiv.org/abs/2511.11313v3)** | 2025-11-21 |  |
+| **[Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition](https://arxiv.org/abs/2407.07026v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted by Pattern Recognition</p></details> |
+| **[Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition](https://arxiv.org/abs/2511.17183v1)** | 2025-11-21 |  |
+| **[ChainV: Atomic Visual Hints Make Multimodal Reasoning Shorter and Better](https://arxiv.org/abs/2511.17106v1)** | 2025-11-21 | 16 pages |
+| **[Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](https://arxiv.org/abs/2503.12972v3)** | 2025-11-21 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 6 tables; Accepted by ICCV 2025</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation](https://arxiv.org/abs/2511.16666v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight), Project Page: https://henghuiding.com/SceneDesigner/</p></details> |
-| **[Distance-Preserving Representations for Genomic Spatial Reconstruction](https://arxiv.org/abs/2408.00911v3)** | 2025-11-20 |  |
-| **[Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs](https://arxiv.org/abs/2511.16639v1)** | 2025-11-20 | <details><summary>To be...</summary><p>To be presented at ASRU 2025</p></details> |
-| **[Sigma: Semantically Informative Pre-training for Skeleton-based Sign Language Understanding](https://arxiv.org/abs/2509.21223v2)** | 2025-11-20 |  |
-| **[Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies](https://arxiv.org/abs/2511.16596v1)** | 2025-11-20 |  |
-| **[Formal Abductive Latent Explanations for Prototype-Based Networks](https://arxiv.org/abs/2511.16588v1)** | 2025-11-20 | Accepted at AAAI-26 |
-| **[POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 5 figures</p></details> |
-| **[Context-Aware Multimodal Representation Learning for Spatio-Temporally Explicit Environmental Modelling](https://arxiv.org/abs/2511.11706v3)** | 2025-11-20 | <details><summary>10 pa...</summary><p>10 pages (incliding 2 pages of references), 7 figures</p></details> |
-| **[vMFCoOp: Towards Equilibrium on a Unified Hyperspherical Manifold for Prompting Biomedical VLMs](https://arxiv.org/abs/2511.09540v3)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted as an Oral Presentation at AAAI 2026 Main Technical Track (this version is not peer-reviewed; it is the extended version)</p></details> |
-| **[False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize](https://arxiv.org/abs/2509.03888v2)** | 2025-11-20 | <details><summary>Withd...</summary><p>Withdrawn due to identified errors in the experimental procedure</p></details> |
-| **[Efficient Solution and Learning of Robust Factored MDPs](https://arxiv.org/abs/2508.00707v2)** | 2025-11-20 |  |
-| **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models](https://arxiv.org/abs/2508.09201v3)** | 2025-11-20 | <details><summary>16 pa...</summary><p>16 pages; Previously this version appeared as arXiv:2510.15430 which was submitted as a new work by accident</p></details> |
-| **[Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition](https://arxiv.org/abs/2503.14960v3)** | 2025-11-20 | 7 figures, 8 pages |
-| **[Beyond Visual Cues: Leveraging General Semantics as Support for Few-Shot Segmentation](https://arxiv.org/abs/2511.16435v1)** | 2025-11-20 |  |
-| **[TOFA: Training-Free One-Shot Federated Adaptation for Vision-Language Models](https://arxiv.org/abs/2511.16423v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Counterfactual World Models via Digital Twin-conditioned Video Diffusion](https://arxiv.org/abs/2511.17481v1)** | 2025-11-21 |  |
+| **[SoK: Security Evaluation of Wi-Fi CSI Biometrics: Attacks, Metrics, and Open Challenges](https://arxiv.org/abs/2511.11381v2)** | 2025-11-21 | <details><summary>This ...</summary><p>This work was submitted to the 11th IEEE European Symposium on Security and Privacy (IEEE S&P 2026)</p></details> |
+| **[MF-GCN: A Multi-Frequency Graph Convolutional Network for Tri-Modal Depression Detection Using Eye-Tracking, Facial, and Acoustic Features](https://arxiv.org/abs/2511.15675v2)** | 2025-11-21 |  |
+| **[Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition](https://arxiv.org/abs/2511.17477v1)** | 2025-11-21 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables</p></details> |
+| **[Physically Interpretable World Models via Weakly Supervised Representation Learning](https://arxiv.org/abs/2412.12870v5)** | 2025-11-21 |  |
+| **[InTAct: Interval-based Task Activation Consolidation for Continual Learning](https://arxiv.org/abs/2511.17439v1)** | 2025-11-21 |  |
+| **[Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems](https://arxiv.org/abs/2511.17435v1)** | 2025-11-21 | 15 pages |
+| **[Self-Supervised Learning by Curvature Alignment](https://arxiv.org/abs/2511.17426v1)** | 2025-11-21 |  |
+| **[DS-Span: Single-Phase Discriminative Subgraph Mining for Efficient Graph Embeddings](https://arxiv.org/abs/2511.17419v1)** | 2025-11-21 |  |
+| **[Feasibility of Embodied Dynamics Based Bayesian Learning for Continuous Pursuit Motion Control of Assistive Mobile Robots in the Built Environment](https://arxiv.org/abs/2511.17401v1)** | 2025-11-21 | <details><summary>37 pa...</summary><p>37 pages, 9 figures, and 7 tables</p></details> |
+| **[MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment](https://arxiv.org/abs/2511.17397v1)** | 2025-11-21 | AAAI 2026 |
+| **[MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration](https://arxiv.org/abs/2511.17392v1)** | 2025-11-21 |  |
+| **[METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model](https://arxiv.org/abs/2511.17366v1)** | 2025-11-21 |  |
+| **[DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2511.17354v1)** | 2025-11-21 | <details><summary>Proje...</summary><p>Project page: https://github.com/SkyShunsuke/DSeq-JEPA</p></details> |
+| **[ReBaPL: Repulsive Bayesian Prompt Learning](https://arxiv.org/abs/2511.17339v1)** | 2025-11-21 | Under review |
 
