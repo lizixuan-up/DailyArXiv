@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Model for Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards A Tri-View Diffusion Framework for Recommendation](https://arxiv.org/abs/2511.20122v1)** | 2025-11-25 | <details><summary>13 pa...</summary><p>13 pages, 11 figures, accepted by KDD2026 (First Cycle)</p></details> |
+| **[Modeling Item-Level Dynamic Variability with Residual Diffusion for Bundle Recommendation](https://arxiv.org/abs/2507.03280v4)** | 2025-11-25 | <details><summary>Exten...</summary><p>Extended version for AAAI'26</p></details> |
+| **[A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](https://arxiv.org/abs/2404.18886v4)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys; 40 pages; Github Repo: https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model</p></details> |
+| **[When and What to Recommend: Joint Modeling of Timing and Content for Active Sequential Recommendation](https://arxiv.org/abs/2511.18717v1)** | 2025-11-24 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Submitted to arXiv</p></details> |
 | **[Incentivized Network Dynamics in Digital Job Recruitment](https://arxiv.org/abs/2410.09698v3)** | 2025-11-22 | <details><summary>22 pa...</summary><p>22 pages (16 main, 6 appendix), 10 figures (8 main, 2 appendix)</p></details> |
 | **[MindRec: A Diffusion-driven Coarse-to-Fine Paradigm for Generative Recommendation](https://arxiv.org/abs/2511.12597v2)** | 2025-11-18 |  |
 | **[Personalized Image Generation for Recommendations Beyond Catalogs](https://arxiv.org/abs/2502.18477v2)** | 2025-11-18 |  |
@@ -18,46 +22,42 @@ labels: documentation
 | **[A Survey on Generative Recommendation: Data, Model, and Tasks](https://arxiv.org/abs/2510.27157v1)** | 2025-10-31 |  |
 | **[On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders](https://arxiv.org/abs/2510.17245v3)** | 2025-10-22 |  |
 | **[From Newborn to Impact: Bias-Aware Citation Prediction](https://arxiv.org/abs/2510.19246v1)** | 2025-10-22 |  |
-| **[ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization](https://arxiv.org/abs/2510.18433v1)** | 2025-10-21 |  |
-| **[DiffGRM: Diffusion-based Generative Recommendation Model](https://arxiv.org/abs/2510.21805v1)** | 2025-10-21 | 13 pages, 5 figures |
-| **[Continuous Dynamic Modeling via Neural ODEs for Popularity Trajectory Prediction](https://arxiv.org/abs/2410.18742v3)** | 2025-10-20 |  |
-| **[Exploring the design space of diffusion and flow models for data fusion](https://arxiv.org/abs/2510.21791v1)** | 2025-10-20 |  |
 
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Continual Learning with MLLMs from Multi-scenario Perspectives](https://arxiv.org/abs/2511.18507v1)** | 2025-11-23 | <details><summary>18 pa...</summary><p>18 pages, 16 figures. This is a preprint version of a paper submitted to CVPR 2026</p></details> |
-| **[ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints](https://arxiv.org/abs/2511.18450v1)** | 2025-11-23 |  |
-| **[Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning](https://arxiv.org/abs/2511.18437v1)** | 2025-11-23 |  |
-| **[A Multimodal Conversational Agent for Tabular Data Analysis](https://arxiv.org/abs/2511.18405v1)** | 2025-11-23 | <details><summary>\c{op...</summary><p>\c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
-| **[ConsistCompose: Unified Multimodal Layout Control for Image Composition](https://arxiv.org/abs/2511.18333v1)** | 2025-11-23 | 22 pages, 17 figures |
-| **[OutSafe-Bench: A Benchmark for Multimodal Offensive Content Detection in Large Language Models](https://arxiv.org/abs/2511.10287v2)** | 2025-11-23 |  |
-| **[Brain-MGF: Multimodal Graph Fusion Network for EEG-fMRI Brain Connectivity Analysis Under Psilocybin](https://arxiv.org/abs/2511.18325v1)** | 2025-11-23 | 5 pages |
-| **[When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.16203v2)** | 2025-11-23 |  |
-| **[AnyExperts: On-Demand Expert Allocation for Multimodal Language Models with Mixture of Expert](https://arxiv.org/abs/2511.18314v1)** | 2025-11-23 |  |
-| **[AdaTok: Adaptive Token Compression with Object-Aware Representations for Efficient Multimodal LLMs](https://arxiv.org/abs/2511.14169v2)** | 2025-11-23 |  |
-| **[Spatial Knowledge Graph-Guided Multimodal Synthesis](https://arxiv.org/abs/2505.22633v3)** | 2025-11-23 | <details><summary>IEEE/...</summary><p>IEEE/ACM Transactions on Audio, Speech and Language Processing</p></details> |
-| **[MammothModa2: A Unified AR-Diffusion Framework for Multimodal Understanding and Generation](https://arxiv.org/abs/2511.18262v1)** | 2025-11-23 |  |
-| **[Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition](https://arxiv.org/abs/2509.10729v2)** | 2025-11-23 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
-| **[Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems](https://arxiv.org/abs/2511.16654v2)** | 2025-11-23 |  |
-| **[Large-Scale Pre-training Enables Multimodal AI Differentiation of Radiation Necrosis from Brain Metastasis Progression on Routine MRI](https://arxiv.org/abs/2511.18208v1)** | 2025-11-22 |  |
+| **[VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning](https://arxiv.org/abs/2511.20422v1)** | 2025-11-25 |  |
+| **[Emotion-Coherent Reasoning for Multimodal LLMs via Emotional Rationale Verifier](https://arxiv.org/abs/2510.23506v3)** | 2025-11-25 | 16 pages, 11 figures |
+| **[VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs](https://arxiv.org/abs/2511.20272v1)** | 2025-11-25 | <details><summary>Data ...</summary><p>Data & Code: this https URL</p></details> |
+| **[HistoSpeckle-Net: Mutual Information-Guided Deep Learning for high-fidelity reconstruction of complex OrganAMNIST images via perturbed Multimode Fibers](https://arxiv.org/abs/2511.20245v1)** | 2025-11-25 |  |
+| **[Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation](https://arxiv.org/abs/2511.20222v1)** | 2025-11-25 | <details><summary>11pag...</summary><p>11pages,5 figures,6 tables</p></details> |
+| **[From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation](https://arxiv.org/abs/2505.18685v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
+| **[Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning](https://arxiv.org/abs/2511.20196v1)** | 2025-11-25 |  |
+| **[FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation](https://arxiv.org/abs/2511.20167v1)** | 2025-11-25 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, conference</p></details> |
+| **[VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis](https://arxiv.org/abs/2511.20085v1)** | 2025-11-25 |  |
+| **[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](https://arxiv.org/abs/2510.24821v2)** | 2025-11-25 | 18 pages, 5 figures |
+| **[Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning](https://arxiv.org/abs/2510.20519v2)** | 2025-11-25 |  |
+| **[Cross-Contrastive Clustering for Multimodal Attributed Graphs with Dual Graph Filtering](https://arxiv.org/abs/2511.20030v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2026. The code is available at https://github.com/HaoranZ99/DGF</p></details> |
+| **[PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis](https://arxiv.org/abs/2511.17585v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Pedestrian Crossing Intention Prediction Using Multimodal Fusion Network](https://arxiv.org/abs/2511.20008v1)** | 2025-11-25 |  |
+| **[Boosting Reasoning in Large Multimodal Models via Activation Replay](https://arxiv.org/abs/2511.19972v1)** | 2025-11-25 | <details><summary>11 fi...</summary><p>11 figures, 10 tables</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Continual Learning with MLLMs from Multi-scenario Perspectives](https://arxiv.org/abs/2511.18507v1)** | 2025-11-23 | <details><summary>18 pa...</summary><p>18 pages, 16 figures. This is a preprint version of a paper submitted to CVPR 2026</p></details> |
-| **[PriorDrive: Enhancing Online HD Mapping with Unified Vector Priors](https://arxiv.org/abs/2409.05352v4)** | 2025-11-23 | <details><summary>AAAI ...</summary><p>AAAI 2026; Code: https://github.com/MIV-XJTU/PriorDrive</p></details> |
-| **[FreeInv: Free Lunch for Improving DDIM Inversion](https://arxiv.org/abs/2503.23035v2)** | 2025-11-23 |  |
-| **[NAF: Zero-Shot Feature Upsampling via Neighborhood Attention Filtering](https://arxiv.org/abs/2511.18452v1)** | 2025-11-23 | <details><summary>Code:...</summary><p>Code: https://github.com/valeoai/NAF</p></details> |
-| **[CrossJEPA: Cross-Modal Joint-Embedding Predictive Architecture for Efficient 3D Representation Learning from 2D Images](https://arxiv.org/abs/2511.18424v1)** | 2025-11-23 | 24 pages, 10 figures |
-| **[NeuroVascU-Net: A Unified Multi-Scale and Cross-Domain Adaptive Feature Fusion U-Net for Precise 3D Segmentation of Brain Vessels in Contrast-Enhanced T1 MRI](https://arxiv.org/abs/2511.18422v1)** | 2025-11-23 |  |
-| **[EVA-Net: Interpretable Anomaly Detection for Brain Health via Learning Continuous Aging Prototypes from One-Class EEG Cohorts](https://arxiv.org/abs/2511.15393v2)** | 2025-11-23 |  |
-| **[Pre-training Graph Neural Networks on 2D and 3D Molecular Structures by using Multi-View Conditional Information Bottleneck](https://arxiv.org/abs/2511.18404v1)** | 2025-11-23 |  |
-| **[Scaling Implicit Fields via Hypernetwork-Driven Multiscale Coordinate Transformations](https://arxiv.org/abs/2511.18387v1)** | 2025-11-23 |  |
-| **[MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](https://arxiv.org/abs/2511.18370v1)** | 2025-11-23 | tech report |
-| **[Spatiotemporal Graph Convolutional Recurrent Neural Network Model for Citywide Air Pollution Forecasting](https://arxiv.org/abs/2304.12630v2)** | 2025-11-23 | Updated metadata |
-| **[AMAuT: A Flexible and Efficient Multiview Audio Transformer Framework Trained from Scratch](https://arxiv.org/abs/2510.19368v2)** | 2025-11-23 | <details><summary>Updat...</summary><p>Updating note: 1. CLS+TAL is the distill token from DeiT rather than the alternative class token. Adjust the content to clarify it. 2. Figure 4 presents an error sequence of figures (a) and (b). 3. Remove an unrelated citation about the VS set. 4. A missing citation in section 4.4 (SSAST [19] here is not a correct citation)</p></details> |
-| **[Learning Fair Representations with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2511.11767v3)** | 2025-11-23 | Accepted at AAAI-26 |
-| **[Large Language Model Enhanced Graph Invariant Contrastive Learning for Out-of-Distribution Recommendation](https://arxiv.org/abs/2511.18282v1)** | 2025-11-23 |  |
-| **[From Tables to Signals: Revealing Spectral Adaptivity in TabPFN](https://arxiv.org/abs/2511.18278v1)** | 2025-11-23 |  |
+| **[VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning](https://arxiv.org/abs/2511.20422v1)** | 2025-11-25 |  |
+| **[MoRE: Batch-Robust Multi-Omics Representations from Frozen Pre-trained Transformers](https://arxiv.org/abs/2511.20382v1)** | 2025-11-25 |  |
+| **[PRISM: Periodic Representation with multIscale and Similarity graph Modelling for enhanced crystal structure property prediction](https://arxiv.org/abs/2511.20362v1)** | 2025-11-25 |  |
+| **[ShelfRectNet: Single View Shelf Image Rectification with Homography Estimation](https://arxiv.org/abs/2511.20335v1)** | 2025-11-25 |  |
+| **[MXtalTools: A Toolkit for Machine Learning on Molecular Crystals](https://arxiv.org/abs/2511.20327v1)** | 2025-11-25 | 16 pages, 11 figures |
+| **[Geometry of Decision Making in Language Models](https://arxiv.org/abs/2511.20315v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Multiple-Input Auto-Encoder Guided Feature Selection for IoT Intrusion Detection Systems](https://arxiv.org/abs/2403.15511v2)** | 2025-11-25 |  |
+| **[Lower Bias, Higher Welfare: How Creator Competition Reshapes Bias-Variance Tradeoff in Recommendation Platforms?](https://arxiv.org/abs/2511.20289v1)** | 2025-11-25 | KDD 2026 |
+| **[DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion](https://arxiv.org/abs/2511.20278v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Modality-Balanced Collaborative Distillation for Multi-Modal Domain Generalization](https://arxiv.org/abs/2511.20258v1)** | 2025-11-25 |  |
+| **[Learning to Compress Graphs via Dual Agents for Consistent Topological Robustness Evaluation](https://arxiv.org/abs/2511.18958v2)** | 2025-11-25 |  |
+| **[DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation](https://arxiv.org/abs/2511.20224v1)** | 2025-11-25 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 8 tables. Project page: https://eps-acoustic-revolution-lab.github.io/DUO_TOK/</p></details> |
+| **[OmniAlpha: A Sequence-to-Sequence Framework for Unified Multi-Task RGBA Generation](https://arxiv.org/abs/2511.20211v1)** | 2025-11-25 |  |
+| **[Exploring the Synergy of Quantitative Factors and Newsflow Representations from Large Language Models for Stock Return Prediction](https://arxiv.org/abs/2510.15691v3)** | 2025-11-25 |  |
+| **[In-Context Compositional Learning via Sparse Coding Transformer](https://arxiv.org/abs/2511.20194v1)** | 2025-11-25 | NeurIPS 2025 |
 
