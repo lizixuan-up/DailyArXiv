@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 09, 2025
+title: Latest 15 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,38 +22,38 @@ labels: documentation
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v2)** | 2025-12-07 |  |
-| **[NeuroABench: A Multimodal Evaluation Benchmark for Neurosurgical Anatomy Identification](https://arxiv.org/abs/2512.06921v1)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted by IEEE ICIA 2025</p></details> |
-| **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v1)** | 2025-12-07 |  |
-| **[CAuSE: Decoding Multimodal Classifiers using Faithful Natural Language Explanation](https://arxiv.org/abs/2512.06814v1)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted at Transactions of the Association for Computational Linguistics (TACL). Pre-MIT Press publication version</p></details> |
-| **[Rethinking Normalization Strategies and Convolutional Kernels for Multimodal Image Fusion](https://arxiv.org/abs/2411.10036v2)** | 2025-12-07 |  |
-| **[A Novel Multimodal RUL Framework for Remaining Useful Life Estimation with Layer-wise Explanations](https://arxiv.org/abs/2512.06708v1)** | 2025-12-07 |  |
-| **[MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning](https://arxiv.org/abs/2508.21451v3)** | 2025-12-07 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/junha/mm-ser</p></details> |
-| **[Sanvaad: A Multimodal Accessibility Framework for ISL Recognition and Voice-Based Interaction](https://arxiv.org/abs/2512.06485v1)** | 2025-12-06 |  |
-| **[AgenticCyber: A GenAI-Powered Multi-Agent System for Multimodal Threat Detection and Adaptive Response in Cybersecurity](https://arxiv.org/abs/2512.06396v1)** | 2025-12-06 | <details><summary>6 pag...</summary><p>6 pages for IEEE conference</p></details> |
-| **[Beyond Hallucinations: A Multimodal-Guided Task-Aware Generative Image Compression for Ultra-Low Bitrate](https://arxiv.org/abs/2512.06344v1)** | 2025-12-06 |  |
-| **[Enhanced Multimodal Video Retrieval System: Integrating Query Expansion and Cross-modal Temporal Event Retrieval](https://arxiv.org/abs/2512.06334v1)** | 2025-12-06 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, SOICT 2025</p></details> |
-| **[MAVERIX: Multimodal Audio-Visual Evaluation and Recognition IndeX](https://arxiv.org/abs/2503.21699v2)** | 2025-12-06 |  |
-| **[Multimodal Graph Neural Networks for Prognostic Modeling of Brain Network Reorganization](https://arxiv.org/abs/2512.06303v1)** | 2025-12-06 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. IEEE conference-style format</p></details> |
-| **[Unleashing the Intrinsic Visual Representation Capability of Multimodal Large Language Models](https://arxiv.org/abs/2512.06281v1)** | 2025-12-06 |  |
-| **[Who Will Top the Charts? Multimodal Music Popularity Prediction via Adaptive Fusion of Modality Experts and Temporal Engagement Modeling](https://arxiv.org/abs/2512.06259v1)** | 2025-12-06 | 8 pages |
+| **[Skewness-Guided Pruning of Multimodal Swin Transformers for Federated Skin Lesion Classification on Edge Devices](https://arxiv.org/abs/2512.08751v1)** | 2025-12-09 |  |
+| **[FedJam: Multimodal Federated Learning Framework for Jamming Detection](https://arxiv.org/abs/2508.09369v2)** | 2025-12-09 |  |
+| **[VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation](https://arxiv.org/abs/2512.08702v1)** | 2025-12-09 | Accepted by KDD 2026 |
+| **[See-Control: A Multimodal Agent Framework for Smartphone Interaction with a Robotic Arm](https://arxiv.org/abs/2512.08629v1)** | 2025-12-09 |  |
+| **[EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture](https://arxiv.org/abs/2512.04810v4)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project Page: https://emma-umm.github.io/emma/</p></details> |
+| **[Cross-Space Synergy: A Unified Framework for Multimodal Emotion Recognition in Conversation](https://arxiv.org/abs/2512.03521v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Transformers for Multimodal Brain State Decoding: Integrating Functional Magnetic Resonance Imaging Data and Medical Metadata](https://arxiv.org/abs/2512.08462v1)** | 2025-12-09 |  |
+| **[You May Speak Freely: Improving the Fine-Grained Visual Recognition Capabilities of Multimodal Large Language Models with Answer Extraction](https://arxiv.org/abs/2510.14885v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted to WACV26. 12 pages, 8 tables, 5 figures</p></details> |
+| **[Towards Effective and Efficient Long Video Understanding of Multimodal Large Language Models via One-shot Clip Retrieval](https://arxiv.org/abs/2512.08410v1)** | 2025-12-09 |  |
+| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
+| **[CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning](https://arxiv.org/abs/2508.07871v2)** | 2025-12-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 6 tables</p></details> |
+| **[Aetheria: A multimodal interpretable content safety framework based on multi-agent debate and collaboration](https://arxiv.org/abs/2512.02530v2)** | 2025-12-09 | <details><summary>https...</summary><p>https://github.com/Herrieson/Aetheria</p></details> |
+| **[Orthogonal Disentanglement with Projected Feature Alignment for Multimodal Emotion Recognition in Conversation](https://arxiv.org/abs/2511.22463v2)** | 2025-12-09 | 10 pages, 1 figure |
+| **[Geometric-Stochastic Multimodal Deep Learning for Predictive Modeling of SUDEP and Stroke Vulnerability](https://arxiv.org/abs/2512.08257v1)** | 2025-12-09 | 7 pages, 3 figures |
+| **[SpeechQualityLLM: LLM-Based Multimodal Assessment of Speech Quality](https://arxiv.org/abs/2512.08238v1)** | 2025-12-09 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hyperbolic Large Language Models](https://arxiv.org/abs/2509.05757v2)** | 2025-12-07 | 27 pages, 7 figures |
-| **[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/abs/2511.17008v2)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v1)** | 2025-12-07 |  |
-| **[Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration](https://arxiv.org/abs/2506.10573v2)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Journal of Biomedical and Health Informatics (JBHI).Code: https://github.com/Markin-Wang/PLACE</p></details> |
-| **[Echo-E$^3$Net: Efficient Endocardial Spatio-Temporal Network for Ejection Fraction Estimation](https://arxiv.org/abs/2503.17543v2)** | 2025-12-06 |  |
-| **[3DRS: MLLMs Need 3D-Aware Representation Supervision for Scene Understanding](https://arxiv.org/abs/2506.01946v2)** | 2025-12-06 |  |
-| **[SCMM: Calibrating Cross-modal Representations for Text-Based Person Search](https://arxiv.org/abs/2304.02278v8)** | 2025-12-06 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 7 tables</p></details> |
-| **[Learning Invariant Graph Representations Through Redundant Information](https://arxiv.org/abs/2512.06154v1)** | 2025-12-05 |  |
-| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](https://arxiv.org/abs/2506.02738v3)** | 2025-12-05 | 21 pages |
-| **[Representation Learning for Point Cloud Understanding](https://arxiv.org/abs/2512.06058v1)** | 2025-12-05 | 181 pages |
-| **[Self-Supervised Learning of Graph Representations for Network Intrusion Detection](https://arxiv.org/abs/2509.16625v4)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Point-PNG: Conditional Pseudo-Negatives Generation for Point Cloud Pre-Training](https://arxiv.org/abs/2409.15832v3)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE ACCESS</p></details> |
-| **[Fair Text Classification via Transferable Representations](https://arxiv.org/abs/2503.07691v2)** | 2025-12-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2311.12689</p></details> |
-| **[A Scene-aware Models Adaptation Scheme for Cross-scene Online Inference on Mobile Devices](https://arxiv.org/abs/2407.03331v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This version presents the extended and revised journal version of our 2024 conference paper, incorporating new datasets, expanded evaluations, and improved methodological details. The manuscript has been accepted for publication in IEEE Transactions on Mobile Computing</p></details> |
-| **[Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization](https://arxiv.org/abs/2509.22161v2)** | 2025-12-05 |  |
+| **[On the Temporality for Sketch Representation Learning](https://arxiv.org/abs/2512.04007v2)** | 2025-12-09 | <details><summary>Prepr...</summary><p>Preprint submitted to Pattern Recognition Letters</p></details> |
+| **[Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth](https://arxiv.org/abs/2512.08700v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at IEEE Robotics and Automation Letters (RA-L) 2026</p></details> |
+| **[Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank](https://arxiv.org/abs/2512.08648v1)** | 2025-12-09 | 19 pages, 19 figures |
+| **[PointDico: Contrastive 3D Representation Learning Guided by Diffusion Models](https://arxiv.org/abs/2512.08330v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025</p></details> |
+| **[GeoDiffMM: Geometry-Guided Conditional Diffusion for Motion Magnification](https://arxiv.org/abs/2512.08325v1)** | 2025-12-09 |  |
+| **[Persistent Topological Structures and Cohomological Flows as a Mathematical Framework for Brain-Inspired Representation Learning](https://arxiv.org/abs/2512.08241v1)** | 2025-12-09 | 6 pages, 2 figures |
+| **[PR-CapsNet: Pseudo-Riemannian Capsule Network with Adaptive Curvature Routing for Graph Learning](https://arxiv.org/abs/2512.08218v1)** | 2025-12-09 | <details><summary>To ap...</summary><p>To appear in WSDM 2026 (ACM International Conference on Web Search and Data Mining)</p></details> |
+| **[Representation Retrieval Learning for Heterogeneous Data Integration](https://arxiv.org/abs/2503.09494v3)** | 2025-12-09 |  |
+| **[Freeze then Train: Towards Provable Representation Learning under Spurious Correlations and Feature Noise](https://arxiv.org/abs/2210.11075v3)** | 2025-12-09 |  |
+| **[Permutation-Invariant Representation Learning for Robust and Privacy-Preserving Feature Selection](https://arxiv.org/abs/2510.05535v2)** | 2025-12-08 | <details><summary>We no...</summary><p>We note that this work has been reproduced without authorization by Stchingtana Naryso and Zihang Yang under the title "Robust and Privacy-Preserving Feature Selection: A Permutation-Invariant Representation Learning Approach with Federated Extension." Their version remains the same technical content, with only the title and abstract changed. This version is the authoritative and original source</p></details> |
+| **[CAMO: Causality-Guided Adversarial Multimodal Domain Generalization for Crisis Classification](https://arxiv.org/abs/2512.08071v1)** | 2025-12-08 |  |
+| **[Modality-Aware Bias Mitigation and Invariance Learning for Unsupervised Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2512.07760v1)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Multi-Domain Motion Embedding: Expressive Real-Time Mimicry for Legged Robots](https://arxiv.org/abs/2512.07673v1)** | 2025-12-08 | 15 pages |
+| **[Dual-Stream Cross-Modal Representation Learning via Residual Semantic Decorrelation](https://arxiv.org/abs/2512.07568v1)** | 2025-12-08 |  |
+| **[MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment](https://arxiv.org/abs/2511.17397v2)** | 2025-12-08 | AAAI 2026 |
 
