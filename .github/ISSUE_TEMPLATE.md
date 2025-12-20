@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
 | **[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098v2)** | 2025-12-18 | <details><summary>Open-...</summary><p>Open-source at https://github.com/cornserve-ai/cornserve</p></details> |
 | **[ModalSurv: Investigating opportunities and limitations of multimodal deep survival learning in prostate and bladder cancer](https://arxiv.org/abs/2509.05037v5)** | 2025-12-18 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 2 tables</p></details> |
 | **[Smile on the Face, Sadness in the Eyes: Bridging the Emotion Gap with a Multimodal Dataset of Eye and Facial Behaviors](https://arxiv.org/abs/2512.16485v1)** | 2025-12-18 | Accepted by TMM |
@@ -36,7 +37,6 @@ labels: documentation
 | **[Seeing Beyond Words: Self-Supervised Visual Learning for Multimodal Large Language Models](https://arxiv.org/abs/2512.15885v1)** | 2025-12-17 |  |
 | **[Natural Variational Annealing for Multimodal Optimization](https://arxiv.org/abs/2501.04667v3)** | 2025-12-17 |  |
 | **[Explain with Visual Keypoints Like a Real Mentor! A Benchmark for Multimodal Solution Explanation](https://arxiv.org/abs/2504.03197v5)** | 2025-12-17 | 14 pages, 9 figures |
-| **[Chain-of-Evidence Multimodal Reasoning for Few-shot Temporal Action Localization](https://arxiv.org/abs/2504.13460v4)** | 2025-12-17 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
