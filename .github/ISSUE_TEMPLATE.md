@@ -19,24 +19,24 @@ labels: documentation
 | **[DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://arxiv.org/abs/2312.16890v1)** | 2023-12-28 | <details><summary>This ...</summary><p>This paper is accepted by WSDM'2024 Oral</p></details> |
 | **[RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation](https://arxiv.org/abs/2306.08947v3)** | 2023-09-07 | <details><summary>code:...</summary><p>code: https://github.com/gabriben/recfusion</p></details> |
 
-## Multimodal
+## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Advancing Multimodal Teacher Sentiment Analysis:The Large-Scale T-MED Dataset & The Effective AAM-TSA Model](https://arxiv.org/abs/2512.20548v1)** | 2025-12-23 |  |
-| **[Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition](https://arxiv.org/abs/2512.20501v1)** | 2025-12-23 | <details><summary>Ph.D....</summary><p>Ph.D. manuscript; Supervisors/Mentors: Marie-Francine Moens and Tinne Tuytelaars</p></details> |
-| **[Dual-Encoder Transformer-Based Multimodal Learning for Ischemic Stroke Lesion Segmentation Using Diffusion MRI](https://arxiv.org/abs/2512.20436v1)** | 2025-12-23 |  |
-| **[CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation](https://arxiv.org/abs/2512.20362v1)** | 2025-12-23 | 37 pages, 42 figures |
-| **[Learning Treatment Policies From Multimodal Electronic Health Records](https://arxiv.org/abs/2507.20993v2)** | 2025-12-23 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Heartcare Suite: A Unified Multimodal ECG Suite for Dual Signal-Image Modeling and Understanding](https://arxiv.org/abs/2506.05831v3)** | 2025-12-23 |  |
-| **[LADLE-MM: Limited Annotation based Detector with Learned Ensembles for Multimodal Misinformation](https://arxiv.org/abs/2512.20257v1)** | 2025-12-23 |  |
-| **[Unified Multimodal Brain Decoding via Cross-Subject Soft-ROI Fusion](https://arxiv.org/abs/2512.20249v1)** | 2025-12-23 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 4 tables. Submitted to ICPR 2026</p></details> |
-| **[Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography](https://arxiv.org/abs/2512.20168v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper is accepted by Network and Distributed System Security Symposium (NDSS) 2026</p></details> |
-| **[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v1)** | 2025-12-23 |  |
-| **[UniMPR: A Unified Framework for Multimodal Place Recognition with Heterogeneous Sensor Configurations](https://arxiv.org/abs/2512.18279v2)** | 2025-12-23 | 14 pages, 9 figures |
-| **[QE-Catalytic: A Graph-Language Multimodal Base Model for Relaxed-Energy Prediction in Catalytic Adsorption](https://arxiv.org/abs/2512.20084v1)** | 2025-12-23 | 25 pages |
-| **[CardAIc-Agents: A Multimodal Framework with Hierarchical Adaptation for Cardiac Care Support](https://arxiv.org/abs/2508.13256v2)** | 2025-12-23 |  |
-| **[MAPI-GNN: Multi-Activation Plane Interaction Graph Neural Network for Multimodal Medical Diagnosis](https://arxiv.org/abs/2512.20026v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the AAAI Conference on Artificial Intelligence 40 (AAAI-26)</p></details> |
 | **[IGDMRec: Behavior Conditioned Item Graph Diffusion for Multimodal Recommendation](https://arxiv.org/abs/2512.19983v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. This paper has been accepted for publication in IEEE Transactions on Multimedia. The final published version will be available via IEEE Xplore</p></details> |
+| **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v2)** | 2025-12-21 |  |
+| **[VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation](https://arxiv.org/abs/2512.08702v1)** | 2025-12-09 | Accepted by KDD 2026 |
+| **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v1)** | 2025-12-07 |  |
+| **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v1)** | 2025-12-02 | Submitted to KDD2026 |
+| **[Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation using Knowledge Soft Integration](https://arxiv.org/abs/2305.07419v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
+| **[LEMUR: Large scale End-to-end MUltimodal Recommendation](https://arxiv.org/abs/2511.10962v2)** | 2025-11-17 |  |
+| **[Enhancing Multimodal Recommendations with Vision-Language Models and Information-Aware Fusion](https://arxiv.org/abs/2511.02113v2)** | 2025-11-10 |  |
+| **[Structurally Refined Graph Transformer for Multimodal Recommendation](https://arxiv.org/abs/2511.00584v1)** | 2025-11-01 | <details><summary>Comme...</summary><p>Comment: 13 pages, 7 figures, accepted by IEEE Transactions on Multimedia 2025</p></details> |
+| **[PolyRecommender: A Multimodal Recommendation System for Polymer Discovery](https://arxiv.org/abs/2511.00375v1)** | 2025-11-01 |  |
+| **[X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation](https://arxiv.org/abs/2408.15172v2)** | 2025-10-23 |  |
+| **[VisualLens: Personalization through Task-Agnostic Visual History](https://arxiv.org/abs/2411.16034v2)** | 2025-10-18 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[I$^3$-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation](https://arxiv.org/abs/2508.04247v3)** | 2025-10-15 | <details><summary>ACM M...</summary><p>ACM Multimedia 2025 Accepted</p></details> |
+| **[Causal Inspired Multi Modal Recommendation](https://arxiv.org/abs/2510.12325v1)** | 2025-10-14 |  |
+| **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v4)** | 2025-10-08 | <details><summary>2025-...</summary><p>2025-10-08: updating the stat table with the latest numbers. updated the abstract per the latest license terms</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
