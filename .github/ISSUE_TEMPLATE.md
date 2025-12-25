@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v1)** | 2025-12-24 |  |
+| **[Surgical Scene Segmentation using a Spike-Driven Video Transformer with Real-Time Potential](https://arxiv.org/abs/2512.21284v1)** | 2025-12-24 |  |
+| **[SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation](https://arxiv.org/abs/2512.21204v1)** | 2025-12-24 |  |
+| **[A Community-Enhanced Graph Representation Model for Link Prediction](https://arxiv.org/abs/2512.21166v1)** | 2025-12-24 |  |
+| **[MODE: Multi-Objective Adaptive Coreset Selection](https://arxiv.org/abs/2512.21152v1)** | 2025-12-24 |  |
+| **[Semantic Refinement with LLMs for Graph Representations](https://arxiv.org/abs/2512.21106v1)** | 2025-12-24 |  |
+| **[Shared Representation Learning for High-Dimensional Multi-Task Forecasting under Resource Contention in Cloud-Native Backends](https://arxiv.org/abs/2512.21102v1)** | 2025-12-24 |  |
+| **[Multimodal Skeleton-Based Action Representation Learning via Decomposition and Composition](https://arxiv.org/abs/2512.21064v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by Machine Intelligence Research (Journal Impact Factor 8.7, 2024)</p></details> |
+| **[Towards Better Search with Domain-Aware Text Embeddings for C2C Marketplaces](https://arxiv.org/abs/2512.21021v1)** | 2025-12-24 | <details><summary>5 pag...</summary><p>5 pages, AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
+| **[Learning from Next-Frame Prediction: Autoregressive Video Modeling Encodes Effective Representations](https://arxiv.org/abs/2512.21004v1)** | 2025-12-24 |  |
+| **[EEG Foundation Models: A Critical Review of Current Progress and Future Directions](https://arxiv.org/abs/2507.11783v3)** | 2025-12-24 | <details><summary>22 pa...</summary><p>22 pages (main), 5 figures (main), 4 tables (main + supplement)</p></details> |
+| **[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963v1)** | 2025-12-24 | <details><summary>40 pa...</summary><p>40 pages, 19 figures. The first two authors contributed equally</p></details> |
+| **[ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design](https://arxiv.org/abs/2512.20958v1)** | 2025-12-24 |  |
+| **[MultiMind at SemEval-2025 Task 7: Crosslingual Fact-Checked Claim Retrieval via Multi-Source Alignment](https://arxiv.org/abs/2512.20950v1)** | 2025-12-24 | <details><summary>11 pa...</summary><p>11 pages Published at the SemEval-2025 workshop</p></details> |
 | **[Resolution scaling governs DINOv3 transfer performance in chest radiograph classification](https://arxiv.org/abs/2510.07191v2)** | 2025-12-23 |  |
-| **[C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning](https://arxiv.org/abs/2507.17454v2)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision](https://arxiv.org/abs/2512.20308v1)** | 2025-12-23 | 30 pages, 16 figures |
-| **[Generalisation in Multitask Fitted Q-Iteration and Offline Q-learning](https://arxiv.org/abs/2512.20220v1)** | 2025-12-23 | <details><summary>18 pa...</summary><p>18 pages (9 pages + Appendix and references), this is version 1</p></details> |
-| **[AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model](https://arxiv.org/abs/2512.20157v1)** | 2025-12-23 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 11 tables</p></details> |
-| **[Jensen-Shannon Divergence Message-Passing for Rich-Text Graph Representation Learning](https://arxiv.org/abs/2512.20094v1)** | 2025-12-23 |  |
-| **[MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery](https://arxiv.org/abs/2512.19612v1)** | 2025-12-22 |  |
-| **[On Network-Aware Semantic Communication and Edge-Cloud Collaborative Intelligence Systems](https://arxiv.org/abs/2512.19563v1)** | 2025-12-22 |  |
-| **[Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement](https://arxiv.org/abs/2512.19530v1)** | 2025-12-22 | 13 pages, 6 figures |
-| **[Toward Scalable and Valid Conditional Independence Testing with Spectral Representations](https://arxiv.org/abs/2512.19510v1)** | 2025-12-22 |  |
-| **[FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors](https://arxiv.org/abs/2512.19504v1)** | 2025-12-22 | <details><summary>Prepr...</summary><p>Preprint. Under review at IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</p></details> |
-| **[MT-Mark: Rethinking Image Watermarking via Mutual-Teacher Collaboration with Adaptive Feature Modulation](https://arxiv.org/abs/2512.19438v1)** | 2025-12-22 |  |
-| **[Cluster-Based Generalized Additive Models Informed by Random Fourier Features](https://arxiv.org/abs/2512.19373v1)** | 2025-12-22 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 4 tables</p></details> |
-| **[Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization](https://arxiv.org/abs/2512.19365v1)** | 2025-12-22 |  |
-| **[Neural Decoding of Overt Speech from ECoG Using Vision Transformers and Contrastive Representation Learning](https://arxiv.org/abs/2512.04618v2)** | 2025-12-22 |  |
 
