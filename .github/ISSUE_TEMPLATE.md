@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Patch-Discontinuity Mining for Generalized Deepfake Detection](https://arxiv.org/abs/2512.22027v1)** | 2025-12-26 | <details><summary>Our p...</summary><p>Our paper was accepted by the IEEE Transactions on Multimedia</p></details> |
-| **[SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision](https://arxiv.org/abs/2512.20308v2)** | 2025-12-26 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research. 30 pages, 16 figures</p></details> |
-| **[Patch as Node: Human-Centric Graph Representation Learning for Multimodal Action Recognition](https://arxiv.org/abs/2512.21916v1)** | 2025-12-26 |  |
-| **[MMCTOP: A Multimodal Textualization and Mixture-of-Experts Framework for Clinical Trial Outcome Prediction](https://arxiv.org/abs/2512.21897v1)** | 2025-12-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 tables</p></details> |
-| **[Self-Supervised Skeleton-Based Action Representation Learning: A Benchmark and Beyond](https://arxiv.org/abs/2406.02978v3)** | 2025-12-26 | IJCV 2025 |
-| **[Clustering with Communication: A Variational Framework for Single Cell Representation Learning](https://arxiv.org/abs/2505.04891v2)** | 2025-12-26 |  |
-| **[Fairness-Aware Graph Representation Learning with Limited Demographic Information](https://arxiv.org/abs/2511.13540v3)** | 2025-12-26 |  |
-| **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
-| **[MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2511.05876v4)** | 2025-12-25 |  |
-| **[Surgical Scene Segmentation using a Spike-Driven Video Transformer with Real-Time Potential](https://arxiv.org/abs/2512.21284v1)** | 2025-12-24 |  |
-| **[SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation](https://arxiv.org/abs/2512.21204v1)** | 2025-12-24 |  |
-| **[A Community-Enhanced Graph Representation Model for Link Prediction](https://arxiv.org/abs/2512.21166v1)** | 2025-12-24 |  |
-| **[MODE: Multi-Objective Adaptive Coreset Selection](https://arxiv.org/abs/2512.21152v1)** | 2025-12-24 |  |
-| **[Semantic Refinement with LLMs for Graph Representations](https://arxiv.org/abs/2512.21106v1)** | 2025-12-24 |  |
-| **[Shared Representation Learning for High-Dimensional Multi-Task Forecasting under Resource Contention in Cloud-Native Backends](https://arxiv.org/abs/2512.21102v1)** | 2025-12-24 |  |
+| **[Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction](https://arxiv.org/abs/2510.04714v2)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
+| **[GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection](https://arxiv.org/abs/2512.23176v1)** | 2025-12-29 | 11 pages, 5 figures |
+| **[Diffusion-based Decentralized Federated Multi-Task Representation Learning](https://arxiv.org/abs/2512.23161v1)** | 2025-12-29 |  |
+| **[Multimodal Functional Maximum Correlation for Emotion Recognition](https://arxiv.org/abs/2512.23076v1)** | 2025-12-28 | <details><summary>manus...</summary><p>manuscript currently under review at IEEE journals, 20 pages, 6 figures</p></details> |
+| **[3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](https://arxiv.org/abs/2512.23042v1)** | 2025-12-28 |  |
+| **[Improving Large Language Model Safety with Contrastive Representation Learning](https://arxiv.org/abs/2506.11938v2)** | 2025-12-28 | EMNLP 2025 Main |
+| **[Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives](https://arxiv.org/abs/2512.22983v1)** | 2025-12-28 | <details><summary>This ...</summary><p>This work is a re-architected core derived from the full survey (arXiv:2510.10903) , refined to highlight the most central themes and representative studies</p></details> |
+| **[Improved cystic hygroma detection from prenatal imaging using ultrasound-specific self-supervised representation learning](https://arxiv.org/abs/2512.22730v1)** | 2025-12-28 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 2 tables</p></details> |
+| **[Learning with the $p$-adics](https://arxiv.org/abs/2512.22692v1)** | 2025-12-27 | 29 pages |
+| **[Beyond Centralization: Provable Communication Efficient Decentralized Multi-Task Learning](https://arxiv.org/abs/2512.22675v1)** | 2025-12-27 |  |
+| **[Unleashing Foundation Vision Models: Adaptive Transfer for Diverse Data-Limited Scientific Domains](https://arxiv.org/abs/2512.22664v1)** | 2025-12-27 |  |
+| **[FunduSegmenter: Leveraging the RETFound Foundation Model for Joint Optic Disc and Optic Cup Segmentation in Retinal Fundus Images](https://arxiv.org/abs/2508.11354v2)** | 2025-12-27 |  |
+| **[Multi-Focused Video Group Activities Hashing](https://arxiv.org/abs/2509.00490v3)** | 2025-12-27 |  |
+| **[Tracking by Predicting 3-D Gaussians Over Time](https://arxiv.org/abs/2512.22489v1)** | 2025-12-27 |  |
+| **[Toward Real-World IoT Security: Concept Drift-Resilient IoT Botnet Detection via Latent Space Representation Learning and Alignment](https://arxiv.org/abs/2512.22488v1)** | 2025-12-27 |  |
 
