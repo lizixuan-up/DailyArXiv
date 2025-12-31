@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 30, 2025
+title: Latest 15 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,9 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
+| **[Stochastic Siamese MAE Pretraining for Longitudinal Medical Images](https://arxiv.org/abs/2512.23441v1)** | 2025-12-29 | <details><summary>Under...</summary><p>Under review. Code is available in https://github.com/EmreTaha/STAMP</p></details> |
+| **[Visual Language Hypothesis](https://arxiv.org/abs/2512.23335v1)** | 2025-12-29 |  |
 | **[Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction](https://arxiv.org/abs/2510.04714v2)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
 | **[GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection](https://arxiv.org/abs/2512.23176v1)** | 2025-12-29 | 11 pages, 5 figures |
 | **[Diffusion-based Decentralized Federated Multi-Task Representation Learning](https://arxiv.org/abs/2512.23161v1)** | 2025-12-29 |  |
@@ -53,7 +56,4 @@ labels: documentation
 | **[Beyond Centralization: Provable Communication Efficient Decentralized Multi-Task Learning](https://arxiv.org/abs/2512.22675v1)** | 2025-12-27 |  |
 | **[Unleashing Foundation Vision Models: Adaptive Transfer for Diverse Data-Limited Scientific Domains](https://arxiv.org/abs/2512.22664v1)** | 2025-12-27 |  |
 | **[FunduSegmenter: Leveraging the RETFound Foundation Model for Joint Optic Disc and Optic Cup Segmentation in Retinal Fundus Images](https://arxiv.org/abs/2508.11354v2)** | 2025-12-27 |  |
-| **[Multi-Focused Video Group Activities Hashing](https://arxiv.org/abs/2509.00490v3)** | 2025-12-27 |  |
-| **[Tracking by Predicting 3-D Gaussians Over Time](https://arxiv.org/abs/2512.22489v1)** | 2025-12-27 |  |
-| **[Toward Real-World IoT Security: Concept Drift-Resilient IoT Botnet Detection via Latent Space Representation Learning and Alignment](https://arxiv.org/abs/2512.22488v1)** | 2025-12-27 |  |
 
