@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 31, 2025
+title: Latest 15 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
-| **[Stochastic Siamese MAE Pretraining for Longitudinal Medical Images](https://arxiv.org/abs/2512.23441v1)** | 2025-12-29 | <details><summary>Under...</summary><p>Under review. Code is available in https://github.com/EmreTaha/STAMP</p></details> |
-| **[Visual Language Hypothesis](https://arxiv.org/abs/2512.23335v1)** | 2025-12-29 |  |
-| **[Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction](https://arxiv.org/abs/2510.04714v2)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
-| **[GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection](https://arxiv.org/abs/2512.23176v1)** | 2025-12-29 | 11 pages, 5 figures |
-| **[Diffusion-based Decentralized Federated Multi-Task Representation Learning](https://arxiv.org/abs/2512.23161v1)** | 2025-12-29 |  |
-| **[Multimodal Functional Maximum Correlation for Emotion Recognition](https://arxiv.org/abs/2512.23076v1)** | 2025-12-28 | <details><summary>manus...</summary><p>manuscript currently under review at IEEE journals, 20 pages, 6 figures</p></details> |
-| **[3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](https://arxiv.org/abs/2512.23042v1)** | 2025-12-28 |  |
-| **[Improving Large Language Model Safety with Contrastive Representation Learning](https://arxiv.org/abs/2506.11938v2)** | 2025-12-28 | EMNLP 2025 Main |
-| **[Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives](https://arxiv.org/abs/2512.22983v1)** | 2025-12-28 | <details><summary>This ...</summary><p>This work is a re-architected core derived from the full survey (arXiv:2510.10903) , refined to highlight the most central themes and representative studies</p></details> |
-| **[Improved cystic hygroma detection from prenatal imaging using ultrasound-specific self-supervised representation learning](https://arxiv.org/abs/2512.22730v1)** | 2025-12-28 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 2 tables</p></details> |
-| **[Learning with the $p$-adics](https://arxiv.org/abs/2512.22692v1)** | 2025-12-27 | 29 pages |
-| **[Beyond Centralization: Provable Communication Efficient Decentralized Multi-Task Learning](https://arxiv.org/abs/2512.22675v1)** | 2025-12-27 |  |
-| **[Unleashing Foundation Vision Models: Adaptive Transfer for Diverse Data-Limited Scientific Domains](https://arxiv.org/abs/2512.22664v1)** | 2025-12-27 |  |
-| **[FunduSegmenter: Leveraging the RETFound Foundation Model for Joint Optic Disc and Optic Cup Segmentation in Retinal Fundus Images](https://arxiv.org/abs/2508.11354v2)** | 2025-12-27 |  |
+| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v1)** | 2025-12-31 | <details><summary>Prepr...</summary><p>Preprint. 18 pages, 10 figures</p></details> |
+| **[Visual Language Hypothesis](https://arxiv.org/abs/2512.23335v2)** | 2025-12-31 |  |
+| **[Multi-modal cross-domain mixed fusion model with dual disentanglement for fault diagnosis under unseen working conditions](https://arxiv.org/abs/2512.24679v1)** | 2025-12-31 | 21 pages, 8 figures |
+| **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](https://arxiv.org/abs/2501.12624v4)** | 2025-12-31 |  |
+| **[Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities](https://arxiv.org/abs/2511.11512v3)** | 2025-12-31 |  |
+| **[Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction](https://arxiv.org/abs/2412.08243v2)** | 2025-12-31 | IEEE TPAMI 2025 |
+| **[Collaborative Low-Rank Adaptation for Pre-Trained Vision Transformers](https://arxiv.org/abs/2512.24603v1)** | 2025-12-31 | 13 tables, 3 figures |
+| **[Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment](https://arxiv.org/abs/2506.06970v3)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[CPR: Causal Physiological Representation Learning for Robust ECG Analysis under Distribution Shifts](https://arxiv.org/abs/2512.24564v1)** | 2025-12-31 |  |
+| **[Exploring Compositionality in Vision Transformers using Wavelet Representations](https://arxiv.org/abs/2512.24438v1)** | 2025-12-30 | 9 pages, 6 figures |
+| **[Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images](https://arxiv.org/abs/2512.24074v1)** | 2025-12-30 |  |
+| **[Hyperspherical Graph Representation Learning via Adaptive Neighbor-Mean Alignment and Uniformity](https://arxiv.org/abs/2512.24062v1)** | 2025-12-30 | <details><summary>Submi...</summary><p>Submitted to Pattern Recognition</p></details> |
+| **[Tracking by Predicting 3-D Gaussians Over Time](https://arxiv.org/abs/2512.22489v2)** | 2025-12-30 |  |
+| **[Tracing the Heart's Pathways: ECG Representation Learning from a Cardiac Conduction Perspective](https://arxiv.org/abs/2512.24002v1)** | 2025-12-30 | Accepted to AAAI2026 |
+| **[Disentangling Learning from Judgment: Representation Learning for Open Response Analytics](https://arxiv.org/abs/2512.23941v1)** | 2025-12-30 | <details><summary>Short...</summary><p>Short research paper accepted at Learning Analytics and Knowledge (LAK '26)</p></details> |
 
