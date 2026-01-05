@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,7 +41,13 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v1)** | 2025-12-31 | <details><summary>Prepr...</summary><p>Preprint. 18 pages, 10 figures</p></details> |
+| **[Semantic Anchor Transport: Robust Test-Time Adaptation for Vision-Language Models](https://arxiv.org/abs/2411.17002v3)** | 2026-01-02 | <details><summary>Added...</summary><p>Added additional figures to communicate the algorithm</p></details> |
+| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v2)** | 2026-01-02 | <details><summary>v2: A...</summary><p>v2: Author list updated to include previously omitted co-authors</p></details> |
+| **[Wave2Word: A Multimodal Transformer Framework for Joint EEG-Text Alignment and Multi-Task Representation Learning in Neurocritical Care](https://arxiv.org/abs/2601.00670v1)** | 2026-01-02 |  |
+| **[Unsupervised Representation Learning for 3D Mesh Parameterization with Semantic and Visibility Objectives](https://arxiv.org/abs/2509.25094v2)** | 2026-01-02 |  |
+| **[Traffic-MoE: A Sparse Foundation Model for Network Traffic Analysis](https://arxiv.org/abs/2601.00357v1)** | 2026-01-01 |  |
+| **[Towards Syn-to-Real IQA: A Novel Perspective on Reshaping Synthetic Data Distributions](https://arxiv.org/abs/2601.00225v1)** | 2026-01-01 | <details><summary>Accep...</summary><p>Accepted by NIPS 2025</p></details> |
+| **[Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences](https://arxiv.org/abs/2506.06944v2)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Visual Language Hypothesis](https://arxiv.org/abs/2512.23335v2)** | 2025-12-31 |  |
 | **[Multi-modal cross-domain mixed fusion model with dual disentanglement for fault diagnosis under unseen working conditions](https://arxiv.org/abs/2512.24679v1)** | 2025-12-31 | 21 pages, 8 figures |
 | **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](https://arxiv.org/abs/2501.12624v4)** | 2025-12-31 |  |
@@ -50,10 +56,4 @@ labels: documentation
 | **[Collaborative Low-Rank Adaptation for Pre-Trained Vision Transformers](https://arxiv.org/abs/2512.24603v1)** | 2025-12-31 | 13 tables, 3 figures |
 | **[Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment](https://arxiv.org/abs/2506.06970v3)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[CPR: Causal Physiological Representation Learning for Robust ECG Analysis under Distribution Shifts](https://arxiv.org/abs/2512.24564v1)** | 2025-12-31 |  |
-| **[Exploring Compositionality in Vision Transformers using Wavelet Representations](https://arxiv.org/abs/2512.24438v1)** | 2025-12-30 | 9 pages, 6 figures |
-| **[Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images](https://arxiv.org/abs/2512.24074v1)** | 2025-12-30 |  |
-| **[Hyperspherical Graph Representation Learning via Adaptive Neighbor-Mean Alignment and Uniformity](https://arxiv.org/abs/2512.24062v1)** | 2025-12-30 | <details><summary>Submi...</summary><p>Submitted to Pattern Recognition</p></details> |
-| **[Tracking by Predicting 3-D Gaussians Over Time](https://arxiv.org/abs/2512.22489v2)** | 2025-12-30 |  |
-| **[Tracing the Heart's Pathways: ECG Representation Learning from a Cardiac Conduction Perspective](https://arxiv.org/abs/2512.24002v1)** | 2025-12-30 | Accepted to AAAI2026 |
-| **[Disentangling Learning from Judgment: Representation Learning for Open Response Analytics](https://arxiv.org/abs/2512.23941v1)** | 2025-12-30 | <details><summary>Short...</summary><p>Short research paper accepted at Learning Analytics and Knowledge (LAK '26)</p></details> |
 
