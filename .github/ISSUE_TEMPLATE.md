@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neuronal Attention Circuit (NAC) for Representation Learning](https://arxiv.org/abs/2512.10282v3)** | 2026-01-06 | Ongoing work |
+| **[Causal Manifold Fairness: Enforcing Geometric Invariance in Representation Learning](https://arxiv.org/abs/2601.03032v1)** | 2026-01-06 |  |
+| **[Towards Unbiased Cross-Modal Representation Learning for Food Image-to-Recipe Retrieval](https://arxiv.org/abs/2511.15201v2)** | 2026-01-06 | <details><summary>Code ...</summary><p>Code link: https://github.com/GZWQ/Towards-Unbiased-Cross-Modal-Representation-Learning-for-Food-Image-to-Recipe-Retrieval</p></details> |
+| **[When Prompting Meets Spiking: Graph Sparse Prompting via Spiking Graph Prompt Learning](https://arxiv.org/abs/2601.02662v1)** | 2026-01-06 |  |
+| **[Geometric and Dynamic Scaling in Deep Transformers](https://arxiv.org/abs/2601.01014v2)** | 2026-01-06 | <details><summary>Resea...</summary><p>Research Proposal Only</p></details> |
+| **[Diminishing Returns in Self-Supervised Learning](https://arxiv.org/abs/2512.03862v2)** | 2026-01-05 |  |
+| **[Differential Privacy for Transformer Embeddings of Text with Nonparametric Variational Information Bottleneck](https://arxiv.org/abs/2601.02307v1)** | 2026-01-05 | 11 pages, 2 figures |
+| **[v-PuNNs: van der Put Neural Networks for Transparent Ultrametric Representation Learning](https://arxiv.org/abs/2508.01010v2)** | 2026-01-05 | <details><summary>v2: C...</summary><p>v2: Corrected mathematical statements in Section 3.1.3 and Appendix A regarding the van der Put basis properties. Clarified distinction between hierarchical indicator family and classical Schauder basis</p></details> |
+| **[Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems](https://arxiv.org/abs/2601.01891v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted to the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026, GeoCV Workshop</p></details> |
+| **[GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection](https://arxiv.org/abs/2601.01856v1)** | 2026-01-05 |  |
 | **[Point-SRA: Self-Representation Alignment for 3D Representation Learning](https://arxiv.org/abs/2601.01746v1)** | 2026-01-05 | <details><summary>This ...</summary><p>This is an AAAI 2026 accepted paper titled "Point-SRA: Self-Representation Alignment for 3D Representation Learning", spanning 13 pages in total. The submission includes 7 figures (fig1 to fig7) that visually support the technical analysis</p></details> |
 | **[Unsupervised SE(3) Disentanglement for in situ Macromolecular Morphology Identification from Cryo-Electron Tomography](https://arxiv.org/abs/2601.01364v1)** | 2026-01-04 |  |
 | **[InfMasking: Unleashing Synergistic Information by Contrastive Multimodal Interactions](https://arxiv.org/abs/2509.25270v4)** | 2026-01-04 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS) 2025 (Spotlight)</p></details> |
 | **[Achieving Fine-grained Cross-modal Understanding through Brain-inspired Hierarchical Representation Learning](https://arxiv.org/abs/2601.01339v1)** | 2026-01-04 |  |
 | **[Accelerated Full Waveform Inversion by Deep Compressed Learning](https://arxiv.org/abs/2601.01268v1)** | 2026-01-03 |  |
-| **[Learning Repetition-Invariant Representations for Polymer Informatics](https://arxiv.org/abs/2505.10726v3)** | 2026-01-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[NoveltyRank: A Retrieval-Augmented Framework for Conceptual Novelty Estimation in AI Research](https://arxiv.org/abs/2512.14738v2)** | 2026-01-03 | <details><summary>11 pa...</summary><p>11 pages, 4, tables, 3 figures</p></details> |
-| **[Contrastive Self-Supervised Learning As Neural Manifold Packing](https://arxiv.org/abs/2506.13717v2)** | 2026-01-03 |  |
-| **[KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs](https://arxiv.org/abs/2601.01046v1)** | 2026-01-03 |  |
-| **[HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery](https://arxiv.org/abs/2601.01015v1)** | 2026-01-03 |  |
-| **[Geometric and Dynamic Scaling in Deep Transformers](https://arxiv.org/abs/2601.01014v1)** | 2026-01-03 | <details><summary>Resea...</summary><p>Research Proposal Only</p></details> |
-| **[LLM Interpretability with Identifiable Temporal-Instantaneous Representation](https://arxiv.org/abs/2509.23323v2)** | 2026-01-02 | NeurIPS 2025 |
-| **[Deep Clustering with Associative Memories](https://arxiv.org/abs/2601.00963v1)** | 2026-01-02 |  |
-| **[Semantic Anchor Transport: Robust Test-Time Adaptation for Vision-Language Models](https://arxiv.org/abs/2411.17002v3)** | 2026-01-02 | <details><summary>Added...</summary><p>Added additional figures to communicate the algorithm</p></details> |
-| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v2)** | 2026-01-02 | <details><summary>v2: A...</summary><p>v2: Author list updated to include previously omitted co-authors</p></details> |
 
