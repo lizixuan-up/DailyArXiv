@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v2)** | 2026-01-12 |  |
 | **[IGDMRec: Behavior Conditioned Item Graph Diffusion for Multimodal Recommendation](https://arxiv.org/abs/2512.19983v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. This paper has been accepted for publication in IEEE Transactions on Multimedia. The final published version will be available via IEEE Xplore</p></details> |
 | **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v2)** | 2025-12-21 |  |
 | **[VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation](https://arxiv.org/abs/2512.08702v1)** | 2025-12-09 | Accepted by KDD 2026 |
@@ -36,24 +37,23 @@ labels: documentation
 | **[VisualLens: Personalization through Task-Agnostic Visual History](https://arxiv.org/abs/2411.16034v2)** | 2025-10-18 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[I$^3$-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation](https://arxiv.org/abs/2508.04247v3)** | 2025-10-15 | <details><summary>ACM M...</summary><p>ACM Multimedia 2025 Accepted</p></details> |
 | **[Causal Inspired Multi Modal Recommendation](https://arxiv.org/abs/2510.12325v1)** | 2025-10-14 |  |
-| **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v4)** | 2025-10-08 | <details><summary>2025-...</summary><p>2025-10-08: updating the stat table with the latest numbers. updated the abstract per the latest license terms</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](https://arxiv.org/abs/2503.24111v3)** | 2026-01-11 | 12 pages, 12 figures |
-| **[Personality-Aware Reinforcement Learning for Persuasive Dialogue with LLM-Driven Simulation](https://arxiv.org/abs/2601.06877v1)** | 2026-01-11 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 3 tables</p></details> |
-| **[Variational decomposition autoencoding improves disentanglement of latent representations](https://arxiv.org/abs/2601.06844v1)** | 2026-01-11 | <details><summary>Suppl...</summary><p>Supplementary information file at: https://drive.google.com/drive/folders/1sZl2AcCtRK-1oav7XZSaxlu0Cq0-3MMs?usp=sharing</p></details> |
-| **[Are Emotions Arranged in a Circle? Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning](https://arxiv.org/abs/2601.06575v1)** | 2026-01-10 |  |
-| **[Neighborhood Feature Pooling for Remote Sensing Image Classification](https://arxiv.org/abs/2510.25077v3)** | 2026-01-10 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026, 3rd Workshop on Computer Vision for Earth Observation (CV4EO)</p></details> |
-| **[Pantagruel: Unified Self-Supervised Encoders for French Text and Speech](https://arxiv.org/abs/2601.05911v1)** | 2026-01-09 |  |
-| **[Boosting Latent Diffusion Models via Disentangled Representation Alignment](https://arxiv.org/abs/2601.05823v1)** | 2026-01-09 |  |
-| **[A Dual Pipeline Machine Learning Framework for Automated Multi Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning](https://arxiv.org/abs/2601.05814v1)** | 2026-01-09 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, 14 tables</p></details> |
-| **[Learning Reconstructive Embeddings in Reproducing Kernel Hilbert Spaces via the Representer Theorem](https://arxiv.org/abs/2601.05811v1)** | 2026-01-09 |  |
-| **[Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification](https://arxiv.org/abs/2601.05785v1)** | 2026-01-09 |  |
-| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
-| **[SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/abs/2601.05640v1)** | 2026-01-09 |  |
-| **[Efficient Temporal-aware Matryoshka Adaptation for Temporal Information Retrieval](https://arxiv.org/abs/2601.05549v1)** | 2026-01-09 | 18 pages |
-| **[MIPO: Mutual Integration of Patient Journey and Medical Ontology for Healthcare Representation Learning](https://arxiv.org/abs/2107.09288v5)** | 2026-01-09 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted for IJCNN 2025</p></details> |
-| **[The Geometry of Grokking: Norm Minimization on the Zero-Loss Manifold](https://arxiv.org/abs/2511.01938v2)** | 2026-01-08 |  |
+| **[DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning](https://arxiv.org/abs/2506.09644v2)** | 2026-01-13 |  |
+| **[Aggregating Diverse Cue Experts for AI-Generated Image Detection](https://arxiv.org/abs/2601.08790v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v1)** | 2026-01-13 |  |
+| **[Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning](https://arxiv.org/abs/2507.14137v3)** | 2026-01-13 |  |
+| **[Are Emotions Arranged in a Circle? Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning](https://arxiv.org/abs/2601.06575v2)** | 2026-01-13 |  |
+| **[Representation Learning with Semantic-aware Instance and Sparse Token Alignments](https://arxiv.org/abs/2601.08165v1)** | 2026-01-13 | <details><summary>Under...</summary><p>Under review, 8 pages</p></details> |
+| **[Dynamic Graph Structure Learning via Resistance Curvature Flow](https://arxiv.org/abs/2601.08149v1)** | 2026-01-13 |  |
+| **[Beyond External Guidance: Unleashing the Semantic Richness Inside Diffusion Transformers for Improved Training](https://arxiv.org/abs/2601.07773v1)** | 2026-01-12 |  |
+| **[Learning Generalizable and Efficient Image Watermarking via Hierarchical Two-Stage Optimization](https://arxiv.org/abs/2508.08667v2)** | 2026-01-12 |  |
+| **[Variational Contrastive Learning for Skeleton-based Action Recognition](https://arxiv.org/abs/2601.07666v1)** | 2026-01-12 |  |
+| **[CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting](https://arxiv.org/abs/2412.19142v2)** | 2026-01-12 |  |
+| **[Pseudodata-guided Invariant Representation Learning Boosts the Out-of-Distribution Generalization in Enzymatic Kinetic Parameter Prediction](https://arxiv.org/abs/2601.07261v1)** | 2026-01-12 |  |
+| **[SIGNL: A Label-Efficient Audio Deepfake Detection System via Spectral-Temporal Graph Non-Contrastive Learning](https://arxiv.org/abs/2501.04942v2)** | 2026-01-12 |  |
+| **[SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/abs/2601.05640v2)** | 2026-01-12 |  |
 
