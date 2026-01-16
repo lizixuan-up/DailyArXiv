@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,13 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from Brain Topography: A Hierarchical Local-Global Graph-Transformer Network for EEG Emotion Recognition](https://arxiv.org/abs/2601.10525v1)** | 2026-01-15 |  |
+| **[Learning Quadrotor Control From Visual Features Using Differentiable Simulation](https://arxiv.org/abs/2410.15979v3)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted for presentation at the IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
+| **[Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections](https://arxiv.org/abs/2510.22655v2)** | 2026-01-15 | <details><summary>Publi...</summary><p>Published at the Conference on Neural Information Processing Systems (NeurIPS) 2025</p></details> |
+| **[Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents](https://arxiv.org/abs/2511.08378v2)** | 2026-01-15 | <details><summary>accep...</summary><p>accepted by AAAI 2026 Oral</p></details> |
+| **[MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning](https://arxiv.org/abs/2601.10157v1)** | 2026-01-15 |  |
+| **[Geometric and Dynamic Scaling in Deep Transformers](https://arxiv.org/abs/2601.01014v3)** | 2026-01-14 | <details><summary>Resea...</summary><p>Research Proposal Only</p></details> |
+| **[Breaking the Limits of Open-Weight CLIP: An Optimization Framework for Self-supervised Fine-tuning of CLIP](https://arxiv.org/abs/2601.09859v1)** | 2026-01-14 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[Differential Privacy for Transformer Embeddings of Text with Nonparametric Variational Information Bottleneck](https://arxiv.org/abs/2601.02307v2)** | 2026-01-14 | 11 pages, 2 figures |
 | **[Large-scale modality-invariant foundation models for brain MRI analysis: Application to lesion segmentation](https://arxiv.org/abs/2511.11311v2)** | 2026-01-14 | <details><summary>Submi...</summary><p>Submitted to IEEE ISBI 2026</p></details> |
 | **[SGAC: A Graph Neural Network Framework for Imbalanced and Structure-Aware AMP Classification](https://arxiv.org/abs/2412.16276v2)** | 2026-01-14 |  |
@@ -49,11 +56,4 @@ labels: documentation
 | **[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval](https://arxiv.org/abs/2601.09159v1)** | 2026-01-14 |  |
 | **[MedicalNarratives: Connecting Medical Vision and Language with Localized Narratives](https://arxiv.org/abs/2501.04184v3)** | 2026-01-14 |  |
 | **[Universal Latent Homeomorphic Manifolds: Cross-Domain Representation Learning via Homeomorphism Verification](https://arxiv.org/abs/2601.09025v1)** | 2026-01-13 |  |
-| **[DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning](https://arxiv.org/abs/2506.09644v2)** | 2026-01-13 |  |
-| **[Aggregating Diverse Cue Experts for AI-Generated Image Detection](https://arxiv.org/abs/2601.08790v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
-| **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v1)** | 2026-01-13 |  |
-| **[Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning](https://arxiv.org/abs/2507.14137v3)** | 2026-01-13 |  |
-| **[Are Emotions Arranged in a Circle? Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning](https://arxiv.org/abs/2601.06575v2)** | 2026-01-13 |  |
-| **[Representation Learning with Semantic-aware Instance and Sparse Token Alignments](https://arxiv.org/abs/2601.08165v1)** | 2026-01-13 | <details><summary>Under...</summary><p>Under review, 8 pages</p></details> |
 
