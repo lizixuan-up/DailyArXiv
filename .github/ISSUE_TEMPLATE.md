@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 18, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation](https://arxiv.org/abs/2601.11151v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted to ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</p></details> |
+| **[Are Multimodal Embeddings Truly Beneficial for Recommendation? A Deep Dive into Whole vs. Individual Modalities](https://arxiv.org/abs/2508.07399v3)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ECIR 2026</p></details> |
 | **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v3)** | 2026-01-14 |  |
 | **[IGDMRec: Behavior Conditioned Item Graph Diffusion for Multimodal Recommendation](https://arxiv.org/abs/2512.19983v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. This paper has been accepted for publication in IEEE Transactions on Multimedia. The final published version will be available via IEEE Xplore</p></details> |
 | **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v2)** | 2025-12-21 |  |
@@ -35,25 +37,23 @@ labels: documentation
 | **[PolyRecommender: A Multimodal Recommendation System for Polymer Discovery](https://arxiv.org/abs/2511.00375v1)** | 2025-11-01 |  |
 | **[X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation](https://arxiv.org/abs/2408.15172v2)** | 2025-10-23 |  |
 | **[VisualLens: Personalization through Task-Agnostic Visual History](https://arxiv.org/abs/2411.16034v2)** | 2025-10-18 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[I$^3$-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation](https://arxiv.org/abs/2508.04247v3)** | 2025-10-15 | <details><summary>ACM M...</summary><p>ACM Multimedia 2025 Accepted</p></details> |
-| **[Causal Inspired Multi Modal Recommendation](https://arxiv.org/abs/2510.12325v1)** | 2025-10-14 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations](https://arxiv.org/abs/2601.11460v1)** | 2026-01-16 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, preprint</p></details> |
+| **[Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems](https://arxiv.org/abs/2601.11415v1)** | 2026-01-16 | <details><summary>17 pa...</summary><p>17 pages, 6 figures. Supplemental material included</p></details> |
+| **[Beer-Lambert Autoencoder for Unsupervised Stain Representation Learning and Deconvolution in Multi-immunohistochemical Brightfield Histology Images](https://arxiv.org/abs/2601.11336v1)** | 2026-01-16 |  |
+| **[Information Theoretic Perspective on Representation Learning](https://arxiv.org/abs/2601.11334v1)** | 2026-01-16 |  |
+| **[Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities](https://arxiv.org/abs/2511.11512v4)** | 2026-01-16 |  |
+| **[From Knots to Knobs: Towards Steerable Collaborative Filtering Using Sparse Autoencoders](https://arxiv.org/abs/2601.11182v1)** | 2026-01-16 |  |
+| **[SoLA-Vision: Fine-grained Layer-wise Linear Softmax Hybrid Attention](https://arxiv.org/abs/2601.11164v1)** | 2026-01-16 | Preprint |
+| **[Clustering High-dimensional Data: Balancing Abstraction and Representation Tutorial at AAAI 2026](https://arxiv.org/abs/2601.11160v1)** | 2026-01-16 |  |
+| **[Learn Before Represent: Bridging Generative and Contrastive Learning for Domain-Specific LLM Embeddings](https://arxiv.org/abs/2601.11124v1)** | 2026-01-16 | 10 pages, 3 figures |
+| **[Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents](https://arxiv.org/abs/2511.08378v3)** | 2026-01-16 | <details><summary>accep...</summary><p>accepted by AAAI 2026 Oral</p></details> |
+| **[Combating Spurious Correlations in Graph Interpretability via Self-Reflection](https://arxiv.org/abs/2601.11021v1)** | 2026-01-16 |  |
+| **[Backdoor Attacks on Multi-modal Contrastive Learning](https://arxiv.org/abs/2601.11006v1)** | 2026-01-16 |  |
 | **[Learning from Brain Topography: A Hierarchical Local-Global Graph-Transformer Network for EEG Emotion Recognition](https://arxiv.org/abs/2601.10525v1)** | 2026-01-15 |  |
 | **[Learning Quadrotor Control From Visual Features Using Differentiable Simulation](https://arxiv.org/abs/2410.15979v3)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted for presentation at the IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
 | **[Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections](https://arxiv.org/abs/2510.22655v2)** | 2026-01-15 | <details><summary>Publi...</summary><p>Published at the Conference on Neural Information Processing Systems (NeurIPS) 2025</p></details> |
-| **[Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents](https://arxiv.org/abs/2511.08378v2)** | 2026-01-15 | <details><summary>accep...</summary><p>accepted by AAAI 2026 Oral</p></details> |
-| **[MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning](https://arxiv.org/abs/2601.10157v1)** | 2026-01-15 |  |
-| **[Geometric and Dynamic Scaling in Deep Transformers](https://arxiv.org/abs/2601.01014v3)** | 2026-01-14 | <details><summary>Resea...</summary><p>Research Proposal Only</p></details> |
-| **[Breaking the Limits of Open-Weight CLIP: An Optimization Framework for Self-supervised Fine-tuning of CLIP](https://arxiv.org/abs/2601.09859v1)** | 2026-01-14 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
-| **[Differential Privacy for Transformer Embeddings of Text with Nonparametric Variational Information Bottleneck](https://arxiv.org/abs/2601.02307v2)** | 2026-01-14 | 11 pages, 2 figures |
-| **[Large-scale modality-invariant foundation models for brain MRI analysis: Application to lesion segmentation](https://arxiv.org/abs/2511.11311v2)** | 2026-01-14 | <details><summary>Submi...</summary><p>Submitted to IEEE ISBI 2026</p></details> |
-| **[SGAC: A Graph Neural Network Framework for Imbalanced and Structure-Aware AMP Classification](https://arxiv.org/abs/2412.16276v2)** | 2026-01-14 |  |
-| **[Disentangle Object and Non-object Infrared Features via Language Guidance](https://arxiv.org/abs/2601.09228v1)** | 2026-01-14 |  |
-| **[GenView++: Unifying Adaptive View Generation and Quality-Driven Supervision for Contrastive Representation Learning](https://arxiv.org/abs/2509.23770v2)** | 2026-01-14 | <details><summary>The c...</summary><p>The code is available at \url{https://github.com/xiaojieli0903/GenViewPlusPlus}</p></details> |
-| **[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval](https://arxiv.org/abs/2601.09159v1)** | 2026-01-14 |  |
-| **[MedicalNarratives: Connecting Medical Vision and Language with Localized Narratives](https://arxiv.org/abs/2501.04184v3)** | 2026-01-14 |  |
-| **[Universal Latent Homeomorphic Manifolds: Cross-Domain Representation Learning via Homeomorphism Verification](https://arxiv.org/abs/2601.09025v1)** | 2026-01-13 |  |
 
