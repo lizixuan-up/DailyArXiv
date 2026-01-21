@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 20, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Identification of Temporally Causal Representation with Instantaneous Dependence](https://arxiv.org/abs/2405.15325v4)** | 2026-01-18 |  |
+| **[Improved cystic hygroma detection from prenatal imaging using ultrasound-specific self-supervised representation learning](https://arxiv.org/abs/2512.22730v2)** | 2026-01-18 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 2 tables</p></details> |
+| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v1)** | 2026-01-18 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
+| **[REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding](https://arxiv.org/abs/2503.07413v2)** | 2026-01-18 |  |
+| **[HCFT: Hierarchical Convolutional Fusion Transformer for EEG Decoding](https://arxiv.org/abs/2601.12279v1)** | 2026-01-18 | <details><summary>Submi...</summary><p>Submitted to IEEE Journals</p></details> |
+| **[A Stage-Wise Learning Strategy with Fixed Anchors for Robust Speaker Verification](https://arxiv.org/abs/2510.18530v2)** | 2026-01-18 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
+| **[Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models](https://arxiv.org/abs/2601.12215v1)** | 2026-01-18 |  |
+| **[Dimensionality Reduction for Remote Sensing Data Analysis: A Systematic Review of Methods and Applications](https://arxiv.org/abs/2510.18935v2)** | 2026-01-17 |  |
+| **[Learning Language-Driven Sequence-Level Modal-Invariant Representations for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2601.12062v1)** | 2026-01-17 |  |
+| **[Task-Driven Prompt Learning: A Joint Framework for Multi-modal Cloud Removal and Segmentation](https://arxiv.org/abs/2601.12052v1)** | 2026-01-17 | <details><summary>Submi...</summary><p>Submitted to IGARSS 2026 Conference</p></details> |
+| **[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval](https://arxiv.org/abs/2601.09159v2)** | 2026-01-17 |  |
 | **[Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations](https://arxiv.org/abs/2601.11460v1)** | 2026-01-16 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, preprint</p></details> |
 | **[Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems](https://arxiv.org/abs/2601.11415v1)** | 2026-01-16 | <details><summary>17 pa...</summary><p>17 pages, 6 figures. Supplemental material included</p></details> |
 | **[Beer-Lambert Autoencoder for Unsupervised Stain Representation Learning and Deconvolution in Multi-immunohistochemical Brightfield Histology Images](https://arxiv.org/abs/2601.11336v1)** | 2026-01-16 |  |
 | **[Information Theoretic Perspective on Representation Learning](https://arxiv.org/abs/2601.11334v1)** | 2026-01-16 |  |
-| **[Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities](https://arxiv.org/abs/2511.11512v4)** | 2026-01-16 |  |
-| **[From Knots to Knobs: Towards Steerable Collaborative Filtering Using Sparse Autoencoders](https://arxiv.org/abs/2601.11182v1)** | 2026-01-16 |  |
-| **[SoLA-Vision: Fine-grained Layer-wise Linear Softmax Hybrid Attention](https://arxiv.org/abs/2601.11164v1)** | 2026-01-16 | Preprint |
-| **[Clustering High-dimensional Data: Balancing Abstraction and Representation Tutorial at AAAI 2026](https://arxiv.org/abs/2601.11160v1)** | 2026-01-16 |  |
-| **[Learn Before Represent: Bridging Generative and Contrastive Learning for Domain-Specific LLM Embeddings](https://arxiv.org/abs/2601.11124v1)** | 2026-01-16 | 10 pages, 3 figures |
-| **[Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents](https://arxiv.org/abs/2511.08378v3)** | 2026-01-16 | <details><summary>accep...</summary><p>accepted by AAAI 2026 Oral</p></details> |
-| **[Combating Spurious Correlations in Graph Interpretability via Self-Reflection](https://arxiv.org/abs/2601.11021v1)** | 2026-01-16 |  |
-| **[Backdoor Attacks on Multi-modal Contrastive Learning](https://arxiv.org/abs/2601.11006v1)** | 2026-01-16 |  |
-| **[Learning from Brain Topography: A Hierarchical Local-Global Graph-Transformer Network for EEG Emotion Recognition](https://arxiv.org/abs/2601.10525v1)** | 2026-01-15 |  |
-| **[Learning Quadrotor Control From Visual Features Using Differentiable Simulation](https://arxiv.org/abs/2410.15979v3)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted for presentation at the IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
-| **[Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections](https://arxiv.org/abs/2510.22655v2)** | 2026-01-15 | <details><summary>Publi...</summary><p>Published at the Conference on Neural Information Processing Systems (NeurIPS) 2025</p></details> |
 
