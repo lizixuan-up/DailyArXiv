@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Identification of Temporally Causal Representation with Instantaneous Dependence](https://arxiv.org/abs/2405.15325v4)** | 2026-01-18 |  |
-| **[Improved cystic hygroma detection from prenatal imaging using ultrasound-specific self-supervised representation learning](https://arxiv.org/abs/2512.22730v2)** | 2026-01-18 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 2 tables</p></details> |
-| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v1)** | 2026-01-18 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
-| **[REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding](https://arxiv.org/abs/2503.07413v2)** | 2026-01-18 |  |
-| **[HCFT: Hierarchical Convolutional Fusion Transformer for EEG Decoding](https://arxiv.org/abs/2601.12279v1)** | 2026-01-18 | <details><summary>Submi...</summary><p>Submitted to IEEE Journals</p></details> |
-| **[A Stage-Wise Learning Strategy with Fixed Anchors for Robust Speaker Verification](https://arxiv.org/abs/2510.18530v2)** | 2026-01-18 | <details><summary>submi...</summary><p>submitted to ICASSP 2026</p></details> |
-| **[Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models](https://arxiv.org/abs/2601.12215v1)** | 2026-01-18 |  |
-| **[Dimensionality Reduction for Remote Sensing Data Analysis: A Systematic Review of Methods and Applications](https://arxiv.org/abs/2510.18935v2)** | 2026-01-17 |  |
-| **[Learning Language-Driven Sequence-Level Modal-Invariant Representations for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2601.12062v1)** | 2026-01-17 |  |
-| **[Task-Driven Prompt Learning: A Joint Framework for Multi-modal Cloud Removal and Segmentation](https://arxiv.org/abs/2601.12052v1)** | 2026-01-17 | <details><summary>Submi...</summary><p>Submitted to IGARSS 2026 Conference</p></details> |
-| **[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval](https://arxiv.org/abs/2601.09159v2)** | 2026-01-17 |  |
-| **[Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations](https://arxiv.org/abs/2601.11460v1)** | 2026-01-16 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, preprint</p></details> |
-| **[Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems](https://arxiv.org/abs/2601.11415v1)** | 2026-01-16 | <details><summary>17 pa...</summary><p>17 pages, 6 figures. Supplemental material included</p></details> |
-| **[Beer-Lambert Autoencoder for Unsupervised Stain Representation Learning and Deconvolution in Multi-immunohistochemical Brightfield Histology Images](https://arxiv.org/abs/2601.11336v1)** | 2026-01-16 |  |
-| **[Information Theoretic Perspective on Representation Learning](https://arxiv.org/abs/2601.11334v1)** | 2026-01-16 |  |
+| **[Cluster-Based Generalized Additive Models Informed by Random Fourier Features](https://arxiv.org/abs/2512.19373v2)** | 2026-01-21 | <details><summary>33 pa...</summary><p>33 pages, 13 figures, 8 tables</p></details> |
+| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v2)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
+| **[MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement](https://arxiv.org/abs/2507.00966v4)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Audio, Speech, and Language Processing</p></details> |
+| **[Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models](https://arxiv.org/abs/2511.07253v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to IEEE ICASSP 2026 (camera-ready version). Project website (code and model weights): https://umbertocappellazzo.github.io/Omni-AVSR/</p></details> |
+| **[DRGW: Learning Disentangled Representations for Robust Graph Watermarking](https://arxiv.org/abs/2601.13569v2)** | 2026-01-21 | <details><summary>Publi...</summary><p>Published at The Web Conference 2026 (WWW '26)</p></details> |
+| **[Hierarchical Self-Supervised Representation Learning for Depression Detection from Speech](https://arxiv.org/abs/2510.08593v2)** | 2026-01-21 |  |
+| **[PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering](https://arxiv.org/abs/2601.14720v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at WWW 2026, 12pages</p></details> |
+| **[A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models](https://arxiv.org/abs/2502.00681v2)** | 2026-01-21 |  |
+| **[RL-BioAug: Label-Efficient Reinforcement Learning for Self-Supervised EEG Representation Learning](https://arxiv.org/abs/2601.13964v2)** | 2026-01-21 |  |
+| **[Implicit Neural Representation Facilitates Unified Universal Vision Encoding](https://arxiv.org/abs/2601.14256v1)** | 2026-01-20 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 4 figures</p></details> |
+| **[VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](https://arxiv.org/abs/2601.14354v1)** | 2026-01-20 | 77 pages |
+| **[DiSPA: Differential Substructure-Pathway Attention for Drug Response Prediction](https://arxiv.org/abs/2601.14346v1)** | 2026-01-20 |  |
+| **[Towards Fast Coarse-graining and Equation Discovery with Foundation Inference Models](https://arxiv.org/abs/2510.12618v2)** | 2026-01-20 |  |
+| **[Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980v2)** | 2026-01-20 |  |
+| **[Revisiting Multi-Task Visual Representation Learning](https://arxiv.org/abs/2601.13886v1)** | 2026-01-20 | <details><summary>Code:...</summary><p>Code: https://github.com/Becomebright/MTV</p></details> |
 
