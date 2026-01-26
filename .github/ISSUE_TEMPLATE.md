@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 25, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,10 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation](https://arxiv.org/abs/2506.11777v3)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
+| **[SONAR: Self-Distilled Continual Pre-training for Domain Adaptive Audio Representation](https://arxiv.org/abs/2509.15703v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
+| **[Combating Spurious Correlations in Graph Interpretability via Self-Reflection](https://arxiv.org/abs/2601.11021v2)** | 2026-01-23 |  |
+| **[VOCAL: Visual Odometry via ContrAstive Learning](https://arxiv.org/abs/2507.00243v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Training-Free Geospatial Place Representation Learning from Large-Scale Point-of-Interest Graph Data](https://arxiv.org/abs/2507.02921v3)** | 2026-01-22 |  |
 | **[Beyond Predictive Uncertainty: Reliable Representation Learning with Structural Constraints](https://arxiv.org/abs/2601.16174v1)** | 2026-01-22 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 5 propositions</p></details> |
 | **[HVD: Human Vision-Driven Video Representation Learning for Text-Video Retrieval](https://arxiv.org/abs/2601.16155v1)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
@@ -52,8 +56,4 @@ labels: documentation
 | **[Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/abs/2601.15475v1)** | 2026-01-21 |  |
 | **[PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models](https://arxiv.org/abs/2505.05577v2)** | 2026-01-21 | <details><summary>Proce...</summary><p>Proceedings of the 42nd International Conference on Machine Learning, Vancouver, Canada. PMLR 267, 2025</p></details> |
 | **[Cluster-Based Generalized Additive Models Informed by Random Fourier Features](https://arxiv.org/abs/2512.19373v2)** | 2026-01-21 | <details><summary>33 pa...</summary><p>33 pages, 13 figures, 8 tables</p></details> |
-| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v2)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
-| **[MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement](https://arxiv.org/abs/2507.00966v4)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Audio, Speech, and Language Processing</p></details> |
-| **[Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models](https://arxiv.org/abs/2511.07253v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to IEEE ICASSP 2026 (camera-ready version). Project website (code and model weights): https://umbertocappellazzo.github.io/Omni-AVSR/</p></details> |
-| **[DRGW: Learning Disentangled Representations for Robust Graph Watermarking](https://arxiv.org/abs/2601.13569v2)** | 2026-01-21 | <details><summary>Publi...</summary><p>Published at The Web Conference 2026 (WWW '26)</p></details> |
 
