@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v1)** | 2026-01-27 |  |
+| **[Propagating Similarity, Mitigating Uncertainty: Similarity Propagation-enhanced Uncertainty for Multimodal Recommendation](https://arxiv.org/abs/2601.19198v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
 | **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v2)** | 2026-01-24 |  |
 | **[Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation](https://arxiv.org/abs/2601.11151v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted to ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</p></details> |
 | **[Are Multimodal Embeddings Truly Beneficial for Recommendation? A Deep Dive into Whole vs. Individual Modalities](https://arxiv.org/abs/2508.07399v3)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ECIR 2026</p></details> |
@@ -35,25 +37,23 @@ labels: documentation
 | **[LEMUR: Large scale End-to-end MUltimodal Recommendation](https://arxiv.org/abs/2511.10962v2)** | 2025-11-17 |  |
 | **[Enhancing Multimodal Recommendations with Vision-Language Models and Information-Aware Fusion](https://arxiv.org/abs/2511.02113v2)** | 2025-11-10 |  |
 | **[Structurally Refined Graph Transformer for Multimodal Recommendation](https://arxiv.org/abs/2511.00584v1)** | 2025-11-01 | <details><summary>Comme...</summary><p>Comment: 13 pages, 7 figures, accepted by IEEE Transactions on Multimedia 2025</p></details> |
-| **[PolyRecommender: A Multimodal Recommendation System for Polymer Discovery](https://arxiv.org/abs/2511.00375v1)** | 2025-11-01 |  |
-| **[X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation](https://arxiv.org/abs/2408.15172v2)** | 2025-10-23 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Convexified Message-Passing Graph Neural Networks](https://arxiv.org/abs/2505.18289v2)** | 2026-01-25 | <details><summary>To Ap...</summary><p>To Appear in 29th Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026</p></details> |
-| **[UniPACT: A Multimodal Framework for Prognostic Question Answering on Raw ECG and Structured EHR](https://arxiv.org/abs/2601.17916v1)** | 2026-01-25 | <details><summary>Accep...</summary><p>Accepted to IEEE ICASSP 2026</p></details> |
-| **[Multimodal Trajectory Representation Learning for Travel Time Estimation](https://arxiv.org/abs/2510.05840v2)** | 2026-01-25 |  |
-| **[PVLM: Parsing-Aware Vision Language Model with Dynamic Contrastive Learning for Zero-Shot Deepfake Attribution](https://arxiv.org/abs/2504.14129v3)** | 2026-01-25 |  |
-| **[NeuroKoop: Neural Koopman Fusion of Structural-Functional Connectomes for Identifying Prenatal Drug Exposure in Adolescents](https://arxiv.org/abs/2508.16414v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE Xplore. DOI: 10.1109/BHI67747.2025.11269557</p></details> |
-| **[PEARL: Prototype-Enhanced Alignment for Label-Efficient Representation Learning with Deployment-Driven Insights from Digital Governance Communication Systems](https://arxiv.org/abs/2601.17495v1)** | 2026-01-24 | 15 pages, 1 figure |
-| **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v2)** | 2026-01-24 |  |
-| **[Embodiment-Induced Coordination Regimes in Tabular Multi-Agent Q-Learning](https://arxiv.org/abs/2601.17454v1)** | 2026-01-24 |  |
-| **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v3)** | 2026-01-24 |  |
-| **[Style2Code: A Style-Controllable Code Generation Framework with Dual-Modal Contrastive Representation Learning](https://arxiv.org/abs/2505.19442v4)** | 2026-01-24 |  |
-| **[GO-OSC and VASH: Geometry-Aware Representation Learning for Early Degradation Detection in Oscillatory Systems](https://arxiv.org/abs/2601.17396v1)** | 2026-01-24 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Includes theoretical analysis, ablation studies, and experiments on synthetic and real vibration datasets. Code available</p></details> |
-| **[SMV-EAR: Bring Spatiotemporal Multi-View Representation Learning into Efficient Event-Based Action Recognition](https://arxiv.org/abs/2601.17391v1)** | 2026-01-24 |  |
-| **[Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation](https://arxiv.org/abs/2506.11777v3)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[SONAR: Self-Distilled Continual Pre-training for Domain Adaptive Audio Representation](https://arxiv.org/abs/2509.15703v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
-| **[Combating Spurious Correlations in Graph Interpretability via Self-Reflection](https://arxiv.org/abs/2601.11021v2)** | 2026-01-23 |  |
+| **[LaCoGSEA: Unsupervised deep learning for pathway analysis via latent correlation](https://arxiv.org/abs/2601.18604v2)** | 2026-01-27 |  |
+| **[TwinPurify: Purifying gene expression data to reveal tumor-intrinsic transcriptional programs via self-supervised learning](https://arxiv.org/abs/2601.18640v2)** | 2026-01-27 |  |
+| **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](https://arxiv.org/abs/2601.19597v1)** | 2026-01-27 |  |
+| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v1)** | 2026-01-27 |  |
+| **[PCEvo: Path-Consistent Molecular Representation via Virtual Evolutionary](https://arxiv.org/abs/2601.19257v1)** | 2026-01-27 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[Causal Effect Estimation under Networked Interference without Networked Unconfoundedness Assumption](https://arxiv.org/abs/2502.19741v3)** | 2026-01-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2405.03342</p></details> |
+| **[MoRA: Mobility as the Backbone for Geospatial Representation Learning at Scale](https://arxiv.org/abs/2506.01297v4)** | 2026-01-27 |  |
+| **[Temporal Lifting as Latent-Space Regularization for Continuous-Time Flow Models in AI Systems](https://arxiv.org/abs/2510.09805v2)** | 2026-01-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 1 table, 1 algorithm</p></details> |
+| **[A Genealogy of Foundation Models in Remote Sensing](https://arxiv.org/abs/2504.17177v3)** | 2026-01-27 | <details><summary>28 pa...</summary><p>28 pages, submitted to ACM SigSpatial, accepted as of January 12th, 2026. This is the second revision from the original 20-page manuscript</p></details> |
+| **[Joint Diffusion for Universal Hand-Object Grasp Generation](https://arxiv.org/abs/2409.04560v2)** | 2026-01-26 | accepted by TMLR |
+| **[Link Representation Learning for Probabilistic Travel Time Estimation](https://arxiv.org/abs/2407.05895v2)** | 2026-01-26 |  |
+| **[Causal Graph Neural Networks for Healthcare](https://arxiv.org/abs/2511.02531v4)** | 2026-01-26 |  |
+| **[Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models](https://arxiv.org/abs/2511.07253v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted to IEEE ICASSP 2026 (camera-ready version). Project website (code and model weights): https://umbertocappellazzo.github.io/Omni-AVSR/</p></details> |
+| **[DeFM: Learning Foundation Representations from Depth for Robotics](https://arxiv.org/abs/2601.18923v1)** | 2026-01-26 | <details><summary>Under...</summary><p>Under review, 19 pages, 15 Figures, 9 Tables</p></details> |
+| **[Learning to Discover: A Generalized Framework for Raga Identification without Forgetting](https://arxiv.org/abs/2601.18766v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at NCC 2026 conference</p></details> |
 
