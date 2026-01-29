@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Domain-Invariant Representation Learning of Bird Sounds](https://arxiv.org/abs/2409.08589v8)** | 2026-01-28 |  |
+| **[Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification](https://arxiv.org/abs/2601.20742v1)** | 2026-01-28 |  |
+| **[Deep SPI: Safe Policy Improvement via World Models](https://arxiv.org/abs/2510.12312v2)** | 2026-01-28 | <details><summary>ICLR ...</summary><p>ICLR 2026, 10 pages main text, 21 pages appendix (excluding references)</p></details> |
+| **[Simplicity is Key: An Unsupervised Pretraining Approach for Sparse Radio Channels](https://arxiv.org/abs/2505.13055v3)** | 2026-01-28 | 8 pages, 1 figure |
+| **[MSPCaps: A Multi-Scale Patchify Capsule Network with Cross-Agreement Routing for Visual Recognition](https://arxiv.org/abs/2508.16922v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 4 figures; Code is available at https://github.com/abdn-hyd/MSPCaps</p></details> |
+| **[MiLorE-SSL: Scaling Multilingual Capabilities in Self-Supervised Models without Forgetting](https://arxiv.org/abs/2601.20300v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering](https://arxiv.org/abs/2601.14720v2)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages. This paper is accepted at 2026 ACM Web Conference (WWW)</p></details> |
+| **[Spectral Ghost in Representation Learning: from Component Analysis to Self-Supervised Learning](https://arxiv.org/abs/2601.20154v1)** | 2026-01-28 | 43 pages, 3 figures |
+| **[Sparse CLIP: Co-Optimizing Interpretability and Performance in Contrastive Learning](https://arxiv.org/abs/2601.20075v1)** | 2026-01-27 |  |
+| **[Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning](https://arxiv.org/abs/2510.02091v4)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
+| **[Improving Policy Exploitation in Online Reinforcement Learning with Instant Retrospect Action](https://arxiv.org/abs/2601.19720v1)** | 2026-01-27 |  |
 | **[LaCoGSEA: Unsupervised deep learning for pathway analysis via latent correlation](https://arxiv.org/abs/2601.18604v2)** | 2026-01-27 |  |
 | **[TwinPurify: Purifying gene expression data to reveal tumor-intrinsic transcriptional programs via self-supervised learning](https://arxiv.org/abs/2601.18640v2)** | 2026-01-27 |  |
 | **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](https://arxiv.org/abs/2601.19597v1)** | 2026-01-27 |  |
 | **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v1)** | 2026-01-27 |  |
-| **[PCEvo: Path-Consistent Molecular Representation via Virtual Evolutionary](https://arxiv.org/abs/2601.19257v1)** | 2026-01-27 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
-| **[Causal Effect Estimation under Networked Interference without Networked Unconfoundedness Assumption](https://arxiv.org/abs/2502.19741v3)** | 2026-01-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2405.03342</p></details> |
-| **[MoRA: Mobility as the Backbone for Geospatial Representation Learning at Scale](https://arxiv.org/abs/2506.01297v4)** | 2026-01-27 |  |
-| **[Temporal Lifting as Latent-Space Regularization for Continuous-Time Flow Models in AI Systems](https://arxiv.org/abs/2510.09805v2)** | 2026-01-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 1 table, 1 algorithm</p></details> |
-| **[A Genealogy of Foundation Models in Remote Sensing](https://arxiv.org/abs/2504.17177v3)** | 2026-01-27 | <details><summary>28 pa...</summary><p>28 pages, submitted to ACM SigSpatial, accepted as of January 12th, 2026. This is the second revision from the original 20-page manuscript</p></details> |
-| **[Joint Diffusion for Universal Hand-Object Grasp Generation](https://arxiv.org/abs/2409.04560v2)** | 2026-01-26 | accepted by TMLR |
-| **[Link Representation Learning for Probabilistic Travel Time Estimation](https://arxiv.org/abs/2407.05895v2)** | 2026-01-26 |  |
-| **[Causal Graph Neural Networks for Healthcare](https://arxiv.org/abs/2511.02531v4)** | 2026-01-26 |  |
-| **[Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models](https://arxiv.org/abs/2511.07253v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted to IEEE ICASSP 2026 (camera-ready version). Project website (code and model weights): https://umbertocappellazzo.github.io/Omni-AVSR/</p></details> |
-| **[DeFM: Learning Foundation Representations from Depth for Robotics](https://arxiv.org/abs/2601.18923v1)** | 2026-01-26 | <details><summary>Under...</summary><p>Under review, 19 pages, 15 Figures, 9 Tables</p></details> |
-| **[Learning to Discover: A Generalized Framework for Raga Identification without Forgetting](https://arxiv.org/abs/2601.18766v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at NCC 2026 conference</p></details> |
 
