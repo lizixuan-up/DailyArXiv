@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,7 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v1)** | 2026-01-27 |  |
+| **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v2)** | 2026-01-29 |  |
 | **[Propagating Similarity, Mitigating Uncertainty: Similarity Propagation-enhanced Uncertainty for Multimodal Recommendation](https://arxiv.org/abs/2601.19198v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
 | **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v2)** | 2026-01-24 |  |
 | **[Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation](https://arxiv.org/abs/2601.11151v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted to ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</p></details> |
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Domain-Invariant Representation Learning of Bird Sounds](https://arxiv.org/abs/2409.08589v8)** | 2026-01-28 |  |
-| **[Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification](https://arxiv.org/abs/2601.20742v1)** | 2026-01-28 |  |
-| **[Deep SPI: Safe Policy Improvement via World Models](https://arxiv.org/abs/2510.12312v2)** | 2026-01-28 | <details><summary>ICLR ...</summary><p>ICLR 2026, 10 pages main text, 21 pages appendix (excluding references)</p></details> |
-| **[Simplicity is Key: An Unsupervised Pretraining Approach for Sparse Radio Channels](https://arxiv.org/abs/2505.13055v3)** | 2026-01-28 | 8 pages, 1 figure |
-| **[MSPCaps: A Multi-Scale Patchify Capsule Network with Cross-Agreement Routing for Visual Recognition](https://arxiv.org/abs/2508.16922v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 4 figures; Code is available at https://github.com/abdn-hyd/MSPCaps</p></details> |
-| **[MiLorE-SSL: Scaling Multilingual Capabilities in Self-Supervised Models without Forgetting](https://arxiv.org/abs/2601.20300v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
-| **[PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering](https://arxiv.org/abs/2601.14720v2)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages. This paper is accepted at 2026 ACM Web Conference (WWW)</p></details> |
-| **[Spectral Ghost in Representation Learning: from Component Analysis to Self-Supervised Learning](https://arxiv.org/abs/2601.20154v1)** | 2026-01-28 | 43 pages, 3 figures |
-| **[Sparse CLIP: Co-Optimizing Interpretability and Performance in Contrastive Learning](https://arxiv.org/abs/2601.20075v1)** | 2026-01-27 |  |
-| **[Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning](https://arxiv.org/abs/2510.02091v4)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[Improving Policy Exploitation in Online Reinforcement Learning with Instant Retrospect Action](https://arxiv.org/abs/2601.19720v1)** | 2026-01-27 |  |
-| **[LaCoGSEA: Unsupervised deep learning for pathway analysis via latent correlation](https://arxiv.org/abs/2601.18604v2)** | 2026-01-27 |  |
-| **[TwinPurify: Purifying gene expression data to reveal tumor-intrinsic transcriptional programs via self-supervised learning](https://arxiv.org/abs/2601.18640v2)** | 2026-01-27 |  |
-| **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](https://arxiv.org/abs/2601.19597v1)** | 2026-01-27 |  |
-| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v1)** | 2026-01-27 |  |
+| **[Cross-Fusion Distance: A Novel Metric for Measuring Fusion and Separability Between Data Groups in Representation Space](https://arxiv.org/abs/2601.22036v1)** | 2026-01-29 | 19 pages |
+| **[Robust Multimodal Representation Learning in Healthcare](https://arxiv.org/abs/2601.21941v1)** | 2026-01-29 |  |
+| **[Independent Component Discovery in Temporal Count Data](https://arxiv.org/abs/2601.21696v1)** | 2026-01-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Appendix provided</p></details> |
+| **[IBNorm: Information-Bottleneck Inspired Normalization for Representation Learning](https://arxiv.org/abs/2510.25262v2)** | 2026-01-29 |  |
+| **[XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision](https://arxiv.org/abs/2601.21688v1)** | 2026-01-29 |  |
+| **[Rethinking Fusion: Disentangled Learning of Shared and Modality-Specific Information for Stance Detection](https://arxiv.org/abs/2601.21675v1)** | 2026-01-29 | ICASSP 2026 |
+| **[Multimodal Visual Surrogate Compression for Alzheimer's Disease Classification](https://arxiv.org/abs/2601.21673v1)** | 2026-01-29 |  |
+| **[Heterogeneity-Aware Knowledge Sharing for Graph Federated Learning](https://arxiv.org/abs/2601.21589v1)** | 2026-01-29 | 33 pages |
+| **[FlexCausal: Flexible Causal Disentanglement via Structural Flow Priors and Manifold-Aware Interventions](https://arxiv.org/abs/2601.21567v1)** | 2026-01-29 |  |
+| **[Entropy Guided Dynamic Patch Segmentation for Time Series Transformers](https://arxiv.org/abs/2509.26157v2)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[Fast and Geometrically Grounded Lorentz Neural Networks](https://arxiv.org/abs/2601.21529v1)** | 2026-01-29 | 19 pages, 4 figures |
+| **[LMK > CLS: Landmark Pooling for Dense Embeddings](https://arxiv.org/abs/2601.21525v1)** | 2026-01-29 |  |
+| **[Synthetic Pattern Generation and Detection of Financial Activities using Graph Autoencoders](https://arxiv.org/abs/2601.21446v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accept to The 7th International Workshop on Statistical Methods and Artificial Intelligence (IWSMAI'26)</p></details> |
+| **[Lossy Common Information in a Learnable Gray-Wyner Network](https://arxiv.org/abs/2601.21424v1)** | 2026-01-29 |  |
+| **[Factored Causal Representation Learning for Robust Reward Modeling in RLHF](https://arxiv.org/abs/2601.21350v1)** | 2026-01-29 |  |
 
