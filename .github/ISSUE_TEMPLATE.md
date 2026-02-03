@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2026
+title: Latest 15 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Trustworthy Multimodal Recommendation](https://arxiv.org/abs/2602.00730v1)** | 2026-01-31 | <details><summary>Prepr...</summary><p>Preprint, 10 pages, 5 figures</p></details> |
+| **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v1)** | 2026-01-31 | Under Review |
 | **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v3)** | 2026-01-30 |  |
 | **[FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning](https://arxiv.org/abs/2601.22498v1)** | 2026-01-30 |  |
 | **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v2)** | 2026-01-29 |  |
@@ -35,25 +37,23 @@ labels: documentation
 | **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v1)** | 2025-12-07 |  |
 | **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v1)** | 2025-12-02 | Submitted to KDD2026 |
 | **[Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation using Knowledge Soft Integration](https://arxiv.org/abs/2305.07419v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
-| **[LEMUR: Large scale End-to-end MUltimodal Recommendation](https://arxiv.org/abs/2511.10962v2)** | 2025-11-17 |  |
-| **[Enhancing Multimodal Recommendations with Vision-Language Models and Information-Aware Fusion](https://arxiv.org/abs/2511.02113v2)** | 2025-11-10 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Omni-fMRI: A Universal Atlas-Free fMRI Foundation Model](https://arxiv.org/abs/2601.23090v1)** | 2026-01-30 |  |
-| **[Quasiparticle Interference Kernel Extraction with Variational Autoencoders via Latent Alignment](https://arxiv.org/abs/2506.05325v2)** | 2026-01-30 |  |
-| **[OptiMAG: Structure-Semantic Alignment via Unbalanced Optimal Transport](https://arxiv.org/abs/2601.22856v1)** | 2026-01-30 |  |
-| **[Inference-Time Dynamic Modality Selection for Incomplete Multimodal Classification](https://arxiv.org/abs/2601.22853v1)** | 2026-01-30 | <details><summary>27 pa...</summary><p>27 pages (including appendix), accepted by ICLR 2026</p></details> |
-| **[Aligning the Unseen in Attributed Graphs: Interplay between Graph Geometry and Node Attributes Manifold](https://arxiv.org/abs/2601.22806v1)** | 2026-01-30 |  |
-| **[Representation Learning for Extrapolation in Perturbation Modeling](https://arxiv.org/abs/2504.18522v2)** | 2026-01-30 | <details><summary>Prepr...</summary><p>Preprint; previous version presented at the ICLR'25 Workshop on Learning Meaningful Representations of Life</p></details> |
-| **[Parameter conditioned interpretable U-Net surrogate model for data-driven predictions of convection-diffusion-reaction processes](https://arxiv.org/abs/2601.22654v1)** | 2026-01-30 |  |
-| **[Local-Global Multimodal Contrastive Learning for Molecular Property Prediction](https://arxiv.org/abs/2601.22610v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Submitted to Briefings in Bioinformatics</p></details> |
-| **[FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning](https://arxiv.org/abs/2601.22498v1)** | 2026-01-30 |  |
-| **[Action-Sufficient Goal Representations](https://arxiv.org/abs/2601.22496v1)** | 2026-01-30 |  |
-| **[CoDCL: Counterfactual Data Augmentation Contrastive Learning for Continuous-Time Dynamic Network Link Prediction](https://arxiv.org/abs/2601.22427v1)** | 2026-01-30 |  |
-| **[In-Context Semi-Supervised Learning](https://arxiv.org/abs/2512.15934v2)** | 2026-01-29 |  |
-| **[Graph is a Substrate Across Data Modalities](https://arxiv.org/abs/2601.22384v1)** | 2026-01-29 | <details><summary>Graph...</summary><p>Graph structure across data modalities</p></details> |
-| **[Cross-Fusion Distance: A Novel Metric for Measuring Fusion and Separability Between Data Groups in Representation Space](https://arxiv.org/abs/2601.22036v1)** | 2026-01-29 | 19 pages |
-| **[Robust Multimodal Representation Learning in Healthcare](https://arxiv.org/abs/2601.21941v1)** | 2026-01-29 |  |
+| **[Mixture of Disentangled Experts with Missing Modalities for Robust Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.01833v1)** | 2026-02-02 |  |
+| **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v1)** | 2026-02-02 |  |
+| **[Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction](https://arxiv.org/abs/2510.04714v3)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
+| **[Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/abs/2601.15475v2)** | 2026-02-02 |  |
+| **[EgoFSD: Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient End-to-End Self-Driving](https://arxiv.org/abs/2409.09777v5)** | 2026-02-02 | Accepted to ICRA2026 |
+| **[DIA-CLIP: a universal representation learning framework for zero-shot DIA proteomics](https://arxiv.org/abs/2602.01772v1)** | 2026-02-02 | 21 pages, 5 figures |
+| **[Mutual-Guided Expert Collaboration for Cross-Subject EEG Classification](https://arxiv.org/abs/2602.01728v1)** | 2026-02-02 |  |
+| **[COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection](https://arxiv.org/abs/2602.01635v1)** | 2026-02-02 |  |
+| **[UNIC: Learning Unified Multimodal Extrinsic Contact Estimation](https://arxiv.org/abs/2601.04356v2)** | 2026-02-02 |  |
+| **[Toward Enhancing Representation Learning in Federated Multi-Task Settings](https://arxiv.org/abs/2602.01626v1)** | 2026-02-02 | <details><summary>This ...</summary><p>This paper has been accepted at ICLR 2026</p></details> |
+| **[ToPT: Task-Oriented Prompt Tuning for Urban Region Representation Learning](https://arxiv.org/abs/2602.01610v1)** | 2026-02-02 | <details><summary>The p...</summary><p>The paper has been accepted by ICASSP 2026</p></details> |
+| **[UniDWM: Towards a Unified Driving World Model via Multifaceted Representation Learning](https://arxiv.org/abs/2602.01536v1)** | 2026-02-02 |  |
+| **[Community-Level Modeling of Gyral Folding Patterns for Robust and Anatomically Informed Individualized Brain Mapping](https://arxiv.org/abs/2602.01482v1)** | 2026-02-01 |  |
+| **[Fusing Multi- and Hyperspectral Satellite Data for Harmful Algal Bloom Monitoring with Self-Supervised and Hierarchical Deep Learning](https://arxiv.org/abs/2510.02763v3)** | 2026-02-01 |  |
+| **[PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.01359v1)** | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
 
