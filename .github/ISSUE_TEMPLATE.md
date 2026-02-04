@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mixture of Disentangled Experts with Missing Modalities for Robust Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.01833v1)** | 2026-02-02 |  |
-| **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v1)** | 2026-02-02 |  |
-| **[Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction](https://arxiv.org/abs/2510.04714v3)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
-| **[Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/abs/2601.15475v2)** | 2026-02-02 |  |
-| **[EgoFSD: Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient End-to-End Self-Driving](https://arxiv.org/abs/2409.09777v5)** | 2026-02-02 | Accepted to ICRA2026 |
-| **[DIA-CLIP: a universal representation learning framework for zero-shot DIA proteomics](https://arxiv.org/abs/2602.01772v1)** | 2026-02-02 | 21 pages, 5 figures |
-| **[Mutual-Guided Expert Collaboration for Cross-Subject EEG Classification](https://arxiv.org/abs/2602.01728v1)** | 2026-02-02 |  |
-| **[COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection](https://arxiv.org/abs/2602.01635v1)** | 2026-02-02 |  |
-| **[UNIC: Learning Unified Multimodal Extrinsic Contact Estimation](https://arxiv.org/abs/2601.04356v2)** | 2026-02-02 |  |
-| **[Toward Enhancing Representation Learning in Federated Multi-Task Settings](https://arxiv.org/abs/2602.01626v1)** | 2026-02-02 | <details><summary>This ...</summary><p>This paper has been accepted at ICLR 2026</p></details> |
-| **[ToPT: Task-Oriented Prompt Tuning for Urban Region Representation Learning](https://arxiv.org/abs/2602.01610v1)** | 2026-02-02 | <details><summary>The p...</summary><p>The paper has been accepted by ICASSP 2026</p></details> |
-| **[UniDWM: Towards a Unified Driving World Model via Multifaceted Representation Learning](https://arxiv.org/abs/2602.01536v1)** | 2026-02-02 |  |
-| **[Community-Level Modeling of Gyral Folding Patterns for Robust and Anatomically Informed Individualized Brain Mapping](https://arxiv.org/abs/2602.01482v1)** | 2026-02-01 |  |
-| **[Fusing Multi- and Hyperspectral Satellite Data for Harmful Algal Bloom Monitoring with Self-Supervised and Hierarchical Deep Learning](https://arxiv.org/abs/2510.02763v3)** | 2026-02-01 |  |
-| **[PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.01359v1)** | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604v1)** | 2026-02-03 |  |
+| **[Accurate and Efficient World Modeling with Masked Latent Transformers](https://arxiv.org/abs/2507.04075v2)** | 2026-02-03 |  |
+| **[Asymmetric Hierarchical Anchoring for Audio-Visual Joint Representation: Resolving Information Allocation Ambiguity for Robust Cross-Modal Generalization](https://arxiv.org/abs/2602.03570v1)** | 2026-02-03 | 18 pages, 11 figures |
+| **[Robust Representation Learning in Masked Autoencoders](https://arxiv.org/abs/2602.03531v1)** | 2026-02-03 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, and 3 tables</p></details> |
+| **[CMR: Contractive Mapping Embeddings for Robust Humanoid Locomotion on Unstructured Terrains](https://arxiv.org/abs/2602.03511v1)** | 2026-02-03 |  |
+| **[Beyond Predictive Uncertainty: Reliable Representation Learning with Structural Constraints](https://arxiv.org/abs/2601.16174v2)** | 2026-02-03 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 5 propositions</p></details> |
+| **[From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning](https://arxiv.org/abs/2602.03390v1)** | 2026-02-03 | <details><summary>ICLR ...</summary><p>ICLR 2026; Code is available at https://github.com/hynnsk/SRL</p></details> |
+| **[Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study](https://arxiv.org/abs/2509.14863v2)** | 2026-02-03 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-51718-4}</p></details> |
+| **[Global Geometry Is Not Enough for Vision Representations](https://arxiv.org/abs/2602.03282v1)** | 2026-02-03 |  |
+| **[HypCBC: Domain-Invariant Hyperbolic Cross-Branch Consistency for Generalizable Medical Image Analysis](https://arxiv.org/abs/2602.03264v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[Variational Approach for Job Shop Scheduling](https://arxiv.org/abs/2602.00408v2)** | 2026-02-03 |  |
+| **[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743v4)** | 2026-02-03 | <details><summary>First...</summary><p>First two authors contributed equally. Accepted at NeurIPS 2025</p></details> |
+| **[Causality Guided Representation Learning for Cross-Style Hate Speech Detection](https://arxiv.org/abs/2510.07707v2)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted by the ACM Web Conference 2026 (WWW 26)</p></details> |
+| **[COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection](https://arxiv.org/abs/2602.01635v2)** | 2026-02-03 |  |
+| **[NEST: Nested Event Stream Transformer for Sequences of Multisets](https://arxiv.org/abs/2602.00520v2)** | 2026-02-03 | 11 pages |
 
