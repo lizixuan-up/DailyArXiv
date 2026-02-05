@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contrastive Continual Learning for Model Adaptability in Internet of Things](https://arxiv.org/abs/2602.04881v1)** | 2026-02-04 |  |
+| **[UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning](https://arxiv.org/abs/2509.06165v5)** | 2026-02-04 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. Accepted at WACV 2026</p></details> |
+| **[Graph Persistence goes Spectral](https://arxiv.org/abs/2506.06571v3)** | 2026-02-04 | <details><summary>32 pa...</summary><p>32 pages, 4 figures, 7 tables. Accepted at NeurIPS 2025. Final version, clarified minor bug</p></details> |
+| **[Comparing Task-Agnostic Embedding Models for Tabular Data](https://arxiv.org/abs/2511.14276v2)** | 2026-02-04 |  |
+| **[Continual Learning through Control Minimization](https://arxiv.org/abs/2602.04542v1)** | 2026-02-04 |  |
+| **[Multiview Self-Representation Learning across Heterogeneous Views](https://arxiv.org/abs/2602.04328v1)** | 2026-02-04 | 12 pages |
+| **[Language Models Struggle to Use Representations Learned In-Context](https://arxiv.org/abs/2602.04212v1)** | 2026-02-04 |  |
+| **[Information Shapes Koopman Representation](https://arxiv.org/abs/2510.13025v2)** | 2026-02-04 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[LatentTune: Efficient Tuning of High Dimensional Database Parameters via Latent Representation Learning](https://arxiv.org/abs/2602.04190v1)** | 2026-02-04 | 11 pages |
+| **[Budgeted Embedding Table For Recommender Systems](https://arxiv.org/abs/2310.14884v8)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to WSDM 2024. Code is available at https://github.com/qykcq/Budgeted-Embedding-Table-For-Recommender-Systems</p></details> |
+| **[Are Graph Attention Networks Able to Model Structural Information?](https://arxiv.org/abs/2505.21288v2)** | 2026-02-04 | <details><summary>15 pa...</summary><p>15 pages including appendix. The paper is complete</p></details> |
+| **[DADP: Domain Adaptive Diffusion Policy](https://arxiv.org/abs/2602.04037v1)** | 2026-02-03 |  |
+| **[Group Contrastive Learning for Weakly Paired Multimodal Data](https://arxiv.org/abs/2602.04021v1)** | 2026-02-03 |  |
 | **[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604v1)** | 2026-02-03 |  |
 | **[Accurate and Efficient World Modeling with Masked Latent Transformers](https://arxiv.org/abs/2507.04075v2)** | 2026-02-03 |  |
-| **[Asymmetric Hierarchical Anchoring for Audio-Visual Joint Representation: Resolving Information Allocation Ambiguity for Robust Cross-Modal Generalization](https://arxiv.org/abs/2602.03570v1)** | 2026-02-03 | 18 pages, 11 figures |
-| **[Robust Representation Learning in Masked Autoencoders](https://arxiv.org/abs/2602.03531v1)** | 2026-02-03 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, and 3 tables</p></details> |
-| **[CMR: Contractive Mapping Embeddings for Robust Humanoid Locomotion on Unstructured Terrains](https://arxiv.org/abs/2602.03511v1)** | 2026-02-03 |  |
-| **[Beyond Predictive Uncertainty: Reliable Representation Learning with Structural Constraints](https://arxiv.org/abs/2601.16174v2)** | 2026-02-03 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 5 propositions</p></details> |
-| **[From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning](https://arxiv.org/abs/2602.03390v1)** | 2026-02-03 | <details><summary>ICLR ...</summary><p>ICLR 2026; Code is available at https://github.com/hynnsk/SRL</p></details> |
-| **[Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study](https://arxiv.org/abs/2509.14863v2)** | 2026-02-03 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-51718-4}</p></details> |
-| **[Global Geometry Is Not Enough for Vision Representations](https://arxiv.org/abs/2602.03282v1)** | 2026-02-03 |  |
-| **[HypCBC: Domain-Invariant Hyperbolic Cross-Branch Consistency for Generalizable Medical Image Analysis](https://arxiv.org/abs/2602.03264v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Variational Approach for Job Shop Scheduling](https://arxiv.org/abs/2602.00408v2)** | 2026-02-03 |  |
-| **[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743v4)** | 2026-02-03 | <details><summary>First...</summary><p>First two authors contributed equally. Accepted at NeurIPS 2025</p></details> |
-| **[Causality Guided Representation Learning for Cross-Style Hate Speech Detection](https://arxiv.org/abs/2510.07707v2)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted by the ACM Web Conference 2026 (WWW 26)</p></details> |
-| **[COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection](https://arxiv.org/abs/2602.01635v2)** | 2026-02-03 |  |
-| **[NEST: Nested Event Stream Transformer for Sequences of Multisets](https://arxiv.org/abs/2602.00520v2)** | 2026-02-03 | 11 pages |
 
