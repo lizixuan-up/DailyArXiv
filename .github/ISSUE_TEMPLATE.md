@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LMMRec: LLM-driven Motivation-aware Multimodal Recommendation](https://arxiv.org/abs/2602.05474v1)** | 2026-02-05 |  |
 | **[Towards Trustworthy Multimodal Recommendation](https://arxiv.org/abs/2602.00730v1)** | 2026-01-31 | <details><summary>Prepr...</summary><p>Preprint, 10 pages, 5 figures</p></details> |
 | **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v1)** | 2026-01-31 | Under Review |
 | **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v3)** | 2026-01-30 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation](https://arxiv.org/abs/2512.08702v1)** | 2025-12-09 | Accepted by KDD 2026 |
 | **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v1)** | 2025-12-07 |  |
 | **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v1)** | 2025-12-02 | Submitted to KDD2026 |
-| **[Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation using Knowledge Soft Integration](https://arxiv.org/abs/2305.07419v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Contrastive Continual Learning for Model Adaptability in Internet of Things](https://arxiv.org/abs/2602.04881v1)** | 2026-02-04 |  |
-| **[UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning](https://arxiv.org/abs/2509.06165v5)** | 2026-02-04 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. Accepted at WACV 2026</p></details> |
-| **[Graph Persistence goes Spectral](https://arxiv.org/abs/2506.06571v3)** | 2026-02-04 | <details><summary>32 pa...</summary><p>32 pages, 4 figures, 7 tables. Accepted at NeurIPS 2025. Final version, clarified minor bug</p></details> |
-| **[Comparing Task-Agnostic Embedding Models for Tabular Data](https://arxiv.org/abs/2511.14276v2)** | 2026-02-04 |  |
-| **[Continual Learning through Control Minimization](https://arxiv.org/abs/2602.04542v1)** | 2026-02-04 |  |
-| **[Multiview Self-Representation Learning across Heterogeneous Views](https://arxiv.org/abs/2602.04328v1)** | 2026-02-04 | 12 pages |
-| **[Language Models Struggle to Use Representations Learned In-Context](https://arxiv.org/abs/2602.04212v1)** | 2026-02-04 |  |
-| **[Information Shapes Koopman Representation](https://arxiv.org/abs/2510.13025v2)** | 2026-02-04 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[LatentTune: Efficient Tuning of High Dimensional Database Parameters via Latent Representation Learning](https://arxiv.org/abs/2602.04190v1)** | 2026-02-04 | 11 pages |
-| **[Budgeted Embedding Table For Recommender Systems](https://arxiv.org/abs/2310.14884v8)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to WSDM 2024. Code is available at https://github.com/qykcq/Budgeted-Embedding-Table-For-Recommender-Systems</p></details> |
-| **[Are Graph Attention Networks Able to Model Structural Information?](https://arxiv.org/abs/2505.21288v2)** | 2026-02-04 | <details><summary>15 pa...</summary><p>15 pages including appendix. The paper is complete</p></details> |
-| **[DADP: Domain Adaptive Diffusion Policy](https://arxiv.org/abs/2602.04037v1)** | 2026-02-03 |  |
-| **[Group Contrastive Learning for Weakly Paired Multimodal Data](https://arxiv.org/abs/2602.04021v1)** | 2026-02-03 |  |
-| **[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604v1)** | 2026-02-03 |  |
-| **[Accurate and Efficient World Modeling with Masked Latent Transformers](https://arxiv.org/abs/2507.04075v2)** | 2026-02-03 |  |
+| **[Orthogonal Self-Attention](https://arxiv.org/abs/2602.05996v1)** | 2026-02-05 | Preprint |
+| **[GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra](https://arxiv.org/abs/2506.08194v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Camera ready version</p></details> |
+| **[CSRv2: Unlocking Ultra-Sparse Embeddings](https://arxiv.org/abs/2602.05735v1)** | 2026-02-05 | Accepted by ICLR2026 |
+| **[Test-time Adaptive Hierarchical Co-enhanced Denoising Network for Reliable Multimodal Classification](https://arxiv.org/abs/2601.07163v2)** | 2026-02-05 | <details><summary>14 pa...</summary><p>14 pages,9 figures, 8 tables</p></details> |
+| **[Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation](https://arxiv.org/abs/2602.05544v1)** | 2026-02-05 |  |
+| **[Phi-Former: A Pairwise Hierarchical Approach for Compound-Protein Interactions Prediction](https://arxiv.org/abs/2602.05479v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to BIBM 2025. 6 pages, 5 figures</p></details> |
+| **[Refine and Purify: Orthogonal Basis Optimization with Null-Space Denoising for Conditional Representation Learning](https://arxiv.org/abs/2602.05464v1)** | 2026-02-05 |  |
+| **[When Are RL Hyperparameters Benign? A Study in Offline Goal-Conditioned RL](https://arxiv.org/abs/2602.05459v1)** | 2026-02-05 | 27 pages, 19 figures |
+| **[Physics-Driven Local-Whole Elastic Deformation Modeling for Point Cloud Representation Learning](https://arxiv.org/abs/2505.13812v3)** | 2026-02-05 |  |
+| **[Learning with Adaptive Prototype Manifolds for Out-of-Distribution Detection](https://arxiv.org/abs/2602.05349v1)** | 2026-02-05 |  |
+| **[SurgLaVi: Large-Scale Hierarchical Dataset for Surgical Vision-Language Representation Learning](https://arxiv.org/abs/2509.10555v2)** | 2026-02-05 |  |
+| **[Disentangled Representation Learning via Flow Matching](https://arxiv.org/abs/2602.05214v1)** | 2026-02-05 |  |
+| **[GMAC: Global Multi-View Constraint for Automatic Multi-Camera Extrinsic Calibration](https://arxiv.org/abs/2602.01033v2)** | 2026-02-05 | <details><summary>A 5-p...</summary><p>A 5-page paper with 1 figure, prepared for submission to the 2026 IEEE International Conference on Image Processing (ICIP)</p></details> |
+| **[SHaSaM: Submodular Hard Sample Mining for Fair Facial Attribute Recognition](https://arxiv.org/abs/2602.05162v1)** | 2026-02-05 | <details><summary>21 pa...</summary><p>21 pages, 7 tables, 10 figures</p></details> |
+| **[Neural Networks Learn Generic Multi-Index Models Near Information-Theoretic Limit](https://arxiv.org/abs/2511.15120v2)** | 2026-02-04 | <details><summary>85 pa...</summary><p>85 pages, 2 figures. The order of the first two authors was determined by a coin flip. Accepted by ICLR 2026</p></details> |
 
