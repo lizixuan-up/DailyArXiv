@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 08, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Core to Detail: Unsupervised Disentanglement with Entropy-Ordered Flows](https://arxiv.org/abs/2602.06940v1)** | 2026-02-06 |  |
+| **[AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design](https://arxiv.org/abs/2602.04916v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[3D Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2106.10823v4)** | 2026-02-06 | <details><summary>The m...</summary><p>The manuscript is accepted by Pattern Recognition on 14 May 2022</p></details> |
+| **[Gold Exploration using Representations from a Multispectral Autoencoder](https://arxiv.org/abs/2602.06748v1)** | 2026-02-06 | <details><summary>Prese...</summary><p>Presented in Eurips2025, 1st Workshop: Advances in Representation Learning for Earth Observation</p></details> |
+| **[Disentanglement by means of action-induced representations](https://arxiv.org/abs/2602.06741v1)** | 2026-02-06 | <details><summary>Main ...</summary><p>Main text: 10 pages, 4 figures</p></details> |
+| **[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604v2)** | 2026-02-06 | <details><summary>v2: c...</summary><p>v2: clarify confusion in definition of JEPAs vs. regularization-based JEPAs</p></details> |
+| **[Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting](https://arxiv.org/abs/2505.11781v2)** | 2026-02-06 | Preprint |
+| **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
+| **[Let LLMs Speak Embedding Languages: Generative Text Embeddings via Iterative Contrastive Refinement](https://arxiv.org/abs/2509.24291v2)** | 2026-02-06 |  |
+| **[A neuromorphic model of the insect visual system for natural image processing](https://arxiv.org/abs/2602.06405v1)** | 2026-02-06 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, under review</p></details> |
+| **[CSRv2: Unlocking Ultra-Sparse Embeddings](https://arxiv.org/abs/2602.05735v2)** | 2026-02-06 | Accepted by ICLR2026 |
+| **[ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning](https://arxiv.org/abs/2602.06251v1)** | 2026-02-05 |  |
+| **[Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction](https://arxiv.org/abs/2602.02201v2)** | 2026-02-05 |  |
 | **[Orthogonal Self-Attention](https://arxiv.org/abs/2602.05996v1)** | 2026-02-05 | Preprint |
 | **[GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra](https://arxiv.org/abs/2506.08194v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Camera ready version</p></details> |
-| **[CSRv2: Unlocking Ultra-Sparse Embeddings](https://arxiv.org/abs/2602.05735v1)** | 2026-02-05 | Accepted by ICLR2026 |
-| **[Test-time Adaptive Hierarchical Co-enhanced Denoising Network for Reliable Multimodal Classification](https://arxiv.org/abs/2601.07163v2)** | 2026-02-05 | <details><summary>14 pa...</summary><p>14 pages,9 figures, 8 tables</p></details> |
-| **[Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation](https://arxiv.org/abs/2602.05544v1)** | 2026-02-05 |  |
-| **[Phi-Former: A Pairwise Hierarchical Approach for Compound-Protein Interactions Prediction](https://arxiv.org/abs/2602.05479v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to BIBM 2025. 6 pages, 5 figures</p></details> |
-| **[Refine and Purify: Orthogonal Basis Optimization with Null-Space Denoising for Conditional Representation Learning](https://arxiv.org/abs/2602.05464v1)** | 2026-02-05 |  |
-| **[When Are RL Hyperparameters Benign? A Study in Offline Goal-Conditioned RL](https://arxiv.org/abs/2602.05459v1)** | 2026-02-05 | 27 pages, 19 figures |
-| **[Physics-Driven Local-Whole Elastic Deformation Modeling for Point Cloud Representation Learning](https://arxiv.org/abs/2505.13812v3)** | 2026-02-05 |  |
-| **[Learning with Adaptive Prototype Manifolds for Out-of-Distribution Detection](https://arxiv.org/abs/2602.05349v1)** | 2026-02-05 |  |
-| **[SurgLaVi: Large-Scale Hierarchical Dataset for Surgical Vision-Language Representation Learning](https://arxiv.org/abs/2509.10555v2)** | 2026-02-05 |  |
-| **[Disentangled Representation Learning via Flow Matching](https://arxiv.org/abs/2602.05214v1)** | 2026-02-05 |  |
-| **[GMAC: Global Multi-View Constraint for Automatic Multi-Camera Extrinsic Calibration](https://arxiv.org/abs/2602.01033v2)** | 2026-02-05 | <details><summary>A 5-p...</summary><p>A 5-page paper with 1 figure, prepared for submission to the 2026 IEEE International Conference on Image Processing (ICIP)</p></details> |
-| **[SHaSaM: Submodular Hard Sample Mining for Fair Facial Attribute Recognition](https://arxiv.org/abs/2602.05162v1)** | 2026-02-05 | <details><summary>21 pa...</summary><p>21 pages, 7 tables, 10 figures</p></details> |
-| **[Neural Networks Learn Generic Multi-Index Models Near Information-Theoretic Limit](https://arxiv.org/abs/2511.15120v2)** | 2026-02-04 | <details><summary>85 pa...</summary><p>85 pages, 2 figures. The order of the first two authors was determined by a coin flip. Accepted by ICLR 2026</p></details> |
 
