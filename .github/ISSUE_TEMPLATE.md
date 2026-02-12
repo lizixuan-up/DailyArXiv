@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,7 +22,9 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LMMRec: LLM-driven Motivation-aware Multimodal Recommendation](https://arxiv.org/abs/2602.05474v1)** | 2026-02-05 |  |
+| **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
+| **[Personalized Parameter-Efficient Fine-Tuning of Foundation Models for Multimodal Recommendation](https://arxiv.org/abs/2602.09445v1)** | 2026-02-10 | <details><summary>To be...</summary><p>To be published at The Web Conference 2026 (WWW 2026)</p></details> |
+| **[LMMRec: LLM-driven Motivation-aware Multimodal Recommendation](https://arxiv.org/abs/2602.05474v2)** | 2026-02-10 |  |
 | **[Towards Trustworthy Multimodal Recommendation](https://arxiv.org/abs/2602.00730v1)** | 2026-01-31 | <details><summary>Prepr...</summary><p>Preprint, 10 pages, 5 figures</p></details> |
 | **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v1)** | 2026-01-31 | Under Review |
 | **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v3)** | 2026-01-30 |  |
@@ -35,25 +37,23 @@ labels: documentation
 | **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v3)** | 2026-01-14 |  |
 | **[IGDMRec: Behavior Conditioned Item Graph Diffusion for Multimodal Recommendation](https://arxiv.org/abs/2512.19983v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. This paper has been accepted for publication in IEEE Transactions on Multimedia. The final published version will be available via IEEE Xplore</p></details> |
 | **[VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation](https://arxiv.org/abs/2512.08702v1)** | 2025-12-09 | Accepted by KDD 2026 |
-| **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v1)** | 2025-12-07 |  |
-| **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v1)** | 2025-12-02 | Submitted to KDD2026 |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Core to Detail: Unsupervised Disentanglement with Entropy-Ordered Flows](https://arxiv.org/abs/2602.06940v1)** | 2026-02-06 |  |
-| **[AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design](https://arxiv.org/abs/2602.04916v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[3D Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2106.10823v4)** | 2026-02-06 | <details><summary>The m...</summary><p>The manuscript is accepted by Pattern Recognition on 14 May 2022</p></details> |
-| **[Gold Exploration using Representations from a Multispectral Autoencoder](https://arxiv.org/abs/2602.06748v1)** | 2026-02-06 | <details><summary>Prese...</summary><p>Presented in Eurips2025, 1st Workshop: Advances in Representation Learning for Earth Observation</p></details> |
-| **[Disentanglement by means of action-induced representations](https://arxiv.org/abs/2602.06741v1)** | 2026-02-06 | <details><summary>Main ...</summary><p>Main text: 10 pages, 4 figures</p></details> |
-| **[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604v2)** | 2026-02-06 | <details><summary>v2: c...</summary><p>v2: clarify confusion in definition of JEPAs vs. regularization-based JEPAs</p></details> |
-| **[Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting](https://arxiv.org/abs/2505.11781v2)** | 2026-02-06 | Preprint |
-| **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
-| **[Let LLMs Speak Embedding Languages: Generative Text Embeddings via Iterative Contrastive Refinement](https://arxiv.org/abs/2509.24291v2)** | 2026-02-06 |  |
-| **[A neuromorphic model of the insect visual system for natural image processing](https://arxiv.org/abs/2602.06405v1)** | 2026-02-06 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, under review</p></details> |
-| **[CSRv2: Unlocking Ultra-Sparse Embeddings](https://arxiv.org/abs/2602.05735v2)** | 2026-02-06 | Accepted by ICLR2026 |
-| **[ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning](https://arxiv.org/abs/2602.06251v1)** | 2026-02-05 |  |
-| **[Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction](https://arxiv.org/abs/2602.02201v2)** | 2026-02-05 |  |
-| **[Orthogonal Self-Attention](https://arxiv.org/abs/2602.05996v1)** | 2026-02-05 | Preprint |
-| **[GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra](https://arxiv.org/abs/2506.08194v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Camera ready version</p></details> |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[RiemannGL: Riemannian Geometry Changes Graph Deep Learning](https://arxiv.org/abs/2602.10982v1)** | 2026-02-11 | <details><summary>34 pa...</summary><p>34 pages, 11 figures, position paper</p></details> |
+| **[VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation](https://arxiv.org/abs/2602.10978v1)** | 2026-02-11 |  |
+| **[Stride-Net: Fairness-Aware Disentangled Representation Learning for Chest X-Ray Diagnosis](https://arxiv.org/abs/2602.10875v1)** | 2026-02-11 | <details><summary>6 pag...</summary><p>6 pages, 2 Tables, 3 Figures. Our code is available https://github.com/Daraksh/Fairness_StrideNet</p></details> |
+| **[Non-Contrastive Vision-Language Learning with Predictive Embedding Alignment](https://arxiv.org/abs/2602.00653v2)** | 2026-02-11 |  |
+| **[Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data](https://arxiv.org/abs/2602.10745v1)** | 2026-02-11 |  |
+| **[Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning](https://arxiv.org/abs/2602.10744v1)** | 2026-02-11 |  |
+| **[Cross-Sectional Asset Retrieval via Future-Aligned Soft Contrastive Learning](https://arxiv.org/abs/2602.10711v1)** | 2026-02-11 |  |
+| **[MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning](https://arxiv.org/abs/2602.07940v2)** | 2026-02-11 |  |
+| **[How Do Decoder-Only LLMs Perceive Users? Rethinking Attention Masking for User Representation Learning](https://arxiv.org/abs/2602.10622v1)** | 2026-02-11 | 13 pages, 4 figures |
+| **[Geospatial Representation Learning: A Survey from Deep Learning to The LLM Era](https://arxiv.org/abs/2505.09651v2)** | 2026-02-11 |  |
+| **[Don't Eliminate Cut: Exponential Separations in LLM-Based Theorem Proving](https://arxiv.org/abs/2602.10512v1)** | 2026-02-11 |  |
+| **[Enhancing Ride-Hailing Forecasting at DiDi with Multi-View Geospatial Representation Learning from the Web](https://arxiv.org/abs/2602.10502v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2026</p></details> |
+| **[Causal Effect Estimation with Learned Instrument Representations](https://arxiv.org/abs/2602.10370v1)** | 2026-02-10 |  |
+| **[H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows](https://arxiv.org/abs/2510.21769v2)** | 2026-02-10 |  |
 
