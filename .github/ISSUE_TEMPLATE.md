@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,12 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data](https://arxiv.org/abs/2602.12267v1)** | 2026-02-12 |  |
+| **[EEG-to-Gait Decoding via Phase-Aware Representation Learning](https://arxiv.org/abs/2506.22488v2)** | 2026-02-12 |  |
+| **[Quantum-Enhanced Temporal Embeddings via a Hybrid Seq2Seq Architecture](https://arxiv.org/abs/2602.11578v1)** | 2026-02-12 |  |
+| **[Representation Learning with Blockwise Missingness and Signal Heterogeneity](https://arxiv.org/abs/2602.11511v1)** | 2026-02-12 |  |
+| **[Weakly Supervised Contrastive Learning for Histopathology Patch Embeddings](https://arxiv.org/abs/2602.09477v2)** | 2026-02-12 |  |
+| **[Can We Really Learn One Representation to Optimize All Rewards?](https://arxiv.org/abs/2602.11399v1)** | 2026-02-11 |  |
 | **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
 | **[RiemannGL: Riemannian Geometry Changes Graph Deep Learning](https://arxiv.org/abs/2602.10982v1)** | 2026-02-11 | <details><summary>34 pa...</summary><p>34 pages, 11 figures, position paper</p></details> |
 | **[VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation](https://arxiv.org/abs/2602.10978v1)** | 2026-02-11 |  |
@@ -50,10 +56,4 @@ labels: documentation
 | **[Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning](https://arxiv.org/abs/2602.10744v1)** | 2026-02-11 |  |
 | **[Cross-Sectional Asset Retrieval via Future-Aligned Soft Contrastive Learning](https://arxiv.org/abs/2602.10711v1)** | 2026-02-11 |  |
 | **[MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning](https://arxiv.org/abs/2602.07940v2)** | 2026-02-11 |  |
-| **[How Do Decoder-Only LLMs Perceive Users? Rethinking Attention Masking for User Representation Learning](https://arxiv.org/abs/2602.10622v1)** | 2026-02-11 | 13 pages, 4 figures |
-| **[Geospatial Representation Learning: A Survey from Deep Learning to The LLM Era](https://arxiv.org/abs/2505.09651v2)** | 2026-02-11 |  |
-| **[Don't Eliminate Cut: Exponential Separations in LLM-Based Theorem Proving](https://arxiv.org/abs/2602.10512v1)** | 2026-02-11 |  |
-| **[Enhancing Ride-Hailing Forecasting at DiDi with Multi-View Geospatial Representation Learning from the Web](https://arxiv.org/abs/2602.10502v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2026</p></details> |
-| **[Causal Effect Estimation with Learned Instrument Representations](https://arxiv.org/abs/2602.10370v1)** | 2026-02-10 |  |
-| **[H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows](https://arxiv.org/abs/2510.21769v2)** | 2026-02-10 |  |
 
