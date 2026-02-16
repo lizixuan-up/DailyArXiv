@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 15, 2026
+title: Latest 15 Papers - February 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Backdoor Attacks on Contrastive Continual Learning for IoT Systems](https://arxiv.org/abs/2602.13062v1)** | 2026-02-13 |  |
+| **[Structured Spectral Graph Representation Learning for Multi-label Abnormality Analysis from 3D CT Scans](https://arxiv.org/abs/2510.10779v3)** | 2026-02-13 | 28 pages, 16 figures |
+| **[EPRBench: A High-Quality Benchmark Dataset for Event Stream Based Visual Place Recognition](https://arxiv.org/abs/2602.12919v1)** | 2026-02-13 |  |
+| **[Towards Representation Learning for Weighting Problems in Design-Based Causal Inference](https://arxiv.org/abs/2409.16407v2)** | 2026-02-13 | <details><summary>Refer...</summary><p>Reference to erroneous result from Clivio et al. (2022) in Section 3.4 fixed</p></details> |
+| **[3DLAND: 3D Lesion Abdominal Anomaly Localization Dataset](https://arxiv.org/abs/2602.12820v1)** | 2026-02-13 |  |
+| **[AIWizards at MULTIPRIDE: A Hierarchical Approach to Slur Reclamation Detection](https://arxiv.org/abs/2602.12818v1)** | 2026-02-13 |  |
+| **[Unifying Multiple Foundation Models for Advanced Computational Pathology](https://arxiv.org/abs/2503.00736v4)** | 2026-02-13 | <details><summary>50 pa...</summary><p>50 pages, 5 main figures</p></details> |
+| **[Multi-Agent Model-Based Reinforcement Learning with Joint State-Action Learned Embeddings](https://arxiv.org/abs/2602.12520v1)** | 2026-02-13 | 22 pages |
+| **[Quasiparticle Interference Kernel Extraction with Variational Autoencoders via Latent Alignment](https://arxiv.org/abs/2506.05325v3)** | 2026-02-13 |  |
+| **[Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads](https://arxiv.org/abs/2406.19391v4)** | 2026-02-12 | <details><summary>The c...</summary><p>The complete implementation, including source code and evaluation scripts, is publicly available at: https://github.com/Charlotte-CharMLab/Fibottention</p></details> |
+| **[Spectral Ghost in Representation Learning: from Component Analysis to Self-Supervised Learning](https://arxiv.org/abs/2601.20154v2)** | 2026-02-12 | 43 pages, 3 figures |
 | **[Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data](https://arxiv.org/abs/2602.12267v1)** | 2026-02-12 |  |
+| **[Free Lunch in Medical Image Foundation Model Pre-training via Randomized Synthesis and Disentanglement](https://arxiv.org/abs/2602.12317v1)** | 2026-02-12 |  |
+| **[What Do Temporal Graph Learning Models Learn?](https://arxiv.org/abs/2510.09416v2)** | 2026-02-12 |  |
 | **[EEG-to-Gait Decoding via Phase-Aware Representation Learning](https://arxiv.org/abs/2506.22488v2)** | 2026-02-12 |  |
-| **[Quantum-Enhanced Temporal Embeddings via a Hybrid Seq2Seq Architecture](https://arxiv.org/abs/2602.11578v1)** | 2026-02-12 |  |
-| **[Representation Learning with Blockwise Missingness and Signal Heterogeneity](https://arxiv.org/abs/2602.11511v1)** | 2026-02-12 |  |
-| **[Weakly Supervised Contrastive Learning for Histopathology Patch Embeddings](https://arxiv.org/abs/2602.09477v2)** | 2026-02-12 |  |
-| **[Can We Really Learn One Representation to Optimize All Rewards?](https://arxiv.org/abs/2602.11399v1)** | 2026-02-11 |  |
-| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
-| **[RiemannGL: Riemannian Geometry Changes Graph Deep Learning](https://arxiv.org/abs/2602.10982v1)** | 2026-02-11 | <details><summary>34 pa...</summary><p>34 pages, 11 figures, position paper</p></details> |
-| **[VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation](https://arxiv.org/abs/2602.10978v1)** | 2026-02-11 |  |
-| **[Stride-Net: Fairness-Aware Disentangled Representation Learning for Chest X-Ray Diagnosis](https://arxiv.org/abs/2602.10875v1)** | 2026-02-11 | <details><summary>6 pag...</summary><p>6 pages, 2 Tables, 3 Figures. Our code is available https://github.com/Daraksh/Fairness_StrideNet</p></details> |
-| **[Non-Contrastive Vision-Language Learning with Predictive Embedding Alignment](https://arxiv.org/abs/2602.00653v2)** | 2026-02-11 |  |
-| **[Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data](https://arxiv.org/abs/2602.10745v1)** | 2026-02-11 |  |
-| **[Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning](https://arxiv.org/abs/2602.10744v1)** | 2026-02-11 |  |
-| **[Cross-Sectional Asset Retrieval via Future-Aligned Soft Contrastive Learning](https://arxiv.org/abs/2602.10711v1)** | 2026-02-11 |  |
-| **[MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning](https://arxiv.org/abs/2602.07940v2)** | 2026-02-11 |  |
 
