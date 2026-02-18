@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v1)** | 2026-02-17 |  |
 | **[RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation](https://arxiv.org/abs/2506.20817v2)** | 2026-02-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, 7 tables</p></details> |
 | **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
 | **[Personalized Parameter-Efficient Fine-Tuning of Foundation Models for Multimodal Recommendation](https://arxiv.org/abs/2602.09445v1)** | 2026-02-10 | <details><summary>To be...</summary><p>To be published at The Web Conference 2026 (WWW 2026)</p></details> |
@@ -36,24 +37,23 @@ labels: documentation
 | **[Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation](https://arxiv.org/abs/2601.11151v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted to ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</p></details> |
 | **[Are Multimodal Embeddings Truly Beneficial for Recommendation? A Deep Dive into Whole vs. Individual Modalities](https://arxiv.org/abs/2508.07399v3)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ECIR 2026</p></details> |
 | **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v3)** | 2026-01-14 |  |
-| **[IGDMRec: Behavior Conditioned Item Graph Diffusion for Multimodal Recommendation](https://arxiv.org/abs/2512.19983v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. This paper has been accepted for publication in IEEE Transactions on Multimedia. The final published version will be available via IEEE Xplore</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UrbanVerse: Learning Urban Region Representation Across Cities and Tasks](https://arxiv.org/abs/2602.15750v1)** | 2026-02-17 |  |
+| **[Random Wavelet Features for Graph Kernel Machines](https://arxiv.org/abs/2602.15711v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper is an extended version of a paper submitted to the 2026 European Signal Processing Conference (EUSIPCO 2026). It contains supplementary material including the full proof to Proposition 1</p></details> |
+| **[LEADER: Lightweight End-to-End Attention-Gated Dual Autoencoder for Robust Minutiae Extraction](https://arxiv.org/abs/2602.15493v1)** | 2026-02-17 |  |
+| **[Improving Policy Exploitation in Online Reinforcement Learning with Instant Retrospect Action](https://arxiv.org/abs/2601.19720v2)** | 2026-02-17 | 13pages 11figures |
+| **[CDRL: A Reinforcement Learning Framework Inspired by Cerebellar Circuits and Dendritic Computational Strategies](https://arxiv.org/abs/2602.15367v1)** | 2026-02-17 | <details><summary>14pag...</summary><p>14pages, 8 figures, 6 tabels</p></details> |
+| **[Query as Anchor: Scenario-Adaptive User Representation via Large Language Model](https://arxiv.org/abs/2602.14492v2)** | 2026-02-17 | 15 pages, 12 figures |
+| **[Hybrid Federated and Split Learning for Privacy Preserving Clinical Prediction and Treatment Optimization](https://arxiv.org/abs/2602.15304v1)** | 2026-02-17 |  |
+| **[BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening](https://arxiv.org/abs/2602.15236v1)** | 2026-02-16 |  |
+| **[Time-Archival Camera Virtualization for Sports and Visual Performances](https://arxiv.org/abs/2602.15181v1)** | 2026-02-16 | <details><summary>Proje...</summary><p>Project Page: https://yunxiaozhangjack.com/tacv/; Under minor revision in Journal of Computer Vision and Image Understanding (CVIU); Special Issue: Computer Vision for Sports and Winter Sports. Outcome of a master and bachelor student project completed in Visual and Spatial AI Lab at TAMU</p></details> |
 | **[BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs](https://arxiv.org/abs/2602.14919v1)** | 2026-02-16 |  |
+| **[Hybrid Feature Learning with Time Series Embeddings for Equipment Anomaly Prediction](https://arxiv.org/abs/2602.15089v1)** | 2026-02-16 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 1 table</p></details> |
 | **[Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation](https://arxiv.org/abs/2509.13229v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted at ICRA 2026</p></details> |
 | **[VariViT: A Vision Transformer for Variable Image Sizes](https://arxiv.org/abs/2602.14615v1)** | 2026-02-16 |  |
-| **[Query as Anchor: Scenario-Adaptive User Representation via Large Language Model](https://arxiv.org/abs/2602.14492v1)** | 2026-02-16 | 15 pages, 12 figures |
 | **[CAIRO: Decoupling Order from Scale in Regression](https://arxiv.org/abs/2602.14440v1)** | 2026-02-16 |  |
 | **[Hierarchical Vision-Language Interaction for Facial Action Unit Detection](https://arxiv.org/abs/2602.14425v1)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to IEEE Transaction on Affective Computing 2026</p></details> |
-| **[Dual Goal Representations](https://arxiv.org/abs/2510.06714v2)** | 2026-02-15 | ICLR 2026 |
-| **[RPG-AE: Neuro-Symbolic Graph Autoencoders with Rare Pattern Mining for Provenance-Based Anomaly Detection](https://arxiv.org/abs/2602.02929v2)** | 2026-02-15 |  |
-| **[Radial-VCReg: More Informative Representation Learning Through Radial Gaussianization](https://arxiv.org/abs/2602.14272v1)** | 2026-02-15 | <details><summary>Publi...</summary><p>Published in the Unifying Representations in Neural Models (UniReps) and Symmetry and Geometry in Neural Representations (NeurReps) Workshops at NeurIPS 2025</p></details> |
-| **[UniST-Pred: A Robust Unified Framework for Spatio-Temporal Traffic Forecasting in Transportation Networks Under Disruptions](https://arxiv.org/abs/2602.14049v1)** | 2026-02-15 |  |
-| **[Importance Ranking in Complex Networks via Influence-aware Causal Node Embedding](https://arxiv.org/abs/2511.01228v3)** | 2026-02-15 |  |
-| **[From Newborn to Impact: Bias-Aware Citation Prediction](https://arxiv.org/abs/2510.19246v2)** | 2026-02-15 | <details><summary>This ...</summary><p>This paper has been accepted at The Web Conference (WWW) 2026</p></details> |
-| **[Fusing Pixels and Genes: Spatially-Aware Learning in Computational Pathology](https://arxiv.org/abs/2602.13944v1)** | 2026-02-15 | <details><summary>accep...</summary><p>accepted by ICLR 2026, 34 pages, 10 figures, 7tables</p></details> |
-| **[Cardiac Output Prediction from Echocardiograms: Self-Supervised Learning with Limited Data](https://arxiv.org/abs/2602.13846v1)** | 2026-02-14 | <details><summary>Accep...</summary><p>Accepted at ISBI 2026</p></details> |
-| **[Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness](https://arxiv.org/abs/2602.13636v1)** | 2026-02-14 |  |
 
