@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge-Embedded Latent Projection for Robust Representation Learning](https://arxiv.org/abs/2602.16709v1)** | 2026-02-18 |  |
+| **[Causality is Key for Interpretability Claims to Generalise](https://arxiv.org/abs/2602.16698v1)** | 2026-02-18 |  |
+| **[Align and Adapt: Multimodal Multiview Human Activity Recognition under Arbitrary View Combinations](https://arxiv.org/abs/2602.08755v3)** | 2026-02-18 |  |
+| **[Vision and Language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning](https://arxiv.org/abs/2602.07680v2)** | 2026-02-18 |  |
+| **[Identifying Weight-Variant Latent Causal Models](https://arxiv.org/abs/2208.14153v7)** | 2026-02-18 |  |
+| **[Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.16144v1)** | 2026-02-18 | 21 pages, 6 figures |
+| **[On the Power of Source Screening for Learning Shared Feature Extractors](https://arxiv.org/abs/2602.16125v1)** | 2026-02-18 |  |
+| **[CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis](https://arxiv.org/abs/2504.19223v4)** | 2026-02-17 |  |
+| **[MedProbCLIP: Probabilistic Adaptation of Vision-Language Foundation Model for Reliable Radiograph-Report Retrieval](https://arxiv.org/abs/2602.16019v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted to the 2026 Winter Conference on Applications of Computer Vision (WACV) Workshops</p></details> |
+| **[Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era](https://arxiv.org/abs/2602.16018v1)** | 2026-02-17 |  |
 | **[UrbanVerse: Learning Urban Region Representation Across Cities and Tasks](https://arxiv.org/abs/2602.15750v1)** | 2026-02-17 |  |
 | **[Random Wavelet Features for Graph Kernel Machines](https://arxiv.org/abs/2602.15711v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper is an extended version of a paper submitted to the 2026 European Signal Processing Conference (EUSIPCO 2026). It contains supplementary material including the full proof to Proposition 1</p></details> |
 | **[LEADER: Lightweight End-to-End Attention-Gated Dual Autoencoder for Robust Minutiae Extraction](https://arxiv.org/abs/2602.15493v1)** | 2026-02-17 |  |
 | **[Improving Policy Exploitation in Online Reinforcement Learning with Instant Retrospect Action](https://arxiv.org/abs/2601.19720v2)** | 2026-02-17 | 13pages 11figures |
 | **[CDRL: A Reinforcement Learning Framework Inspired by Cerebellar Circuits and Dendritic Computational Strategies](https://arxiv.org/abs/2602.15367v1)** | 2026-02-17 | <details><summary>14pag...</summary><p>14pages, 8 figures, 6 tabels</p></details> |
-| **[Query as Anchor: Scenario-Adaptive User Representation via Large Language Model](https://arxiv.org/abs/2602.14492v2)** | 2026-02-17 | 15 pages, 12 figures |
-| **[Hybrid Federated and Split Learning for Privacy Preserving Clinical Prediction and Treatment Optimization](https://arxiv.org/abs/2602.15304v1)** | 2026-02-17 |  |
-| **[BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening](https://arxiv.org/abs/2602.15236v1)** | 2026-02-16 |  |
-| **[Time-Archival Camera Virtualization for Sports and Visual Performances](https://arxiv.org/abs/2602.15181v1)** | 2026-02-16 | <details><summary>Proje...</summary><p>Project Page: https://yunxiaozhangjack.com/tacv/; Under minor revision in Journal of Computer Vision and Image Understanding (CVIU); Special Issue: Computer Vision for Sports and Winter Sports. Outcome of a master and bachelor student project completed in Visual and Spatial AI Lab at TAMU</p></details> |
-| **[BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs](https://arxiv.org/abs/2602.14919v1)** | 2026-02-16 |  |
-| **[Hybrid Feature Learning with Time Series Embeddings for Equipment Anomaly Prediction](https://arxiv.org/abs/2602.15089v1)** | 2026-02-16 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 1 table</p></details> |
-| **[Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation](https://arxiv.org/abs/2509.13229v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted at ICRA 2026</p></details> |
-| **[VariViT: A Vision Transformer for Variable Image Sizes](https://arxiv.org/abs/2602.14615v1)** | 2026-02-16 |  |
-| **[CAIRO: Decoupling Order from Scale in Regression](https://arxiv.org/abs/2602.14440v1)** | 2026-02-16 |  |
-| **[Hierarchical Vision-Language Interaction for Facial Action Unit Detection](https://arxiv.org/abs/2602.14425v1)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to IEEE Transaction on Affective Computing 2026</p></details> |
 
