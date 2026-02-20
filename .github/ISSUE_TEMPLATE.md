@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation](https://arxiv.org/abs/2602.17354v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</p></details> |
 | **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v1)** | 2026-02-17 |  |
 | **[RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation](https://arxiv.org/abs/2506.20817v2)** | 2026-02-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, 7 tables</p></details> |
 | **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
@@ -36,24 +37,23 @@ labels: documentation
 | **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v2)** | 2026-01-24 |  |
 | **[Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation](https://arxiv.org/abs/2601.11151v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted to ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</p></details> |
 | **[Are Multimodal Embeddings Truly Beneficial for Recommendation? A Deep Dive into Whole vs. Individual Modalities](https://arxiv.org/abs/2508.07399v3)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ECIR 2026</p></details> |
-| **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v3)** | 2026-01-14 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v5)** | 2026-02-19 | Preprint |
+| **[Canonicalizing Multimodal Contrastive Representation Learning](https://arxiv.org/abs/2602.17584v1)** | 2026-02-19 | 78 pages, 57 figures |
+| **[The Correspondence Between Bounded Graph Neural Networks and Fragments of First-Order Logic](https://arxiv.org/abs/2505.08021v4)** | 2026-02-19 | 21 pages |
+| **[Be Wary of Your Time Series Preprocessing](https://arxiv.org/abs/2602.17568v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at the AI4TS workshop at AAAI-26</p></details> |
+| **[Position: Evaluation of ECG Representations Must Be Fixed](https://arxiv.org/abs/2602.17531v1)** | 2026-02-19 | <details><summary>Proje...</summary><p>Project website at https://ecgfix.csail.mit.edu/</p></details> |
+| **[Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection](https://arxiv.org/abs/2602.17484v1)** | 2026-02-19 |  |
+| **[SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery](https://arxiv.org/abs/2602.17395v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Code available at https://github.com/miccunifi/SpectralGCD</p></details> |
+| **[Beyond Predictive Uncertainty: Reliable Representation Learning with Structural Constraints](https://arxiv.org/abs/2601.16174v3)** | 2026-02-19 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 5 propositions</p></details> |
+| **[VP-VAE: Rethinking Vector Quantization via Adaptive Vector Perturbation](https://arxiv.org/abs/2602.17133v1)** | 2026-02-19 |  |
+| **[TIFO: Time-Invariant Frequency Operator for Stationarity-Aware Representation Learning in Time Series](https://arxiv.org/abs/2602.17122v1)** | 2026-02-19 |  |
+| **[AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation](https://arxiv.org/abs/2602.17071v1)** | 2026-02-19 | 32 pages, 8 figures |
+| **[LayerSync: Self-aligning Intermediate Layers](https://arxiv.org/abs/2510.12581v2)** | 2026-02-18 |  |
 | **[Knowledge-Embedded Latent Projection for Robust Representation Learning](https://arxiv.org/abs/2602.16709v1)** | 2026-02-18 |  |
 | **[Causality is Key for Interpretability Claims to Generalise](https://arxiv.org/abs/2602.16698v1)** | 2026-02-18 |  |
 | **[Align and Adapt: Multimodal Multiview Human Activity Recognition under Arbitrary View Combinations](https://arxiv.org/abs/2602.08755v3)** | 2026-02-18 |  |
-| **[Vision and Language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning](https://arxiv.org/abs/2602.07680v2)** | 2026-02-18 |  |
-| **[Identifying Weight-Variant Latent Causal Models](https://arxiv.org/abs/2208.14153v7)** | 2026-02-18 |  |
-| **[Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.16144v1)** | 2026-02-18 | 21 pages, 6 figures |
-| **[On the Power of Source Screening for Learning Shared Feature Extractors](https://arxiv.org/abs/2602.16125v1)** | 2026-02-18 |  |
-| **[CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis](https://arxiv.org/abs/2504.19223v4)** | 2026-02-17 |  |
-| **[MedProbCLIP: Probabilistic Adaptation of Vision-Language Foundation Model for Reliable Radiograph-Report Retrieval](https://arxiv.org/abs/2602.16019v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted to the 2026 Winter Conference on Applications of Computer Vision (WACV) Workshops</p></details> |
-| **[Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era](https://arxiv.org/abs/2602.16018v1)** | 2026-02-17 |  |
-| **[UrbanVerse: Learning Urban Region Representation Across Cities and Tasks](https://arxiv.org/abs/2602.15750v1)** | 2026-02-17 |  |
-| **[Random Wavelet Features for Graph Kernel Machines](https://arxiv.org/abs/2602.15711v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper is an extended version of a paper submitted to the 2026 European Signal Processing Conference (EUSIPCO 2026). It contains supplementary material including the full proof to Proposition 1</p></details> |
-| **[LEADER: Lightweight End-to-End Attention-Gated Dual Autoencoder for Robust Minutiae Extraction](https://arxiv.org/abs/2602.15493v1)** | 2026-02-17 |  |
-| **[Improving Policy Exploitation in Online Reinforcement Learning with Instant Retrospect Action](https://arxiv.org/abs/2601.19720v2)** | 2026-02-17 | 13pages 11figures |
-| **[CDRL: A Reinforcement Learning Framework Inspired by Cerebellar Circuits and Dendritic Computational Strategies](https://arxiv.org/abs/2602.15367v1)** | 2026-02-17 | <details><summary>14pag...</summary><p>14pages, 8 figures, 6 tabels</p></details> |
 
