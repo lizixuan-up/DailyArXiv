@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 22, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,13 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks](https://arxiv.org/abs/2602.18426v1)** | 2026-02-20 | <details><summary>This ...</summary><p>This manuscript was previously submitted to ICML for peer review. Reviewers noted that while the underlying VAE-based architecture builds on established methods, its application to spatially-resolved IFS data is promising for unsupervised representation learning in astronomy. This version is released for community visibility. Reviewer decisions: Weak accept and Weak reject (Final: Reject)</p></details> |
+| **[When Distributions Shifts: Causal Generalization for Low-Resource Languages](https://arxiv.org/abs/2510.27512v2)** | 2026-02-20 |  |
+| **[A measurement noise scaling law for cellular representation learning](https://arxiv.org/abs/2503.02726v2)** | 2026-02-20 |  |
+| **[Generative Distribution Embeddings: Lifting autoencoders to the space of distributions for multiscale representation learning](https://arxiv.org/abs/2505.18150v2)** | 2026-02-20 | NeurIPS 2025 |
+| **[MeDUET: Disentangled Unified Pretraining for 3D Medical Image Synthesis and Analysis](https://arxiv.org/abs/2602.17901v1)** | 2026-02-19 |  |
+| **[Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model](https://arxiv.org/abs/2412.13897v2)** | 2026-02-19 | Accepted by 3DV 2026 |
+| **[MusicSem: A Semantically Rich Language--Audio Dataset of Natural Music Descriptions](https://arxiv.org/abs/2602.17769v1)** | 2026-02-19 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v5)** | 2026-02-19 | Preprint |
 | **[Canonicalizing Multimodal Contrastive Representation Learning](https://arxiv.org/abs/2602.17584v1)** | 2026-02-19 | 78 pages, 57 figures |
 | **[The Correspondence Between Bounded Graph Neural Networks and Fragments of First-Order Logic](https://arxiv.org/abs/2505.08021v4)** | 2026-02-19 | 21 pages |
@@ -49,11 +56,4 @@ labels: documentation
 | **[Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection](https://arxiv.org/abs/2602.17484v1)** | 2026-02-19 |  |
 | **[SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery](https://arxiv.org/abs/2602.17395v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Code available at https://github.com/miccunifi/SpectralGCD</p></details> |
 | **[Beyond Predictive Uncertainty: Reliable Representation Learning with Structural Constraints](https://arxiv.org/abs/2601.16174v3)** | 2026-02-19 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 5 propositions</p></details> |
-| **[VP-VAE: Rethinking Vector Quantization via Adaptive Vector Perturbation](https://arxiv.org/abs/2602.17133v1)** | 2026-02-19 |  |
-| **[TIFO: Time-Invariant Frequency Operator for Stationarity-Aware Representation Learning in Time Series](https://arxiv.org/abs/2602.17122v1)** | 2026-02-19 |  |
-| **[AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation](https://arxiv.org/abs/2602.17071v1)** | 2026-02-19 | 32 pages, 8 figures |
-| **[LayerSync: Self-aligning Intermediate Layers](https://arxiv.org/abs/2510.12581v2)** | 2026-02-18 |  |
-| **[Knowledge-Embedded Latent Projection for Robust Representation Learning](https://arxiv.org/abs/2602.16709v1)** | 2026-02-18 |  |
-| **[Causality is Key for Interpretability Claims to Generalise](https://arxiv.org/abs/2602.16698v1)** | 2026-02-18 |  |
-| **[Align and Adapt: Multimodal Multiview Human Activity Recognition under Arbitrary View Combinations](https://arxiv.org/abs/2602.08755v3)** | 2026-02-18 |  |
 
