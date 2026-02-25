@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2026
+title: Latest 15 Papers - February 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[E-MMKGR: A Unified Multimodal Knowledge Graph Framework for E-commerce Applications](https://arxiv.org/abs/2602.20877v1)** | 2026-02-24 |  |
+| **[Modality-Guided Mixture of Graph Experts with Entropy-Triggered Routing for Multimodal Recommendation](https://arxiv.org/abs/2602.20723v1)** | 2026-02-24 |  |
 | **[DReX: An Explainable Deep Learning-based Multimodal Recommendation Framework](https://arxiv.org/abs/2602.19702v1)** | 2026-02-23 |  |
 | **[Large-scale Benchmarks for Multimodal Recommendation with Ducho](https://arxiv.org/abs/2409.15857v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted in Expert Systems with Applications</p></details> |
 | **[Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation](https://arxiv.org/abs/2602.17354v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</p></details> |
@@ -35,25 +37,23 @@ labels: documentation
 | **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v3)** | 2026-01-30 |  |
 | **[FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning](https://arxiv.org/abs/2601.22498v1)** | 2026-01-30 |  |
 | **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v2)** | 2026-01-29 |  |
-| **[Propagating Similarity, Mitigating Uncertainty: Similarity Propagation-enhanced Uncertainty for Multimodal Recommendation](https://arxiv.org/abs/2601.19198v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
-| **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v2)** | 2026-01-24 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CG-DMER: Hybrid Contrastive-Generative Framework for Disentangled Multimodal ECG Representation Learning](https://arxiv.org/abs/2602.21154v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
+| **[Rethinking Disentanglement under Dependent Factors of Variation](https://arxiv.org/abs/2408.07016v3)** | 2026-02-24 |  |
+| **[Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation](https://arxiv.org/abs/2602.19863v2)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[OrthoDiffusion: A Generalizable Multi-Task Diffusion Foundation Model for Musculoskeletal MRI Interpretation](https://arxiv.org/abs/2602.20752v1)** | 2026-02-24 |  |
+| **[PRECTR-V2:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization](https://arxiv.org/abs/2602.20676v1)** | 2026-02-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2503.18395</p></details> |
+| **[PaCo-FR: Patch-Pixel Aligned End-to-End Codebook Learning for Facial Representation Pre-training](https://arxiv.org/abs/2508.09691v2)** | 2026-02-24 |  |
+| **[Quantifying Dimensional Independence in Speech: An Information-Theoretic Framework for Disentangled Representation Learning](https://arxiv.org/abs/2602.20592v1)** | 2026-02-24 |  |
+| **[Hierarchical Molecular Representation Learning via Fragment-Based Self-Supervised Embedding Prediction](https://arxiv.org/abs/2602.20344v1)** | 2026-02-23 | <details><summary>15 pa...</summary><p>15 pages (8 pages main text),8 figures</p></details> |
+| **[Shape-informed cardiac mechanics surrogates in data-scarce regimes via geometric encoding and generative augmentation](https://arxiv.org/abs/2602.20306v1)** | 2026-02-23 | 39 pages, 19 figures |
+| **[UniLACT: Depth-Aware RGB Latent Action Learning for Vision-Language-Action Models](https://arxiv.org/abs/2602.20231v1)** | 2026-02-23 | <details><summary>https...</summary><p>https://manishgovind.github.io/unilact-vla/</p></details> |
 | **[Cross-lingual Matryoshka Representation Learning across Speech and Text](https://arxiv.org/abs/2602.19991v1)** | 2026-02-23 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
 | **[Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](https://arxiv.org/abs/2602.19910v1)** | 2026-02-23 | <details><summary>15 pa...</summary><p>15 pages, accepted by CVPR 2026</p></details> |
 | **[Benchmarking Pretrained Molecular Embedding Models For Molecular Representation Learning](https://arxiv.org/abs/2508.06199v4)** | 2026-02-23 |  |
-| **[Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation](https://arxiv.org/abs/2602.19863v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning](https://arxiv.org/abs/2602.19782v1)** | 2026-02-23 |  |
 | **[Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation](https://arxiv.org/abs/2602.19778v1)** | 2026-02-23 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
-| **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v3)** | 2026-02-23 |  |
-| **[VecFormer: Towards Efficient and Generalizable Graph Transformer with Graph Token Attention](https://arxiv.org/abs/2602.19622v1)** | 2026-02-23 |  |
-| **[VIRTUE: Visual-Interactive Text-Image Universal Embedder](https://arxiv.org/abs/2510.00523v2)** | 2026-02-23 | <details><summary>ICLR ...</summary><p>ICLR 2026. 25 pages. Project page: https://sony.github.io/virtue/</p></details> |
-| **[Federated Causal Representation Learning in State-Space Systems for Decentralized Counterfactual Reasoning](https://arxiv.org/abs/2602.19414v1)** | 2026-02-23 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
-| **[CAIRO: Decoupling Order from Scale in Regression](https://arxiv.org/abs/2602.14440v2)** | 2026-02-22 |  |
-| **[US-JEPA: A Joint Embedding Predictive Architecture for Medical Ultrasound](https://arxiv.org/abs/2602.19322v1)** | 2026-02-22 |  |
-| **[GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning](https://arxiv.org/abs/2602.19206v1)** | 2026-02-22 |  |
-| **[CRCC: Contrast-Based Robust Cross-Subject and Cross-Site Representation Learning for EEG](https://arxiv.org/abs/2602.19138v1)** | 2026-02-22 | First edition |
-| **[StreetTree: A Large-Scale Global Benchmark for Fine-Grained Tree Species Classification](https://arxiv.org/abs/2602.19123v1)** | 2026-02-22 |  |
 
