@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,14 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding](https://arxiv.org/abs/2511.08480v2)** | 2026-02-25 | Multimodal Embedding |
+| **[Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading](https://arxiv.org/abs/2602.21944v1)** | 2026-02-25 |  |
+| **[SigVLP: Sigmoid Volume-Language Pre-Training for Self-Supervised CT-Volume Adaptive Representation Learning](https://arxiv.org/abs/2602.21735v1)** | 2026-02-25 |  |
+| **[GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning](https://arxiv.org/abs/2602.19206v2)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection](https://arxiv.org/abs/2602.17484v2)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by ICCV2025 Github: https://github.com/eddielyc/CopyNCE</p></details> |
+| **[Unified Unsupervised and Sparsely-Supervised 3D Object Detection by Semantic Pseudo-Labeling and Prototype Learning](https://arxiv.org/abs/2602.21484v1)** | 2026-02-25 |  |
+| **[MrBERT: Modern Multilingual Encoders via Vocabulary, Domain, and Dimensional Adaptation](https://arxiv.org/abs/2602.21379v1)** | 2026-02-24 | <details><summary>24 pa...</summary><p>24 pages, 14 tables and 4 figures</p></details> |
+| **[Archetypal Graph Generative Models: Explainable and Identifiable Communities via Anchor-Dominant Convex Hulls](https://arxiv.org/abs/2602.21342v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted to AISTATS26 (Spotlight)</p></details> |
 | **[CG-DMER: Hybrid Contrastive-Generative Framework for Disentangled Multimodal ECG Representation Learning](https://arxiv.org/abs/2602.21154v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[Rethinking Disentanglement under Dependent Factors of Variation](https://arxiv.org/abs/2408.07016v3)** | 2026-02-24 |  |
 | **[Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation](https://arxiv.org/abs/2602.19863v2)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
@@ -48,12 +56,4 @@ labels: documentation
 | **[PRECTR-V2:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization](https://arxiv.org/abs/2602.20676v1)** | 2026-02-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2503.18395</p></details> |
 | **[PaCo-FR: Patch-Pixel Aligned End-to-End Codebook Learning for Facial Representation Pre-training](https://arxiv.org/abs/2508.09691v2)** | 2026-02-24 |  |
 | **[Quantifying Dimensional Independence in Speech: An Information-Theoretic Framework for Disentangled Representation Learning](https://arxiv.org/abs/2602.20592v1)** | 2026-02-24 |  |
-| **[Hierarchical Molecular Representation Learning via Fragment-Based Self-Supervised Embedding Prediction](https://arxiv.org/abs/2602.20344v1)** | 2026-02-23 | <details><summary>15 pa...</summary><p>15 pages (8 pages main text),8 figures</p></details> |
-| **[Shape-informed cardiac mechanics surrogates in data-scarce regimes via geometric encoding and generative augmentation](https://arxiv.org/abs/2602.20306v1)** | 2026-02-23 | 39 pages, 19 figures |
-| **[UniLACT: Depth-Aware RGB Latent Action Learning for Vision-Language-Action Models](https://arxiv.org/abs/2602.20231v1)** | 2026-02-23 | <details><summary>https...</summary><p>https://manishgovind.github.io/unilact-vla/</p></details> |
-| **[Cross-lingual Matryoshka Representation Learning across Speech and Text](https://arxiv.org/abs/2602.19991v1)** | 2026-02-23 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
-| **[Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](https://arxiv.org/abs/2602.19910v1)** | 2026-02-23 | <details><summary>15 pa...</summary><p>15 pages, accepted by CVPR 2026</p></details> |
-| **[Benchmarking Pretrained Molecular Embedding Models For Molecular Representation Learning](https://arxiv.org/abs/2508.06199v4)** | 2026-02-23 |  |
-| **[Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning](https://arxiv.org/abs/2602.19782v1)** | 2026-02-23 |  |
-| **[Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation](https://arxiv.org/abs/2602.19778v1)** | 2026-02-23 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
 
