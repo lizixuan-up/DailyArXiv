@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 01, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM](https://arxiv.org/abs/2602.23297v1)** | 2026-02-26 |  |
-| **[Understanding protein function with a multimodal retrieval-augmented foundation model](https://arxiv.org/abs/2508.04724v2)** | 2026-02-26 |  |
-| **[Learning Continuous Wasserstein Barycenter Space for Generalized All-in-One Image Restoration](https://arxiv.org/abs/2602.23169v1)** | 2026-02-26 |  |
-| **[Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction](https://arxiv.org/abs/2510.04714v4)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
-| **[Automated Vulnerability Detection in Source Code Using Deep Representation Learning](https://arxiv.org/abs/2602.23121v1)** | 2026-02-26 |  |
-| **[TriLite: Efficient Weakly Supervised Object Localization with Universal Visual Features and Tri-Region Disentanglement](https://arxiv.org/abs/2602.23120v1)** | 2026-02-26 | <details><summary>This ...</summary><p>This paper consists of 8 pages including 6 figures. Accepted at CVPR 2026</p></details> |
-| **[WARM-CAT: : Warm-Started Test-Time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning](https://arxiv.org/abs/2602.23114v1)** | 2026-02-26 |  |
-| **[Benchmarking Video Foundation Models for Remote Parkinson's Disease Screening](https://arxiv.org/abs/2602.13507v2)** | 2026-02-26 |  |
-| **[Sequential Regression for Continuous Value Prediction using Residual Quantization](https://arxiv.org/abs/2602.23012v1)** | 2026-02-26 |  |
-| **[A data- and compute-efficient chest X-ray foundation model beyond aggressive scaling](https://arxiv.org/abs/2602.22843v1)** | 2026-02-26 |  |
-| **[Robust Human Trajectory Prediction via Self-Supervised Skeleton Representation Learning](https://arxiv.org/abs/2602.22791v1)** | 2026-02-26 | <details><summary>11 pa...</summary><p>11 pages main, 5 pages supplementary material</p></details> |
-| **[BRepMAE: Self-Supervised Masked BRep Autoencoders for Machining Feature Recognition](https://arxiv.org/abs/2602.22701v1)** | 2026-02-26 | 16 pages |
-| **[PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data](https://arxiv.org/abs/2509.21965v3)** | 2026-02-26 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project Page: https://czvvd.github.io/PartSAMPage/</p></details> |
-| **[A Survey on Bundle Recommendation: Methods, Applications, and Challenges](https://arxiv.org/abs/2411.00341v2)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys</p></details> |
-| **[MUG: Meta-path-aware Universal Heterogeneous Graph Pre-Training](https://arxiv.org/abs/2602.22645v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by AAAI-26, 9 pages, 3 figures</p></details> |
+| **[QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory](https://arxiv.org/abs/2512.05049v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages. Camera-ready version for IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026</p></details> |
+| **[Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations](https://arxiv.org/abs/2602.24278v1)** | 2026-02-27 |  |
+| **[Unsupervised Representation Learning for 3D Mesh Parameterization with Semantic and Visibility Objectives](https://arxiv.org/abs/2509.25094v3)** | 2026-02-27 |  |
+| **[FaultXformer: A Transformer-Encoder Based Fault Classification and Location Identification model in PMU-Integrated Active Electrical Distribution System](https://arxiv.org/abs/2602.24254v1)** | 2026-02-27 |  |
+| **[Histopathology Image Normalization via Latent Manifold Compaction](https://arxiv.org/abs/2602.24251v1)** | 2026-02-27 | 11 pages |
+| **[InfoNCE Induces Gaussian Distribution](https://arxiv.org/abs/2602.24012v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, Oral</p></details> |
+| **[LeGend: A Data-Driven Framework for Lemma Generation in Hardware Model Checking](https://arxiv.org/abs/2602.24010v1)** | 2026-02-27 |  |
+| **[When Should a Model Change Its Mind? An Energy-Based Theory and Regularizer for Concept Drift in Electrocardiogram (ECG) Signals](https://arxiv.org/abs/2602.22294v2)** | 2026-02-27 |  |
+| **[Towards Efficient and Generalizable Retrieval: Adaptive Semantic Quantization and Residual Knowledge Transfer](https://arxiv.org/abs/2602.23978v1)** | 2026-02-27 |  |
+| **[Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach](https://arxiv.org/abs/2509.19955v2)** | 2026-02-27 | Accepted at WWW 2026 |
+| **[TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders](https://arxiv.org/abs/2303.00320v4)** | 2026-02-27 | Accepted by WSDM'26 |
+| **[UniFAR: A Unified Facet-Aware Retrieval Framework for Scientific Documents](https://arxiv.org/abs/2602.23766v1)** | 2026-02-27 |  |
+| **[WARM-CAT: Warm-Started Test-Time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning](https://arxiv.org/abs/2602.23114v2)** | 2026-02-27 |  |
+| **[CO^3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving](https://arxiv.org/abs/2206.04028v3)** | 2026-02-27 |  |
+| **[TREND: Unsupervised 3D Representation Learning via Temporal Forecasting for LiDAR Perception](https://arxiv.org/abs/2412.03054v2)** | 2026-02-27 |  |
 
