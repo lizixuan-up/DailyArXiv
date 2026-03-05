@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity](https://arxiv.org/abs/2603.03190v1)** | 2026-03-03 | 39 pages, 9 figures |
-| **[Weight Space Representation Learning on Diverse NeRF Architectures](https://arxiv.org/abs/2502.09623v4)** | 2026-03-03 | <details><summary>v4: I...</summary><p>v4: ICLR 2026 camera-ready</p></details> |
-| **[Contextual Latent World Models for Offline Meta Reinforcement Learning](https://arxiv.org/abs/2603.02935v1)** | 2026-03-03 |  |
-| **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v1)** | 2026-03-03 |  |
-| **[DSBA: Dynamic Stealthy Backdoor Attack with Collaborative Optimization in Self-Supervised Learning](https://arxiv.org/abs/2603.02849v1)** | 2026-03-03 |  |
-| **[ChemFlow:A Hierarchical Neural Network for Multiscale Representation Learning in Chemical Mixtures](https://arxiv.org/abs/2603.02810v1)** | 2026-03-03 |  |
-| **[HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning](https://arxiv.org/abs/2603.02785v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</p></details> |
-| **[ITO: Images and Texts as One via Synergizing Multiple Alignment and Training-Time Fusion](https://arxiv.org/abs/2603.02767v1)** | 2026-03-03 |  |
-| **[iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding](https://arxiv.org/abs/2603.02748v1)** | 2026-03-03 |  |
-| **[Sensory-Aware Sequential Recommendation via Review-Distilled Representations](https://arxiv.org/abs/2603.02709v1)** | 2026-03-03 |  |
-| **[Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment](https://arxiv.org/abs/2510.11369v2)** | 2026-03-03 | ICLR 2026 Oral |
-| **[Neural quantum support vector data description for one-class classification](https://arxiv.org/abs/2603.02700v1)** | 2026-03-03 | 17 pages, 7 figures |
-| **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v2)** | 2026-03-03 | Submitted to KDD2026 |
-| **[DREAM: Where Visual Understanding Meets Text-to-Image Generation](https://arxiv.org/abs/2603.02667v1)** | 2026-03-03 |  |
-| **[3D Modality-Aware Pre-training for Vision-Language Model in MRI Multi-organ Abnormality Detection](https://arxiv.org/abs/2602.23652v2)** | 2026-03-03 |  |
+| **[Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2505.12506v4)** | 2026-03-04 |  |
+| **[Motion Manipulation via Unsupervised Keypoint Positioning in Face Animation](https://arxiv.org/abs/2603.04302v1)** | 2026-03-04 | 19 pages, 15 figures |
+| **[LabelBuddy: An Open Source Music and Audio Language Annotation Tagging Tool Using AI Assistance](https://arxiv.org/abs/2603.04293v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at NLP4MusA 2026 (4th Workshop on NLP for Music and Audio)</p></details> |
+| **[DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](https://arxiv.org/abs/2603.04239v1)** | 2026-03-04 | <details><summary>To ap...</summary><p>To appear in CVPR 2026, GitHub Code: https://github.com/kobeshegu/DiverseDiT, Project Page: https://forevermamba.work/projects/DiverseDiT/</p></details> |
+| **[Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://arxiv.org/abs/2603.04114v1)** | 2026-03-04 |  |
+| **[Understanding Sources of Demographic Predictability in Brain MRI via Disentangling Anatomy and Contrast](https://arxiv.org/abs/2603.04113v1)** | 2026-03-04 |  |
+| **[Weakly Supervised Patch Annotation for Improved Screening of Diabetic Retinopathy](https://arxiv.org/abs/2603.03991v1)** | 2026-03-04 |  |
+| **[Weight Space Representation Learning via Neural Field Adaptation](https://arxiv.org/abs/2512.01759v2)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages body, 8 pages appendix</p></details> |
+| **[D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping](https://arxiv.org/abs/2507.08492v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](https://arxiv.org/abs/2603.03739v1)** | 2026-03-04 |  |
+| **[Topological Alignment of Shared Vision-Language Embedding Space](https://arxiv.org/abs/2510.10889v2)** | 2026-03-04 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 24 tables</p></details> |
+| **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v2)** | 2026-03-04 |  |
+| **[ITO: Images and Texts as One via Synergizing Multiple Alignment and Training-Time Fusion](https://arxiv.org/abs/2603.02767v2)** | 2026-03-04 |  |
+| **[CoRe-BT: A Multimodal Radiology-Pathology-Text Benchmark for Robust Brain Tumor Typing](https://arxiv.org/abs/2603.03618v1)** | 2026-03-04 | <details><summary>Under...</summary><p>Under review, MICCAI 2026</p></details> |
+| **[Uni-NTFM: A Unified Foundation Model for EEG Signal Representation Learning](https://arxiv.org/abs/2509.24222v2)** | 2026-03-03 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 
