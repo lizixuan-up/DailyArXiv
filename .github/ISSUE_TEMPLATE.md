@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2026
+title: Latest 15 Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,10 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DAP: A Discrete-token Autoregressive Planner for Autonomous Driving](https://arxiv.org/abs/2511.13306v2)** | 2026-03-05 |  |
+| **[ICHOR: A Robust Representation Learning Approach for ASL CBF Maps with Self-Supervised Masked Autoencoders](https://arxiv.org/abs/2603.05247v1)** | 2026-03-05 |  |
+| **[CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery](https://arxiv.org/abs/2511.19500v2)** | 2026-03-05 |  |
+| **[Diffusion-Based sRGB Real Noise Generation via Prompt-Driven Noise Representation Learning](https://arxiv.org/abs/2603.04870v1)** | 2026-03-05 | CVPR 2026 |
 | **[Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2505.12506v4)** | 2026-03-04 |  |
 | **[Motion Manipulation via Unsupervised Keypoint Positioning in Face Animation](https://arxiv.org/abs/2603.04302v1)** | 2026-03-04 | 19 pages, 15 figures |
 | **[LabelBuddy: An Open Source Music and Audio Language Annotation Tagging Tool Using AI Assistance](https://arxiv.org/abs/2603.04293v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at NLP4MusA 2026 (4th Workshop on NLP for Music and Audio)</p></details> |
@@ -52,8 +56,4 @@ labels: documentation
 | **[D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping](https://arxiv.org/abs/2507.08492v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](https://arxiv.org/abs/2603.03739v1)** | 2026-03-04 |  |
 | **[Topological Alignment of Shared Vision-Language Embedding Space](https://arxiv.org/abs/2510.10889v2)** | 2026-03-04 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 24 tables</p></details> |
-| **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v2)** | 2026-03-04 |  |
-| **[ITO: Images and Texts as One via Synergizing Multiple Alignment and Training-Time Fusion](https://arxiv.org/abs/2603.02767v2)** | 2026-03-04 |  |
-| **[CoRe-BT: A Multimodal Radiology-Pathology-Text Benchmark for Robust Brain Tumor Typing](https://arxiv.org/abs/2603.03618v1)** | 2026-03-04 | <details><summary>Under...</summary><p>Under review, MICCAI 2026</p></details> |
-| **[Uni-NTFM: A Unified Foundation Model for EEG Signal Representation Learning](https://arxiv.org/abs/2509.24222v2)** | 2026-03-03 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 
