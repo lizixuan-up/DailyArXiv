@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 08, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](https://arxiv.org/abs/2603.06576v1)** | 2026-03-06 | <details><summary>4 fig...</summary><p>4 figures, 6 tables in the main paper, 32 pages in total</p></details> |
+| **[Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/abs/2603.06507v1)** | 2026-03-06 | <details><summary>proje...</summary><p>project webpage: https://bfl.ai/research/self-flow</p></details> |
+| **[SSL-SLR: Self-Supervised Representation Learning for Sign Language Recognition](https://arxiv.org/abs/2509.05188v2)** | 2026-03-06 |  |
+| **[DiffInf: Influence-Guided Diffusion for Supervision Alignment in Facial Attribute Learning](https://arxiv.org/abs/2603.06399v1)** | 2026-03-06 |  |
+| **[CLAIRE: Compressed Latent Autoencoder for Industrial Representation and Evaluation -- A Deep Learning Framework for Smart Manufacturing](https://arxiv.org/abs/2603.06361v1)** | 2026-03-06 | <details><summary>13 pa...</summary><p>13 pages. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2026</p></details> |
+| **[UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction](https://arxiv.org/abs/2411.07019v8)** | 2026-03-06 | AAAI 2026 (oral) |
+| **[Escaping The Big Data Paradigm in Self-Supervised Representation Learning](https://arxiv.org/abs/2502.18056v2)** | 2026-03-06 | <details><summary>Code ...</summary><p>Code and implementation available at: https://github.com/inescopresearch/scott</p></details> |
+| **[Skeleton-to-Image Encoding: Enabling Skeleton Representation Learning via Vision-Pretrained Models](https://arxiv.org/abs/2603.05963v1)** | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to IEEE TPAMI, under review</p></details> |
+| **[UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval](https://arxiv.org/abs/2512.10452v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted by the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[Unlocking ImageNet's Multi-Object Nature: Automated Large-Scale Multilabel Annotation](https://arxiv.org/abs/2603.05729v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings</p></details> |
+| **[Structured Multidimensional Representation Learning for Large Language Models](https://arxiv.org/abs/2603.05727v1)** | 2026-03-05 | <details><summary>25 pa...</summary><p>25 pages, 6 figures. Preprint of a journal submission</p></details> |
+| **[Kernel VICReg for Self-Supervised Learning in Reproducing Kernel Hilbert Space](https://arxiv.org/abs/2509.07289v2)** | 2026-03-05 | <details><summary>Publi...</summary><p>Published in Big Data and Cognitive Computing, 2026, volume 10, issue 3, https://doi.org/10.3390/bdcc10030078</p></details> |
+| **[Koopman Regularized Deep Speech Disentanglement for Speaker Verification](https://arxiv.org/abs/2603.05577v1)** | 2026-03-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[DAP: A Discrete-token Autoregressive Planner for Autonomous Driving](https://arxiv.org/abs/2511.13306v2)** | 2026-03-05 |  |
 | **[ICHOR: A Robust Representation Learning Approach for ASL CBF Maps with Self-Supervised Masked Autoencoders](https://arxiv.org/abs/2603.05247v1)** | 2026-03-05 |  |
-| **[CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery](https://arxiv.org/abs/2511.19500v2)** | 2026-03-05 |  |
-| **[Diffusion-Based sRGB Real Noise Generation via Prompt-Driven Noise Representation Learning](https://arxiv.org/abs/2603.04870v1)** | 2026-03-05 | CVPR 2026 |
-| **[Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2505.12506v4)** | 2026-03-04 |  |
-| **[Motion Manipulation via Unsupervised Keypoint Positioning in Face Animation](https://arxiv.org/abs/2603.04302v1)** | 2026-03-04 | 19 pages, 15 figures |
-| **[LabelBuddy: An Open Source Music and Audio Language Annotation Tagging Tool Using AI Assistance](https://arxiv.org/abs/2603.04293v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at NLP4MusA 2026 (4th Workshop on NLP for Music and Audio)</p></details> |
-| **[DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](https://arxiv.org/abs/2603.04239v1)** | 2026-03-04 | <details><summary>To ap...</summary><p>To appear in CVPR 2026, GitHub Code: https://github.com/kobeshegu/DiverseDiT, Project Page: https://forevermamba.work/projects/DiverseDiT/</p></details> |
-| **[Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://arxiv.org/abs/2603.04114v1)** | 2026-03-04 |  |
-| **[Understanding Sources of Demographic Predictability in Brain MRI via Disentangling Anatomy and Contrast](https://arxiv.org/abs/2603.04113v1)** | 2026-03-04 |  |
-| **[Weakly Supervised Patch Annotation for Improved Screening of Diabetic Retinopathy](https://arxiv.org/abs/2603.03991v1)** | 2026-03-04 |  |
-| **[Weight Space Representation Learning via Neural Field Adaptation](https://arxiv.org/abs/2512.01759v2)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages body, 8 pages appendix</p></details> |
-| **[D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping](https://arxiv.org/abs/2507.08492v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](https://arxiv.org/abs/2603.03739v1)** | 2026-03-04 |  |
-| **[Topological Alignment of Shared Vision-Language Embedding Space](https://arxiv.org/abs/2510.10889v2)** | 2026-03-04 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 24 tables</p></details> |
 
