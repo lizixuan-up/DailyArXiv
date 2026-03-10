@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LMMRec: LLM-driven Motivation-aware Multimodal Recommendation](https://arxiv.org/abs/2602.05474v3)** | 2026-03-09 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
 | **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
 | **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v2)** | 2026-03-03 | Submitted to KDD2026 |
 | **[CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation](https://arxiv.org/abs/2603.01536v1)** | 2026-03-02 |  |
@@ -34,26 +35,25 @@ labels: documentation
 | **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v1)** | 2026-02-17 |  |
 | **[RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation](https://arxiv.org/abs/2506.20817v2)** | 2026-02-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, 7 tables</p></details> |
 | **[Personalized Parameter-Efficient Fine-Tuning of Foundation Models for Multimodal Recommendation](https://arxiv.org/abs/2602.09445v1)** | 2026-02-10 | <details><summary>To be...</summary><p>To be published at The Web Conference 2026 (WWW 2026)</p></details> |
-| **[LMMRec: LLM-driven Motivation-aware Multimodal Recommendation](https://arxiv.org/abs/2602.05474v2)** | 2026-02-10 |  |
 | **[Towards Trustworthy Multimodal Recommendation](https://arxiv.org/abs/2602.00730v1)** | 2026-01-31 | <details><summary>Prepr...</summary><p>Preprint, 10 pages, 5 figures</p></details> |
 | **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v1)** | 2026-01-31 | Under Review |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](https://arxiv.org/abs/2603.06576v1)** | 2026-03-06 | <details><summary>4 fig...</summary><p>4 figures, 6 tables in the main paper, 32 pages in total</p></details> |
-| **[Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/abs/2603.06507v1)** | 2026-03-06 | <details><summary>proje...</summary><p>project webpage: https://bfl.ai/research/self-flow</p></details> |
-| **[SSL-SLR: Self-Supervised Representation Learning for Sign Language Recognition](https://arxiv.org/abs/2509.05188v2)** | 2026-03-06 |  |
-| **[DiffInf: Influence-Guided Diffusion for Supervision Alignment in Facial Attribute Learning](https://arxiv.org/abs/2603.06399v1)** | 2026-03-06 |  |
-| **[CLAIRE: Compressed Latent Autoencoder for Industrial Representation and Evaluation -- A Deep Learning Framework for Smart Manufacturing](https://arxiv.org/abs/2603.06361v1)** | 2026-03-06 | <details><summary>13 pa...</summary><p>13 pages. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2026</p></details> |
-| **[UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction](https://arxiv.org/abs/2411.07019v8)** | 2026-03-06 | AAAI 2026 (oral) |
-| **[Escaping The Big Data Paradigm in Self-Supervised Representation Learning](https://arxiv.org/abs/2502.18056v2)** | 2026-03-06 | <details><summary>Code ...</summary><p>Code and implementation available at: https://github.com/inescopresearch/scott</p></details> |
-| **[Skeleton-to-Image Encoding: Enabling Skeleton Representation Learning via Vision-Pretrained Models](https://arxiv.org/abs/2603.05963v1)** | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to IEEE TPAMI, under review</p></details> |
-| **[UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval](https://arxiv.org/abs/2512.10452v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted by the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[Unlocking ImageNet's Multi-Object Nature: Automated Large-Scale Multilabel Annotation](https://arxiv.org/abs/2603.05729v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings</p></details> |
-| **[Structured Multidimensional Representation Learning for Large Language Models](https://arxiv.org/abs/2603.05727v1)** | 2026-03-05 | <details><summary>25 pa...</summary><p>25 pages, 6 figures. Preprint of a journal submission</p></details> |
-| **[Kernel VICReg for Self-Supervised Learning in Reproducing Kernel Hilbert Space](https://arxiv.org/abs/2509.07289v2)** | 2026-03-05 | <details><summary>Publi...</summary><p>Published in Big Data and Cognitive Computing, 2026, volume 10, issue 3, https://doi.org/10.3390/bdcc10030078</p></details> |
-| **[Koopman Regularized Deep Speech Disentanglement for Speaker Verification](https://arxiv.org/abs/2603.05577v1)** | 2026-03-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[DAP: A Discrete-token Autoregressive Planner for Autonomous Driving](https://arxiv.org/abs/2511.13306v2)** | 2026-03-05 |  |
-| **[ICHOR: A Robust Representation Learning Approach for ASL CBF Maps with Self-Supervised Masked Autoencoders](https://arxiv.org/abs/2603.05247v1)** | 2026-03-05 |  |
+| **[Structural Causal Bottleneck Models](https://arxiv.org/abs/2603.08682v1)** | 2026-03-09 |  |
+| **[ER-Pose: Rethinking Keypoint-Driven Representation Learning for Real-Time Human Pose Estimation](https://arxiv.org/abs/2603.08681v1)** | 2026-03-09 |  |
+| **[Impact of Connectivity on Laplacian Representations in Reinforcement Learning](https://arxiv.org/abs/2603.08558v1)** | 2026-03-09 |  |
+| **[ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](https://arxiv.org/abs/2505.20032v2)** | 2026-03-09 |  |
+| **[Meta-RL with Shared Representations Enables Fast Adaptation in Energy Systems](https://arxiv.org/abs/2603.08418v1)** | 2026-03-09 | <details><summary>accep...</summary><p>accepted at PAKDD 2026, Hong Kong</p></details> |
+| **[Decoupling Distance and Networks: Hybrid Graph Attention-Geostatistical Methods for Spatio-temporal Risk Mapping](https://arxiv.org/abs/2603.08393v1)** | 2026-03-09 | 30 pages, 8 figures |
+| **[BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data](https://arxiv.org/abs/2511.21194v2)** | 2026-03-09 |  |
+| **[Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection](https://arxiv.org/abs/2512.22179v2)** | 2026-03-09 | <details><summary>8 pag...</summary><p>8 pages, 3 figures. Code available at: https://github.com/Rajeeb321123/Latent_sculpting_using_two_stage_method</p></details> |
+| **[SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval](https://arxiv.org/abs/2603.08224v1)** | 2026-03-09 | Accepted to CVPR2026 |
+| **[Learning Hierarchical Knowledge in Text-Rich Networks with Taxonomy-Informed Representation Learning](https://arxiv.org/abs/2603.08159v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted by KDD 2026. Extended version coming soon</p></details> |
+| **[iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding](https://arxiv.org/abs/2603.02748v2)** | 2026-03-09 |  |
+| **[ITO: Images and Texts as One via Synergizing Multiple Alignment and Training-Time Fusion](https://arxiv.org/abs/2603.02767v3)** | 2026-03-09 |  |
+| **[DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive Decentralized Multi-Robot Cooperative Transport](https://arxiv.org/abs/2603.08111v1)** | 2026-03-09 | 9 pages, 7 figures |
+| **[Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](https://arxiv.org/abs/2603.08018v1)** | 2026-03-09 | <details><summary>This ...</summary><p>This paper has been accepted by CVPR 2026</p></details> |
+| **[Transferable Graph Condensation from the Causal Perspective](https://arxiv.org/abs/2601.21309v3)** | 2026-03-09 | <details><summary>The p...</summary><p>The project paper is currently under company confidentiality restrictions, and the data and models cannot be made publicly available at this time</p></details> |
 
