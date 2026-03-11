@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Structural Causal Bottleneck Models](https://arxiv.org/abs/2603.08682v1)** | 2026-03-09 |  |
-| **[ER-Pose: Rethinking Keypoint-Driven Representation Learning for Real-Time Human Pose Estimation](https://arxiv.org/abs/2603.08681v1)** | 2026-03-09 |  |
-| **[Impact of Connectivity on Laplacian Representations in Reinforcement Learning](https://arxiv.org/abs/2603.08558v1)** | 2026-03-09 |  |
-| **[ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](https://arxiv.org/abs/2505.20032v2)** | 2026-03-09 |  |
-| **[Meta-RL with Shared Representations Enables Fast Adaptation in Energy Systems](https://arxiv.org/abs/2603.08418v1)** | 2026-03-09 | <details><summary>accep...</summary><p>accepted at PAKDD 2026, Hong Kong</p></details> |
-| **[Decoupling Distance and Networks: Hybrid Graph Attention-Geostatistical Methods for Spatio-temporal Risk Mapping](https://arxiv.org/abs/2603.08393v1)** | 2026-03-09 | 30 pages, 8 figures |
-| **[BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data](https://arxiv.org/abs/2511.21194v2)** | 2026-03-09 |  |
-| **[Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection](https://arxiv.org/abs/2512.22179v2)** | 2026-03-09 | <details><summary>8 pag...</summary><p>8 pages, 3 figures. Code available at: https://github.com/Rajeeb321123/Latent_sculpting_using_two_stage_method</p></details> |
-| **[SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval](https://arxiv.org/abs/2603.08224v1)** | 2026-03-09 | Accepted to CVPR2026 |
-| **[Learning Hierarchical Knowledge in Text-Rich Networks with Taxonomy-Informed Representation Learning](https://arxiv.org/abs/2603.08159v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted by KDD 2026. Extended version coming soon</p></details> |
-| **[iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding](https://arxiv.org/abs/2603.02748v2)** | 2026-03-09 |  |
-| **[ITO: Images and Texts as One via Synergizing Multiple Alignment and Training-Time Fusion](https://arxiv.org/abs/2603.02767v3)** | 2026-03-09 |  |
-| **[DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive Decentralized Multi-Robot Cooperative Transport](https://arxiv.org/abs/2603.08111v1)** | 2026-03-09 | 9 pages, 7 figures |
-| **[Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](https://arxiv.org/abs/2603.08018v1)** | 2026-03-09 | <details><summary>This ...</summary><p>This paper has been accepted by CVPR 2026</p></details> |
-| **[Transferable Graph Condensation from the Causal Perspective](https://arxiv.org/abs/2601.21309v3)** | 2026-03-09 | <details><summary>The p...</summary><p>The project paper is currently under company confidentiality restrictions, and the data and models cannot be made publicly available at this time</p></details> |
+| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
+| **[No Image, No Problem: End-to-End Multi-Task Cardiac Analysis from Undersampled k-Space](https://arxiv.org/abs/2603.09945v1)** | 2026-03-10 |  |
+| **[Scaling Multilingual Semantic Search in Uber Eats Delivery](https://arxiv.org/abs/2603.06586v2)** | 2026-03-10 | <details><summary>15 pa...</summary><p>15 pages, 11 tables, 1 figure. Planned for submission to SIGIR or KDD 2026</p></details> |
+| **[AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering](https://arxiv.org/abs/2603.09689v1)** | 2026-03-10 |  |
+| **[Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](https://arxiv.org/abs/2512.00074v3)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project Page: https://kolakivy.github.io/AFRO/, accepted by CVPR 2026</p></details> |
+| **[Khatri-Rao Clustering for Data Summarization](https://arxiv.org/abs/2603.06602v2)** | 2026-03-10 |  |
+| **[Unsupervised Representation Learning from Sparse Transformation Analysis](https://arxiv.org/abs/2410.05564v3)** | 2026-03-10 | T-PAMI journal paper |
+| **[From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering](https://arxiv.org/abs/2603.09370v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted at The Web Conference 2026. 12 pages, 5 figures</p></details> |
+| **[Spectral Graph Filtering for Modality-Specific Representation Learning](https://arxiv.org/abs/2402.18741v3)** | 2026-03-10 |  |
+| **[Multimodal Graph Representation Learning with Dynamic Information Pathways](https://arxiv.org/abs/2603.09258v1)** | 2026-03-10 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 6 tables</p></details> |
+| **[UniField: A Unified Field-Aware MRI Enhancement Framework](https://arxiv.org/abs/2603.09223v1)** | 2026-03-10 |  |
+| **[Wrong Code, Right Structure: Learning Netlist Representations from Imperfect LLM-Generated RTL](https://arxiv.org/abs/2603.09161v1)** | 2026-03-10 |  |
+| **[Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.16144v2)** | 2026-03-10 | 21 pages, 6 figures |
+| **[Progressive Representation Learning for Multimodal Sentiment Analysis with Incomplete Modalities](https://arxiv.org/abs/2603.09111v1)** | 2026-03-10 |  |
+| **[Low-rank Orthogonal Subspace Intervention for Generalizable Face Forgery Detection](https://arxiv.org/abs/2601.11915v2)** | 2026-03-10 |  |
 
