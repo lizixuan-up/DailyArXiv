@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
-| **[No Image, No Problem: End-to-End Multi-Task Cardiac Analysis from Undersampled k-Space](https://arxiv.org/abs/2603.09945v1)** | 2026-03-10 |  |
-| **[Scaling Multilingual Semantic Search in Uber Eats Delivery](https://arxiv.org/abs/2603.06586v2)** | 2026-03-10 | <details><summary>15 pa...</summary><p>15 pages, 11 tables, 1 figure. Planned for submission to SIGIR or KDD 2026</p></details> |
-| **[AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering](https://arxiv.org/abs/2603.09689v1)** | 2026-03-10 |  |
-| **[Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](https://arxiv.org/abs/2512.00074v3)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project Page: https://kolakivy.github.io/AFRO/, accepted by CVPR 2026</p></details> |
-| **[Khatri-Rao Clustering for Data Summarization](https://arxiv.org/abs/2603.06602v2)** | 2026-03-10 |  |
-| **[Unsupervised Representation Learning from Sparse Transformation Analysis](https://arxiv.org/abs/2410.05564v3)** | 2026-03-10 | T-PAMI journal paper |
-| **[From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering](https://arxiv.org/abs/2603.09370v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted at The Web Conference 2026. 12 pages, 5 figures</p></details> |
-| **[Spectral Graph Filtering for Modality-Specific Representation Learning](https://arxiv.org/abs/2402.18741v3)** | 2026-03-10 |  |
-| **[Multimodal Graph Representation Learning with Dynamic Information Pathways](https://arxiv.org/abs/2603.09258v1)** | 2026-03-10 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 6 tables</p></details> |
-| **[UniField: A Unified Field-Aware MRI Enhancement Framework](https://arxiv.org/abs/2603.09223v1)** | 2026-03-10 |  |
-| **[Wrong Code, Right Structure: Learning Netlist Representations from Imperfect LLM-Generated RTL](https://arxiv.org/abs/2603.09161v1)** | 2026-03-10 |  |
-| **[Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.16144v2)** | 2026-03-10 | 21 pages, 6 figures |
-| **[Progressive Representation Learning for Multimodal Sentiment Analysis with Incomplete Modalities](https://arxiv.org/abs/2603.09111v1)** | 2026-03-10 |  |
-| **[Low-rank Orthogonal Subspace Intervention for Generalizable Face Forgery Detection](https://arxiv.org/abs/2601.11915v2)** | 2026-03-10 |  |
+| **[Pointy - A Lightweight Transformer for Point Cloud Foundation Models](https://arxiv.org/abs/2603.10963v1)** | 2026-03-11 | <details><summary>To ap...</summary><p>To appear in the proceedings of ACIVS 2025. An earlier version was presented at the SCI-FM workshop at ICLR 2025</p></details> |
+| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
+| **[Inferring Clinically Relevant Molecular Subtypes of Pancreatic Cancer from Routine Histopathology Using Deep Learning](https://arxiv.org/abs/2601.03410v2)** | 2026-03-11 |  |
+| **[X-WIN: Building Chest Radiograph World Model via Predictive Sensing](https://arxiv.org/abs/2511.14918v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering](https://arxiv.org/abs/2603.09689v2)** | 2026-03-11 |  |
+| **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v1)** | 2026-03-11 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
+| **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
+| **[Scaling Multilingual Semantic Search in Uber Eats Delivery](https://arxiv.org/abs/2603.06586v3)** | 2026-03-11 | <details><summary>15 pa...</summary><p>15 pages, 11 tables, 1 figure. Planned for submission to SIGIR or KDD 2026</p></details> |
+| **[SDGraph: Multi-Level Sketch Representation Learning by Sparse-Dense Graph Architecture](https://arxiv.org/abs/2510.12192v2)** | 2026-03-11 |  |
+| **[SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval](https://arxiv.org/abs/2603.08224v2)** | 2026-03-11 | Accepted to CVPR2026 |
+| **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v2)** | 2026-03-11 | 15 pages, 17 figures |
+| **[Quantum entanglement provides a competitive advantage in adversarial games](https://arxiv.org/abs/2603.10289v1)** | 2026-03-11 | 22 pages, 5 figures |
+| **[Joint Imaging-ROI Representation Learning via Cross-View Contrastive Alignment for Brain Disorder Classification](https://arxiv.org/abs/2603.10253v1)** | 2026-03-10 |  |
+| **[DT-BEHRT: Disease Trajectory-aware Transformer for Interpretable Patient Representation Learning](https://arxiv.org/abs/2603.10180v1)** | 2026-03-10 |  |
+| **[The Prediction-Measurement Gap: Toward Meaning Representations as Scientific Instruments](https://arxiv.org/abs/2603.10130v1)** | 2026-03-10 |  |
 
