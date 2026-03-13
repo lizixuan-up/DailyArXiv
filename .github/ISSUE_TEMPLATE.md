@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,7 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LMMRec: LLM-driven Motivation-aware Multimodal Recommendation](https://arxiv.org/abs/2602.05474v3)** | 2026-03-09 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
+| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v4)** | 2026-03-12 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
 | **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
 | **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v2)** | 2026-03-03 | Submitted to KDD2026 |
 | **[CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation](https://arxiv.org/abs/2603.01536v1)** | 2026-03-02 |  |
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pointy - A Lightweight Transformer for Point Cloud Foundation Models](https://arxiv.org/abs/2603.10963v1)** | 2026-03-11 | <details><summary>To ap...</summary><p>To appear in the proceedings of ACIVS 2025. An earlier version was presented at the SCI-FM workshop at ICLR 2025</p></details> |
-| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
-| **[Inferring Clinically Relevant Molecular Subtypes of Pancreatic Cancer from Routine Histopathology Using Deep Learning](https://arxiv.org/abs/2601.03410v2)** | 2026-03-11 |  |
-| **[X-WIN: Building Chest Radiograph World Model via Predictive Sensing](https://arxiv.org/abs/2511.14918v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering](https://arxiv.org/abs/2603.09689v2)** | 2026-03-11 |  |
-| **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v1)** | 2026-03-11 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
-| **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
-| **[Scaling Multilingual Semantic Search in Uber Eats Delivery](https://arxiv.org/abs/2603.06586v3)** | 2026-03-11 | <details><summary>15 pa...</summary><p>15 pages, 11 tables, 1 figure. Planned for submission to SIGIR or KDD 2026</p></details> |
-| **[SDGraph: Multi-Level Sketch Representation Learning by Sparse-Dense Graph Architecture](https://arxiv.org/abs/2510.12192v2)** | 2026-03-11 |  |
-| **[SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval](https://arxiv.org/abs/2603.08224v2)** | 2026-03-11 | Accepted to CVPR2026 |
-| **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v2)** | 2026-03-11 | 15 pages, 17 figures |
-| **[Quantum entanglement provides a competitive advantage in adversarial games](https://arxiv.org/abs/2603.10289v1)** | 2026-03-11 | 22 pages, 5 figures |
-| **[Joint Imaging-ROI Representation Learning via Cross-View Contrastive Alignment for Brain Disorder Classification](https://arxiv.org/abs/2603.10253v1)** | 2026-03-10 |  |
-| **[DT-BEHRT: Disease Trajectory-aware Transformer for Interpretable Patient Representation Learning](https://arxiv.org/abs/2603.10180v1)** | 2026-03-10 |  |
-| **[The Prediction-Measurement Gap: Toward Meaning Representations as Scientific Instruments](https://arxiv.org/abs/2603.10130v1)** | 2026-03-10 |  |
+| **[OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://arxiv.org/abs/2603.12265v1)** | 2026-03-12 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://go2heart.github.io/omnistream/</p></details> |
+| **[Temporal Straightening for Latent Planning](https://arxiv.org/abs/2603.12231v1)** | 2026-03-12 |  |
+| **[Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity](https://arxiv.org/abs/2603.03190v2)** | 2026-03-12 | 47 pages, 12 figures |
+| **[Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation](https://arxiv.org/abs/2311.11321v4)** | 2026-03-12 |  |
+| **[A Foundational Theory of Quantitative Abstraction: Adjunctions, Duality, and Logic for Probabilistic Systems](https://arxiv.org/abs/2510.19444v3)** | 2026-03-12 | <details><summary>Some ...</summary><p>Some major mathematical errors that we need to rectify. We cannot specify exact error areas as they are spread throughout. The theorems need further development</p></details> |
+| **[Multimodal Emotion Recognition via Bi-directional Cross-Attention and Temporal Modeling](https://arxiv.org/abs/2603.11971v1)** | 2026-03-12 | 7 pages |
+| **[Statistical and structural identifiability in representation learning](https://arxiv.org/abs/2603.11970v1)** | 2026-03-12 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR) 2026</p></details> |
+| **[Causal Representation Learning with Optimal Compression under Complex Treatments](https://arxiv.org/abs/2603.11907v1)** | 2026-03-12 |  |
+| **[Multi-Station WiFi CSI Sensing Framework Robust to Station-wise Feature Missingness and Limited Labeled Data](https://arxiv.org/abs/2603.11858v1)** | 2026-03-12 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 7 tables</p></details> |
+| **[Disentangled Representation Learning through Unsupervised Symmetry Group Discovery](https://arxiv.org/abs/2603.11790v1)** | 2026-03-12 |  |
+| **[IDRL: An Individual-Aware Multimodal Depression-Related Representation Learning Framework for Depression Diagnosis](https://arxiv.org/abs/2603.11644v1)** | 2026-03-12 |  |
+| **[Personalized Federated Learning via Gaussian Generative Modeling](https://arxiv.org/abs/2603.11620v1)** | 2026-03-12 |  |
+| **[CAETC: Causal Autoencoding and Treatment Conditioning for Counterfactual Estimation over Time](https://arxiv.org/abs/2603.11565v1)** | 2026-03-12 |  |
+| **[CFD-HAR: User-controllable Privacy through Conditional Feature Disentanglement](https://arxiv.org/abs/2603.11526v1)** | 2026-03-12 |  |
+| **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v2)** | 2026-03-12 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
 
