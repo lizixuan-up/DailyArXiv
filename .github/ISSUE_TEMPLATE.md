@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 15, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,7 +22,9 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v4)** | 2026-03-12 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
+| **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
+| **[VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models](https://arxiv.org/abs/2603.12625v1)** | 2026-03-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 1 table</p></details> |
+| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v5)** | 2026-03-13 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
 | **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
 | **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v2)** | 2026-03-03 | Submitted to KDD2026 |
 | **[CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation](https://arxiv.org/abs/2603.01536v1)** | 2026-03-02 |  |
@@ -35,25 +37,23 @@ labels: documentation
 | **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v1)** | 2026-02-17 |  |
 | **[RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation](https://arxiv.org/abs/2506.20817v2)** | 2026-02-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, 7 tables</p></details> |
 | **[Personalized Parameter-Efficient Fine-Tuning of Foundation Models for Multimodal Recommendation](https://arxiv.org/abs/2602.09445v1)** | 2026-02-10 | <details><summary>To be...</summary><p>To be published at The Web Conference 2026 (WWW 2026)</p></details> |
-| **[Towards Trustworthy Multimodal Recommendation](https://arxiv.org/abs/2602.00730v1)** | 2026-01-31 | <details><summary>Prepr...</summary><p>Preprint, 10 pages, 5 figures</p></details> |
-| **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v1)** | 2026-01-31 | Under Review |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Representation Learning for Spatiotemporal Physical Systems](https://arxiv.org/abs/2603.13227v1)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published at ICLR 2026 Workshop on AI & PDE</p></details> |
+| **[NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation](https://arxiv.org/abs/2510.17914v2)** | 2026-03-13 |  |
+| **[GLEAM: A Multimodal Imaging Dataset and HAMM for Glaucoma Classification](https://arxiv.org/abs/2603.12800v1)** | 2026-03-13 |  |
+| **[TerraFlow: Multimodal, Multitemporal Representation Learning for Earth Observation](https://arxiv.org/abs/2603.12762v1)** | 2026-03-13 |  |
+| **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
+| **[Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/abs/2603.12711v1)** | 2026-03-13 |  |
+| **[LADMIM: Logical Anomaly Detection with Masked Image Modeling in Discrete Latent Space](https://arxiv.org/abs/2410.10234v2)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at TMLR2025. Code is available at https://github.com/SkyShunsuke/LADMIM</p></details> |
+| **[Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/abs/2601.15475v3)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026, Project Page: https://icvteam.github.io/See-NeRF.html</p></details> |
+| **[Maximizing Incremental Information Entropy for Contrastive Learning](https://arxiv.org/abs/2603.12594v1)** | 2026-03-13 | <details><summary>ICLR ...</summary><p>ICLR 2026 (The Fourteenth International Conference on Learning Representations) https://openreview.net/forum?id=XL7ValpExh</p></details> |
+| **[Deep Distance Measurement Method for Unsupervised Multivariate Time Series Similarity Retrieval](https://arxiv.org/abs/2603.12544v1)** | 2026-03-13 | <details><summary>Works...</summary><p>Workshop of Artificial Intelligence for Time Series Analysis (AI4TS): Theory, Algorithms, and Applications at 2025 IEEE International Conference on Data Mining (ICDM), 2025</p></details> |
+| **[DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2511.17354v2)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/SkyShunsuke/DSeq-JEPA</p></details> |
+| **[Thermodynamics of Reinforcement Learning Curricula](https://arxiv.org/abs/2603.12324v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at SciForDL Workshop at ICLR 2026</p></details> |
 | **[OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://arxiv.org/abs/2603.12265v1)** | 2026-03-12 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://go2heart.github.io/omnistream/</p></details> |
 | **[Temporal Straightening for Latent Planning](https://arxiv.org/abs/2603.12231v1)** | 2026-03-12 |  |
 | **[Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity](https://arxiv.org/abs/2603.03190v2)** | 2026-03-12 | 47 pages, 12 figures |
-| **[Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation](https://arxiv.org/abs/2311.11321v4)** | 2026-03-12 |  |
-| **[A Foundational Theory of Quantitative Abstraction: Adjunctions, Duality, and Logic for Probabilistic Systems](https://arxiv.org/abs/2510.19444v3)** | 2026-03-12 | <details><summary>Some ...</summary><p>Some major mathematical errors that we need to rectify. We cannot specify exact error areas as they are spread throughout. The theorems need further development</p></details> |
-| **[Multimodal Emotion Recognition via Bi-directional Cross-Attention and Temporal Modeling](https://arxiv.org/abs/2603.11971v1)** | 2026-03-12 | 7 pages |
-| **[Statistical and structural identifiability in representation learning](https://arxiv.org/abs/2603.11970v1)** | 2026-03-12 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR) 2026</p></details> |
-| **[Causal Representation Learning with Optimal Compression under Complex Treatments](https://arxiv.org/abs/2603.11907v1)** | 2026-03-12 |  |
-| **[Multi-Station WiFi CSI Sensing Framework Robust to Station-wise Feature Missingness and Limited Labeled Data](https://arxiv.org/abs/2603.11858v1)** | 2026-03-12 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 7 tables</p></details> |
-| **[Disentangled Representation Learning through Unsupervised Symmetry Group Discovery](https://arxiv.org/abs/2603.11790v1)** | 2026-03-12 |  |
-| **[IDRL: An Individual-Aware Multimodal Depression-Related Representation Learning Framework for Depression Diagnosis](https://arxiv.org/abs/2603.11644v1)** | 2026-03-12 |  |
-| **[Personalized Federated Learning via Gaussian Generative Modeling](https://arxiv.org/abs/2603.11620v1)** | 2026-03-12 |  |
-| **[CAETC: Causal Autoencoding and Treatment Conditioning for Counterfactual Estimation over Time](https://arxiv.org/abs/2603.11565v1)** | 2026-03-12 |  |
-| **[CFD-HAR: User-controllable Privacy through Conditional Feature Disentanglement](https://arxiv.org/abs/2603.11526v1)** | 2026-03-12 |  |
-| **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v2)** | 2026-03-12 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
 
