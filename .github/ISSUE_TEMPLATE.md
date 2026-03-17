@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 16, 2026
+title: Latest 15 Papers - March 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Representation Learning for Spatiotemporal Physical Systems](https://arxiv.org/abs/2603.13227v1)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published at ICLR 2026 Workshop on AI & PDE</p></details> |
-| **[NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation](https://arxiv.org/abs/2510.17914v2)** | 2026-03-13 |  |
-| **[GLEAM: A Multimodal Imaging Dataset and HAMM for Glaucoma Classification](https://arxiv.org/abs/2603.12800v1)** | 2026-03-13 |  |
-| **[TerraFlow: Multimodal, Multitemporal Representation Learning for Earth Observation](https://arxiv.org/abs/2603.12762v1)** | 2026-03-13 |  |
-| **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
-| **[Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/abs/2603.12711v1)** | 2026-03-13 |  |
-| **[LADMIM: Logical Anomaly Detection with Masked Image Modeling in Discrete Latent Space](https://arxiv.org/abs/2410.10234v2)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at TMLR2025. Code is available at https://github.com/SkyShunsuke/LADMIM</p></details> |
-| **[Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/abs/2601.15475v3)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026, Project Page: https://icvteam.github.io/See-NeRF.html</p></details> |
-| **[Maximizing Incremental Information Entropy for Contrastive Learning](https://arxiv.org/abs/2603.12594v1)** | 2026-03-13 | <details><summary>ICLR ...</summary><p>ICLR 2026 (The Fourteenth International Conference on Learning Representations) https://openreview.net/forum?id=XL7ValpExh</p></details> |
-| **[Deep Distance Measurement Method for Unsupervised Multivariate Time Series Similarity Retrieval](https://arxiv.org/abs/2603.12544v1)** | 2026-03-13 | <details><summary>Works...</summary><p>Workshop of Artificial Intelligence for Time Series Analysis (AI4TS): Theory, Algorithms, and Applications at 2025 IEEE International Conference on Data Mining (ICDM), 2025</p></details> |
-| **[DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2511.17354v2)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/SkyShunsuke/DSeq-JEPA</p></details> |
-| **[Thermodynamics of Reinforcement Learning Curricula](https://arxiv.org/abs/2603.12324v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at SciForDL Workshop at ICLR 2026</p></details> |
-| **[OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://arxiv.org/abs/2603.12265v1)** | 2026-03-12 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://go2heart.github.io/omnistream/</p></details> |
-| **[Temporal Straightening for Latent Planning](https://arxiv.org/abs/2603.12231v1)** | 2026-03-12 |  |
-| **[Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity](https://arxiv.org/abs/2603.03190v2)** | 2026-03-12 | 47 pages, 12 figures |
+| **[Co-Design of Memory-Storage Systems for Workload Awareness with Interpretable Models](https://arxiv.org/abs/2603.15571v1)** | 2026-03-16 | 9 pages, 10 figures |
+| **[Self-Distillation of Hidden Layers for Self-Supervised Representation Learning](https://arxiv.org/abs/2603.15553v1)** | 2026-03-16 |  |
+| **[Structural Causal Bottleneck Models](https://arxiv.org/abs/2603.08682v2)** | 2026-03-16 |  |
+| **[IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning](https://arxiv.org/abs/2603.15263v1)** | 2026-03-16 |  |
+| **[The Good, the Better, and the Best: Improving the Discriminability of Face Embeddings through Attribute-aware Learning](https://arxiv.org/abs/2603.15062v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at IWBF 2026</p></details> |
+| **[Masked BRep Autoencoder via Hierarchical Graph Transformer](https://arxiv.org/abs/2603.14927v1)** | 2026-03-16 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Under review</p></details> |
+| **[Disentangling Dynamical Systems: Causal Representation Learning Meets Local Sparse Attention](https://arxiv.org/abs/2603.14483v1)** | 2026-03-15 |  |
+| **[A Physically-Grounded Attack and Adaptive Defense Framework for Real-World Low-Light Image Enhancement](https://arxiv.org/abs/2603.14304v1)** | 2026-03-15 |  |
+| **[Is the reconstruction loss culprit? An attempt to outperform JEPA](https://arxiv.org/abs/2603.14131v1)** | 2026-03-14 |  |
+| **[EyeWorld: A Generative World Model of Ocular State and Dynamics](https://arxiv.org/abs/2603.14039v1)** | 2026-03-14 | 38 pages, 8 figures |
+| **[U-Face: An Efficient and Generalizable Framework for Unsupervised Facial Attribute Editing via Subspace Learning](https://arxiv.org/abs/2603.14004v1)** | 2026-03-14 |  |
+| **[Bid2X: Revealing Dynamics of Bidding Environment in Online Advertising from A Foundation Model Lens](https://arxiv.org/abs/2510.23410v2)** | 2026-03-14 | 12 pages, KDD 2025 |
+| **[Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition](https://arxiv.org/abs/2603.13904v1)** | 2026-03-14 | Preprint |
+| **[HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning](https://arxiv.org/abs/2411.14727v3)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted to DASFAA 2026</p></details> |
+| **[CARE: Contrastive Alignment for ADL Recognition from Event-Triggered Sensor Streams](https://arxiv.org/abs/2510.16988v3)** | 2026-03-14 |  |
 
