@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2026
+title: Latest 15 Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-Design of Memory-Storage Systems for Workload Awareness with Interpretable Models](https://arxiv.org/abs/2603.15571v1)** | 2026-03-16 | 9 pages, 10 figures |
-| **[Self-Distillation of Hidden Layers for Self-Supervised Representation Learning](https://arxiv.org/abs/2603.15553v1)** | 2026-03-16 |  |
-| **[Structural Causal Bottleneck Models](https://arxiv.org/abs/2603.08682v2)** | 2026-03-16 |  |
-| **[IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning](https://arxiv.org/abs/2603.15263v1)** | 2026-03-16 |  |
-| **[The Good, the Better, and the Best: Improving the Discriminability of Face Embeddings through Attribute-aware Learning](https://arxiv.org/abs/2603.15062v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at IWBF 2026</p></details> |
-| **[Masked BRep Autoencoder via Hierarchical Graph Transformer](https://arxiv.org/abs/2603.14927v1)** | 2026-03-16 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Under review</p></details> |
-| **[Disentangling Dynamical Systems: Causal Representation Learning Meets Local Sparse Attention](https://arxiv.org/abs/2603.14483v1)** | 2026-03-15 |  |
-| **[A Physically-Grounded Attack and Adaptive Defense Framework for Real-World Low-Light Image Enhancement](https://arxiv.org/abs/2603.14304v1)** | 2026-03-15 |  |
-| **[Is the reconstruction loss culprit? An attempt to outperform JEPA](https://arxiv.org/abs/2603.14131v1)** | 2026-03-14 |  |
-| **[EyeWorld: A Generative World Model of Ocular State and Dynamics](https://arxiv.org/abs/2603.14039v1)** | 2026-03-14 | 38 pages, 8 figures |
-| **[U-Face: An Efficient and Generalizable Framework for Unsupervised Facial Attribute Editing via Subspace Learning](https://arxiv.org/abs/2603.14004v1)** | 2026-03-14 |  |
-| **[Bid2X: Revealing Dynamics of Bidding Environment in Online Advertising from A Foundation Model Lens](https://arxiv.org/abs/2510.23410v2)** | 2026-03-14 | 12 pages, KDD 2025 |
-| **[Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition](https://arxiv.org/abs/2603.13904v1)** | 2026-03-14 | Preprint |
-| **[HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning](https://arxiv.org/abs/2411.14727v3)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted to DASFAA 2026</p></details> |
-| **[CARE: Contrastive Alignment for ADL Recognition from Event-Triggered Sensor Streams](https://arxiv.org/abs/2510.16988v3)** | 2026-03-14 |  |
+| **[Connecting Jensen-Shannon and Kullback-Leibler Divergences: A New Bound for Representation Learning](https://arxiv.org/abs/2510.20644v2)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This revised version provides a proof of Lemma B.5, previously stated as a conjecture in the original submission. Code available at https://github.com/ReubenDo/JSDlowerbound/</p></details> |
+| **[3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification](https://arxiv.org/abs/2603.16426v1)** | 2026-03-17 |  |
+| **[Age Predictors Through the Lens of Generalization, Bias Mitigation, and Interpretability: Reflections on Causal Implications](https://arxiv.org/abs/2603.16377v1)** | 2026-03-17 |  |
+| **[Toward Deep Representation Learning for Event-Enhanced Visual Autonomous Perception: the eAP Dataset](https://arxiv.org/abs/2603.16303v1)** | 2026-03-17 |  |
+| **[SARMAE: Masked Autoencoder for SAR Representation Learning](https://arxiv.org/abs/2512.16635v2)** | 2026-03-17 | <details><summary>The p...</summary><p>The paper is accepted by CVPR 2026! Code and models will be available at https://github.com/MiliLab/SARMAE</p></details> |
+| **[Hyperbolic Multimodal Generative Representation Learning for Generalized Zero-Shot Multimodal Information Extraction](https://arxiv.org/abs/2603.16259v1)** | 2026-03-17 | Accepted by WWW 2026 |
+| **[Synergizing Deep Learning and Biological Heuristics for Extreme Long-Tail White Blood Cell Classification](https://arxiv.org/abs/2603.16249v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at IEEE ISBI 2026</p></details> |
+| **[Sample-Efficient Adaptation of Drug-Response Models to Patient Tumors under Strong Biological Domain Shift](https://arxiv.org/abs/2603.16185v1)** | 2026-03-17 |  |
+| **[Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](https://arxiv.org/abs/2510.08316v2)** | 2026-03-17 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</p></details> |
+| **[Masked BRep Autoencoder via Hierarchical Graph Transformer](https://arxiv.org/abs/2603.14927v2)** | 2026-03-17 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Under review</p></details> |
+| **[RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems](https://arxiv.org/abs/2603.16088v1)** | 2026-03-17 |  |
+| **[Label-supervised surgical instrument segmentation using temporal equivariance and semantic continuity](https://arxiv.org/abs/2403.09551v3)** | 2026-03-17 |  |
+| **[Learning Topology-Driven Multi-Subspace Fusion for Grassmannian Deep Network](https://arxiv.org/abs/2511.08628v3)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Regularized Latent Dynamics Prediction is a Strong Baseline For Behavioral Foundation Models](https://arxiv.org/abs/2603.15857v1)** | 2026-03-16 | ICLR 2026 |
+| **[FEEL (Force-Enhanced Egocentric Learning): A Dataset for Physical Action Understanding](https://arxiv.org/abs/2603.15847v1)** | 2026-03-16 | 14 pages, 7 figures |
 
