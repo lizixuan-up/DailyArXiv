@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 18, 2026
+title: Latest 15 Papers - March 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Connecting Jensen-Shannon and Kullback-Leibler Divergences: A New Bound for Representation Learning](https://arxiv.org/abs/2510.20644v2)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This revised version provides a proof of Lemma B.5, previously stated as a conjecture in the original submission. Code available at https://github.com/ReubenDo/JSDlowerbound/</p></details> |
-| **[3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification](https://arxiv.org/abs/2603.16426v1)** | 2026-03-17 |  |
-| **[Age Predictors Through the Lens of Generalization, Bias Mitigation, and Interpretability: Reflections on Causal Implications](https://arxiv.org/abs/2603.16377v1)** | 2026-03-17 |  |
-| **[Toward Deep Representation Learning for Event-Enhanced Visual Autonomous Perception: the eAP Dataset](https://arxiv.org/abs/2603.16303v1)** | 2026-03-17 |  |
-| **[SARMAE: Masked Autoencoder for SAR Representation Learning](https://arxiv.org/abs/2512.16635v2)** | 2026-03-17 | <details><summary>The p...</summary><p>The paper is accepted by CVPR 2026! Code and models will be available at https://github.com/MiliLab/SARMAE</p></details> |
-| **[Hyperbolic Multimodal Generative Representation Learning for Generalized Zero-Shot Multimodal Information Extraction](https://arxiv.org/abs/2603.16259v1)** | 2026-03-17 | Accepted by WWW 2026 |
-| **[Synergizing Deep Learning and Biological Heuristics for Extreme Long-Tail White Blood Cell Classification](https://arxiv.org/abs/2603.16249v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at IEEE ISBI 2026</p></details> |
-| **[Sample-Efficient Adaptation of Drug-Response Models to Patient Tumors under Strong Biological Domain Shift](https://arxiv.org/abs/2603.16185v1)** | 2026-03-17 |  |
-| **[Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](https://arxiv.org/abs/2510.08316v2)** | 2026-03-17 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</p></details> |
-| **[Masked BRep Autoencoder via Hierarchical Graph Transformer](https://arxiv.org/abs/2603.14927v2)** | 2026-03-17 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Under review</p></details> |
-| **[RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems](https://arxiv.org/abs/2603.16088v1)** | 2026-03-17 |  |
-| **[Label-supervised surgical instrument segmentation using temporal equivariance and semantic continuity](https://arxiv.org/abs/2403.09551v3)** | 2026-03-17 |  |
-| **[Learning Topology-Driven Multi-Subspace Fusion for Grassmannian Deep Network](https://arxiv.org/abs/2511.08628v3)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[Regularized Latent Dynamics Prediction is a Strong Baseline For Behavioral Foundation Models](https://arxiv.org/abs/2603.15857v1)** | 2026-03-16 | ICLR 2026 |
-| **[FEEL (Force-Enhanced Egocentric Learning): A Dataset for Physical Action Understanding](https://arxiv.org/abs/2603.15847v1)** | 2026-03-16 | 14 pages, 7 figures |
+| **[DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation](https://arxiv.org/abs/2603.17851v1)** | 2026-03-18 | <details><summary>9 pag...</summary><p>9 pages, 9 figures.Project page: https://xitong-c.github.io/DexViTac/</p></details> |
+| **[Omni-3DEdit: Generalized Versatile 3D Editing in One-Pass](https://arxiv.org/abs/2603.17841v1)** | 2026-03-18 | accepted by CVPR26 |
+| **[M2P: Improving Visual Foundation Models with Mask-to-Point Weakly-Supervised Learning for Dense Point Tracking](https://arxiv.org/abs/2603.17813v1)** | 2026-03-18 |  |
+| **[YOLO26: An Analysis of NMS-Free End to End Framework for Real-Time Object Detection](https://arxiv.org/abs/2601.12882v2)** | 2026-03-18 |  |
+| **[Disentangled Representation Learning through Unsupervised Symmetry Group Discovery](https://arxiv.org/abs/2603.11790v2)** | 2026-03-18 |  |
+| **[Multimodal Emotion Recognition via Bi-directional Cross-Attention and Temporal Modeling](https://arxiv.org/abs/2603.11971v2)** | 2026-03-18 | 7 pages |
+| **[Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning](https://arxiv.org/abs/2603.17474v1)** | 2026-03-18 |  |
+| **[Explanations Go Linear: Post-hoc Explainability for Tabular Data with Interpretable Meta-Encoding](https://arxiv.org/abs/2504.20667v3)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at ICDM 2025</p></details> |
+| **[Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](https://arxiv.org/abs/2603.17439v1)** | 2026-03-18 |  |
+| **[Causal Representation Learning on High-Dimensional Data: Benchmarks, Reproducibility, and Evaluation Metrics](https://arxiv.org/abs/2603.17405v1)** | 2026-03-18 |  |
+| **[Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](https://arxiv.org/abs/2603.17305v1)** | 2026-03-18 |  |
+| **[Synergizing Deep Learning and Biological Heuristics for Extreme Long-Tail White Blood Cell Classification](https://arxiv.org/abs/2603.16249v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at IEEE ISBI 2026</p></details> |
+| **[Arch-VQ: Discrete Architecture Representation Learning with Autoregressive Priors](https://arxiv.org/abs/2503.22063v2)** | 2026-03-18 |  |
+| **[Binary Latent Protein Fitness Landscapes for Quantum Annealing Optimization](https://arxiv.org/abs/2603.17247v1)** | 2026-03-18 |  |
+| **[Federated Causal Representation Learning in State-Space Systems for Decentralized Counterfactual Reasoning](https://arxiv.org/abs/2602.19414v2)** | 2026-03-18 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
 
