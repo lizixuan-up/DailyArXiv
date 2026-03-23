@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 22, 2026
+title: Latest 15 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Less is More: Towards Simple Graph Contrastive Learning](https://arxiv.org/abs/2509.25742v3)** | 2026-03-20 |  |
+| **[Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture -- Bridging Predictive and Generative Self-Supervised Learning](https://arxiv.org/abs/2603.20111v1)** | 2026-03-20 |  |
+| **[Spectral Alignment in Forward-Backward Representations via Temporal Abstraction](https://arxiv.org/abs/2603.20103v1)** | 2026-03-20 |  |
+| **[Principled Multimodal Representation Learning](https://arxiv.org/abs/2507.17343v3)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by IEEE TPAMI 2026</p></details> |
+| **[DALI: LLM-Agent Enhanced Dual-Stream Adaptive Leadership Identification for Group Recommendations](https://arxiv.org/abs/2603.19909v1)** | 2026-03-20 | under review |
+| **[Alzheimer's Disease Brain Network Mining](https://arxiv.org/abs/2512.17276v2)** | 2026-03-20 | <details><summary>We fo...</summary><p>We found bugs in the code that affected the results. The results are no longer valid. so we decided to no longer pursue publishing this paper</p></details> |
+| **[BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates](https://arxiv.org/abs/2603.19718v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Demographic-Aware Self-Supervised Anomaly Detection Pretraining for Equitable Rare Cardiac Diagnosis](https://arxiv.org/abs/2603.19695v1)** | 2026-03-20 |  |
+| **[Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training](https://arxiv.org/abs/2603.00518v2)** | 2026-03-20 |  |
+| **[PFM-VEPAR: Prompting Foundation Models for RGB-Event Camera based Pedestrian Attribute Recognition](https://arxiv.org/abs/2603.19565v1)** | 2026-03-20 |  |
+| **[dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3](https://arxiv.org/abs/2603.19531v1)** | 2026-03-19 |  |
+| **[LoFi: Location-Aware Fine-Grained Representation Learning for Chest X-ray](https://arxiv.org/abs/2603.19451v1)** | 2026-03-19 |  |
 | **[Enhancing Lexicon-Based Text Embeddings with Large Language Models](https://arxiv.org/abs/2501.09749v2)** | 2026-03-19 | ACL 2025 |
 | **[Enhancing Pretrained Model-based Continual Representation Learning via Guided Random Projection](https://arxiv.org/abs/2603.19145v1)** | 2026-03-19 |  |
 | **[Is Contrastive Distillation Enough for Learning Comprehensive 3D Representations?](https://arxiv.org/abs/2412.08973v4)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted to IJCV 2026</p></details> |
-| **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v1)** | 2026-03-19 | <details><summary>Code ...</summary><p>Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter/</p></details> |
-| **[STEP: Scientific Time-Series Encoder Pretraining via Cross-Domain Distillation](https://arxiv.org/abs/2603.18688v1)** | 2026-03-19 |  |
-| **[Multimodal Model for Computational Pathology:Representation Learning and Image Compression](https://arxiv.org/abs/2603.18660v1)** | 2026-03-19 |  |
-| **[Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](https://arxiv.org/abs/2510.08316v3)** | 2026-03-19 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</p></details> |
-| **[Representation Finetuning for Continual Learning](https://arxiv.org/abs/2603.11201v2)** | 2026-03-19 |  |
-| **[Foundations and Architectures of Artificial Intelligence for Motor Insurance](https://arxiv.org/abs/2603.18508v1)** | 2026-03-19 | 173 pages |
-| **[Exploring AI in Fashion: A Review of Aesthetics, Personalization, Virtual Try-On, and Forecasting](https://arxiv.org/abs/2101.08301v2)** | 2026-03-19 |  |
-| **[Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction](https://arxiv.org/abs/2510.04714v5)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
-| **[Multi-Domain Causal Empirical Bayes Under Linear Mixing](https://arxiv.org/abs/2603.18404v1)** | 2026-03-19 |  |
-| **[Causality is Key for Interpretability Claims to Generalise](https://arxiv.org/abs/2602.16698v2)** | 2026-03-18 |  |
-| **[CWoMP: Morpheme Representation Learning for Interlinear Glossing](https://arxiv.org/abs/2603.18184v1)** | 2026-03-18 | <details><summary>Proje...</summary><p>Project page: http://cwomp.github.io</p></details> |
-| **[DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation](https://arxiv.org/abs/2603.17851v1)** | 2026-03-18 | <details><summary>9 pag...</summary><p>9 pages, 9 figures.Project page: https://xitong-c.github.io/DexViTac/</p></details> |
 
