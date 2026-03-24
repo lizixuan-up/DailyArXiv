@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Less is More: Towards Simple Graph Contrastive Learning](https://arxiv.org/abs/2509.25742v3)** | 2026-03-20 |  |
-| **[Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture -- Bridging Predictive and Generative Self-Supervised Learning](https://arxiv.org/abs/2603.20111v1)** | 2026-03-20 |  |
-| **[Spectral Alignment in Forward-Backward Representations via Temporal Abstraction](https://arxiv.org/abs/2603.20103v1)** | 2026-03-20 |  |
-| **[Principled Multimodal Representation Learning](https://arxiv.org/abs/2507.17343v3)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by IEEE TPAMI 2026</p></details> |
-| **[DALI: LLM-Agent Enhanced Dual-Stream Adaptive Leadership Identification for Group Recommendations](https://arxiv.org/abs/2603.19909v1)** | 2026-03-20 | under review |
-| **[Alzheimer's Disease Brain Network Mining](https://arxiv.org/abs/2512.17276v2)** | 2026-03-20 | <details><summary>We fo...</summary><p>We found bugs in the code that affected the results. The results are no longer valid. so we decided to no longer pursue publishing this paper</p></details> |
-| **[BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates](https://arxiv.org/abs/2603.19718v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Demographic-Aware Self-Supervised Anomaly Detection Pretraining for Equitable Rare Cardiac Diagnosis](https://arxiv.org/abs/2603.19695v1)** | 2026-03-20 |  |
-| **[Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training](https://arxiv.org/abs/2603.00518v2)** | 2026-03-20 |  |
-| **[PFM-VEPAR: Prompting Foundation Models for RGB-Event Camera based Pedestrian Attribute Recognition](https://arxiv.org/abs/2603.19565v1)** | 2026-03-20 |  |
-| **[dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3](https://arxiv.org/abs/2603.19531v1)** | 2026-03-19 |  |
-| **[LoFi: Location-Aware Fine-Grained Representation Learning for Chest X-ray](https://arxiv.org/abs/2603.19451v1)** | 2026-03-19 |  |
-| **[Enhancing Lexicon-Based Text Embeddings with Large Language Models](https://arxiv.org/abs/2501.09749v2)** | 2026-03-19 | ACL 2025 |
-| **[Enhancing Pretrained Model-based Continual Representation Learning via Guided Random Projection](https://arxiv.org/abs/2603.19145v1)** | 2026-03-19 |  |
-| **[Is Contrastive Distillation Enough for Learning Comprehensive 3D Representations?](https://arxiv.org/abs/2412.08973v4)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted to IJCV 2026</p></details> |
+| **[A Backbone Benchmarking Study on Self-supervised Learning as a Auxiliary Task with Texture-based Local Descriptors for Face Analysis](https://arxiv.org/abs/2603.22190v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication in SN Computer Science</p></details> |
+| **[SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models](https://arxiv.org/abs/2603.22097v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to IEEE IGARSS 2026</p></details> |
+| **[LEAF: Language-EEG Aligned Foundation Model for Brain-Computer Interfaces](https://arxiv.org/abs/2509.24302v2)** | 2026-03-23 |  |
+| **[Spectral Alignment in Forward-Backward Representations via Temporal Abstraction](https://arxiv.org/abs/2603.20103v2)** | 2026-03-23 |  |
+| **[A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing](https://arxiv.org/abs/2603.21911v1)** | 2026-03-23 |  |
+| **[Pantagruel: Unified Self-Supervised Encoders for French Text and Speech](https://arxiv.org/abs/2601.05911v2)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to LREC 2026</p></details> |
+| **[Rethinking SAR ATR: A Target-Aware Frequency-Spatial Enhancement Framework with Noise-Resilient Knowledge Guidance](https://arxiv.org/abs/2603.21565v1)** | 2026-03-23 |  |
+| **[Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection](https://arxiv.org/abs/2603.21511v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Parameter-efficient Prompt Tuning and Hierarchical Textual Guidance for Few-shot Whole Slide Image Classification](https://arxiv.org/abs/2603.21504v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2026 Workshop on Medical Reasoning with Vision Language Foundation Models (Med-Reasoner)</p></details> |
+| **[RuntimeSlicer: Towards Generalizable Unified Runtime State Representation for Failure Management](https://arxiv.org/abs/2603.21495v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by FSE'26-IVR</p></details> |
+| **[ALADIN:Attribute-Language Distillation Network for Person Re-Identification](https://arxiv.org/abs/2603.21482v1)** | 2026-03-23 | <details><summary>14pag...</summary><p>14pages, 3figures, 7charts</p></details> |
+| **[HELIX: Scaling Raw Audio Understanding with Hybrid Mamba-Attention Beyond the Quadratic Limit](https://arxiv.org/abs/2603.21316v1)** | 2026-03-22 | 10 Pages, 8 Figures |
+| **[DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction](https://arxiv.org/abs/2603.21108v1)** | 2026-03-22 | 9 pages, 1 figure |
+| **[ViCLSR: A Supervised Contrastive Learning Framework with Natural Language Inference for Natural Language Understanding Tasks](https://arxiv.org/abs/2603.21084v1)** | 2026-03-22 |  |
+| **[Discriminative Representation Learning for Clinical Prediction](https://arxiv.org/abs/2603.20921v1)** | 2026-03-21 |  |
 
