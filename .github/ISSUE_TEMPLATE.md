@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training-free Adjustable Polynomial Graph Filtering for Ultra-fast Multimodal Recommendation](https://arxiv.org/abs/2503.04406v3)** | 2026-03-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables; published in the Engineering Applications of Artificial Intelligence (Please cite our journal version.)</p></details> |
 | **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
 | **[VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models](https://arxiv.org/abs/2603.12625v1)** | 2026-03-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 1 table</p></details> |
 | **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v5)** | 2026-03-13 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
@@ -36,24 +37,23 @@ labels: documentation
 | **[Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation](https://arxiv.org/abs/2602.17354v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</p></details> |
 | **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v1)** | 2026-02-17 |  |
 | **[RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation](https://arxiv.org/abs/2506.20817v2)** | 2026-02-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, 7 tables</p></details> |
-| **[Personalized Parameter-Efficient Fine-Tuning of Foundation Models for Multimodal Recommendation](https://arxiv.org/abs/2602.09445v1)** | 2026-02-10 | <details><summary>To be...</summary><p>To be published at The Web Conference 2026 (WWW 2026)</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs](https://arxiv.org/abs/2603.23481v1)** | 2026-03-24 | <details><summary>https...</summary><p>https://plan-lab.github.io/projects/vtam/</p></details> |
+| **[Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors](https://arxiv.org/abs/2603.23356v1)** | 2026-03-24 |  |
+| **[FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation](https://arxiv.org/abs/2603.23199v1)** | 2026-03-24 | <details><summary>Submi...</summary><p>Submitted to ECCV2026</p></details> |
+| **[SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense](https://arxiv.org/abs/2603.23178v1)** | 2026-03-24 |  |
+| **[NeuroSeg Meets DINOv3: Transferring 2D Self-Supervised Visual Priors to 3D Neuron Segmentation via DINOv3 Initialization](https://arxiv.org/abs/2603.23104v1)** | 2026-03-24 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, and 11 tables. Accepted to CVPR 2026</p></details> |
+| **[Learning dynamically inspired bases for Koopman and transfer operator approximation](https://arxiv.org/abs/2505.05085v3)** | 2026-03-24 | 26 pages, 16 figures |
+| **[MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2511.05876v5)** | 2026-03-24 |  |
+| **[FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning](https://arxiv.org/abs/2603.22969v1)** | 2026-03-24 | CVPR 2026 Findings |
+| **[Multi-Station WiFi CSI Sensing Framework Robust to Station-wise Feature Missingness and Limited Labeled Data](https://arxiv.org/abs/2603.11858v2)** | 2026-03-24 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 7 tables</p></details> |
+| **[GeoDiffMM: Geometry-Guided Conditional Diffusion for Motion Magnification](https://arxiv.org/abs/2512.08325v2)** | 2026-03-24 |  |
+| **[MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2511.12449v2)** | 2026-03-24 | 11 pages, 7 figures |
+| **[Efficient Chest X-ray Representation Learning via Semantic-Partitioned Contrastive Learning](https://arxiv.org/abs/2603.07113v2)** | 2026-03-24 |  |
+| **[HD-Bind: Encoding of Molecular Structure with Low Precision, Hyperdimensional Binary Representations](https://arxiv.org/abs/2303.15604v2)** | 2026-03-23 |  |
 | **[A Backbone Benchmarking Study on Self-supervised Learning as a Auxiliary Task with Texture-based Local Descriptors for Face Analysis](https://arxiv.org/abs/2603.22190v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication in SN Computer Science</p></details> |
 | **[SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models](https://arxiv.org/abs/2603.22097v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to IEEE IGARSS 2026</p></details> |
-| **[LEAF: Language-EEG Aligned Foundation Model for Brain-Computer Interfaces](https://arxiv.org/abs/2509.24302v2)** | 2026-03-23 |  |
-| **[Spectral Alignment in Forward-Backward Representations via Temporal Abstraction](https://arxiv.org/abs/2603.20103v2)** | 2026-03-23 |  |
-| **[A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing](https://arxiv.org/abs/2603.21911v1)** | 2026-03-23 |  |
-| **[Pantagruel: Unified Self-Supervised Encoders for French Text and Speech](https://arxiv.org/abs/2601.05911v2)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to LREC 2026</p></details> |
-| **[Rethinking SAR ATR: A Target-Aware Frequency-Spatial Enhancement Framework with Noise-Resilient Knowledge Guidance](https://arxiv.org/abs/2603.21565v1)** | 2026-03-23 |  |
-| **[Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection](https://arxiv.org/abs/2603.21511v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Parameter-efficient Prompt Tuning and Hierarchical Textual Guidance for Few-shot Whole Slide Image Classification](https://arxiv.org/abs/2603.21504v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2026 Workshop on Medical Reasoning with Vision Language Foundation Models (Med-Reasoner)</p></details> |
-| **[RuntimeSlicer: Towards Generalizable Unified Runtime State Representation for Failure Management](https://arxiv.org/abs/2603.21495v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by FSE'26-IVR</p></details> |
-| **[ALADIN:Attribute-Language Distillation Network for Person Re-Identification](https://arxiv.org/abs/2603.21482v1)** | 2026-03-23 | <details><summary>14pag...</summary><p>14pages, 3figures, 7charts</p></details> |
-| **[HELIX: Scaling Raw Audio Understanding with Hybrid Mamba-Attention Beyond the Quadratic Limit](https://arxiv.org/abs/2603.21316v1)** | 2026-03-22 | 10 Pages, 8 Figures |
-| **[DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction](https://arxiv.org/abs/2603.21108v1)** | 2026-03-22 | 9 pages, 1 figure |
-| **[ViCLSR: A Supervised Contrastive Learning Framework with Natural Language Inference for Natural Language Understanding Tasks](https://arxiv.org/abs/2603.21084v1)** | 2026-03-22 |  |
-| **[Discriminative Representation Learning for Clinical Prediction](https://arxiv.org/abs/2603.20921v1)** | 2026-03-21 |  |
 
