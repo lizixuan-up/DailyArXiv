@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs](https://arxiv.org/abs/2603.23481v1)** | 2026-03-24 | <details><summary>https...</summary><p>https://plan-lab.github.io/projects/vtam/</p></details> |
-| **[Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors](https://arxiv.org/abs/2603.23356v1)** | 2026-03-24 |  |
-| **[FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation](https://arxiv.org/abs/2603.23199v1)** | 2026-03-24 | <details><summary>Submi...</summary><p>Submitted to ECCV2026</p></details> |
-| **[SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense](https://arxiv.org/abs/2603.23178v1)** | 2026-03-24 |  |
-| **[NeuroSeg Meets DINOv3: Transferring 2D Self-Supervised Visual Priors to 3D Neuron Segmentation via DINOv3 Initialization](https://arxiv.org/abs/2603.23104v1)** | 2026-03-24 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, and 11 tables. Accepted to CVPR 2026</p></details> |
-| **[Learning dynamically inspired bases for Koopman and transfer operator approximation](https://arxiv.org/abs/2505.05085v3)** | 2026-03-24 | 26 pages, 16 figures |
-| **[MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2511.05876v5)** | 2026-03-24 |  |
-| **[FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning](https://arxiv.org/abs/2603.22969v1)** | 2026-03-24 | CVPR 2026 Findings |
-| **[Multi-Station WiFi CSI Sensing Framework Robust to Station-wise Feature Missingness and Limited Labeled Data](https://arxiv.org/abs/2603.11858v2)** | 2026-03-24 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 7 tables</p></details> |
-| **[GeoDiffMM: Geometry-Guided Conditional Diffusion for Motion Magnification](https://arxiv.org/abs/2512.08325v2)** | 2026-03-24 |  |
-| **[MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2511.12449v2)** | 2026-03-24 | 11 pages, 7 figures |
-| **[Efficient Chest X-ray Representation Learning via Semantic-Partitioned Contrastive Learning](https://arxiv.org/abs/2603.07113v2)** | 2026-03-24 |  |
-| **[HD-Bind: Encoding of Molecular Structure with Low Precision, Hyperdimensional Binary Representations](https://arxiv.org/abs/2303.15604v2)** | 2026-03-23 |  |
-| **[A Backbone Benchmarking Study on Self-supervised Learning as a Auxiliary Task with Texture-based Local Descriptors for Face Analysis](https://arxiv.org/abs/2603.22190v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication in SN Computer Science</p></details> |
-| **[SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models](https://arxiv.org/abs/2603.22097v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to IEEE IGARSS 2026</p></details> |
+| **[Representation Learning to Study Temporal Dynamics in Tutorial Scaffolding](https://arxiv.org/abs/2603.24535v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted as short paper to the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
+| **[The Gait Signature of Frailty: Transfer Learning based Deep Gait Models for Scalable Frailty Assessment](https://arxiv.org/abs/2603.24434v1)** | 2026-03-25 |  |
+| **[DELULU: Discriminative Embedding Learning Using Latent Units for Speaker-Aware Self-Trained Speech Foundational Model](https://arxiv.org/abs/2510.17662v2)** | 2026-03-25 |  |
+| **[Causal Transfer in Medical Image Analysis](https://arxiv.org/abs/2603.24388v1)** | 2026-03-25 |  |
+| **[MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization](https://arxiv.org/abs/2603.24382v1)** | 2026-03-25 |  |
+| **[LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control](https://arxiv.org/abs/2603.24361v1)** | 2026-03-25 |  |
+| **[Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens](https://arxiv.org/abs/2603.24327v1)** | 2026-03-25 |  |
+| **[CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304v1)** | 2026-03-25 |  |
+| **[InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment](https://arxiv.org/abs/2603.24240v1)** | 2026-03-25 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, 2 tables. Accepted by ICASSP 2026</p></details> |
+| **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v2)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter/</p></details> |
+| **[Causality-Driven Disentangled Representation Learning in Multiplex Graphs](https://arxiv.org/abs/2603.24105v1)** | 2026-03-25 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Signal and Information Processing over Networks. Includes supplementary material</p></details> |
+| **[KCLNet: Electrically Equivalence-Oriented Graph Representation Learning for Analog Circuits](https://arxiv.org/abs/2603.24101v1)** | 2026-03-25 |  |
+| **[Minimal Sufficient Representations for Self-interpretable Deep Neural Networks](https://arxiv.org/abs/2603.24041v1)** | 2026-03-25 |  |
+| **[Can we generate portable representations for clinical time series data using LLMs?](https://arxiv.org/abs/2603.23987v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Few-shot Learning](https://arxiv.org/abs/2603.23957v1)** | 2026-03-25 |  |
 
