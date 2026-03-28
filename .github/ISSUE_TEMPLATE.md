@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation](https://arxiv.org/abs/2602.19778v2)** | 2026-03-26 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
+| **[3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](https://arxiv.org/abs/2512.23042v2)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://ryosuke-yamada.github.io/lam3c/</p></details> |
+| **[Hierarchy-Guided Multimodal Representation Learning for Taxonomic Inference](https://arxiv.org/abs/2603.25573v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 Workshop on Foundation Models for Science (FM4Science)</p></details> |
+| **[CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval](https://arxiv.org/abs/2208.09843v2)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by ECCV 2022</p></details> |
+| **[Semantic-Aware Prefix Learning for Token-Efficient Image Generation](https://arxiv.org/abs/2603.25249v1)** | 2026-03-26 |  |
+| **[SportSkills: Physical Skill Learning from Sports Instructional Videos](https://arxiv.org/abs/2603.25163v1)** | 2026-03-26 | Technical report |
+| **[Layer-Specific Lipschitz Modulation for Fault-Tolerant Multimodal Representation Learning](https://arxiv.org/abs/2603.25103v1)** | 2026-03-26 |  |
+| **[Discrete Causal Representation Learning](https://arxiv.org/abs/2603.25017v1)** | 2026-03-26 |  |
+| **[SurgPhase: Time efficient pituitary tumor surgery phase recognition via an interactive web platform](https://arxiv.org/abs/2603.24897v1)** | 2026-03-26 |  |
+| **[QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining](https://arxiv.org/abs/2505.23004v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted as ICLR 2026 poster. 22 pages, 19 figures</p></details> |
+| **[CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment](https://arxiv.org/abs/2603.24847v1)** | 2026-03-25 |  |
+| **[Pseudo Label NCF for Sparse OHC Recommendation: Dual Representation Learning and the Separability Accuracy Trade off](https://arxiv.org/abs/2603.24750v1)** | 2026-03-25 |  |
+| **[Weight Space Representation Learning on Diverse NeRF Architectures](https://arxiv.org/abs/2502.09623v5)** | 2026-03-25 | <details><summary>v5: f...</summary><p>v5: fixed typo in tabs. 11-13. Accepted at ICLR 2026</p></details> |
 | **[Representation Learning to Study Temporal Dynamics in Tutorial Scaffolding](https://arxiv.org/abs/2603.24535v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted as short paper to the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
 | **[The Gait Signature of Frailty: Transfer Learning based Deep Gait Models for Scalable Frailty Assessment](https://arxiv.org/abs/2603.24434v1)** | 2026-03-25 |  |
-| **[DELULU: Discriminative Embedding Learning Using Latent Units for Speaker-Aware Self-Trained Speech Foundational Model](https://arxiv.org/abs/2510.17662v2)** | 2026-03-25 |  |
-| **[Causal Transfer in Medical Image Analysis](https://arxiv.org/abs/2603.24388v1)** | 2026-03-25 |  |
-| **[MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization](https://arxiv.org/abs/2603.24382v1)** | 2026-03-25 |  |
-| **[LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control](https://arxiv.org/abs/2603.24361v1)** | 2026-03-25 |  |
-| **[Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens](https://arxiv.org/abs/2603.24327v1)** | 2026-03-25 |  |
-| **[CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304v1)** | 2026-03-25 |  |
-| **[InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment](https://arxiv.org/abs/2603.24240v1)** | 2026-03-25 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, 2 tables. Accepted by ICASSP 2026</p></details> |
-| **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v2)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter/</p></details> |
-| **[Causality-Driven Disentangled Representation Learning in Multiplex Graphs](https://arxiv.org/abs/2603.24105v1)** | 2026-03-25 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Signal and Information Processing over Networks. Includes supplementary material</p></details> |
-| **[KCLNet: Electrically Equivalence-Oriented Graph Representation Learning for Analog Circuits](https://arxiv.org/abs/2603.24101v1)** | 2026-03-25 |  |
-| **[Minimal Sufficient Representations for Self-interpretable Deep Neural Networks](https://arxiv.org/abs/2603.24041v1)** | 2026-03-25 |  |
-| **[Can we generate portable representations for clinical time series data using LLMs?](https://arxiv.org/abs/2603.23987v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Few-shot Learning](https://arxiv.org/abs/2603.23957v1)** | 2026-03-25 |  |
 
