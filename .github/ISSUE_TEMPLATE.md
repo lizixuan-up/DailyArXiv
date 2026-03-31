@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 28, 2026
+title: Latest 15 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation](https://arxiv.org/abs/2602.19778v2)** | 2026-03-26 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
-| **[3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](https://arxiv.org/abs/2512.23042v2)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://ryosuke-yamada.github.io/lam3c/</p></details> |
-| **[Hierarchy-Guided Multimodal Representation Learning for Taxonomic Inference](https://arxiv.org/abs/2603.25573v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 Workshop on Foundation Models for Science (FM4Science)</p></details> |
-| **[CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval](https://arxiv.org/abs/2208.09843v2)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by ECCV 2022</p></details> |
-| **[Semantic-Aware Prefix Learning for Token-Efficient Image Generation](https://arxiv.org/abs/2603.25249v1)** | 2026-03-26 |  |
-| **[SportSkills: Physical Skill Learning from Sports Instructional Videos](https://arxiv.org/abs/2603.25163v1)** | 2026-03-26 | Technical report |
-| **[Layer-Specific Lipschitz Modulation for Fault-Tolerant Multimodal Representation Learning](https://arxiv.org/abs/2603.25103v1)** | 2026-03-26 |  |
-| **[Discrete Causal Representation Learning](https://arxiv.org/abs/2603.25017v1)** | 2026-03-26 |  |
-| **[SurgPhase: Time efficient pituitary tumor surgery phase recognition via an interactive web platform](https://arxiv.org/abs/2603.24897v1)** | 2026-03-26 |  |
-| **[QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining](https://arxiv.org/abs/2505.23004v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted as ICLR 2026 poster. 22 pages, 19 figures</p></details> |
-| **[CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment](https://arxiv.org/abs/2603.24847v1)** | 2026-03-25 |  |
-| **[Pseudo Label NCF for Sparse OHC Recommendation: Dual Representation Learning and the Separability Accuracy Trade off](https://arxiv.org/abs/2603.24750v1)** | 2026-03-25 |  |
-| **[Weight Space Representation Learning on Diverse NeRF Architectures](https://arxiv.org/abs/2502.09623v5)** | 2026-03-25 | <details><summary>v5: f...</summary><p>v5: fixed typo in tabs. 11-13. Accepted at ICLR 2026</p></details> |
-| **[Representation Learning to Study Temporal Dynamics in Tutorial Scaffolding](https://arxiv.org/abs/2603.24535v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted as short paper to the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
-| **[The Gait Signature of Frailty: Transfer Learning based Deep Gait Models for Scalable Frailty Assessment](https://arxiv.org/abs/2603.24434v1)** | 2026-03-25 |  |
+| **[An Attention Mechanism for Robust Multimodal Integration in a Global Workspace Architecture](https://arxiv.org/abs/2602.08597v2)** | 2026-03-30 |  |
+| **[Prototype-Enhanced Multi-View Learning for Thyroid Nodule Ultrasound Classification](https://arxiv.org/abs/2603.28315v1)** | 2026-03-30 | <details><summary>6 pag...</summary><p>6 pages, IWCMC 2026 accepted</p></details> |
+| **[Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](https://arxiv.org/abs/2603.28224v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Main)</p></details> |
+| **[PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling](https://arxiv.org/abs/2510.10102v2)** | 2026-03-30 |  |
+| **[ToLL: Topological Layout Learning with Structural Multi-view Augmentation for 3D Scene Graph Pretraining](https://arxiv.org/abs/2603.28178v1)** | 2026-03-30 | Under Reivew |
+| **[PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks](https://arxiv.org/abs/2509.24844v2)** | 2026-03-30 | Accepted by ICLR2026 |
+| **[To View Transform or Not to View Transform: NeRF-based Pre-training Perspective](https://arxiv.org/abs/2603.28090v1)** | 2026-03-30 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR'26)</p></details> |
+| **[DADP: Domain Adaptive Diffusion Policy](https://arxiv.org/abs/2602.04037v2)** | 2026-03-30 |  |
+| **[Physics-Embedded Feature Learning for AI in Medical Imaging](https://arxiv.org/abs/2603.28057v1)** | 2026-03-30 | 7 pages, 5 figures |
+| **[InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision](https://arxiv.org/abs/2512.01342v2)** | 2026-03-30 |  |
+| **[MGDIL: Multi-Granularity Summarization and Domain-Invariant Learning for Cross-Domain Social Bot Detection](https://arxiv.org/abs/2603.27928v1)** | 2026-03-30 |  |
+| **[CrossHGL: A Text-Free Foundation Model for Cross-Domain Heterogeneous Graph Learning](https://arxiv.org/abs/2603.27685v1)** | 2026-03-29 |  |
+| **[Foundation Models for Bioacoustics -- a Comparative Review](https://arxiv.org/abs/2508.01277v2)** | 2026-03-29 | Preprint |
+| **[On the Asymptotics of Self-Supervised Pre-training: Two-Stage M-Estimation and Representation Symmetry](https://arxiv.org/abs/2603.27631v1)** | 2026-03-29 |  |
+| **[Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution](https://arxiv.org/abs/2603.27301v1)** | 2026-03-28 |  |
 
