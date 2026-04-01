@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2026
+title: Latest 15 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conditional Polarization Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2603.30008v1)** | 2026-03-31 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, 4 tables</p></details> |
+| **[StreetTree: A Large-Scale Global Benchmark for Fine-Grained Tree Species Classification](https://arxiv.org/abs/2602.19123v2)** | 2026-03-31 |  |
+| **[Concept frustration: Aligning human concepts and machine representations](https://arxiv.org/abs/2603.29654v1)** | 2026-03-31 | 34 pages, 7 figures |
+| **[Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](https://arxiv.org/abs/2602.19910v2)** | 2026-03-31 | <details><summary>15 pa...</summary><p>15 pages, accepted by CVPR 2026</p></details> |
+| **[Square Superpixel Generation and Representation Learning via Granular Ball Computing](https://arxiv.org/abs/2603.29460v1)** | 2026-03-31 |  |
+| **[MCbiF: Measuring Topological Autocorrelation in Multiscale Clusterings via 2-Parameter Persistent Homology](https://arxiv.org/abs/2510.14710v2)** | 2026-03-31 | <details><summary>Publi...</summary><p>Published as a conference paper at 14th International Conference on Learning Representations (ICLR 2026): https://openreview.net/forum?id=E7D6uybODJ</p></details> |
+| **[ALADIN:Attribute-Language Distillation Network for Person Re-Identification](https://arxiv.org/abs/2603.21482v2)** | 2026-03-31 | <details><summary>14pag...</summary><p>14pages, 3figures, 7charts</p></details> |
+| **[Assessing Multimodal Chronic Wound Embeddings with Expert Triplet Agreement](https://arxiv.org/abs/2603.29376v1)** | 2026-03-31 |  |
+| **[LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition](https://arxiv.org/abs/2603.29057v1)** | 2026-03-30 |  |
+| **[Pseudo Label NCF for Sparse OHC Recommendation: Dual Representation Learning and the Separability Accuracy Trade off](https://arxiv.org/abs/2603.24750v2)** | 2026-03-30 |  |
 | **[An Attention Mechanism for Robust Multimodal Integration in a Global Workspace Architecture](https://arxiv.org/abs/2602.08597v2)** | 2026-03-30 |  |
 | **[Prototype-Enhanced Multi-View Learning for Thyroid Nodule Ultrasound Classification](https://arxiv.org/abs/2603.28315v1)** | 2026-03-30 | <details><summary>6 pag...</summary><p>6 pages, IWCMC 2026 accepted</p></details> |
 | **[Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](https://arxiv.org/abs/2603.28224v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Main)</p></details> |
 | **[PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling](https://arxiv.org/abs/2510.10102v2)** | 2026-03-30 |  |
 | **[ToLL: Topological Layout Learning with Structural Multi-view Augmentation for 3D Scene Graph Pretraining](https://arxiv.org/abs/2603.28178v1)** | 2026-03-30 | Under Reivew |
-| **[PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks](https://arxiv.org/abs/2509.24844v2)** | 2026-03-30 | Accepted by ICLR2026 |
-| **[To View Transform or Not to View Transform: NeRF-based Pre-training Perspective](https://arxiv.org/abs/2603.28090v1)** | 2026-03-30 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR'26)</p></details> |
-| **[DADP: Domain Adaptive Diffusion Policy](https://arxiv.org/abs/2602.04037v2)** | 2026-03-30 |  |
-| **[Physics-Embedded Feature Learning for AI in Medical Imaging](https://arxiv.org/abs/2603.28057v1)** | 2026-03-30 | 7 pages, 5 figures |
-| **[InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision](https://arxiv.org/abs/2512.01342v2)** | 2026-03-30 |  |
-| **[MGDIL: Multi-Granularity Summarization and Domain-Invariant Learning for Cross-Domain Social Bot Detection](https://arxiv.org/abs/2603.27928v1)** | 2026-03-30 |  |
-| **[CrossHGL: A Text-Free Foundation Model for Cross-Domain Heterogeneous Graph Learning](https://arxiv.org/abs/2603.27685v1)** | 2026-03-29 |  |
-| **[Foundation Models for Bioacoustics -- a Comparative Review](https://arxiv.org/abs/2508.01277v2)** | 2026-03-29 | Preprint |
-| **[On the Asymptotics of Self-Supervised Pre-training: Two-Stage M-Estimation and Representation Symmetry](https://arxiv.org/abs/2603.27631v1)** | 2026-03-29 |  |
-| **[Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution](https://arxiv.org/abs/2603.27301v1)** | 2026-03-28 |  |
 
