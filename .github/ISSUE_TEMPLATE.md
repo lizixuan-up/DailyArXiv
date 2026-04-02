@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2026
+title: Latest 15 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Conditional Polarization Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2603.30008v1)** | 2026-03-31 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, 4 tables</p></details> |
-| **[StreetTree: A Large-Scale Global Benchmark for Fine-Grained Tree Species Classification](https://arxiv.org/abs/2602.19123v2)** | 2026-03-31 |  |
-| **[Concept frustration: Aligning human concepts and machine representations](https://arxiv.org/abs/2603.29654v1)** | 2026-03-31 | 34 pages, 7 figures |
-| **[Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](https://arxiv.org/abs/2602.19910v2)** | 2026-03-31 | <details><summary>15 pa...</summary><p>15 pages, accepted by CVPR 2026</p></details> |
-| **[Square Superpixel Generation and Representation Learning via Granular Ball Computing](https://arxiv.org/abs/2603.29460v1)** | 2026-03-31 |  |
-| **[MCbiF: Measuring Topological Autocorrelation in Multiscale Clusterings via 2-Parameter Persistent Homology](https://arxiv.org/abs/2510.14710v2)** | 2026-03-31 | <details><summary>Publi...</summary><p>Published as a conference paper at 14th International Conference on Learning Representations (ICLR 2026): https://openreview.net/forum?id=E7D6uybODJ</p></details> |
-| **[ALADIN:Attribute-Language Distillation Network for Person Re-Identification](https://arxiv.org/abs/2603.21482v2)** | 2026-03-31 | <details><summary>14pag...</summary><p>14pages, 3figures, 7charts</p></details> |
-| **[Assessing Multimodal Chronic Wound Embeddings with Expert Triplet Agreement](https://arxiv.org/abs/2603.29376v1)** | 2026-03-31 |  |
-| **[LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition](https://arxiv.org/abs/2603.29057v1)** | 2026-03-30 |  |
-| **[Pseudo Label NCF for Sparse OHC Recommendation: Dual Representation Learning and the Separability Accuracy Trade off](https://arxiv.org/abs/2603.24750v2)** | 2026-03-30 |  |
-| **[An Attention Mechanism for Robust Multimodal Integration in a Global Workspace Architecture](https://arxiv.org/abs/2602.08597v2)** | 2026-03-30 |  |
-| **[Prototype-Enhanced Multi-View Learning for Thyroid Nodule Ultrasound Classification](https://arxiv.org/abs/2603.28315v1)** | 2026-03-30 | <details><summary>6 pag...</summary><p>6 pages, IWCMC 2026 accepted</p></details> |
-| **[Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](https://arxiv.org/abs/2603.28224v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Main)</p></details> |
-| **[PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling](https://arxiv.org/abs/2510.10102v2)** | 2026-03-30 |  |
-| **[ToLL: Topological Layout Learning with Structural Multi-view Augmentation for 3D Scene Graph Pretraining](https://arxiv.org/abs/2603.28178v1)** | 2026-03-30 | Under Reivew |
+| **[NeuroDDAF: Neural Dynamic Diffusion-Advection Fields with Evidential Fusion for Air Quality Forecasting](https://arxiv.org/abs/2604.01175v1)** | 2026-04-01 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Learning When the Concept Shifts: Confounding, Invariance, and Dimension Reduction](https://arxiv.org/abs/2406.15904v2)** | 2026-04-01 |  |
+| **[Object Affordance Recognition and Grounding via Multi-scale Cross-modal Representation Learning](https://arxiv.org/abs/2508.01184v2)** | 2026-04-01 |  |
+| **[Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens](https://arxiv.org/abs/2603.24327v2)** | 2026-04-01 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, supplementary material. Accepted at the CVPR 2026 Workshop on Unified Robotic Vision with Cross-Modal Sensing and Alignment (URVIS)</p></details> |
+| **[WAON: Large-Scale Japanese Image-Text Pair Dataset for Improving Model Performance on Japanese Cultural Tasks](https://arxiv.org/abs/2510.22276v2)** | 2026-04-01 | 14 pages, 7 figures |
+| **[Deconfounding Scores and Representation Learning for Causal Effect Estimation with Weak Overlap](https://arxiv.org/abs/2604.00811v1)** | 2026-04-01 | <details><summary>To ap...</summary><p>To appear at AISTATS 2026</p></details> |
+| **[Representation Learning with Semantic-aware Instance and Sparse Token Alignments](https://arxiv.org/abs/2601.08165v2)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
+| **[Conditional Polarization Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2603.30008v2)** | 2026-04-01 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, 4 tables</p></details> |
+| **[Exploring Self-Supervised Learning with U-Net Masked Autoencoders and EfficientNet-B7 for Improved Gastrointestinal Abnormality Classification in Video Capsule Endoscopy](https://arxiv.org/abs/2410.19899v2)** | 2026-04-01 | <details><summary>Capsu...</summary><p>Capsule Vision 2024 Challenge</p></details> |
+| **[FreqPhys: Repurposing Implicit Physiological Frequency Prior for Robust Remote Photoplethysmography](https://arxiv.org/abs/2604.00534v1)** | 2026-04-01 |  |
+| **[Learning Shared Representations for Multi-Task Linear Bandits](https://arxiv.org/abs/2604.00531v1)** | 2026-04-01 |  |
+| **[MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2604.00513v1)** | 2026-04-01 | 10 pages, 6 figures |
+| **[Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](https://arxiv.org/abs/2603.08018v2)** | 2026-04-01 | <details><summary>This ...</summary><p>This paper has been accepted by CVPR 2026</p></details> |
+| **[Lossy Common Information in a Learnable Gray-Wyner Network](https://arxiv.org/abs/2601.21424v2)** | 2026-04-01 |  |
+| **[Meta-probabilistic Modeling](https://arxiv.org/abs/2601.04462v2)** | 2026-03-31 |  |
 
