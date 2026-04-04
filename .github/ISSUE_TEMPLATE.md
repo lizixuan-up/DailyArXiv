@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2026
+title: Latest 15 Papers - April 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v1)** | 2026-04-02 |  |
 | **[Training-free Adjustable Polynomial Graph Filtering for Ultra-fast Multimodal Recommendation](https://arxiv.org/abs/2503.04406v3)** | 2026-03-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables; published in the Engineering Applications of Artificial Intelligence (Please cite our journal version.)</p></details> |
 | **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
 | **[VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models](https://arxiv.org/abs/2603.12625v1)** | 2026-03-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 1 table</p></details> |
@@ -36,24 +37,23 @@ labels: documentation
 | **[Large-scale Benchmarks for Multimodal Recommendation with Ducho](https://arxiv.org/abs/2409.15857v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted in Expert Systems with Applications</p></details> |
 | **[Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation](https://arxiv.org/abs/2602.17354v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</p></details> |
 | **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v1)** | 2026-02-17 |  |
-| **[RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation](https://arxiv.org/abs/2506.20817v2)** | 2026-02-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, 7 tables</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NearID: Identity Representation Learning via Near-identity Distractors](https://arxiv.org/abs/2604.01973v1)** | 2026-04-02 | <details><summary>Code ...</summary><p>Code at https://github.com/Gorluxor/NearID</p></details> |
+| **[MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2604.00513v2)** | 2026-04-02 | 10 pages, 6 figures |
+| **[Assessing Multimodal Chronic Wound Embeddings with Expert Triplet Agreement](https://arxiv.org/abs/2603.29376v2)** | 2026-04-02 |  |
+| **[Robust Graph Representation Learning via Adaptive Spectral Contrast](https://arxiv.org/abs/2604.01878v1)** | 2026-04-02 |  |
+| **[Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/abs/2601.15475v4)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026. Project Page: https://icvteam.github.io/See-NeRF.html. Our code and datasets are publicly available at https://github.com/iCVTEAM/See-NeRF</p></details> |
+| **[Investigating Permutation-Invariant Discrete Representation Learning for Spatially Aligned Images](https://arxiv.org/abs/2604.01843v1)** | 2026-04-02 | <details><summary>15 pa...</summary><p>15 pages plus references; 5 figures; supplementary appended; accepted to ICPR 2026</p></details> |
+| **[Cosine-Normalized Attention for Hyperspectral Image Classification](https://arxiv.org/abs/2604.01763v1)** | 2026-04-02 |  |
+| **[DDCL: Deep Dual Competitive Learning: A Differentiable End-to-End Framework for Unsupervised Prototype-Based Representation Learning](https://arxiv.org/abs/2604.01740v1)** | 2026-04-02 |  |
+| **[Optimizing EEG Graph Structure for Seizure Detection: An Information Bottleneck and Self-Supervised Learning Approach](https://arxiv.org/abs/2604.01595v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by IEEE 14th International Conference on Healthcare Informatics (ICHI)</p></details> |
+| **[Learning ECG Image Representations via Dual Physiological-Aware Alignments](https://arxiv.org/abs/2604.01526v1)** | 2026-04-02 |  |
+| **[What Do Temporal Graph Learning Models Learn?](https://arxiv.org/abs/2510.09416v3)** | 2026-04-01 |  |
+| **[Semantic Refinement with LLMs for Graph Representations](https://arxiv.org/abs/2512.21106v2)** | 2026-04-01 |  |
 | **[NeuroDDAF: Neural Dynamic Diffusion-Advection Fields with Evidential Fusion for Air Quality Forecasting](https://arxiv.org/abs/2604.01175v1)** | 2026-04-01 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
 | **[Learning When the Concept Shifts: Confounding, Invariance, and Dimension Reduction](https://arxiv.org/abs/2406.15904v2)** | 2026-04-01 |  |
 | **[Object Affordance Recognition and Grounding via Multi-scale Cross-modal Representation Learning](https://arxiv.org/abs/2508.01184v2)** | 2026-04-01 |  |
-| **[Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens](https://arxiv.org/abs/2603.24327v2)** | 2026-04-01 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, supplementary material. Accepted at the CVPR 2026 Workshop on Unified Robotic Vision with Cross-Modal Sensing and Alignment (URVIS)</p></details> |
-| **[WAON: Large-Scale Japanese Image-Text Pair Dataset for Improving Model Performance on Japanese Cultural Tasks](https://arxiv.org/abs/2510.22276v2)** | 2026-04-01 | 14 pages, 7 figures |
-| **[Deconfounding Scores and Representation Learning for Causal Effect Estimation with Weak Overlap](https://arxiv.org/abs/2604.00811v1)** | 2026-04-01 | <details><summary>To ap...</summary><p>To appear at AISTATS 2026</p></details> |
-| **[Representation Learning with Semantic-aware Instance and Sparse Token Alignments](https://arxiv.org/abs/2601.08165v2)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
-| **[Conditional Polarization Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2603.30008v2)** | 2026-04-01 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, 4 tables</p></details> |
-| **[Exploring Self-Supervised Learning with U-Net Masked Autoencoders and EfficientNet-B7 for Improved Gastrointestinal Abnormality Classification in Video Capsule Endoscopy](https://arxiv.org/abs/2410.19899v2)** | 2026-04-01 | <details><summary>Capsu...</summary><p>Capsule Vision 2024 Challenge</p></details> |
-| **[FreqPhys: Repurposing Implicit Physiological Frequency Prior for Robust Remote Photoplethysmography](https://arxiv.org/abs/2604.00534v1)** | 2026-04-01 |  |
-| **[Learning Shared Representations for Multi-Task Linear Bandits](https://arxiv.org/abs/2604.00531v1)** | 2026-04-01 |  |
-| **[MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2604.00513v1)** | 2026-04-01 | 10 pages, 6 figures |
-| **[Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](https://arxiv.org/abs/2603.08018v2)** | 2026-04-01 | <details><summary>This ...</summary><p>This paper has been accepted by CVPR 2026</p></details> |
-| **[Lossy Common Information in a Learnable Gray-Wyner Network](https://arxiv.org/abs/2601.21424v2)** | 2026-04-01 |  |
-| **[Meta-probabilistic Modeling](https://arxiv.org/abs/2601.04462v2)** | 2026-03-31 |  |
 
