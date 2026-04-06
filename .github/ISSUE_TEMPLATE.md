@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 05, 2026
+title: Latest 15 Papers - April 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FLEX: A Largescale Multimodal, Multiview Dataset for Learning Structured Representations for Fitness Action Quality Assessment](https://arxiv.org/abs/2506.03198v4)** | 2026-04-03 | <details><summary>Datas...</summary><p>Dataset and code are available at https://github.com/HaoYin116/FLEX . Link to Project page https://haoyin116.github.io/FLEX_Dataset</p></details> |
+| **[Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/abs/2603.12711v2)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Bilateral Intent-Enhanced Sequential Recommendation with Embedding Perturbation-Based Contrastive Learning](https://arxiv.org/abs/2604.02833v1)** | 2026-04-03 | 13 pages, 8 figures |
+| **[Decoding RWA Tokenized U.S. Treasuries: Functional Dissection and Address Role Inference](https://arxiv.org/abs/2507.14808v2)** | 2026-04-03 | <details><summary>accep...</summary><p>accepted at the 8th edition of the IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2026)</p></details> |
+| **[Differential Mental Disorder Detection with Psychology-Inspired Multimodal Stimuli](https://arxiv.org/abs/2604.02798v1)** | 2026-04-03 |  |
+| **[MOMO: Mars Orbital Model Foundation Model for Mars Orbital Applications](https://arxiv.org/abs/2604.02719v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 (Main Track)</p></details> |
+| **[ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs](https://arxiv.org/abs/2602.01124v2)** | 2026-04-03 |  |
+| **[Structure-Preserving Multi-View Embedding Using Gromov-Wasserstein Optimal Transport](https://arxiv.org/abs/2604.02610v1)** | 2026-04-03 | <details><summary>This ...</summary><p>This manuscript is currently under review for possible publication in the journal Signal Processing (ELSEVIER)</p></details> |
+| **[FusionBERT: Multi-View Image-3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v1)** | 2026-04-02 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
+| **[Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding](https://arxiv.org/abs/2604.02546v1)** | 2026-04-02 | 24 pages |
+| **[Variational Encoder--Multi-Decoder (VE-MD) for Privacy-by-functional-design (Group) Emotion Recognition](https://arxiv.org/abs/2604.02397v1)** | 2026-04-02 |  |
 | **[NearID: Identity Representation Learning via Near-identity Distractors](https://arxiv.org/abs/2604.01973v1)** | 2026-04-02 | <details><summary>Code ...</summary><p>Code at https://github.com/Gorluxor/NearID</p></details> |
 | **[MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2604.00513v2)** | 2026-04-02 | 10 pages, 6 figures |
 | **[Assessing Multimodal Chronic Wound Embeddings with Expert Triplet Agreement](https://arxiv.org/abs/2603.29376v2)** | 2026-04-02 |  |
 | **[Robust Graph Representation Learning via Adaptive Spectral Contrast](https://arxiv.org/abs/2604.01878v1)** | 2026-04-02 |  |
-| **[Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/abs/2601.15475v4)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026. Project Page: https://icvteam.github.io/See-NeRF.html. Our code and datasets are publicly available at https://github.com/iCVTEAM/See-NeRF</p></details> |
-| **[Investigating Permutation-Invariant Discrete Representation Learning for Spatially Aligned Images](https://arxiv.org/abs/2604.01843v1)** | 2026-04-02 | <details><summary>15 pa...</summary><p>15 pages plus references; 5 figures; supplementary appended; accepted to ICPR 2026</p></details> |
-| **[Cosine-Normalized Attention for Hyperspectral Image Classification](https://arxiv.org/abs/2604.01763v1)** | 2026-04-02 |  |
-| **[DDCL: Deep Dual Competitive Learning: A Differentiable End-to-End Framework for Unsupervised Prototype-Based Representation Learning](https://arxiv.org/abs/2604.01740v1)** | 2026-04-02 |  |
-| **[Optimizing EEG Graph Structure for Seizure Detection: An Information Bottleneck and Self-Supervised Learning Approach](https://arxiv.org/abs/2604.01595v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by IEEE 14th International Conference on Healthcare Informatics (ICHI)</p></details> |
-| **[Learning ECG Image Representations via Dual Physiological-Aware Alignments](https://arxiv.org/abs/2604.01526v1)** | 2026-04-02 |  |
-| **[What Do Temporal Graph Learning Models Learn?](https://arxiv.org/abs/2510.09416v3)** | 2026-04-01 |  |
-| **[Semantic Refinement with LLMs for Graph Representations](https://arxiv.org/abs/2512.21106v2)** | 2026-04-01 |  |
-| **[NeuroDDAF: Neural Dynamic Diffusion-Advection Fields with Evidential Fusion for Air Quality Forecasting](https://arxiv.org/abs/2604.01175v1)** | 2026-04-01 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
-| **[Learning When the Concept Shifts: Confounding, Invariance, and Dimension Reduction](https://arxiv.org/abs/2406.15904v2)** | 2026-04-01 |  |
-| **[Object Affordance Recognition and Grounding via Multi-scale Cross-modal Representation Learning](https://arxiv.org/abs/2508.01184v2)** | 2026-04-01 |  |
 
