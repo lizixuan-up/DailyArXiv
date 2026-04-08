@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scalable and Generalizable Correspondence Pruning via Geometry-Consistent Pre-training](https://arxiv.org/abs/2406.05773v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted by TPAMI 2026</p></details> |
-| **[BiST: A Gold Standard Bangla-English Bilingual Corpus for Sentence Structure and Tense Classification with Inter-Annotator Agreement](https://arxiv.org/abs/2604.04708v1)** | 2026-04-06 |  |
-| **[IDIOLEX: Unified and Continuous Representations for Idiolectal and Stylistic Variation](https://arxiv.org/abs/2604.04704v1)** | 2026-04-06 |  |
-| **[Beyond Semantics: Uncovering the Physics of Fakes via Universal Physical Descriptors for Cross-Modal Synthetic Detection](https://arxiv.org/abs/2604.04608v1)** | 2026-04-06 |  |
-| **[Spatially-Weighted CLIP for Street-View Geo-localization](https://arxiv.org/abs/2604.04357v1)** | 2026-04-06 |  |
-| **[PanLUNA: An Efficient and Robust Query-Unified Multimodal Model for Edge Biosignal Intelligence](https://arxiv.org/abs/2604.04297v1)** | 2026-04-05 | <details><summary>5 pag...</summary><p>5 pages, 5 tables, 1 figure, preprint</p></details> |
-| **[Hierarchical Semantic Correlation-Aware Masked Autoencoder for Unsupervised Audio-Visual Representation Learning](https://arxiv.org/abs/2604.04229v1)** | 2026-04-05 | <details><summary>6 pag...</summary><p>6 pages, 2 tables, 4 figures. Accepted by IEEE ICME 2026</p></details> |
-| **[Incomplete Multi-View Multi-Label Classification via Shared Codebook and Fused-Teacher Self-Distillation](https://arxiv.org/abs/2604.04170v1)** | 2026-04-05 |  |
-| **[MeDUET: Disentangled Unified Pretraining for 3D Medical Image Synthesis and Analysis](https://arxiv.org/abs/2602.17901v2)** | 2026-04-05 |  |
-| **[MuDD: A Multimodal Deception Detection Dataset and GSR-Guided Progressive Distillation for Non-Contact Deception Detection](https://arxiv.org/abs/2603.26064v2)** | 2026-04-05 |  |
-| **[ArrowFlow: Hierarchical Machine Learning in the Space of Permutations](https://arxiv.org/abs/2604.04087v1)** | 2026-04-05 |  |
-| **[Provable Multi-Task Reinforcement Learning: A Representation Learning Framework with Low Rank Rewards](https://arxiv.org/abs/2604.03891v1)** | 2026-04-04 |  |
-| **[Physically Interpretable World Models via Weakly Supervised Representation Learning](https://arxiv.org/abs/2412.12870v6)** | 2026-04-04 |  |
-| **[HistoFusionNet: Histogram-Guided Fusion and Frequency-Adaptive Refinement for Nighttime Image Dehazing](https://arxiv.org/abs/2604.03800v1)** | 2026-04-04 |  |
-| **[Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning](https://arxiv.org/abs/2503.08751v3)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://qiwang067.github.io/diswm</p></details> |
+| **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
+| **[Meta-probabilistic Modeling](https://arxiv.org/abs/2601.04462v3)** | 2026-04-07 |  |
+| **[Causal Effect Estimation with Learned Instrument Representations](https://arxiv.org/abs/2602.10370v2)** | 2026-04-07 |  |
+| **[SigLino: Efficient Multi-Teacher Distillation for Agglomerative Vision Foundation Models](https://arxiv.org/abs/2512.20157v2)** | 2026-04-07 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 11 tables</p></details> |
+| **[A deep learning framework for jointly solving transient Fokker-Planck equations with arbitrary parameters and initial distributions](https://arxiv.org/abs/2604.06001v1)** | 2026-04-07 |  |
+| **[A Mixture of Experts Foundation Model for Scanning Electron Microscopy Image Analysis](https://arxiv.org/abs/2604.05960v1)** | 2026-04-07 |  |
+| **[Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](https://arxiv.org/abs/2604.05931v1)** | 2026-04-07 |  |
+| **[SVC 2026: the Second Multimodal Deception Detection Challenge and the First Domain Generalized Remote Physiological Measurement Challenge](https://arxiv.org/abs/2604.05748v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by the SVC workshop @ CVPR 2026</p></details> |
+| **[Graph Topology Information Enhanced Heterogeneous Graph Representation Learning](https://arxiv.org/abs/2604.05732v1)** | 2026-04-07 |  |
+| **[PaCo-FR: Patch-Pixel Aligned End-to-End Codebook Learning for Facial Representation Pre-training](https://arxiv.org/abs/2508.09691v3)** | 2026-04-07 |  |
+| **[Energy-Balanced Hyperspherical Graph Representation Learning via Structural Binding and Entropic Dispersion](https://arxiv.org/abs/2512.24062v2)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to Knowledge-Based Systems</p></details> |
+| **[Towards Robust and Realistic Human Pose Estimation via WiFi Signals](https://arxiv.org/abs/2501.09411v3)** | 2026-04-07 | 12 pages, 9 figures |
+| **[Hierarchical Contrastive Learning for Multimodal Data](https://arxiv.org/abs/2604.05462v1)** | 2026-04-07 | 34 pages,11 figures |
+| **[Hierarchical Mesh Transformers with Topology-Guided Pretraining for Morphometric Analysis of Brain Structures](https://arxiv.org/abs/2604.05215v1)** | 2026-04-06 |  |
+| **[Feature-Aware Anisotropic Local Differential Privacy for Utility-Preserving Graph Representation Learning in Metal Additive Manufacturing](https://arxiv.org/abs/2604.05077v1)** | 2026-04-06 | <details><summary>In Re...</summary><p>In Review in The ASME Journal of Computing and Information Science in Engineering (JCISE)</p></details> |
 
