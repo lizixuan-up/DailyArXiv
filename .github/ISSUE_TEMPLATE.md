@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,13 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604v3)** | 2026-04-08 | <details><summary>v2: c...</summary><p>v2: clarify confusion in definition of JEPAs vs. regularization-based JEPAs v3: Camera-ready of ICLR world models workshop, fixed formatting and ViT config / results</p></details> |
+| **[Private Federated Learning for High-dimensional Time Series](https://arxiv.org/abs/2604.07135v1)** | 2026-04-08 |  |
+| **[Mining Electronic Health Records to Investigate Effectiveness of Ensemble Deep Clustering](https://arxiv.org/abs/2604.07085v1)** | 2026-04-08 | <details><summary>14th ...</summary><p>14th IEEE Conference on Healthcare Informatics</p></details> |
+| **[ConceptTracer: Interactive Analysis of Concept Saliency and Selectivity in Neural Representations](https://arxiv.org/abs/2604.07019v1)** | 2026-04-08 | <details><summary>XAI 2...</summary><p>XAI 2026 Late-Breaking Work Track</p></details> |
+| **[SimSiam Naming Game: A Unified Approach for Representation Learning and Emergent Communication](https://arxiv.org/abs/2410.21803v2)** | 2026-04-08 |  |
+| **[MorphDistill: Distilling Unified Morphological Knowledge from Pathology Foundation Models for Colorectal Cancer Survival Prediction](https://arxiv.org/abs/2604.06390v1)** | 2026-04-07 |  |
+| **[BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning](https://arxiv.org/abs/2604.06336v1)** | 2026-04-07 |  |
 | **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
 | **[Meta-probabilistic Modeling](https://arxiv.org/abs/2601.04462v3)** | 2026-04-07 |  |
 | **[Causal Effect Estimation with Learned Instrument Representations](https://arxiv.org/abs/2602.10370v2)** | 2026-04-07 |  |
@@ -49,11 +56,4 @@ labels: documentation
 | **[A Mixture of Experts Foundation Model for Scanning Electron Microscopy Image Analysis](https://arxiv.org/abs/2604.05960v1)** | 2026-04-07 |  |
 | **[Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](https://arxiv.org/abs/2604.05931v1)** | 2026-04-07 |  |
 | **[SVC 2026: the Second Multimodal Deception Detection Challenge and the First Domain Generalized Remote Physiological Measurement Challenge](https://arxiv.org/abs/2604.05748v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by the SVC workshop @ CVPR 2026</p></details> |
-| **[Graph Topology Information Enhanced Heterogeneous Graph Representation Learning](https://arxiv.org/abs/2604.05732v1)** | 2026-04-07 |  |
-| **[PaCo-FR: Patch-Pixel Aligned End-to-End Codebook Learning for Facial Representation Pre-training](https://arxiv.org/abs/2508.09691v3)** | 2026-04-07 |  |
-| **[Energy-Balanced Hyperspherical Graph Representation Learning via Structural Binding and Entropic Dispersion](https://arxiv.org/abs/2512.24062v2)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to Knowledge-Based Systems</p></details> |
-| **[Towards Robust and Realistic Human Pose Estimation via WiFi Signals](https://arxiv.org/abs/2501.09411v3)** | 2026-04-07 | 12 pages, 9 figures |
-| **[Hierarchical Contrastive Learning for Multimodal Data](https://arxiv.org/abs/2604.05462v1)** | 2026-04-07 | 34 pages,11 figures |
-| **[Hierarchical Mesh Transformers with Topology-Guided Pretraining for Morphometric Analysis of Brain Structures](https://arxiv.org/abs/2604.05215v1)** | 2026-04-06 |  |
-| **[Feature-Aware Anisotropic Local Differential Privacy for Utility-Preserving Graph Representation Learning in Metal Additive Manufacturing](https://arxiv.org/abs/2604.05077v1)** | 2026-04-06 | <details><summary>In Re...</summary><p>In Review in The ASME Journal of Computing and Information Science in Engineering (JCISE)</p></details> |
 
