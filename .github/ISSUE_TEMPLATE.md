@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,8 +22,8 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v2)** | 2026-04-10 |  |
 | **[Joint Behavior-guided and Modality-coherence Conditional Graph Diffusion Denoising for Multi Modal Recommendation](https://arxiv.org/abs/2604.03654v1)** | 2026-04-04 |  |
-| **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v1)** | 2026-04-02 |  |
 | **[Training-free Adjustable Polynomial Graph Filtering for Ultra-fast Multimodal Recommendation](https://arxiv.org/abs/2503.04406v3)** | 2026-03-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables; published in the Engineering Applications of Artificial Intelligence (Please cite our journal version.)</p></details> |
 | **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
 | **[VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models](https://arxiv.org/abs/2603.12625v1)** | 2026-03-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 1 table</p></details> |
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation](https://arxiv.org/abs/2603.23199v2)** | 2026-04-10 |  |
+| **[Automatic Self-supervised Learning for Social Recommendations](https://arxiv.org/abs/2412.18735v3)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by Neurocomputing</p></details> |
+| **[Dual Mamba for Node-Specific Representation Learning: Tackling Over-Smoothing with Selective State Space Modeling](https://arxiv.org/abs/2511.06756v3)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</p></details> |
+| **[Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space](https://arxiv.org/abs/2501.15461v4)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by The Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
+| **[DIAURec: Dual-Intent Space Representation Optimization for Recommendation](https://arxiv.org/abs/2604.09087v1)** | 2026-04-10 |  |
+| **[Boosting Brain-inspired Path Integration Efficiency via Learning-based Replication of Continuous Attractor Neurodynamics](https://arxiv.org/abs/2511.17687v2)** | 2026-04-10 |  |
+| **[Scene-Agnostic Object-Centric Representation Learning for 3D Gaussian Splatting](https://arxiv.org/abs/2604.09045v1)** | 2026-04-10 |  |
+| **[Needle in a Haystack: One-Class Representation Learning for Detecting Rare Malignant Cells in Computational Cytology](https://arxiv.org/abs/2604.07722v2)** | 2026-04-10 | 15 pages, 7 figures |
+| **[M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model](https://arxiv.org/abs/2604.08936v1)** | 2026-04-10 |  |
+| **[A Closer Look at the Application of Causal Inference in Graph Representation Learning](https://arxiv.org/abs/2604.08890v1)** | 2026-04-10 |  |
+| **[HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2604.08883v1)** | 2026-04-10 |  |
+| **[State Space Models are Effective Sign Language Learners: Exploiting Phonological Compositionality for Vocabulary-Scale Recognition](https://arxiv.org/abs/2604.08761v1)** | 2026-04-09 | <details><summary>8 pag...</summary><p>8 pages, 3 figures. Accepted to workshop on Algorithmic Fairness Across Alignment Procedures and Agentic Systems at ICLR 2026</p></details> |
 | **[The Impact of Dimensionality on the Stability of Node Embeddings](https://arxiv.org/abs/2604.08492v1)** | 2026-04-09 |  |
 | **[Adversarial Label Invariant Graph Data Augmentations for Out-of-Distribution Generalization](https://arxiv.org/abs/2604.08404v1)** | 2026-04-09 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, accepted at ICML SCIS 2023</p></details> |
 | **[Parameter-Efficient Transfer Learning for Microseismic Phase Picking Using a Neural Operator](https://arxiv.org/abs/2512.13197v2)** | 2026-04-09 | <details><summary>v2: R...</summary><p>v2: Revised manuscript after journal review; updated methods/results; now submitted to Nature Scientific Reports</p></details> |
-| **[Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition](https://arxiv.org/abs/2404.02696v2)** | 2026-04-09 |  |
-| **[T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation](https://arxiv.org/abs/2604.08167v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at the PHAROS-AIF-MIH Workshop at CVPR 2026</p></details> |
-| **[Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](https://arxiv.org/abs/2604.08147v1)** | 2026-04-09 |  |
-| **[UniLACT: Depth-Aware RGB Latent Action Learning for Vision-Language-Action Models](https://arxiv.org/abs/2602.20231v2)** | 2026-04-09 | <details><summary>https...</summary><p>https://manishgovind.github.io/unilact-vla/</p></details> |
-| **[Needle in a Haystack -- One-Class Representation Learning for Detecting Rare Malignant Cells in Computational Cytology](https://arxiv.org/abs/2604.07722v1)** | 2026-04-09 | 15 pages, 7 figures |
-| **[Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs](https://arxiv.org/abs/2604.07562v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to the Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
-| **[Orthogonal Representation Learning for Estimating Causal Quantities](https://arxiv.org/abs/2502.04274v3)** | 2026-04-08 |  |
-| **[Enabling Intrinsic Reasoning over Dense Geospatial Embeddings with DFR-Gemma](https://arxiv.org/abs/2604.07490v1)** | 2026-04-08 |  |
-| **[Lexical Tone is Hard to Quantize: Probing Discrete Speech Units in Mandarin and Yorùbá](https://arxiv.org/abs/2604.07467v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted at Speech Prosody 2026</p></details> |
-| **[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604v3)** | 2026-04-08 | <details><summary>v2: c...</summary><p>v2: clarify confusion in definition of JEPAs vs. regularization-based JEPAs v3: Camera-ready of ICLR world models workshop, fixed formatting and ViT config / results</p></details> |
-| **[Private Federated Learning for High-dimensional Time Series](https://arxiv.org/abs/2604.07135v1)** | 2026-04-08 |  |
-| **[Mining Electronic Health Records to Investigate Effectiveness of Ensemble Deep Clustering](https://arxiv.org/abs/2604.07085v1)** | 2026-04-08 | <details><summary>14th ...</summary><p>14th IEEE Conference on Healthcare Informatics</p></details> |
 
