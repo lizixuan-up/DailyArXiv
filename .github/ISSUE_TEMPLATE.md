@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2026
+title: Latest 15 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decoupling Distance and Networks: Hybrid Graph Attention-Geostatistical Methods for Spatio-temporal Risk Mapping](https://arxiv.org/abs/2603.08393v2)** | 2026-04-14 | 30 pages, 8 figures |
+| **[GigaCheck: Detecting LLM-generated Content via Object-Centric Span Localization](https://arxiv.org/abs/2410.23728v3)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
+| **[EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts](https://arxiv.org/abs/2604.12579v1)** | 2026-04-14 |  |
+| **[SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker](https://arxiv.org/abs/2604.12502v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted as a CVPR 2026 Oral</p></details> |
+| **[Enhancing Text-to-Image Diffusion Transformer via Split-Text Conditioning](https://arxiv.org/abs/2505.19261v2)** | 2026-04-14 | NeurIPS 2025 |
+| **[Influence Strength Estimation in Hyperbolic Space for Social Influence Maximization](https://arxiv.org/abs/2502.13571v2)** | 2026-04-14 | 14 pages, 10 figures |
+| **[Why Your Tokenizer Fails in Information Fusion: A Timing-Aware Pre-Quantization Fusion for Video-Enhanced Audio Tokenization](https://arxiv.org/abs/2604.12145v1)** | 2026-04-13 |  |
+| **[Towards Platonic Representation for Table Reasoning: A Foundation for Permutation-Invariant Retrieval](https://arxiv.org/abs/2604.12133v1)** | 2026-04-13 |  |
+| **[INST-Align: Implicit Neural Alignment for Spatial Transcriptomics via Canonical Expression Fields](https://arxiv.org/abs/2604.12084v1)** | 2026-04-13 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 3 tables. Submitted to MICCAI 2026</p></details> |
+| **[MorphDistill: Distilling Unified Morphological Knowledge from Pathology Foundation Models for Colorectal Cancer Survival Prediction](https://arxiv.org/abs/2604.06390v2)** | 2026-04-13 |  |
+| **[Fast and principled equation discovery from chaos to climate](https://arxiv.org/abs/2604.11929v1)** | 2026-04-13 | 34 pages, 8 figures |
 | **[HYDRA: A Hybrid Heuristic-Guided Deep Representation Architecture for Predicting Latent Zero-Day Vulnerabilities in Patched Functions](https://arxiv.org/abs/2511.06220v2)** | 2026-04-13 | <details><summary>This ...</summary><p>This paper has been accepted at AST 2026</p></details> |
 | **[Predicting User Satisfaction in Online Education Platforms: A Large Language Model Based Multi-Modal Review Mining Framework](https://arxiv.org/abs/2604.11723v1)** | 2026-04-13 |  |
 | **[EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment](https://arxiv.org/abs/2604.11686v1)** | 2026-04-13 | <details><summary>ACL 2...</summary><p>ACL 2026,Main Conference</p></details> |
 | **[UNIGEOCLIP: Unified Geospatial Contrastive Learning](https://arxiv.org/abs/2604.11668v1)** | 2026-04-13 |  |
-| **[STS-Mixer: Spatio-Temporal-Spectral Mixer for 4D Point Cloud Video Understanding](https://arxiv.org/abs/2604.11637v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026, Open Sourced</p></details> |
-| **[Scene Change Detection with Vision-Language Representation Learning](https://arxiv.org/abs/2604.11402v1)** | 2026-04-13 |  |
-| **[CoRe-ECG: Advancing Self-Supervised Representation Learning for 12-Lead ECG via Contrastive and Reconstructive Synergy](https://arxiv.org/abs/2604.11359v1)** | 2026-04-13 |  |
-| **[NeuVolEx: Implicit Neural Features for Volume Exploration](https://arxiv.org/abs/2604.11172v1)** | 2026-04-13 | <details><summary>11 pa...</summary><p>11 pages, 9 figures. Under review</p></details> |
-| **[Improving Layout Representation Learning Across Inconsistently Annotated Datasets via Agentic Harmonization](https://arxiv.org/abs/2604.11042v1)** | 2026-04-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 5 tables</p></details> |
-| **[Progressive Deep Learning for Automated Spheno-Occipital Synchondrosis Maturation Assessment](https://arxiv.org/abs/2604.10945v1)** | 2026-04-13 |  |
-| **[AdvDINO: Domain-Adversarial Self-Supervised Representation Learning for Spatial Proteomics](https://arxiv.org/abs/2508.04955v2)** | 2026-04-13 | <details><summary>Proce...</summary><p>Proceedings of the Medical Imaging with Deep Learning (MIDL) Conference 2026</p></details> |
-| **[DIAURec: Dual-Intent Space Representation Optimization for Recommendation](https://arxiv.org/abs/2604.09087v2)** | 2026-04-13 |  |
-| **[Perceptual Inductive Bias Is What You Need Before Contrastive Learning](https://arxiv.org/abs/2506.01201v2)** | 2026-04-12 | <details><summary>CVPR ...</summary><p>CVPR 2025. Tianqin Li and Junru Zhao contributed equally to this work. Due to a formatting error during the CVPR submission, the equal contribution note was omitted in the official proceedings. This arXiv version corrects that oversight. The author order follows alphabetical order by last name. Code: https://github.com/juz031/MidVCL</p></details> |
-| **[TCSA-UDA: Text-Driven Cross-Semantic Alignment for Unsupervised Domain Adaptation in Medical Image Segmentation](https://arxiv.org/abs/2511.05782v2)** | 2026-04-12 |  |
-| **[LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning](https://arxiv.org/abs/2604.10780v1)** | 2026-04-12 |  |
 
