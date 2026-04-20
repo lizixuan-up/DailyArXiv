@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,14 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics](https://arxiv.org/abs/2604.16254v1)** | 2026-04-17 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 9 tables</p></details> |
+| **[CollideNet: Hierarchical Multi-scale Video Representation Learning with Disentanglement for Time-To-Collision Forecasting](https://arxiv.org/abs/2604.16240v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
+| **[MOMENTA: Mixture-of-Experts Over Multimodal Embeddings with Neural Temporal Aggregation for Misinformation Detection](https://arxiv.org/abs/2604.16172v1)** | 2026-04-17 |  |
+| **[Beyond Text Prompts: Precise Concept Erasure through Text-Image Collaboration](https://arxiv.org/abs/2604.15829v1)** | 2026-04-17 | <details><summary>25 pa...</summary><p>25 pages, accepted by CVPR 2026</p></details> |
+| **[SSFT: A Lightweight Spectral-Spatial Fusion Transformer for Generic Hyperspectral Classification](https://arxiv.org/abs/2604.15828v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This paper has been accepted at IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2026</p></details> |
+| **[Similarity-Based Bike Station Expansion via Hybrid Denoising Autoencoders](https://arxiv.org/abs/2604.15783v1)** | 2026-04-17 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Code available at https://github.com/Outsiders17711/TCB-SimilarityAE-Expansion</p></details> |
+| **[Learning Behaviorally Grounded Item Embeddings via Personalized Temporal Contexts](https://arxiv.org/abs/2604.15581v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to be published in UMAP'26, 9 pages, 7 figures</p></details> |
+| **[UA-Net: Uncertainty-Aware Network for TRISO Image Semantic Segmentation](https://arxiv.org/abs/2604.15542v1)** | 2026-04-16 |  |
 | **[GeoLink: A 3D-Aware Framework Towards Better Generalization in Cross-View Geo-Localization](https://arxiv.org/abs/2604.13183v2)** | 2026-04-16 |  |
 | **[Beyond Independent Frames: Latent Attention Masked Autoencoders for Multi-View Echocardiography](https://arxiv.org/abs/2604.15096v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted as a workshop paper at the ICLR 2026 Workshop on Foundation Models for Science</p></details> |
 | **[Learning temporal embeddings from electronic health records of chronic kidney disease patients](https://arxiv.org/abs/2601.18675v2)** | 2026-04-16 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables. The paper has been accepted in IEEE EMBC 2026. Copyright 2026 IEEE</p></details> |
@@ -48,12 +56,4 @@ labels: documentation
 | **[OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism](https://arxiv.org/abs/2604.14762v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings</p></details> |
 | **[Decoupled Multimodal Fusion for User Interest Modeling in Click-Through Rate Prediction](https://arxiv.org/abs/2510.11066v3)** | 2026-04-16 | Accepted by ICDE2026 |
 | **[An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning](https://arxiv.org/abs/2211.16780v4)** | 2026-04-16 | CVPR2026 |
-| **[Multi-Frequency Local Plasticity for Visual Representation Learning](https://arxiv.org/abs/2604.09734v2)** | 2026-04-16 |  |
-| **[EEGDM: Learning EEG Representation with Latent Diffusion Model](https://arxiv.org/abs/2508.20705v3)** | 2026-04-16 |  |
-| **[Fast and principled equation discovery from chaos to climate](https://arxiv.org/abs/2604.11929v2)** | 2026-04-15 | 34 pages, 8 figures |
-| **[Metric-Aware Principal Component Analysis (MAPCA):A Unified Framework for Scale-Invariant Representation Learning](https://arxiv.org/abs/2604.14249v1)** | 2026-04-15 | <details><summary>12 pa...</summary><p>12 pages , one figure</p></details> |
-| **[Bridging Compositional and Distributional Semantics: A Survey on Latent Semantic Geometry via AutoEncoder](https://arxiv.org/abs/2506.20083v4)** | 2026-04-15 | In progress |
-| **[Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate](https://arxiv.org/abs/2604.13551v1)** | 2026-04-15 |  |
-| **[From Alignment to Prediction: A Study of Self-Supervised Learning and Predictive Representation Learning](https://arxiv.org/abs/2604.13518v1)** | 2026-04-15 | <details><summary>This ...</summary><p>This article has been submitted to the 2026 International Conference on Applied Artificial Intelligence (2AI), Central University of Kashmir, India</p></details> |
-| **[Representation over Routing: Overcoming Surrogate Hacking in Multi-Timescale PPO](https://arxiv.org/abs/2604.13517v1)** | 2026-04-15 | 8 pages, 6 figures |
 
