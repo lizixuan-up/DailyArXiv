@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](https://arxiv.org/abs/2604.20689v1)** | 2026-04-22 |  |
-| **[Unsupervised Local Plasticity in a Multi-Frequency VisNet Hierarchy](https://arxiv.org/abs/2604.09734v4)** | 2026-04-22 |  |
-| **[SphUnc: Hyperspherical Uncertainty Decomposition and Causal Identification via Information Geometry](https://arxiv.org/abs/2603.01168v2)** | 2026-04-22 | 22 pages, 15 figures |
-| **[Cross-Modal Taxonomic Generalization in (Vision-) Language Models](https://arxiv.org/abs/2603.07474v2)** | 2026-04-22 | <details><summary>ACL 2...</summary><p>ACL 2026 (main conference)</p></details> |
-| **[MD-Face: MoE-Enhanced Label-Free Disentangled Representation for Interactive Facial Attribute Editing](https://arxiv.org/abs/2604.20317v1)** | 2026-04-22 |  |
-| **[Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning](https://arxiv.org/abs/2604.20308v1)** | 2026-04-22 |  |
-| **[AFMRL: Attribute-Enhanced Fine-Grained Multi-Modal Representation Learning in E-commerce](https://arxiv.org/abs/2604.20135v1)** | 2026-04-22 | Accepted by ACL 2026 |
-| **[CoRe: Joint Optimization with Contrastive Learning for Medical Image Registration](https://arxiv.org/abs/2603.23694v2)** | 2026-04-21 | Preprint |
-| **[Disentangling Damage from Operational Variability: A Label-Free Self-Supervised Representation Learning Framework for Output-Only Structural Damage Identification](https://arxiv.org/abs/2604.19658v1)** | 2026-04-21 |  |
-| **[MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments](https://arxiv.org/abs/2511.04320v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters</p></details> |
-| **[Recurrent Video Masked Autoencoders](https://arxiv.org/abs/2512.13684v2)** | 2026-04-21 |  |
-| **[PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving](https://arxiv.org/abs/2604.19379v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026</p></details> |
-| **[TACENR: Task-Agnostic Contrastive Explanations for Node Representations](https://arxiv.org/abs/2604.19372v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at the XAI 2026 Conference. 24 pages, 10 figures</p></details> |
-| **[The Logical Expressiveness of Topological Neural Networks](https://arxiv.org/abs/2604.19212v1)** | 2026-04-21 | <details><summary>39 pa...</summary><p>39 pages, Published at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Improved Anomaly Detection in Medical Images via Mean Shift Density Enhancement](https://arxiv.org/abs/2604.19191v1)** | 2026-04-21 |  |
+| **[SemEval-2026 Task 4: Narrative Story Similarity and Narrative Representation Learning](https://arxiv.org/abs/2604.21782v1)** | 2026-04-23 |  |
+| **[FunduSegmenter: Leveraging the RETFound Foundation Model for Joint Optic Disc and Optic Cup Segmentation in Retinal Fundus Images](https://arxiv.org/abs/2508.11354v3)** | 2026-04-23 |  |
+| **[FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](https://arxiv.org/abs/2604.20689v2)** | 2026-04-23 |  |
+| **[Towards Universal Tabular Embeddings: A Benchmark Across Data Tasks](https://arxiv.org/abs/2604.21696v1)** | 2026-04-23 |  |
+| **[Causal Disentanglement for Full-Reference Image Quality Assessment](https://arxiv.org/abs/2604.21654v1)** | 2026-04-23 |  |
+| **[CHRep: Cross-modal Histology Representation and Post-hoc Calibration for Spatial Gene Expression Prediction](https://arxiv.org/abs/2604.21573v1)** | 2026-04-23 |  |
+| **[VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2604.21502v1)** | 2026-04-23 |  |
+| **[VFM-VAE: Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](https://arxiv.org/abs/2510.18457v3)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Code and models available at: https://github.com/tianciB/VFM-VAE</p></details> |
+| **[Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning](https://arxiv.org/abs/2604.21349v1)** | 2026-04-23 | 17 pages |
+| **[Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI](https://arxiv.org/abs/2604.21300v1)** | 2026-04-23 |  |
+| **[Filtration-Based Learning of Multiscale Shared Structures for Multiple Functional Predictors](https://arxiv.org/abs/2506.11369v4)** | 2026-04-23 |  |
+| **[Learning Dynamic Representations and Policies from Multimodal Clinical Time-Series with Informative Missingness](https://arxiv.org/abs/2604.21235v1)** | 2026-04-23 | <details><summary>Findi...</summary><p>Findings of ACL 2026 (30 pages)</p></details> |
+| **[UAU-Net: Uncertainty-aware Representation Learning and Evidential Classification for Facial Action Unit Detection](https://arxiv.org/abs/2604.21227v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
+| **[Self-Predictive Representation for Autonomous UAV Object-Goal Navigation](https://arxiv.org/abs/2604.21130v1)** | 2026-04-22 | Submitted to T-RO |
+| **[TorchGWAS : GPU-accelerated GWAS for thousands of quantitative phenotypes](https://arxiv.org/abs/2604.21095v1)** | 2026-04-22 |  |
 
