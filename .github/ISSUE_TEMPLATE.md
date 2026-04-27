@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 26, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,11 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLVAE: A Variational Autoencoder for Long-Term Customer Revenue Forecasting](https://arxiv.org/abs/2604.22636v1)** | 2026-04-24 |  |
+| **[Filtration-Based Learning of Multiscale Shared Structures for Multiple Functional Predictors](https://arxiv.org/abs/2506.11369v5)** | 2026-04-24 |  |
+| **[Distilling Vision Transformers for Distortion-Robust Representation Learning](https://arxiv.org/abs/2604.22529v1)** | 2026-04-24 |  |
+| **[Sensory-Aware Sequential Recommendation via Review-Distilled Representations](https://arxiv.org/abs/2603.02709v2)** | 2026-04-24 |  |
+| **[Uni-Encoder Meets Multi-Encoders: Representation Before Fusion for Brain Tumor Segmentation with Missing Modalities](https://arxiv.org/abs/2604.22177v1)** | 2026-04-24 | CVPR 2026 Poster |
 | **[SemEval-2026 Task 4: Narrative Story Similarity and Narrative Representation Learning](https://arxiv.org/abs/2604.21782v1)** | 2026-04-23 |  |
 | **[FunduSegmenter: Leveraging the RETFound Foundation Model for Joint Optic Disc and Optic Cup Segmentation in Retinal Fundus Images](https://arxiv.org/abs/2508.11354v3)** | 2026-04-23 |  |
 | **[FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](https://arxiv.org/abs/2604.20689v2)** | 2026-04-23 |  |
@@ -51,9 +56,4 @@ labels: documentation
 | **[VFM-VAE: Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](https://arxiv.org/abs/2510.18457v3)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Code and models available at: https://github.com/tianciB/VFM-VAE</p></details> |
 | **[Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning](https://arxiv.org/abs/2604.21349v1)** | 2026-04-23 | 17 pages |
 | **[Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI](https://arxiv.org/abs/2604.21300v1)** | 2026-04-23 |  |
-| **[Filtration-Based Learning of Multiscale Shared Structures for Multiple Functional Predictors](https://arxiv.org/abs/2506.11369v4)** | 2026-04-23 |  |
-| **[Learning Dynamic Representations and Policies from Multimodal Clinical Time-Series with Informative Missingness](https://arxiv.org/abs/2604.21235v1)** | 2026-04-23 | <details><summary>Findi...</summary><p>Findings of ACL 2026 (30 pages)</p></details> |
-| **[UAU-Net: Uncertainty-aware Representation Learning and Evidential Classification for Facial Action Unit Detection](https://arxiv.org/abs/2604.21227v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
-| **[Self-Predictive Representation for Autonomous UAV Object-Goal Navigation](https://arxiv.org/abs/2604.21130v1)** | 2026-04-22 | Submitted to T-RO |
-| **[TorchGWAS : GPU-accelerated GWAS for thousands of quantitative phenotypes](https://arxiv.org/abs/2604.21095v1)** | 2026-04-22 |  |
 
