@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
+| **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v2)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to SIGIR '26</p></details> |
 | **[Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation](https://arxiv.org/abs/2604.14839v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2026</p></details> |
 | **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v2)** | 2026-04-10 |  |
 | **[Joint Behavior-guided and Modality-coherence Conditional Graph Diffusion Denoising for Multi Modal Recommendation](https://arxiv.org/abs/2604.03654v1)** | 2026-04-04 |  |
@@ -35,25 +37,23 @@ labels: documentation
 | **[GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings](https://arxiv.org/abs/2603.00854v1)** | 2026-03-01 |  |
 | **[Modality-Guided Mixture of Graph Experts with Entropy-Triggered Routing for Multimodal Recommendation](https://arxiv.org/abs/2602.20723v2)** | 2026-02-26 |  |
 | **[E-MMKGR: A Unified Multimodal Knowledge Graph Framework for E-commerce Applications](https://arxiv.org/abs/2602.20877v1)** | 2026-02-24 |  |
-| **[DReX: An Explainable Deep Learning-based Multimodal Recommendation Framework](https://arxiv.org/abs/2602.19702v1)** | 2026-02-23 |  |
-| **[Large-scale Benchmarks for Multimodal Recommendation with Ducho](https://arxiv.org/abs/2409.15857v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted in Expert Systems with Applications</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CLVAE: A Variational Autoencoder for Long-Term Customer Revenue Forecasting](https://arxiv.org/abs/2604.22636v1)** | 2026-04-24 |  |
-| **[Filtration-Based Learning of Multiscale Shared Structures for Multiple Functional Predictors](https://arxiv.org/abs/2506.11369v5)** | 2026-04-24 |  |
-| **[Distilling Vision Transformers for Distortion-Robust Representation Learning](https://arxiv.org/abs/2604.22529v1)** | 2026-04-24 |  |
-| **[Sensory-Aware Sequential Recommendation via Review-Distilled Representations](https://arxiv.org/abs/2603.02709v2)** | 2026-04-24 |  |
-| **[Uni-Encoder Meets Multi-Encoders: Representation Before Fusion for Brain Tumor Segmentation with Missing Modalities](https://arxiv.org/abs/2604.22177v1)** | 2026-04-24 | CVPR 2026 Poster |
-| **[SemEval-2026 Task 4: Narrative Story Similarity and Narrative Representation Learning](https://arxiv.org/abs/2604.21782v1)** | 2026-04-23 |  |
-| **[FunduSegmenter: Leveraging the RETFound Foundation Model for Joint Optic Disc and Optic Cup Segmentation in Retinal Fundus Images](https://arxiv.org/abs/2508.11354v3)** | 2026-04-23 |  |
-| **[FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](https://arxiv.org/abs/2604.20689v2)** | 2026-04-23 |  |
-| **[Towards Universal Tabular Embeddings: A Benchmark Across Data Tasks](https://arxiv.org/abs/2604.21696v1)** | 2026-04-23 |  |
-| **[Causal Disentanglement for Full-Reference Image Quality Assessment](https://arxiv.org/abs/2604.21654v1)** | 2026-04-23 |  |
-| **[CHRep: Cross-modal Histology Representation and Post-hoc Calibration for Spatial Gene Expression Prediction](https://arxiv.org/abs/2604.21573v1)** | 2026-04-23 |  |
-| **[VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2604.21502v1)** | 2026-04-23 |  |
-| **[VFM-VAE: Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](https://arxiv.org/abs/2510.18457v3)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Code and models available at: https://github.com/tianciB/VFM-VAE</p></details> |
-| **[Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning](https://arxiv.org/abs/2604.21349v1)** | 2026-04-23 | 17 pages |
-| **[Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI](https://arxiv.org/abs/2604.21300v1)** | 2026-04-23 |  |
+| **[SIMPLER: H&E-Informed Representation Learning for Structured Illumination Microscopy](https://arxiv.org/abs/2604.10334v2)** | 2026-04-27 |  |
+| **[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval](https://arxiv.org/abs/2601.09159v3)** | 2026-04-27 |  |
+| **[MIMIC: A Generative Multimodal Foundation Model for Biomolecules](https://arxiv.org/abs/2604.24506v1)** | 2026-04-27 |  |
+| **[Self-Supervised Representation Learning via Hyperspherical Density Shaping](https://arxiv.org/abs/2604.24498v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 4 tables</p></details> |
+| **[Geometric Analysis of Self-Supervised Vision Representations for Semantic Image Retrieval](https://arxiv.org/abs/2604.24469v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 7 tables</p></details> |
+| **[An event-based sequence modeling approach to recognizing non-triad chords with oversegmentation minimization](https://arxiv.org/abs/2604.24386v1)** | 2026-04-27 | <details><summary>accep...</summary><p>accepted to ICASSP 2026</p></details> |
+| **[MIPIC: Matryoshka Representation Learning via Self-Distilled Intra-Relational and Progressive Information Chaining](https://arxiv.org/abs/2604.24374v1)** | 2026-04-27 | ACL Findings |
+| **[Question-Adaptive Graph Learning for Multi-hop Retrieval Augmented Generation](https://arxiv.org/abs/2510.11541v2)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted by SIGIR2026</p></details> |
+| **[Progressive Approximation in Deep Residual Networks: Theory and Validation](https://arxiv.org/abs/2604.24154v1)** | 2026-04-27 |  |
+| **[Multi-View Synergistic Learning with Vision-Language Adaption for Low-Resource Biomedical Image Classification](https://arxiv.org/abs/2604.23977v1)** | 2026-04-27 |  |
+| **[Orthogonal Representation Learning for Estimating Causal Quantities](https://arxiv.org/abs/2502.04274v4)** | 2026-04-27 |  |
+| **[Focus on What Matters: Two-Stage ROI-Aware Refinement for Anatomy-Preserving Fetal Ultrasound Reconstruction](https://arxiv.org/abs/2604.23839v1)** | 2026-04-26 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, multiple tables. Preprint submitted to arXiv</p></details> |
+| **[Causal Representation Learning from General Environments under Nonparametric Mixing](https://arxiv.org/abs/2604.23800v1)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2025. This is a slightly revised version of the published paper</p></details> |
+| **[Transformer as an Euler Discretization of Score-based Variational Flow](https://arxiv.org/abs/2604.23740v1)** | 2026-04-26 |  |
+| **[Information-Theoretic Measures in AI: A Practical Decision Guide](https://arxiv.org/abs/2604.23716v1)** | 2026-04-26 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 1 figure. Submitted to Applied Intelligence (Springer)</p></details> |
 
