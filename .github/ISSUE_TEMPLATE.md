@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2026
+title: Latest 15 Papers - April 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation](https://arxiv.org/abs/2604.26247v1)** | 2026-04-29 |  |
 | **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
 | **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v2)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to SIGIR '26</p></details> |
 | **[Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation](https://arxiv.org/abs/2604.14839v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2026</p></details> |
@@ -36,11 +37,18 @@ labels: documentation
 | **[CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation](https://arxiv.org/abs/2603.01536v1)** | 2026-03-02 |  |
 | **[GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings](https://arxiv.org/abs/2603.00854v1)** | 2026-03-01 |  |
 | **[Modality-Guided Mixture of Graph Experts with Entropy-Triggered Routing for Multimodal Recommendation](https://arxiv.org/abs/2602.20723v2)** | 2026-02-26 |  |
-| **[E-MMKGR: A Unified Multimodal Knowledge Graph Framework for E-commerce Applications](https://arxiv.org/abs/2602.20877v1)** | 2026-02-24 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Obliviator Reveals the Cost of Nonlinear Guardedness in Concept Erasure](https://arxiv.org/abs/2603.07529v2)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 [Poster]. Code available at: https://github.com/ramin-akbari/Obliviator</p></details> |
+| **[ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](https://arxiv.org/abs/2505.20032v3)** | 2026-04-29 |  |
+| **[3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification](https://arxiv.org/abs/2604.26520v1)** | 2026-04-29 |  |
+| **[A Multimodal Pre-trained Network for Integrated EEG-Video Seizure Detection](https://arxiv.org/abs/2604.26379v1)** | 2026-04-29 |  |
+| **[Causal Disentanglement for Full-Reference Image Quality Assessment](https://arxiv.org/abs/2604.21654v2)** | 2026-04-29 |  |
+| **[Cheeger--Hodge Contrastive Learning for Structurally Robust Graph Representation Learning](https://arxiv.org/abs/2604.26301v1)** | 2026-04-29 |  |
+| **[Unsupervised Graph Modeling for Anomaly Detection in Accounting Subject Relationships](https://arxiv.org/abs/2604.26216v1)** | 2026-04-29 |  |
+| **[Robust Representation Learning through Explicit Environment Modeling](https://arxiv.org/abs/2604.26128v1)** | 2026-04-28 |  |
 | **[Task-Driven Prompt Learning: A Joint Framework for Multi-modal Cloud Removal and Segmentation](https://arxiv.org/abs/2601.12052v2)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted by IGARSS 2026 Conference (Oral)</p></details> |
 | **[Joint Learning using Mixture-of-Expert-Based Representation for Speech Enhancement and Robust Emotion Recognition](https://arxiv.org/abs/2509.08470v2)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Audio, Speech and Language Processing (TASLP)</p></details> |
 | **[Towards Efficient and Generalizable Retrieval: Adaptive Semantic Quantization and Residual Knowledge Transfer](https://arxiv.org/abs/2602.23978v2)** | 2026-04-28 |  |
@@ -48,12 +56,4 @@ labels: documentation
 | **[VAE-Inf: A statistically interpretable generative paradigm for imbalanced classification](https://arxiv.org/abs/2604.25334v1)** | 2026-04-28 |  |
 | **[Curriculum-guided multimodal representation learning enables generalizable prediction of nanomaterial-protein interactions](https://arxiv.org/abs/2507.14245v2)** | 2026-04-28 | 36 pages, 6 figures |
 | **[Optimization-Free Topological Sort for Causal Discovery via the Schur Complement of Score Jacobians](https://arxiv.org/abs/2604.25295v1)** | 2026-04-28 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 7 tables</p></details> |
-| **[Combating Visual Neglect and Semantic Drift in Large Multimodal Models for Enhanced Cross-Modal Retrieval](https://arxiv.org/abs/2604.25273v1)** | 2026-04-28 |  |
-| **[Sensory-Aware Sequential Recommendation via Review-Distilled Representations](https://arxiv.org/abs/2603.02709v3)** | 2026-04-28 |  |
-| **[FARM: Enhancing Molecular Representations with Functional Group Awareness](https://arxiv.org/abs/2410.02082v4)** | 2026-04-28 | <details><summary>Prepr...</summary><p>Preprint. The code is available at: https://github.com/thaonguyen217/farm_molecular_representation</p></details> |
-| **[Agentic AI for Remote Sensing: Technical Challenges and Research Directions](https://arxiv.org/abs/2604.24919v1)** | 2026-04-27 | <details><summary>31 pa...</summary><p>31 pages. Position Paper</p></details> |
-| **[SIMPLER: H&E-Informed Representation Learning for Structured Illumination Microscopy](https://arxiv.org/abs/2604.10334v2)** | 2026-04-27 |  |
-| **[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval](https://arxiv.org/abs/2601.09159v3)** | 2026-04-27 |  |
-| **[A systematic literature Review for Transformer-based Software Vulnerability detection](https://arxiv.org/abs/2604.24822v1)** | 2026-04-27 |  |
-| **[MIMIC: A Generative Multimodal Foundation Model for Biomolecules](https://arxiv.org/abs/2604.24506v1)** | 2026-04-27 |  |
 
