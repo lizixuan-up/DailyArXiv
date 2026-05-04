@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 03, 2026
+title: Latest 15 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion](https://arxiv.org/abs/2605.00670v1)** | 2026-05-01 |  |
 | **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v3)** | 2026-04-30 |  |
 | **[TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation](https://arxiv.org/abs/2604.26247v1)** | 2026-04-29 |  |
 | **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
@@ -36,11 +37,15 @@ labels: documentation
 | **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
 | **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v2)** | 2026-03-03 | Submitted to KDD2026 |
 | **[CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation](https://arxiv.org/abs/2603.01536v1)** | 2026-03-02 |  |
-| **[GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings](https://arxiv.org/abs/2603.00854v1)** | 2026-03-01 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control](https://arxiv.org/abs/2605.00787v1)** | 2026-05-01 | <details><summary>Reinf...</summary><p>Reinforcement Learning</p></details> |
+| **[Aitchison Embeddings for Learning Compositional Graph Representations](https://arxiv.org/abs/2605.00716v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted version to ICML; It will updated soon with the camera-ready version</p></details> |
+| **[Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion](https://arxiv.org/abs/2605.00670v1)** | 2026-05-01 |  |
+| **[PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting](https://arxiv.org/abs/2605.00466v1)** | 2026-05-01 |  |
+| **[Language Models Struggle to Use Representations Learned In-Context](https://arxiv.org/abs/2602.04212v2)** | 2026-05-01 |  |
 | **[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](https://arxiv.org/abs/2604.28178v1)** | 2026-04-30 | <details><summary>This ...</summary><p>This paper is accepted by the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)</p></details> |
 | **[Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements](https://arxiv.org/abs/2604.28173v1)** | 2026-04-30 | <details><summary>to be...</summary><p>to be published in CVPR 2026 (Highlight)</p></details> |
 | **[Do Sparse Autoencoders Capture Concept Manifolds?](https://arxiv.org/abs/2604.28119v1)** | 2026-04-30 |  |
@@ -49,11 +54,6 @@ labels: documentation
 | **[RIHA: Report-Image Hierarchical Alignment for Radiology Report Generation](https://arxiv.org/abs/2604.27559v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted by Journal of Biomedical and Health Informatics (JBHI)</p></details> |
 | **[Self-Supervised Learning of Plant Image Representations](https://arxiv.org/abs/2604.27538v1)** | 2026-04-30 |  |
 | **[Cross-Lingual Sentiment Misalignment: Auditing Multilingual Language Models for Inversion Risk, Dialectal Representation, and Affective Stability](https://arxiv.org/abs/2602.17469v2)** | 2026-04-30 |  |
+| **[UniBCI: Towards a Unified Pretrained Model for Invasive Brain-Computer Interfaces](https://arxiv.org/abs/2605.00061v1)** | 2026-04-30 |  |
 | **[Improving Graph Few-shot Learning with Hyperbolic Space and Denoising Diffusion](https://arxiv.org/abs/2604.27462v1)** | 2026-04-30 |  |
-| **[Robust Learning on Heterogeneous Graphs with Heterophily: A Graph Structure Learning Approach](https://arxiv.org/abs/2604.27387v1)** | 2026-04-30 |  |
-| **[TypeBandit: Type-Level Context Allocation and Reweighting for Effective Attribute Completion in Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2604.27356v1)** | 2026-04-30 | 17 pages, 4 figures |
-| **[JI-ADF: Joint-Individual Learning with Adaptive Decision Fusion for Multimodal Skin Lesion Classification](https://arxiv.org/abs/2604.27343v1)** | 2026-04-30 |  |
-| **[BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning](https://arxiv.org/abs/2604.27277v1)** | 2026-04-30 | 22 pages, 5 figures |
-| **[Energy-Efficient Plant Monitoring via Knowledge Distillation](https://arxiv.org/abs/2604.27178v1)** | 2026-04-29 |  |
-| **[Obliviator Reveals the Cost of Nonlinear Guardedness in Concept Erasure](https://arxiv.org/abs/2603.07529v2)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 [Poster]. Code available at: https://github.com/ramin-akbari/Obliviator</p></details> |
 
