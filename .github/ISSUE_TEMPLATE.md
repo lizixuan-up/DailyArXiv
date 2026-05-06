@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control](https://arxiv.org/abs/2605.00787v1)** | 2026-05-01 | <details><summary>Reinf...</summary><p>Reinforcement Learning</p></details> |
-| **[Aitchison Embeddings for Learning Compositional Graph Representations](https://arxiv.org/abs/2605.00716v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted version to ICML; It will updated soon with the camera-ready version</p></details> |
-| **[Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion](https://arxiv.org/abs/2605.00670v1)** | 2026-05-01 |  |
-| **[PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting](https://arxiv.org/abs/2605.00466v1)** | 2026-05-01 |  |
-| **[Language Models Struggle to Use Representations Learned In-Context](https://arxiv.org/abs/2602.04212v2)** | 2026-05-01 |  |
-| **[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](https://arxiv.org/abs/2604.28178v1)** | 2026-04-30 | <details><summary>This ...</summary><p>This paper is accepted by the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)</p></details> |
-| **[Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements](https://arxiv.org/abs/2604.28173v1)** | 2026-04-30 | <details><summary>to be...</summary><p>to be published in CVPR 2026 (Highlight)</p></details> |
-| **[Do Sparse Autoencoders Capture Concept Manifolds?](https://arxiv.org/abs/2604.28119v1)** | 2026-04-30 |  |
-| **[A Unified Framework of Hyperbolic Graph Representation Learning Methods](https://arxiv.org/abs/2604.28070v1)** | 2026-04-30 | submitted |
-| **[Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining](https://arxiv.org/abs/2509.05291v2)** | 2026-04-30 | Accepted to ACL 2026 |
-| **[RIHA: Report-Image Hierarchical Alignment for Radiology Report Generation](https://arxiv.org/abs/2604.27559v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted by Journal of Biomedical and Health Informatics (JBHI)</p></details> |
-| **[Self-Supervised Learning of Plant Image Representations](https://arxiv.org/abs/2604.27538v1)** | 2026-04-30 |  |
-| **[Cross-Lingual Sentiment Misalignment: Auditing Multilingual Language Models for Inversion Risk, Dialectal Representation, and Affective Stability](https://arxiv.org/abs/2602.17469v2)** | 2026-04-30 |  |
-| **[UniBCI: Towards a Unified Pretrained Model for Invasive Brain-Computer Interfaces](https://arxiv.org/abs/2605.00061v1)** | 2026-04-30 |  |
-| **[Improving Graph Few-shot Learning with Hyperbolic Space and Denoising Diffusion](https://arxiv.org/abs/2604.27462v1)** | 2026-04-30 |  |
+| **[Boosting Team Modeling through Tempo-Relational Representation Learning](https://arxiv.org/abs/2507.13305v2)** | 2026-05-05 |  |
+| **[Spatiotemporal Convolutions on EEG signal -- A Representation Learning Perspective on Efficient and Explainable EEG Classification with Convolutional Neural Nets](https://arxiv.org/abs/2605.03874v1)** | 2026-05-05 |  |
+| **[Disentangling Shared and Task-Specific Representations from Multi-Modal Clinical Data](https://arxiv.org/abs/2605.03570v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication in EMBC 2026. This is the authors' accepted manuscript. DOI to be added after IEEE Xplore publication</p></details> |
+| **[Learning Generalizable Action Representations via Pre-training AEMG](https://arxiv.org/abs/2605.03462v1)** | 2026-05-05 | 10 pages,3 figures, |
+| **[SCGNN: Semantic Consistency enhanced Graph Neural Network Guided by Granular-ball Computing](https://arxiv.org/abs/2605.02617v2)** | 2026-05-05 |  |
+| **[Dual-Foundation Models for Unsupervised Domain Adaptation](https://arxiv.org/abs/2605.03365v1)** | 2026-05-05 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Accepted at the 28th International Conference on Pattern Recognition (ICPR 2026)</p></details> |
+| **[RFPrompt: Prompt-Based Expert Adaptation of the Large Wireless Model for Modulation Classification](https://arxiv.org/abs/2605.03279v1)** | 2026-05-05 |  |
+| **[Adaptive Negative Scheduling for Graph Contrastive Learning](https://arxiv.org/abs/2605.03076v1)** | 2026-05-04 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 9 benchmark datasets, code available at GitHub</p></details> |
+| **[Riemannian Generative Decoder](https://arxiv.org/abs/2506.19133v3)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR), 2026, with J2C Certification; presentation at ICML 2026</p></details> |
+| **[Representation learning from OCT images](https://arxiv.org/abs/2605.02589v1)** | 2026-05-04 |  |
+| **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence](https://arxiv.org/abs/2601.19597v3)** | 2026-05-04 | ICML 2026 |
+| **[Evaluating Tabular Representation Learning for Network Intrusion Detection](https://arxiv.org/abs/2605.02519v1)** | 2026-05-04 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Cyber Security and Resilience (2026)</p></details> |
+| **[Multi-Objective Instruction-Aware Representation Learning in Procedural Content Generation RL](https://arxiv.org/abs/2508.09193v2)** | 2026-05-04 | 8 pages, 4 figures |
+| **[Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression](https://arxiv.org/abs/2604.10546v2)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2026 as an Oral presentation</p></details> |
+| **[Fight Poison with Poison: Enhancing Robustness in Few-shot Machine-Generated Text Detection with Adversarial Training](https://arxiv.org/abs/2605.02374v1)** | 2026-05-04 |  |
 
