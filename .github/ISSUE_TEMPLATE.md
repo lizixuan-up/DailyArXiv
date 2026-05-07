@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2026
+title: Latest 15 Papers - May 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation](https://arxiv.org/abs/2605.05164v1)** | 2026-05-06 |  |
+| **[POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567v3)** | 2026-05-06 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 5 figures</p></details> |
+| **[The Predictive-Causal Gap: An Impossibility Theorem and Large-Scale Neural Evidence](https://arxiv.org/abs/2605.05029v1)** | 2026-05-06 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 3 tables. Supplemental Material included (Sections S1-S10)</p></details> |
+| **[TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding](https://arxiv.org/abs/2605.04962v1)** | 2026-05-06 | <details><summary>15 pa...</summary><p>15 pages, 8 figures. Code and datasets are available at https://github.com/qiangminjie27/TabEmbed</p></details> |
+| **[Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](https://arxiv.org/abs/2605.04819v1)** | 2026-05-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Camera-ready version coming soon</p></details> |
+| **[Geometric Evolution Graph Convolutional Networks: Enhancing Graph Representation Learning via Ricci Flow](https://arxiv.org/abs/2603.26178v2)** | 2026-05-06 |  |
+| **[The Tsetlin Machine Goes Deep: Logical Learning and Reasoning With Graphs](https://arxiv.org/abs/2507.14874v2)** | 2026-05-06 | 23 pages, 9 figures |
+| **[Multi-Level Bidirectional Biomimetic Learning for EEG-Based Visual Decoding](https://arxiv.org/abs/2605.04680v1)** | 2026-05-06 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 15 tables</p></details> |
+| **[HeterSEED: Semantics-Structure Decoupling for Heterogeneous Graph Learning under Heterophily](https://arxiv.org/abs/2605.04594v1)** | 2026-05-06 | 29 pages, 9 figures |
+| **[Beyond Rigid Geometries: The Spline-Pullback Metric for Universal Diffeomorphic SPD Representation Learning](https://arxiv.org/abs/2605.04406v1)** | 2026-05-06 |  |
+| **[HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology](https://arxiv.org/abs/2602.07608v2)** | 2026-05-05 | <details><summary>Withd...</summary><p>Withdrawn due to dataset issues identified</p></details> |
+| **[LUCAS-MEGA: A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems](https://arxiv.org/abs/2605.04323v1)** | 2026-05-05 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 1 table</p></details> |
 | **[Boosting Team Modeling through Tempo-Relational Representation Learning](https://arxiv.org/abs/2507.13305v2)** | 2026-05-05 |  |
 | **[Spatiotemporal Convolutions on EEG signal -- A Representation Learning Perspective on Efficient and Explainable EEG Classification with Convolutional Neural Nets](https://arxiv.org/abs/2605.03874v1)** | 2026-05-05 |  |
 | **[Disentangling Shared and Task-Specific Representations from Multi-Modal Clinical Data](https://arxiv.org/abs/2605.03570v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication in EMBC 2026. This is the authors' accepted manuscript. DOI to be added after IEEE Xplore publication</p></details> |
-| **[Learning Generalizable Action Representations via Pre-training AEMG](https://arxiv.org/abs/2605.03462v1)** | 2026-05-05 | 10 pages,3 figures, |
-| **[SCGNN: Semantic Consistency enhanced Graph Neural Network Guided by Granular-ball Computing](https://arxiv.org/abs/2605.02617v2)** | 2026-05-05 |  |
-| **[Dual-Foundation Models for Unsupervised Domain Adaptation](https://arxiv.org/abs/2605.03365v1)** | 2026-05-05 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Accepted at the 28th International Conference on Pattern Recognition (ICPR 2026)</p></details> |
-| **[RFPrompt: Prompt-Based Expert Adaptation of the Large Wireless Model for Modulation Classification](https://arxiv.org/abs/2605.03279v1)** | 2026-05-05 |  |
-| **[Adaptive Negative Scheduling for Graph Contrastive Learning](https://arxiv.org/abs/2605.03076v1)** | 2026-05-04 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 9 benchmark datasets, code available at GitHub</p></details> |
-| **[Riemannian Generative Decoder](https://arxiv.org/abs/2506.19133v3)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR), 2026, with J2C Certification; presentation at ICML 2026</p></details> |
-| **[Representation learning from OCT images](https://arxiv.org/abs/2605.02589v1)** | 2026-05-04 |  |
-| **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence](https://arxiv.org/abs/2601.19597v3)** | 2026-05-04 | ICML 2026 |
-| **[Evaluating Tabular Representation Learning for Network Intrusion Detection](https://arxiv.org/abs/2605.02519v1)** | 2026-05-04 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Cyber Security and Resilience (2026)</p></details> |
-| **[Multi-Objective Instruction-Aware Representation Learning in Procedural Content Generation RL](https://arxiv.org/abs/2508.09193v2)** | 2026-05-04 | 8 pages, 4 figures |
-| **[Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression](https://arxiv.org/abs/2604.10546v2)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2026 as an Oral presentation</p></details> |
-| **[Fight Poison with Poison: Enhancing Robustness in Few-shot Machine-Generated Text Detection with Adversarial Training](https://arxiv.org/abs/2605.02374v1)** | 2026-05-04 |  |
 
