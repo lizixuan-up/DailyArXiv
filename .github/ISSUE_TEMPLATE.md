@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 07, 2026
+title: Latest 15 Papers - May 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks](https://arxiv.org/abs/2605.06238v1)** | 2026-05-07 |  |
 | **[Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion](https://arxiv.org/abs/2605.00670v1)** | 2026-05-01 |  |
 | **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v3)** | 2026-04-30 |  |
 | **[TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation](https://arxiv.org/abs/2604.26247v1)** | 2026-04-29 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v5)** | 2026-03-13 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
 | **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
 | **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v2)** | 2026-03-03 | Submitted to KDD2026 |
-| **[CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation](https://arxiv.org/abs/2603.01536v1)** | 2026-03-02 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation](https://arxiv.org/abs/2605.05164v1)** | 2026-05-06 |  |
-| **[POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567v3)** | 2026-05-06 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 5 figures</p></details> |
-| **[The Predictive-Causal Gap: An Impossibility Theorem and Large-Scale Neural Evidence](https://arxiv.org/abs/2605.05029v1)** | 2026-05-06 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 3 tables. Supplemental Material included (Sections S1-S10)</p></details> |
-| **[TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding](https://arxiv.org/abs/2605.04962v1)** | 2026-05-06 | <details><summary>15 pa...</summary><p>15 pages, 8 figures. Code and datasets are available at https://github.com/qiangminjie27/TabEmbed</p></details> |
-| **[Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](https://arxiv.org/abs/2605.04819v1)** | 2026-05-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Camera-ready version coming soon</p></details> |
-| **[Geometric Evolution Graph Convolutional Networks: Enhancing Graph Representation Learning via Ricci Flow](https://arxiv.org/abs/2603.26178v2)** | 2026-05-06 |  |
-| **[The Tsetlin Machine Goes Deep: Logical Learning and Reasoning With Graphs](https://arxiv.org/abs/2507.14874v2)** | 2026-05-06 | 23 pages, 9 figures |
-| **[Multi-Level Bidirectional Biomimetic Learning for EEG-Based Visual Decoding](https://arxiv.org/abs/2605.04680v1)** | 2026-05-06 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 15 tables</p></details> |
-| **[HeterSEED: Semantics-Structure Decoupling for Heterogeneous Graph Learning under Heterophily](https://arxiv.org/abs/2605.04594v1)** | 2026-05-06 | 29 pages, 9 figures |
-| **[Beyond Rigid Geometries: The Spline-Pullback Metric for Universal Diffeomorphic SPD Representation Learning](https://arxiv.org/abs/2605.04406v1)** | 2026-05-06 |  |
-| **[HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology](https://arxiv.org/abs/2602.07608v2)** | 2026-05-05 | <details><summary>Withd...</summary><p>Withdrawn due to dataset issues identified</p></details> |
-| **[LUCAS-MEGA: A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems](https://arxiv.org/abs/2605.04323v1)** | 2026-05-05 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 1 table</p></details> |
-| **[Boosting Team Modeling through Tempo-Relational Representation Learning](https://arxiv.org/abs/2507.13305v2)** | 2026-05-05 |  |
-| **[Spatiotemporal Convolutions on EEG signal -- A Representation Learning Perspective on Efficient and Explainable EEG Classification with Convolutional Neural Nets](https://arxiv.org/abs/2605.03874v1)** | 2026-05-05 |  |
-| **[Disentangling Shared and Task-Specific Representations from Multi-Modal Clinical Data](https://arxiv.org/abs/2605.03570v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication in EMBC 2026. This is the authors' accepted manuscript. DOI to be added after IEEE Xplore publication</p></details> |
+| **[On the Safety of Graph Representation Learning](https://arxiv.org/abs/2605.06576v1)** | 2026-05-07 | <details><summary>Prepr...</summary><p>Preprint. 10 pages main text, appendices included</p></details> |
+| **[Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](https://arxiv.org/abs/2512.03883v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026 conference (6 pages, 5 figures, 1 table)</p></details> |
+| **[Continuous Latent Diffusion Language Model](https://arxiv.org/abs/2605.06548v1)** | 2026-05-07 | <details><summary>99 pa...</summary><p>99 pages, 31 figures, 9 tables. Project page: https://hongcanguo.github.io/Cola-DLM/</p></details> |
+| **[Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness](https://arxiv.org/abs/2602.13636v2)** | 2026-05-07 |  |
+| **[Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies](https://arxiv.org/abs/2605.06470v1)** | 2026-05-07 |  |
+| **[Diversity Curves for Graph Representation Learning](https://arxiv.org/abs/2605.06466v1)** | 2026-05-07 |  |
+| **[Topological Signatures of Grokking](https://arxiv.org/abs/2605.06352v1)** | 2026-05-07 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 2 tables</p></details> |
+| **[MultiLinguahah : A New Unsupervised Multilingual Acoustic Laughter Segmentation Method](https://arxiv.org/abs/2605.06309v1)** | 2026-05-07 |  |
+| **[Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces](https://arxiv.org/abs/2605.06303v1)** | 2026-05-07 |  |
+| **[On-Orbit Real-Time Wildfire Detection Under On-Board Constraints](https://arxiv.org/abs/2605.06273v1)** | 2026-05-07 |  |
+| **[Beyond Rigid Alignment: Graph Federated Learning via Dual Manifold Calibration](https://arxiv.org/abs/2605.06260v1)** | 2026-05-07 | 30 pages |
+| **[Disentangled Generative Graph Representation Learning](https://arxiv.org/abs/2408.13471v2)** | 2026-05-07 |  |
+| **[GraphVec: Cross-Domain Graph Vectorization for Graph-Level Representation Learning](https://arxiv.org/abs/2602.04244v2)** | 2026-05-07 |  |
+| **[Spectral Alignment in Forward-Backward Representations via Temporal Abstraction](https://arxiv.org/abs/2603.20103v3)** | 2026-05-07 |  |
+| **[PRISM: Iterative Cross-Modal Posterior Refinement for Dynamic Text-Attributed Graphs](https://arxiv.org/abs/2605.06073v1)** | 2026-05-07 |  |
 
