@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 10, 2026
+title: Latest 15 Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Safety of Graph Representation Learning](https://arxiv.org/abs/2605.06576v1)** | 2026-05-07 | <details><summary>Prepr...</summary><p>Preprint. 10 pages main text, appendices included</p></details> |
-| **[Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](https://arxiv.org/abs/2512.03883v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026 conference (6 pages, 5 figures, 1 table)</p></details> |
-| **[Continuous Latent Diffusion Language Model](https://arxiv.org/abs/2605.06548v1)** | 2026-05-07 | <details><summary>99 pa...</summary><p>99 pages, 31 figures, 9 tables. Project page: https://hongcanguo.github.io/Cola-DLM/</p></details> |
-| **[Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness](https://arxiv.org/abs/2602.13636v2)** | 2026-05-07 |  |
-| **[Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies](https://arxiv.org/abs/2605.06470v1)** | 2026-05-07 |  |
-| **[Diversity Curves for Graph Representation Learning](https://arxiv.org/abs/2605.06466v1)** | 2026-05-07 |  |
-| **[Topological Signatures of Grokking](https://arxiv.org/abs/2605.06352v1)** | 2026-05-07 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 2 tables</p></details> |
-| **[MultiLinguahah : A New Unsupervised Multilingual Acoustic Laughter Segmentation Method](https://arxiv.org/abs/2605.06309v1)** | 2026-05-07 |  |
-| **[Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces](https://arxiv.org/abs/2605.06303v1)** | 2026-05-07 |  |
-| **[On-Orbit Real-Time Wildfire Detection Under On-Board Constraints](https://arxiv.org/abs/2605.06273v1)** | 2026-05-07 |  |
-| **[Beyond Rigid Alignment: Graph Federated Learning via Dual Manifold Calibration](https://arxiv.org/abs/2605.06260v1)** | 2026-05-07 | 30 pages |
-| **[Disentangled Generative Graph Representation Learning](https://arxiv.org/abs/2408.13471v2)** | 2026-05-07 |  |
-| **[GraphVec: Cross-Domain Graph Vectorization for Graph-Level Representation Learning](https://arxiv.org/abs/2602.04244v2)** | 2026-05-07 |  |
-| **[Spectral Alignment in Forward-Backward Representations via Temporal Abstraction](https://arxiv.org/abs/2603.20103v3)** | 2026-05-07 |  |
-| **[PRISM: Iterative Cross-Modal Posterior Refinement for Dynamic Text-Attributed Graphs](https://arxiv.org/abs/2605.06073v1)** | 2026-05-07 |  |
+| **[DReS: Dual Reconstruction Smoothing for Functional Regularization](https://arxiv.org/abs/2510.00253v2)** | 2026-05-08 |  |
+| **[Synergistic Benefits of Joint Molecule Generation and Property Prediction](https://arxiv.org/abs/2504.16559v3)** | 2026-05-08 | 17 pages, 4 figures |
+| **[It Just Takes Two: Scaling Amortized Inference to Large Sets](https://arxiv.org/abs/2605.07972v1)** | 2026-05-08 |  |
+| **[Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961v1)** | 2026-05-08 |  |
+| **[Prototype Guided Post-pretraining for Single-Cell Representation Learning](https://arxiv.org/abs/2605.07938v1)** | 2026-05-08 |  |
+| **[LUCAS-MEGA: A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems](https://arxiv.org/abs/2605.04323v2)** | 2026-05-08 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 1 table</p></details> |
+| **[Structured Coupling for Flow Matching](https://arxiv.org/abs/2605.07676v1)** | 2026-05-08 |  |
+| **[Is She Even Relevant? When BERT Ignores Explicit Gender Cues](https://arxiv.org/abs/2605.07622v1)** | 2026-05-08 |  |
+| **[A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning](https://arxiv.org/abs/2605.07596v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](https://arxiv.org/abs/2605.07557v1)** | 2026-05-08 | <details><summary>The p...</summary><p>The paper is accepted by ICML 2026</p></details> |
+| **[Tables Guide Vision: Learning to See the Heart through Tabular Data](https://arxiv.org/abs/2503.14998v3)** | 2026-05-08 |  |
+| **[Structured Prototype-Guided Adaptation for EEG Foundation Models](https://arxiv.org/abs/2602.17251v2)** | 2026-05-08 |  |
+| **[The Proxy Presumption: From Semantic Embeddings to Valid Social Measures](https://arxiv.org/abs/2605.07409v1)** | 2026-05-08 | ACL 2026 |
+| **[Decoding Dynamic Visual Experience from Calcium Imaging via Cell-Pattern-Aware Pretraining](https://arxiv.org/abs/2510.18516v3)** | 2026-05-08 |  |
+| **[Towards multi-modal forgery representation learning for AI-generated video detection and localization](https://arxiv.org/abs/2605.07232v1)** | 2026-05-08 |  |
 
