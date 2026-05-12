@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2026
+title: Latest 15 Papers - May 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DReS: Dual Reconstruction Smoothing for Functional Regularization](https://arxiv.org/abs/2510.00253v2)** | 2026-05-08 |  |
-| **[Synergistic Benefits of Joint Molecule Generation and Property Prediction](https://arxiv.org/abs/2504.16559v3)** | 2026-05-08 | 17 pages, 4 figures |
-| **[It Just Takes Two: Scaling Amortized Inference to Large Sets](https://arxiv.org/abs/2605.07972v1)** | 2026-05-08 |  |
-| **[Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961v1)** | 2026-05-08 |  |
-| **[Prototype Guided Post-pretraining for Single-Cell Representation Learning](https://arxiv.org/abs/2605.07938v1)** | 2026-05-08 |  |
-| **[LUCAS-MEGA: A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems](https://arxiv.org/abs/2605.04323v2)** | 2026-05-08 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 1 table</p></details> |
-| **[Structured Coupling for Flow Matching](https://arxiv.org/abs/2605.07676v1)** | 2026-05-08 |  |
-| **[Is She Even Relevant? When BERT Ignores Explicit Gender Cues](https://arxiv.org/abs/2605.07622v1)** | 2026-05-08 |  |
-| **[A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning](https://arxiv.org/abs/2605.07596v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](https://arxiv.org/abs/2605.07557v1)** | 2026-05-08 | <details><summary>The p...</summary><p>The paper is accepted by ICML 2026</p></details> |
-| **[Tables Guide Vision: Learning to See the Heart through Tabular Data](https://arxiv.org/abs/2503.14998v3)** | 2026-05-08 |  |
-| **[Structured Prototype-Guided Adaptation for EEG Foundation Models](https://arxiv.org/abs/2602.17251v2)** | 2026-05-08 |  |
-| **[The Proxy Presumption: From Semantic Embeddings to Valid Social Measures](https://arxiv.org/abs/2605.07409v1)** | 2026-05-08 | ACL 2026 |
-| **[Decoding Dynamic Visual Experience from Calcium Imaging via Cell-Pattern-Aware Pretraining](https://arxiv.org/abs/2510.18516v3)** | 2026-05-08 |  |
-| **[Towards multi-modal forgery representation learning for AI-generated video detection and localization](https://arxiv.org/abs/2605.07232v1)** | 2026-05-08 |  |
+| **[BEACON: A Multimodal Dataset for Learning Behavioral Fingerprints from Gameplay Data](https://arxiv.org/abs/2605.10867v1)** | 2026-05-11 |  |
+| **[Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories](https://arxiv.org/abs/2605.10840v1)** | 2026-05-11 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 8 tables. Code: https://github.com/YeungYathin/Clin-JEPA</p></details> |
+| **[CLEF: EEG Foundation Model for Learning Clinical Semantics](https://arxiv.org/abs/2605.10817v1)** | 2026-05-11 |  |
+| **[Elucidating Representation Degradation Problem in Diffusion Model Training](https://arxiv.org/abs/2605.10790v1)** | 2026-05-11 |  |
+| **[SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251v3)** | 2026-05-11 |  |
+| **[Inductive Entity Representations from Text via Link Prediction](https://arxiv.org/abs/2010.03496v4)** | 2026-05-11 | <details><summary>The W...</summary><p>The Web Conference 2021</p></details> |
+| **[Multi-layer attentive probing improves transfer of audio representations for bioacoustics](https://arxiv.org/abs/2605.10494v1)** | 2026-05-11 |  |
+| **[Physical probes expose and alleviate chemical-environment collapse in molecular representations](https://arxiv.org/abs/2605.10429v1)** | 2026-05-11 |  |
+| **[Causal Discovery for Irregularly Time Series with Consistency Guarantees](https://arxiv.org/abs/2507.03310v2)** | 2026-05-11 | 12 pages, 2 figures |
+| **[MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning](https://arxiv.org/abs/2602.07940v3)** | 2026-05-11 |  |
+| **[BROS: Bias-Corrected Randomized Subspaces for Memory-Efficient Single-Loop Bilevel Optimization](https://arxiv.org/abs/2605.10288v1)** | 2026-05-11 |  |
+| **[Developing a foundation model for high-resolution remote sensing data of the Netherlands](https://arxiv.org/abs/2605.10184v1)** | 2026-05-11 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, under review in a journal</p></details> |
+| **[A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning](https://arxiv.org/abs/2605.07596v2)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[PHAGE: Patent Heterogeneous Attention-Guided Graph Encoder for Representation Learning](https://arxiv.org/abs/2605.10073v1)** | 2026-05-11 |  |
+| **[MFVLR: Multi-domain Fine-grained Vision-Language Reconstruction for Generalizable Diffusion Face Forgery Detection and Localization](https://arxiv.org/abs/2605.10071v1)** | 2026-05-11 |  |
 
