@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2026
+title: Latest 15 Papers - May 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BEACON: A Multimodal Dataset for Learning Behavioral Fingerprints from Gameplay Data](https://arxiv.org/abs/2605.10867v1)** | 2026-05-11 |  |
-| **[Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories](https://arxiv.org/abs/2605.10840v1)** | 2026-05-11 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 8 tables. Code: https://github.com/YeungYathin/Clin-JEPA</p></details> |
-| **[CLEF: EEG Foundation Model for Learning Clinical Semantics](https://arxiv.org/abs/2605.10817v1)** | 2026-05-11 |  |
-| **[Elucidating Representation Degradation Problem in Diffusion Model Training](https://arxiv.org/abs/2605.10790v1)** | 2026-05-11 |  |
-| **[SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251v3)** | 2026-05-11 |  |
-| **[Inductive Entity Representations from Text via Link Prediction](https://arxiv.org/abs/2010.03496v4)** | 2026-05-11 | <details><summary>The W...</summary><p>The Web Conference 2021</p></details> |
-| **[Multi-layer attentive probing improves transfer of audio representations for bioacoustics](https://arxiv.org/abs/2605.10494v1)** | 2026-05-11 |  |
-| **[Physical probes expose and alleviate chemical-environment collapse in molecular representations](https://arxiv.org/abs/2605.10429v1)** | 2026-05-11 |  |
-| **[Causal Discovery for Irregularly Time Series with Consistency Guarantees](https://arxiv.org/abs/2507.03310v2)** | 2026-05-11 | 12 pages, 2 figures |
-| **[MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning](https://arxiv.org/abs/2602.07940v3)** | 2026-05-11 |  |
-| **[BROS: Bias-Corrected Randomized Subspaces for Memory-Efficient Single-Loop Bilevel Optimization](https://arxiv.org/abs/2605.10288v1)** | 2026-05-11 |  |
-| **[Developing a foundation model for high-resolution remote sensing data of the Netherlands](https://arxiv.org/abs/2605.10184v1)** | 2026-05-11 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, under review in a journal</p></details> |
-| **[A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning](https://arxiv.org/abs/2605.07596v2)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[PHAGE: Patent Heterogeneous Attention-Guided Graph Encoder for Representation Learning](https://arxiv.org/abs/2605.10073v1)** | 2026-05-11 |  |
-| **[MFVLR: Multi-domain Fine-grained Vision-Language Reconstruction for Generalizable Diffusion Face Forgery Detection and Localization](https://arxiv.org/abs/2605.10071v1)** | 2026-05-11 |  |
+| **[SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](https://arxiv.org/abs/2605.12389v1)** | 2026-05-12 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Accepted at ICML 2026. Includes appendices</p></details> |
+| **[NARA: Anchor-Conditioned Relation-Aware Contextualization of Heterogeneous Geoentities](https://arxiv.org/abs/2605.12276v1)** | 2026-05-12 |  |
+| **[Why Conclusions Diverge from the Same Observations: Formalizing World-Model Non-Identifiability via an Inference](https://arxiv.org/abs/2605.12255v1)** | 2026-05-12 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Extended English version of a paper accepted for presentation at JSAI 2026</p></details> |
+| **[Pretraining Strategies and Scaling for ECG Foundation Models: A Systematic Study](https://arxiv.org/abs/2605.12241v1)** | 2026-05-12 | <details><summary>59 pa...</summary><p>59 pages, 16 figures, 59 Tables. Code available at https://anonymous.4open.science/r/ecg-pretraining-strategies-4DE3</p></details> |
+| **[Learning Ego-Centric BEV Representations from a Perspective-Privileged View: Cross-View Supervision for Online HD Map Construction](https://arxiv.org/abs/2605.12218v1)** | 2026-05-12 |  |
+| **[Rotary Masked Autoencoders are Versatile Learners](https://arxiv.org/abs/2505.20535v3)** | 2026-05-12 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Final Camera Ready</p></details> |
+| **[PRIME: Protein Representation via Physics-Informed Multiscale Equivariant Hierarchies](https://arxiv.org/abs/2605.01625v2)** | 2026-05-12 |  |
+| **[Multi-Task Representation Learning for Conservative Linear Bandits](https://arxiv.org/abs/2605.12176v1)** | 2026-05-12 |  |
+| **[Cross-Modal-Domain Generalization Through Semantically Aligned Discrete Representations](https://arxiv.org/abs/2605.12145v1)** | 2026-05-12 |  |
+| **[From Trajectories to Phenotypes: Disease Progression as Structural Priors for Multi-organ Imaging Representation Learning](https://arxiv.org/abs/2605.11958v1)** | 2026-05-12 |  |
+| **[BROS: Bias-Corrected Randomized Subspaces for Memory-Efficient Single-Loop Bilevel Optimization](https://arxiv.org/abs/2605.10288v2)** | 2026-05-12 |  |
+| **[LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition](https://arxiv.org/abs/2603.29057v2)** | 2026-05-12 |  |
+| **[Learning Subspace-Preserving Sparse Attention Graphs from Heterogeneous Multiview Data](https://arxiv.org/abs/2605.11881v1)** | 2026-05-12 | 18 pages |
+| **[PVLM: Parsing-Aware Vision Language Model with Dynamic Contrastive Learning for Zero-Shot Deepfake Attribution](https://arxiv.org/abs/2504.14129v4)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Dependable and Secure Computing</p></details> |
+| **[WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](https://arxiv.org/abs/2605.11743v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted as a regular paper at ICML2026</p></details> |
 
