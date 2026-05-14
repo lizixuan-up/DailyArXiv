@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](https://arxiv.org/abs/2605.12389v1)** | 2026-05-12 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Accepted at ICML 2026. Includes appendices</p></details> |
-| **[NARA: Anchor-Conditioned Relation-Aware Contextualization of Heterogeneous Geoentities](https://arxiv.org/abs/2605.12276v1)** | 2026-05-12 |  |
-| **[Why Conclusions Diverge from the Same Observations: Formalizing World-Model Non-Identifiability via an Inference](https://arxiv.org/abs/2605.12255v1)** | 2026-05-12 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Extended English version of a paper accepted for presentation at JSAI 2026</p></details> |
-| **[Pretraining Strategies and Scaling for ECG Foundation Models: A Systematic Study](https://arxiv.org/abs/2605.12241v1)** | 2026-05-12 | <details><summary>59 pa...</summary><p>59 pages, 16 figures, 59 Tables. Code available at https://anonymous.4open.science/r/ecg-pretraining-strategies-4DE3</p></details> |
-| **[Learning Ego-Centric BEV Representations from a Perspective-Privileged View: Cross-View Supervision for Online HD Map Construction](https://arxiv.org/abs/2605.12218v1)** | 2026-05-12 |  |
-| **[Rotary Masked Autoencoders are Versatile Learners](https://arxiv.org/abs/2505.20535v3)** | 2026-05-12 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Final Camera Ready</p></details> |
-| **[PRIME: Protein Representation via Physics-Informed Multiscale Equivariant Hierarchies](https://arxiv.org/abs/2605.01625v2)** | 2026-05-12 |  |
-| **[Multi-Task Representation Learning for Conservative Linear Bandits](https://arxiv.org/abs/2605.12176v1)** | 2026-05-12 |  |
-| **[Cross-Modal-Domain Generalization Through Semantically Aligned Discrete Representations](https://arxiv.org/abs/2605.12145v1)** | 2026-05-12 |  |
-| **[From Trajectories to Phenotypes: Disease Progression as Structural Priors for Multi-organ Imaging Representation Learning](https://arxiv.org/abs/2605.11958v1)** | 2026-05-12 |  |
-| **[BROS: Bias-Corrected Randomized Subspaces for Memory-Efficient Single-Loop Bilevel Optimization](https://arxiv.org/abs/2605.10288v2)** | 2026-05-12 |  |
-| **[LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition](https://arxiv.org/abs/2603.29057v2)** | 2026-05-12 |  |
-| **[Learning Subspace-Preserving Sparse Attention Graphs from Heterogeneous Multiview Data](https://arxiv.org/abs/2605.11881v1)** | 2026-05-12 | 18 pages |
-| **[PVLM: Parsing-Aware Vision Language Model with Dynamic Contrastive Learning for Zero-Shot Deepfake Attribution](https://arxiv.org/abs/2504.14129v4)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Dependable and Secure Computing</p></details> |
-| **[WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](https://arxiv.org/abs/2605.11743v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted as a regular paper at ICML2026</p></details> |
+| **[Sparse Code Uplifting for Efficient 3D Language Gaussian Splatting](https://arxiv.org/abs/2605.13600v1)** | 2026-05-13 | <details><summary>18 pa...</summary><p>18 pages (9 pages main paper), 10 figures, preprint</p></details> |
+| **[Granite Embedding Multilingual R2 Models](https://arxiv.org/abs/2605.13521v1)** | 2026-05-13 |  |
+| **[Twincher: Bijective Representation Learning for Robust Inversion of Continuous Systems](https://arxiv.org/abs/2605.13470v1)** | 2026-05-13 |  |
+| **[Agentic AI for Remote Sensing: Technical Challenges and Research Directions](https://arxiv.org/abs/2604.24919v2)** | 2026-05-13 | <details><summary>31 pa...</summary><p>31 pages. Position Paper</p></details> |
+| **[The Multi-View Paradigm Shift in MRI Radiomics: Predicting MGMT Methylation in Glioblastoma](https://arxiv.org/abs/2512.22331v3)** | 2026-05-13 | 18 pages, 4 figures |
+| **[MultiLinguahah : A New Unsupervised Multilingual Acoustic Laughter Segmentation Method](https://arxiv.org/abs/2605.06309v2)** | 2026-05-13 |  |
+| **[Inference-Time Dynamic Modality Selection for Incomplete Multimodal Classification](https://arxiv.org/abs/2601.22853v3)** | 2026-05-13 | <details><summary>27 pa...</summary><p>27 pages (including appendix), accepted by ICLR 2026</p></details> |
+| **[Cross-Modal-Domain Generalization Through Semantically Aligned Discrete Representations](https://arxiv.org/abs/2605.12145v2)** | 2026-05-13 | <details><summary>Added...</summary><p>Added missing affiliation for co-author R. Younis and Z. Ahmadi</p></details> |
+| **[STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition](https://arxiv.org/abs/2605.13202v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</p></details> |
+| **[ECG-NAT: A Self-supervised Neighborhood Attention Transformer for Multi-lead Electrocardiogram Classification](https://arxiv.org/abs/2605.13194v1)** | 2026-05-13 |  |
+| **[Stable Attention Response for Reliable Precipitation Nowcasting](https://arxiv.org/abs/2605.13181v1)** | 2026-05-13 |  |
+| **[TB-AVA: Text as a Semantic Bridge for Audio-Visual Parameter Efficient Finetuning](https://arxiv.org/abs/2605.11572v2)** | 2026-05-13 | 12 pages, 6 figures |
+| **[UniJEPA: Enhancing Robot Policy via Unified Continuous and Discrete Representation Learning](https://arxiv.org/abs/2510.10642v3)** | 2026-05-13 |  |
+| **[ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction](https://arxiv.org/abs/2605.13024v1)** | 2026-05-13 |  |
+| **[JEDI: Joint Embedding Diffusion World Model for Online Model-Based Reinforcement Learning](https://arxiv.org/abs/2605.13013v1)** | 2026-05-13 |  |
 
