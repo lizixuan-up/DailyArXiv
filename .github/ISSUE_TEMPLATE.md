@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sparse Code Uplifting for Efficient 3D Language Gaussian Splatting](https://arxiv.org/abs/2605.13600v1)** | 2026-05-13 | <details><summary>18 pa...</summary><p>18 pages (9 pages main paper), 10 figures, preprint</p></details> |
-| **[Granite Embedding Multilingual R2 Models](https://arxiv.org/abs/2605.13521v1)** | 2026-05-13 |  |
-| **[Twincher: Bijective Representation Learning for Robust Inversion of Continuous Systems](https://arxiv.org/abs/2605.13470v1)** | 2026-05-13 |  |
-| **[Agentic AI for Remote Sensing: Technical Challenges and Research Directions](https://arxiv.org/abs/2604.24919v2)** | 2026-05-13 | <details><summary>31 pa...</summary><p>31 pages. Position Paper</p></details> |
-| **[The Multi-View Paradigm Shift in MRI Radiomics: Predicting MGMT Methylation in Glioblastoma](https://arxiv.org/abs/2512.22331v3)** | 2026-05-13 | 18 pages, 4 figures |
-| **[MultiLinguahah : A New Unsupervised Multilingual Acoustic Laughter Segmentation Method](https://arxiv.org/abs/2605.06309v2)** | 2026-05-13 |  |
-| **[Inference-Time Dynamic Modality Selection for Incomplete Multimodal Classification](https://arxiv.org/abs/2601.22853v3)** | 2026-05-13 | <details><summary>27 pa...</summary><p>27 pages (including appendix), accepted by ICLR 2026</p></details> |
-| **[Cross-Modal-Domain Generalization Through Semantically Aligned Discrete Representations](https://arxiv.org/abs/2605.12145v2)** | 2026-05-13 | <details><summary>Added...</summary><p>Added missing affiliation for co-author R. Younis and Z. Ahmadi</p></details> |
-| **[STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition](https://arxiv.org/abs/2605.13202v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</p></details> |
-| **[ECG-NAT: A Self-supervised Neighborhood Attention Transformer for Multi-lead Electrocardiogram Classification](https://arxiv.org/abs/2605.13194v1)** | 2026-05-13 |  |
-| **[Stable Attention Response for Reliable Precipitation Nowcasting](https://arxiv.org/abs/2605.13181v1)** | 2026-05-13 |  |
-| **[TB-AVA: Text as a Semantic Bridge for Audio-Visual Parameter Efficient Finetuning](https://arxiv.org/abs/2605.11572v2)** | 2026-05-13 | 12 pages, 6 figures |
-| **[UniJEPA: Enhancing Robot Policy via Unified Continuous and Discrete Representation Learning](https://arxiv.org/abs/2510.10642v3)** | 2026-05-13 |  |
-| **[ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction](https://arxiv.org/abs/2605.13024v1)** | 2026-05-13 |  |
-| **[JEDI: Joint Embedding Diffusion World Model for Online Model-Based Reinforcement Learning](https://arxiv.org/abs/2605.13013v1)** | 2026-05-13 |  |
+| **[MoMo: Conditioned Contrastive Representation Learning for Preference-Modulated Planning](https://arxiv.org/abs/2605.08512v2)** | 2026-05-14 |  |
+| **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v2)** | 2026-05-14 |  |
+| **[ML-Embed: Inclusive and Efficient Embeddings for a Multilingual World](https://arxiv.org/abs/2605.15081v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. The data has been released earlier in the preprint arXiv:2603.19223</p></details> |
+| **[PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.01359v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[Contraction and Hourglass Persistence for Learning on Graphs, Simplices, and Cells](https://arxiv.org/abs/2604.17548v2)** | 2026-05-14 | <details><summary>31 pa...</summary><p>31 pages, 6 figures, 4 algorithms, 2 tables. Accepted at ICLR 2026</p></details> |
+| **[MambaRain: Multi-Scale Mamba-Attention Framework for 0-3 Hour Precipitation Nowcasting](https://arxiv.org/abs/2605.14606v1)** | 2026-05-14 | 9 pages,7 figures |
+| **[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/abs/2511.02776v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted to ICML2026 as spotlight</p></details> |
+| **[Med-DisSeg: Dispersion-Driven Representation Learning for Fine-Grained Medical Image Segmentation](https://arxiv.org/abs/2605.14579v1)** | 2026-05-14 |  |
+| **[Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](https://arxiv.org/abs/2605.07557v3)** | 2026-05-14 | <details><summary>The p...</summary><p>The paper is accepted by ICML 2026</p></details> |
+| **[LEAP: Local ECT-Based Learnable Positional Encodings for Graphs](https://arxiv.org/abs/2510.00757v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Learning Representations (ICLR) 2026. Our code is available https://www.github.com/aidos-lab/LEAP</p></details> |
+| **[From Schema to Signal: Retrieval-Augmented Modeling for Relational Data Analytics](https://arxiv.org/abs/2605.14464v1)** | 2026-05-14 | 14 pages |
+| **[MoRe: Modular Representations for Principled Continual Representation Learning on Squantial Data](https://arxiv.org/abs/2605.14364v1)** | 2026-05-14 |  |
+| **[The Multi-View Paradigm Shift in MRI Radiomics: Predicting MGMT Methylation in Glioblastoma](https://arxiv.org/abs/2512.22331v4)** | 2026-05-14 | 17 pages, 4 figures |
+| **[NEST: Nested Event Stream Transformer for Sequences of Multisets](https://arxiv.org/abs/2602.00520v3)** | 2026-05-14 | 10-page main text |
+| **[Multimodal Causal-Driven Representation Learning for Generalizable Medical Image Segmentation](https://arxiv.org/abs/2508.05008v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
