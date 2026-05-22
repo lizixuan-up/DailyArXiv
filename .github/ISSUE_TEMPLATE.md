@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 17, 2026
+title: Latest 15 Papers - May 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Behavior-Guided Candidate Calibration for Multimodal Recommendation](https://arxiv.org/abs/2605.22073v1)** | 2026-05-21 |  |
+| **[Modality-Aware Identity Construction and Counterfactual Structure Learning for ID-Free Multimodal Recommendation](https://arxiv.org/abs/2605.18044v1)** | 2026-05-18 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, submitted to IEEE Transactions on Multimedia</p></details> |
 | **[Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks](https://arxiv.org/abs/2605.06238v1)** | 2026-05-07 |  |
 | **[Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion](https://arxiv.org/abs/2605.00670v1)** | 2026-05-01 |  |
 | **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v3)** | 2026-04-30 |  |
@@ -35,25 +37,23 @@ labels: documentation
 | **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
 | **[VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models](https://arxiv.org/abs/2603.12625v1)** | 2026-03-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 1 table</p></details> |
 | **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v5)** | 2026-03-13 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
-| **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
-| **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v2)** | 2026-03-03 | Submitted to KDD2026 |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MoMo: Conditioned Contrastive Representation Learning for Preference-Modulated Planning](https://arxiv.org/abs/2605.08512v2)** | 2026-05-14 |  |
-| **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v2)** | 2026-05-14 |  |
-| **[ML-Embed: Inclusive and Efficient Embeddings for a Multilingual World](https://arxiv.org/abs/2605.15081v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. The data has been released earlier in the preprint arXiv:2603.19223</p></details> |
-| **[PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.01359v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Contraction and Hourglass Persistence for Learning on Graphs, Simplices, and Cells](https://arxiv.org/abs/2604.17548v2)** | 2026-05-14 | <details><summary>31 pa...</summary><p>31 pages, 6 figures, 4 algorithms, 2 tables. Accepted at ICLR 2026</p></details> |
-| **[MambaRain: Multi-Scale Mamba-Attention Framework for 0-3 Hour Precipitation Nowcasting](https://arxiv.org/abs/2605.14606v1)** | 2026-05-14 | 9 pages,7 figures |
-| **[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/abs/2511.02776v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted to ICML2026 as spotlight</p></details> |
-| **[Med-DisSeg: Dispersion-Driven Representation Learning for Fine-Grained Medical Image Segmentation](https://arxiv.org/abs/2605.14579v1)** | 2026-05-14 |  |
-| **[Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](https://arxiv.org/abs/2605.07557v3)** | 2026-05-14 | <details><summary>The p...</summary><p>The paper is accepted by ICML 2026</p></details> |
-| **[LEAP: Local ECT-Based Learnable Positional Encodings for Graphs](https://arxiv.org/abs/2510.00757v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Learning Representations (ICLR) 2026. Our code is available https://www.github.com/aidos-lab/LEAP</p></details> |
-| **[From Schema to Signal: Retrieval-Augmented Modeling for Relational Data Analytics](https://arxiv.org/abs/2605.14464v1)** | 2026-05-14 | 14 pages |
-| **[MoRe: Modular Representations for Principled Continual Representation Learning on Squantial Data](https://arxiv.org/abs/2605.14364v1)** | 2026-05-14 |  |
-| **[The Multi-View Paradigm Shift in MRI Radiomics: Predicting MGMT Methylation in Glioblastoma](https://arxiv.org/abs/2512.22331v4)** | 2026-05-14 | 17 pages, 4 figures |
-| **[NEST: Nested Event Stream Transformer for Sequences of Multisets](https://arxiv.org/abs/2602.00520v3)** | 2026-05-14 | 10-page main text |
-| **[Multimodal Causal-Driven Representation Learning for Generalizable Medical Image Segmentation](https://arxiv.org/abs/2508.05008v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](https://arxiv.org/abs/2605.22800v1)** | 2026-05-21 | <details><summary>54 pa...</summary><p>54 pages. 13 empirical task blocks. Companion software: matching-pmh (PyPI; https://github.com/vishalstark512/matching-pmh). Related arXiv note: 2604.21395 (geometric blind spot / isotropic PMH)</p></details> |
+| **[Representation over Routing: Overcoming Surrogate Hacking in Multi-Timescale PPO](https://arxiv.org/abs/2604.13517v2)** | 2026-05-21 | 8 pages, 6 figures |
+| **[Dynamic Hypergraph Representation Learning for Multivariate Time Series without Prior Knowledge](https://arxiv.org/abs/2605.22540v1)** | 2026-05-21 |  |
+| **[Disentanglement Beyond Generative Models with Riemannian ICA](https://arxiv.org/abs/2605.22531v1)** | 2026-05-21 |  |
+| **[Minimum Description Length based Granular-Ball Tree Regularization for Spectral Clustering](https://arxiv.org/abs/2605.22410v1)** | 2026-05-21 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 6 tables</p></details> |
+| **[Ultra-High-Definition Image Quality Assessment via Graph Representation Learning](https://arxiv.org/abs/2605.22192v1)** | 2026-05-21 |  |
+| **[Atom-level Protein Representation Learning Improves Protein Structure Prediction](https://arxiv.org/abs/2605.22133v1)** | 2026-05-21 |  |
+| **[LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model](https://arxiv.org/abs/2605.22089v1)** | 2026-05-21 |  |
+| **[CASE-NET: Deep Spatio-Temporal Representation Learning via Causal Attention and Channel Recalibration for Multivariate Time Series Classification](https://arxiv.org/abs/2605.22043v1)** | 2026-05-21 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
+| **[RiT: Vanilla Diffusion Transformers Suffice in Representation Space](https://arxiv.org/abs/2605.21981v1)** | 2026-05-21 |  |
+| **[Neuroscience-inspired Staged Representation Learning with Disentangled Coarse- and Fine-Grained Semantics for EEG Visual Decoding](https://arxiv.org/abs/2605.16923v3)** | 2026-05-21 | 17 pages, 5 figures |
+| **[Universal CT Representations from Anatomy to Disease Phenotype through Agglomerative Pretraining](https://arxiv.org/abs/2605.21906v1)** | 2026-05-21 |  |
+| **[On Statistical Estimation of Edge-Reinforced Random Walks](https://arxiv.org/abs/2503.06115v2)** | 2026-05-21 | <details><summary>This ...</summary><p>This is the full version of the conference paper in submission to ISIT 2025</p></details> |
+| **[An Open Multi-Center Whole-Body FDG PET/CT Foundation Model for Tumor Segmentation](https://arxiv.org/abs/2605.21835v1)** | 2026-05-20 | <details><summary>Code ...</summary><p>Code available at: https://github.com/liu-xiaofeng/Foundation-Model-for-PET-CT</p></details> |
+| **[PEARL: Unbiased Percentile Estimation via Contrastive Learning for Industrial-Scale Livestream Recommendation](https://arxiv.org/abs/2605.21752v1)** | 2026-05-20 |  |
 
