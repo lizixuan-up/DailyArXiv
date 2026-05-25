@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 24, 2026
+title: Latest 15 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STM3: Mixture of Multiscale Mamba for Long-Term Spatio-Temporal Time-Series Prediction](https://arxiv.org/abs/2508.12247v3)** | 2026-05-22 | Accepted by KDD 2026 |
+| **[VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2604.21502v2)** | 2026-05-22 |  |
+| **[Curriculum reinforcement learning with measurable task representation learning](https://arxiv.org/abs/2605.23372v1)** | 2026-05-22 |  |
+| **[Atom-level Protein Representation Learning Improves Protein Structure Prediction](https://arxiv.org/abs/2605.22133v2)** | 2026-05-22 |  |
+| **[From Head to Tail: Asymmetric Knowledge Transfer in Long-tail Recommendation with Generative Semantic IDs](https://arxiv.org/abs/2605.23310v1)** | 2026-05-22 | 5 pages, 1 figure |
+| **[GeoMAE: Masking Representation Learning for Spatio-Temporal Graph Forecasting with Missing Values](https://arxiv.org/abs/2508.14083v3)** | 2026-05-22 | <details><summary>34 pa...</summary><p>34 pages for pre-print version. This work has been published in *Neural Networks*. Please check the latest version via the following DOI</p></details> |
+| **[A Systematic Evaluation of Co-folding Model Representations for Small-Molecule Learning](https://arxiv.org/abs/2602.13249v2)** | 2026-05-22 |  |
+| **[RelPrism: A Multi-Faceted Pre-training Framework with Self-Generated Tasks for Relational Databases](https://arxiv.org/abs/2605.23241v1)** | 2026-05-22 |  |
+| **[Universal CT Representations from Anatomy to Disease Phenotype through Agglomerative Pretraining](https://arxiv.org/abs/2605.21906v2)** | 2026-05-22 |  |
+| **[Representation over Routing: Overcoming Surrogate Hacking in Multi-Timescale PPO](https://arxiv.org/abs/2604.13517v3)** | 2026-05-22 | 8 pages, 6 figures |
+| **[The TIME Machine: On The Power of Motion for Efficient Perception](https://arxiv.org/abs/2605.23045v1)** | 2026-05-21 |  |
+| **[A Hierarchical Quantized Tokenization Framework for Task-Adaptive Graph Representation Learning](https://arxiv.org/abs/2510.12369v3)** | 2026-05-21 |  |
+| **[Human-Centered Learning Mechanics: A Dynamical Framework for Entropy-Regulated Representation Learning](https://arxiv.org/abs/2605.22940v1)** | 2026-05-21 | Submitted to JMLR |
 | **[The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](https://arxiv.org/abs/2605.22800v1)** | 2026-05-21 | <details><summary>54 pa...</summary><p>54 pages. 13 empirical task blocks. Companion software: matching-pmh (PyPI; https://github.com/vishalstark512/matching-pmh). Related arXiv note: 2604.21395 (geometric blind spot / isotropic PMH)</p></details> |
-| **[Representation over Routing: Overcoming Surrogate Hacking in Multi-Timescale PPO](https://arxiv.org/abs/2604.13517v2)** | 2026-05-21 | 8 pages, 6 figures |
 | **[Dynamic Hypergraph Representation Learning for Multivariate Time Series without Prior Knowledge](https://arxiv.org/abs/2605.22540v1)** | 2026-05-21 |  |
-| **[Disentanglement Beyond Generative Models with Riemannian ICA](https://arxiv.org/abs/2605.22531v1)** | 2026-05-21 |  |
-| **[Minimum Description Length based Granular-Ball Tree Regularization for Spectral Clustering](https://arxiv.org/abs/2605.22410v1)** | 2026-05-21 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 6 tables</p></details> |
-| **[Ultra-High-Definition Image Quality Assessment via Graph Representation Learning](https://arxiv.org/abs/2605.22192v1)** | 2026-05-21 |  |
-| **[Atom-level Protein Representation Learning Improves Protein Structure Prediction](https://arxiv.org/abs/2605.22133v1)** | 2026-05-21 |  |
-| **[LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model](https://arxiv.org/abs/2605.22089v1)** | 2026-05-21 |  |
-| **[CASE-NET: Deep Spatio-Temporal Representation Learning via Causal Attention and Channel Recalibration for Multivariate Time Series Classification](https://arxiv.org/abs/2605.22043v1)** | 2026-05-21 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
-| **[RiT: Vanilla Diffusion Transformers Suffice in Representation Space](https://arxiv.org/abs/2605.21981v1)** | 2026-05-21 |  |
-| **[Neuroscience-inspired Staged Representation Learning with Disentangled Coarse- and Fine-Grained Semantics for EEG Visual Decoding](https://arxiv.org/abs/2605.16923v3)** | 2026-05-21 | 17 pages, 5 figures |
-| **[Universal CT Representations from Anatomy to Disease Phenotype through Agglomerative Pretraining](https://arxiv.org/abs/2605.21906v1)** | 2026-05-21 |  |
-| **[On Statistical Estimation of Edge-Reinforced Random Walks](https://arxiv.org/abs/2503.06115v2)** | 2026-05-21 | <details><summary>This ...</summary><p>This is the full version of the conference paper in submission to ISIT 2025</p></details> |
-| **[An Open Multi-Center Whole-Body FDG PET/CT Foundation Model for Tumor Segmentation](https://arxiv.org/abs/2605.21835v1)** | 2026-05-20 | <details><summary>Code ...</summary><p>Code available at: https://github.com/liu-xiaofeng/Foundation-Model-for-PET-CT</p></details> |
-| **[PEARL: Unbiased Percentile Estimation via Contrastive Learning for Industrial-Scale Livestream Recommendation](https://arxiv.org/abs/2605.21752v1)** | 2026-05-20 |  |
 
