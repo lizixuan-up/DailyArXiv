@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v2)** | 2026-05-25 | Under Review |
+| **[Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking](https://arxiv.org/abs/2605.25007v1)** | 2026-05-24 |  |
 | **[Behavior-Guided Candidate Calibration for Multimodal Recommendation](https://arxiv.org/abs/2605.22073v1)** | 2026-05-21 |  |
 | **[Modality-Aware Identity Construction and Counterfactual Structure Learning for ID-Free Multimodal Recommendation](https://arxiv.org/abs/2605.18044v1)** | 2026-05-18 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, submitted to IEEE Transactions on Multimedia</p></details> |
 | **[Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks](https://arxiv.org/abs/2605.06238v1)** | 2026-05-07 |  |
@@ -35,25 +37,23 @@ labels: documentation
 | **[Joint Behavior-guided and Modality-coherence Conditional Graph Diffusion Denoising for Multi Modal Recommendation](https://arxiv.org/abs/2604.03654v1)** | 2026-04-04 |  |
 | **[Training-free Adjustable Polynomial Graph Filtering for Ultra-fast Multimodal Recommendation](https://arxiv.org/abs/2503.04406v3)** | 2026-03-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables; published in the Engineering Applications of Artificial Intelligence (Please cite our journal version.)</p></details> |
 | **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
-| **[VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models](https://arxiv.org/abs/2603.12625v1)** | 2026-03-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 1 table</p></details> |
-| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v5)** | 2026-03-13 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STM3: Mixture of Multiscale Mamba for Long-Term Spatio-Temporal Time-Series Prediction](https://arxiv.org/abs/2508.12247v3)** | 2026-05-22 | Accepted by KDD 2026 |
-| **[VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2604.21502v2)** | 2026-05-22 |  |
-| **[Curriculum reinforcement learning with measurable task representation learning](https://arxiv.org/abs/2605.23372v1)** | 2026-05-22 |  |
-| **[Atom-level Protein Representation Learning Improves Protein Structure Prediction](https://arxiv.org/abs/2605.22133v2)** | 2026-05-22 |  |
-| **[From Head to Tail: Asymmetric Knowledge Transfer in Long-tail Recommendation with Generative Semantic IDs](https://arxiv.org/abs/2605.23310v1)** | 2026-05-22 | 5 pages, 1 figure |
-| **[GeoMAE: Masking Representation Learning for Spatio-Temporal Graph Forecasting with Missing Values](https://arxiv.org/abs/2508.14083v3)** | 2026-05-22 | <details><summary>34 pa...</summary><p>34 pages for pre-print version. This work has been published in *Neural Networks*. Please check the latest version via the following DOI</p></details> |
-| **[A Systematic Evaluation of Co-folding Model Representations for Small-Molecule Learning](https://arxiv.org/abs/2602.13249v2)** | 2026-05-22 |  |
-| **[RelPrism: A Multi-Faceted Pre-training Framework with Self-Generated Tasks for Relational Databases](https://arxiv.org/abs/2605.23241v1)** | 2026-05-22 |  |
-| **[Universal CT Representations from Anatomy to Disease Phenotype through Agglomerative Pretraining](https://arxiv.org/abs/2605.21906v2)** | 2026-05-22 |  |
-| **[Representation over Routing: Overcoming Surrogate Hacking in Multi-Timescale PPO](https://arxiv.org/abs/2604.13517v3)** | 2026-05-22 | 8 pages, 6 figures |
-| **[The TIME Machine: On The Power of Motion for Efficient Perception](https://arxiv.org/abs/2605.23045v1)** | 2026-05-21 |  |
-| **[A Hierarchical Quantized Tokenization Framework for Task-Adaptive Graph Representation Learning](https://arxiv.org/abs/2510.12369v3)** | 2026-05-21 |  |
-| **[Human-Centered Learning Mechanics: A Dynamical Framework for Entropy-Regulated Representation Learning](https://arxiv.org/abs/2605.22940v1)** | 2026-05-21 | Submitted to JMLR |
-| **[The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](https://arxiv.org/abs/2605.22800v1)** | 2026-05-21 | <details><summary>54 pa...</summary><p>54 pages. 13 empirical task blocks. Companion software: matching-pmh (PyPI; https://github.com/vishalstark512/matching-pmh). Related arXiv note: 2604.21395 (geometric blind spot / isotropic PMH)</p></details> |
-| **[Dynamic Hypergraph Representation Learning for Multivariate Time Series without Prior Knowledge](https://arxiv.org/abs/2605.22540v1)** | 2026-05-21 |  |
+| **[Neuronal Stochastic Attention Circuit (NSAC) for Probabilistic Representation Learning](https://arxiv.org/abs/2605.26061v1)** | 2026-05-25 |  |
+| **[CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities](https://arxiv.org/abs/2605.26036v1)** | 2026-05-25 |  |
+| **[A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring](https://arxiv.org/abs/2605.26026v1)** | 2026-05-25 | 11 pages, 3 figures |
+| **[Multi-Alignment Contrastive Learning for Enzyme--Reaction Retrieval](https://arxiv.org/abs/2512.08508v2)** | 2026-05-25 |  |
+| **[Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](https://arxiv.org/abs/2605.25967v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[From Reports to Ontologies: Ontology-Guided Representation Learning for 12-Lead ECG](https://arxiv.org/abs/2605.25883v1)** | 2026-05-25 |  |
+| **[Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://arxiv.org/abs/2603.04114v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Multimodal Functional Maximum Correlation for Emotion Recognition](https://arxiv.org/abs/2512.23076v2)** | 2026-05-25 | <details><summary>manus...</summary><p>manuscript accepted by IEEE Transactions on Affective Computing. Code is available at https://github.com/DY9910/MFMC</p></details> |
+| **[ARMA-C3: A Contrastive ARMA Convolutional Framework for Unsupervised and Semi-supervised Classification](https://arxiv.org/abs/2605.25657v1)** | 2026-05-25 |  |
+| **[Residual Connections Harm Generative Representation Learning](https://arxiv.org/abs/2404.10947v5)** | 2026-05-25 | <details><summary>accep...</summary><p>accepted to CVPR 2026</p></details> |
+| **['Si'multaneous 'S'patial-'T'emporal Message Passing for Dynamic Graph Representation Learning](https://arxiv.org/abs/2605.25548v1)** | 2026-05-25 |  |
+| **[A Multimodal Framework for Dementia Detection via Linguistic and Acoustic Representation Learning](https://arxiv.org/abs/2605.25540v1)** | 2026-05-25 |  |
+| **[FragmentNet: Adaptive Graph Fragmentation for Graph-to-Sequence Molecular Representation Learning](https://arxiv.org/abs/2502.01184v2)** | 2026-05-25 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 5 tables</p></details> |
+| **[Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation](https://arxiv.org/abs/2605.25402v1)** | 2026-05-25 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accepted Paper; Anatomy-Anchored Ultrasound Self-Supervision</p></details> |
+| **[HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation](https://arxiv.org/abs/2508.03104v3)** | 2026-05-25 | 16 pages, 8 figures |
 
