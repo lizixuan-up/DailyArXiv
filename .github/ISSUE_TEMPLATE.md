@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neuronal Stochastic Attention Circuit (NSAC) for Probabilistic Representation Learning](https://arxiv.org/abs/2605.26061v1)** | 2026-05-25 |  |
-| **[CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities](https://arxiv.org/abs/2605.26036v1)** | 2026-05-25 |  |
-| **[A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring](https://arxiv.org/abs/2605.26026v1)** | 2026-05-25 | 11 pages, 3 figures |
-| **[Multi-Alignment Contrastive Learning for Enzyme--Reaction Retrieval](https://arxiv.org/abs/2512.08508v2)** | 2026-05-25 |  |
-| **[Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](https://arxiv.org/abs/2605.25967v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[From Reports to Ontologies: Ontology-Guided Representation Learning for 12-Lead ECG](https://arxiv.org/abs/2605.25883v1)** | 2026-05-25 |  |
-| **[Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://arxiv.org/abs/2603.04114v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Multimodal Functional Maximum Correlation for Emotion Recognition](https://arxiv.org/abs/2512.23076v2)** | 2026-05-25 | <details><summary>manus...</summary><p>manuscript accepted by IEEE Transactions on Affective Computing. Code is available at https://github.com/DY9910/MFMC</p></details> |
-| **[ARMA-C3: A Contrastive ARMA Convolutional Framework for Unsupervised and Semi-supervised Classification](https://arxiv.org/abs/2605.25657v1)** | 2026-05-25 |  |
-| **[Residual Connections Harm Generative Representation Learning](https://arxiv.org/abs/2404.10947v5)** | 2026-05-25 | <details><summary>accep...</summary><p>accepted to CVPR 2026</p></details> |
-| **['Si'multaneous 'S'patial-'T'emporal Message Passing for Dynamic Graph Representation Learning](https://arxiv.org/abs/2605.25548v1)** | 2026-05-25 |  |
-| **[A Multimodal Framework for Dementia Detection via Linguistic and Acoustic Representation Learning](https://arxiv.org/abs/2605.25540v1)** | 2026-05-25 |  |
-| **[FragmentNet: Adaptive Graph Fragmentation for Graph-to-Sequence Molecular Representation Learning](https://arxiv.org/abs/2502.01184v2)** | 2026-05-25 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 5 tables</p></details> |
-| **[Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation](https://arxiv.org/abs/2605.25402v1)** | 2026-05-25 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accepted Paper; Anatomy-Anchored Ultrasound Self-Supervision</p></details> |
-| **[HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation](https://arxiv.org/abs/2508.03104v3)** | 2026-05-25 | 16 pages, 8 figures |
+| **[SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://arxiv.org/abs/2605.27367v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://ropedia.github.io/SpatialBench/</p></details> |
+| **[Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/abs/2512.04085v2)** | 2026-05-26 |  |
+| **[Matryoshka Concept Bottleneck Models](https://arxiv.org/abs/2605.20612v2)** | 2026-05-26 |  |
+| **[Two Speeds of Learning: A Representation-Readout Decomposition of Grokking and Double Descent](https://arxiv.org/abs/2605.27078v1)** | 2026-05-26 |  |
+| **[Causal Representation Learning for Generalisable Recommendation](https://arxiv.org/abs/2605.27043v1)** | 2026-05-26 |  |
+| **[Phase-Type Variational Autoencoders for Heavy-Tailed Data](https://arxiv.org/abs/2603.01800v2)** | 2026-05-26 |  |
+| **[The 2nd EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval](https://arxiv.org/abs/2605.26941v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted as a workshop proposal at ACM Multimedia 2026</p></details> |
+| **[Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset](https://arxiv.org/abs/2509.18919v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted for publication in Pattern Recognition</p></details> |
+| **[Information Theoretic Perspective on Representation Learning](https://arxiv.org/abs/2601.11334v2)** | 2026-05-26 |  |
+| **[Atom-level Protein Representation Learning Improves Protein Structure Prediction](https://arxiv.org/abs/2605.22133v3)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://holymollyhao.github.io/TriProRep/</p></details> |
+| **[Graph is a Substrate Across Data Modalities](https://arxiv.org/abs/2601.22384v2)** | 2026-05-26 | <details><summary>Graph...</summary><p>Graph structure across data modalities, accepted by ICML26</p></details> |
+| **[RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2601.15891v3)** | 2026-05-26 |  |
+| **[PolyFusionAgent: A Multimodal Foundation Model and Autonomous AI Assistant for Polymer Property Prediction and Inverse Design](https://arxiv.org/abs/2605.26543v1)** | 2026-05-26 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 2 tables; Supplementary material included</p></details> |
+| **[StreamSplit: Continuous Audio Representation Learning via Uncertainty-Guided Adaptive Splitting](https://arxiv.org/abs/2605.26523v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at ACM MobiSys 2026</p></details> |
+| **[Clinically-Grounded Counterfactual Reasoning for Medical Video Diagnosis](https://arxiv.org/abs/2605.26483v1)** | 2026-05-26 |  |
 
