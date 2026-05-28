@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2026
+title: Latest 15 Papers - May 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://arxiv.org/abs/2605.27367v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://ropedia.github.io/SpatialBench/</p></details> |
-| **[Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/abs/2512.04085v2)** | 2026-05-26 |  |
-| **[Matryoshka Concept Bottleneck Models](https://arxiv.org/abs/2605.20612v2)** | 2026-05-26 |  |
-| **[Two Speeds of Learning: A Representation-Readout Decomposition of Grokking and Double Descent](https://arxiv.org/abs/2605.27078v1)** | 2026-05-26 |  |
-| **[Causal Representation Learning for Generalisable Recommendation](https://arxiv.org/abs/2605.27043v1)** | 2026-05-26 |  |
-| **[Phase-Type Variational Autoencoders for Heavy-Tailed Data](https://arxiv.org/abs/2603.01800v2)** | 2026-05-26 |  |
-| **[The 2nd EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval](https://arxiv.org/abs/2605.26941v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted as a workshop proposal at ACM Multimedia 2026</p></details> |
-| **[Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset](https://arxiv.org/abs/2509.18919v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted for publication in Pattern Recognition</p></details> |
-| **[Information Theoretic Perspective on Representation Learning](https://arxiv.org/abs/2601.11334v2)** | 2026-05-26 |  |
-| **[Atom-level Protein Representation Learning Improves Protein Structure Prediction](https://arxiv.org/abs/2605.22133v3)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://holymollyhao.github.io/TriProRep/</p></details> |
-| **[Graph is a Substrate Across Data Modalities](https://arxiv.org/abs/2601.22384v2)** | 2026-05-26 | <details><summary>Graph...</summary><p>Graph structure across data modalities, accepted by ICML26</p></details> |
-| **[RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2601.15891v3)** | 2026-05-26 |  |
-| **[PolyFusionAgent: A Multimodal Foundation Model and Autonomous AI Assistant for Polymer Property Prediction and Inverse Design](https://arxiv.org/abs/2605.26543v1)** | 2026-05-26 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 2 tables; Supplementary material included</p></details> |
-| **[StreamSplit: Continuous Audio Representation Learning via Uncertainty-Guided Adaptive Splitting](https://arxiv.org/abs/2605.26523v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at ACM MobiSys 2026</p></details> |
-| **[Clinically-Grounded Counterfactual Reasoning for Medical Video Diagnosis](https://arxiv.org/abs/2605.26483v1)** | 2026-05-26 |  |
+| **[Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://arxiv.org/abs/2509.22553v2)** | 2026-05-27 |  |
+| **[Applications of temporal graph learning for predicting the dynamics of biological systems](https://arxiv.org/abs/2605.28659v1)** | 2026-05-27 |  |
+| **[Modeling Vehicle-Type-Specific Pedestrian Crash Avoidance Behavior in Safety-Critical Interactions Using Smooth-Mamba Deep Reinforcement Learning](https://arxiv.org/abs/2605.28552v1)** | 2026-05-27 | <details><summary>37 pa...</summary><p>37 page. 15 Figure, 9 table</p></details> |
+| **[A Hierarchical Quantized Tokenization Framework for Task-Adaptive Graph Representation Learning](https://arxiv.org/abs/2510.12369v4)** | 2026-05-27 |  |
+| **[Bayesian Gated Non-Negative Contrastive Learning](https://arxiv.org/abs/2605.28441v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Revisiting Graph Autoencoders as Implicit Contrastive Learners](https://arxiv.org/abs/2410.10241v2)** | 2026-05-27 | <details><summary>KDD 2...</summary><p>KDD 2026 research track. Code available at https://github.com/EdisonLeeeee/lrGAE</p></details> |
+| **[Transferable Graph Condensation from the Causal Perspective](https://arxiv.org/abs/2601.21309v4)** | 2026-05-27 |  |
+| **[T-GINEE: A Tensor-Based Multilayer Graph Representation Learning](https://arxiv.org/abs/2605.28300v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Temporal Hyperbolic Graph Representation Learning for Scale-Free Internet Routing and Delay Prediction](https://arxiv.org/abs/2605.28155v1)** | 2026-05-27 |  |
+| **[PromptEmbedder:: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting](https://arxiv.org/abs/2605.28066v1)** | 2026-05-27 |  |
+| **[Adapting Automotive Aerodynamics Surrogates to New Vehicle Families via Transfer Learning](https://arxiv.org/abs/2605.27968v1)** | 2026-05-27 | 23 pages, 12 figures |
+| **[Heterogeneous Dependency Graph-Guided Attentionfor Patent Representation Learning](https://arxiv.org/abs/2605.10073v2)** | 2026-05-27 |  |
+| **[GraD-IBD: Graph Representation Learning from Diagnosis Trajectories for Early Detection of Inflammatory Bowel Disease](https://arxiv.org/abs/2605.27799v1)** | 2026-05-27 |  |
+| **[Causal Machine Learning: A Survey and Open Problems](https://arxiv.org/abs/2206.15475v3)** | 2026-05-26 | <details><summary>v03. ...</summary><p>v03. Work in progress. Feedback and comments are highly appreciated!</p></details> |
+| **[Supervised Distributional Reduction via Optimal Transport and Dependence Maximization](https://arxiv.org/abs/2605.27619v1)** | 2026-05-26 |  |
 
