@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - May 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://arxiv.org/abs/2509.22553v2)** | 2026-05-27 |  |
-| **[Applications of temporal graph learning for predicting the dynamics of biological systems](https://arxiv.org/abs/2605.28659v1)** | 2026-05-27 |  |
-| **[Modeling Vehicle-Type-Specific Pedestrian Crash Avoidance Behavior in Safety-Critical Interactions Using Smooth-Mamba Deep Reinforcement Learning](https://arxiv.org/abs/2605.28552v1)** | 2026-05-27 | <details><summary>37 pa...</summary><p>37 page. 15 Figure, 9 table</p></details> |
-| **[A Hierarchical Quantized Tokenization Framework for Task-Adaptive Graph Representation Learning](https://arxiv.org/abs/2510.12369v4)** | 2026-05-27 |  |
-| **[Bayesian Gated Non-Negative Contrastive Learning](https://arxiv.org/abs/2605.28441v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Revisiting Graph Autoencoders as Implicit Contrastive Learners](https://arxiv.org/abs/2410.10241v2)** | 2026-05-27 | <details><summary>KDD 2...</summary><p>KDD 2026 research track. Code available at https://github.com/EdisonLeeeee/lrGAE</p></details> |
-| **[Transferable Graph Condensation from the Causal Perspective](https://arxiv.org/abs/2601.21309v4)** | 2026-05-27 |  |
-| **[T-GINEE: A Tensor-Based Multilayer Graph Representation Learning](https://arxiv.org/abs/2605.28300v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Temporal Hyperbolic Graph Representation Learning for Scale-Free Internet Routing and Delay Prediction](https://arxiv.org/abs/2605.28155v1)** | 2026-05-27 |  |
-| **[PromptEmbedder:: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting](https://arxiv.org/abs/2605.28066v1)** | 2026-05-27 |  |
-| **[Adapting Automotive Aerodynamics Surrogates to New Vehicle Families via Transfer Learning](https://arxiv.org/abs/2605.27968v1)** | 2026-05-27 | 23 pages, 12 figures |
-| **[Heterogeneous Dependency Graph-Guided Attentionfor Patent Representation Learning](https://arxiv.org/abs/2605.10073v2)** | 2026-05-27 |  |
-| **[GraD-IBD: Graph Representation Learning from Diagnosis Trajectories for Early Detection of Inflammatory Bowel Disease](https://arxiv.org/abs/2605.27799v1)** | 2026-05-27 |  |
-| **[Causal Machine Learning: A Survey and Open Problems](https://arxiv.org/abs/2206.15475v3)** | 2026-05-26 | <details><summary>v03. ...</summary><p>v03. Work in progress. Feedback and comments are highly appreciated!</p></details> |
-| **[Supervised Distributional Reduction via Optimal Transport and Dependence Maximization](https://arxiv.org/abs/2605.27619v1)** | 2026-05-26 |  |
+| **[Two Speeds of Learning: A Representation-Readout Decomposition of Grokking and Double Descent](https://arxiv.org/abs/2605.27078v2)** | 2026-05-28 |  |
+| **[MATANet: A Multi-context Attention and Taxonomy-Aware Network for Fine-Grained Underwater Recognition of Marine Species](https://arxiv.org/abs/2601.03729v2)** | 2026-05-28 |  |
+| **[Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](https://arxiv.org/abs/2605.30089v1)** | 2026-05-28 | Accepted by ICML'26 |
+| **[Matryoshka Concept Bottleneck Models](https://arxiv.org/abs/2605.20612v3)** | 2026-05-28 |  |
+| **[Domain-Specific Data Synthesis for LLMs via Minimal Sufficient Representation Learning](https://arxiv.org/abs/2605.30039v1)** | 2026-05-28 | Accepted by KDD 2026 |
+| **[Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification](https://arxiv.org/abs/2510.00936v2)** | 2026-05-28 |  |
+| **[MIC: Maximizing Informational Capacity in Adaptive Representations via Isotropic Subspace Alignment](https://arxiv.org/abs/2605.29987v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at the GlobalSouthML Workshop at ICML 2026. 13 pages, 2 figures</p></details> |
+| **[The Impact of Semantic Pairs on Self-Supervised Representation Learning](https://arxiv.org/abs/2510.08722v3)** | 2026-05-28 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 5 tables</p></details> |
+| **[Kernel Renormalization in Bayesian Deep Neural Networks: the Equivalent Wishart Ansatz in the Proportional Regime](https://arxiv.org/abs/2605.29684v1)** | 2026-05-28 | 45 pages, 21 figures |
+| **[To MRL or not to MRL: Text Embeddings are Robust to Truncation Without Matryoshka Learning, Except In Heavy Truncation Scenarios](https://arxiv.org/abs/2605.16608v2)** | 2026-05-28 |  |
+| **[Looking around you: external information enhances representations for event sequences](https://arxiv.org/abs/2502.10205v3)** | 2026-05-28 |  |
+| **[A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning](https://arxiv.org/abs/2605.07596v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors](https://arxiv.org/abs/2510.04758v2)** | 2026-05-28 |  |
+| **[Forget Less, Generalize More: Unifying Temporal and Structural Adaptation for Dynamic Graphs](https://arxiv.org/abs/2605.29453v1)** | 2026-05-28 |  |
+| **[Causal Disentanglement-Inspired Degradation Representation Learning for Full-Reference Image Quality Assessment](https://arxiv.org/abs/2604.21654v3)** | 2026-05-28 |  |
 
