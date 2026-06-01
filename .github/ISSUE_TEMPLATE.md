@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 30, 2026
+title: Latest 15 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Two Speeds of Learning: A Representation-Readout Decomposition of Grokking and Double Descent](https://arxiv.org/abs/2605.27078v2)** | 2026-05-28 |  |
-| **[MATANet: A Multi-context Attention and Taxonomy-Aware Network for Fine-Grained Underwater Recognition of Marine Species](https://arxiv.org/abs/2601.03729v2)** | 2026-05-28 |  |
-| **[Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](https://arxiv.org/abs/2605.30089v1)** | 2026-05-28 | Accepted by ICML'26 |
-| **[Matryoshka Concept Bottleneck Models](https://arxiv.org/abs/2605.20612v3)** | 2026-05-28 |  |
-| **[Domain-Specific Data Synthesis for LLMs via Minimal Sufficient Representation Learning](https://arxiv.org/abs/2605.30039v1)** | 2026-05-28 | Accepted by KDD 2026 |
-| **[Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification](https://arxiv.org/abs/2510.00936v2)** | 2026-05-28 |  |
-| **[MIC: Maximizing Informational Capacity in Adaptive Representations via Isotropic Subspace Alignment](https://arxiv.org/abs/2605.29987v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at the GlobalSouthML Workshop at ICML 2026. 13 pages, 2 figures</p></details> |
-| **[The Impact of Semantic Pairs on Self-Supervised Representation Learning](https://arxiv.org/abs/2510.08722v3)** | 2026-05-28 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 5 tables</p></details> |
-| **[Kernel Renormalization in Bayesian Deep Neural Networks: the Equivalent Wishart Ansatz in the Proportional Regime](https://arxiv.org/abs/2605.29684v1)** | 2026-05-28 | 45 pages, 21 figures |
-| **[To MRL or not to MRL: Text Embeddings are Robust to Truncation Without Matryoshka Learning, Except In Heavy Truncation Scenarios](https://arxiv.org/abs/2605.16608v2)** | 2026-05-28 |  |
-| **[Looking around you: external information enhances representations for event sequences](https://arxiv.org/abs/2502.10205v3)** | 2026-05-28 |  |
-| **[A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning](https://arxiv.org/abs/2605.07596v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors](https://arxiv.org/abs/2510.04758v2)** | 2026-05-28 |  |
-| **[Forget Less, Generalize More: Unifying Temporal and Structural Adaptation for Dynamic Graphs](https://arxiv.org/abs/2605.29453v1)** | 2026-05-28 |  |
-| **[Causal Disentanglement-Inspired Degradation Representation Learning for Full-Reference Image Quality Assessment](https://arxiv.org/abs/2604.21654v3)** | 2026-05-28 |  |
+| **[Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](https://arxiv.org/abs/2605.31580v1)** | 2026-05-29 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted at ICML 2026. arXiv admin note: substantial text overlap with arXiv:2505.14543</p></details> |
+| **[Effective Biological Representation Learning by Masking Gene Expression](https://arxiv.org/abs/2605.31562v1)** | 2026-05-29 | <details><summary>31 pa...</summary><p>31 pages, 11 figures. Preprint; presented at ICLR 2026 2nd Workshop on Foundation Models for Science: Real-World Impact and Science-First Design</p></details> |
+| **[Chem-PerturBridge: a harmonized compendium of small molecule perturbation transcriptomic effects](https://arxiv.org/abs/2605.31522v1)** | 2026-05-29 | <details><summary>33 pa...</summary><p>33 pages, 6 figures, 16 tables</p></details> |
+| **[Reliable Multilingual Orthopedic Decision Support from Clinical Narratives: Language-Aware Adaptation and Verification-Guided Deferral](https://arxiv.org/abs/2605.31512v1)** | 2026-05-29 |  |
+| **[Mollified Value Learning](https://arxiv.org/abs/2602.23280v2)** | 2026-05-29 |  |
+| **[Domain-Specific Data Synthesis for LLMs via Minimal Sufficient Representation Learning](https://arxiv.org/abs/2605.30039v2)** | 2026-05-29 | Accepted by KDD 2026 |
+| **[The Terminal Representation in Reinforcement Learning](https://arxiv.org/abs/2605.31289v1)** | 2026-05-29 |  |
+| **[Learning Cardiac Latent Representations in Vectorcardiogram Space](https://arxiv.org/abs/2605.31249v1)** | 2026-05-29 |  |
+| **[HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model](https://arxiv.org/abs/2605.31234v1)** | 2026-05-29 |  |
+| **[HiERO-StepG @ Ego4D Step Grounding Challenge: hierarchical activity understanding enables zero-shot step grounding](https://arxiv.org/abs/2605.31227v1)** | 2026-05-29 | <details><summary>Techn...</summary><p>Technical report for the Ego4D Goal Step - Step Grounding challenge at CVPR 2026, derived from arXiv:2505.12911</p></details> |
+| **[Detect in Any Scene: An Agentic Framework for Object Detection with Experience-Aware Reasoning](https://arxiv.org/abs/2605.31174v1)** | 2026-05-29 |  |
+| **[Learning Hyperspherical Time-Frequency Representations for Time-Series Out-of-Distribution Detection](https://arxiv.org/abs/2605.31155v1)** | 2026-05-29 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 tables, accepted at IJCAI-ECAI 2026</p></details> |
+| **[View Space: Learning Representation across Arbitrary Graphs](https://arxiv.org/abs/2512.11561v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[NTR: Neural Token Reconstruction for Scene Token Bottleneck in End-to-End Driving](https://arxiv.org/abs/2605.31116v1)** | 2026-05-29 |  |
+| **[HQ-JEPA: Hybrid Quantum Joint-Embedding Predictive Architecture for Cross-Modal Remote Sensing Representation Learning](https://arxiv.org/abs/2605.31068v1)** | 2026-05-29 | 19 pages |
 
