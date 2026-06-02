@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](https://arxiv.org/abs/2605.31580v1)** | 2026-05-29 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted at ICML 2026. arXiv admin note: substantial text overlap with arXiv:2505.14543</p></details> |
-| **[Effective Biological Representation Learning by Masking Gene Expression](https://arxiv.org/abs/2605.31562v1)** | 2026-05-29 | <details><summary>31 pa...</summary><p>31 pages, 11 figures. Preprint; presented at ICLR 2026 2nd Workshop on Foundation Models for Science: Real-World Impact and Science-First Design</p></details> |
-| **[Chem-PerturBridge: a harmonized compendium of small molecule perturbation transcriptomic effects](https://arxiv.org/abs/2605.31522v1)** | 2026-05-29 | <details><summary>33 pa...</summary><p>33 pages, 6 figures, 16 tables</p></details> |
-| **[Reliable Multilingual Orthopedic Decision Support from Clinical Narratives: Language-Aware Adaptation and Verification-Guided Deferral](https://arxiv.org/abs/2605.31512v1)** | 2026-05-29 |  |
-| **[Mollified Value Learning](https://arxiv.org/abs/2602.23280v2)** | 2026-05-29 |  |
-| **[Domain-Specific Data Synthesis for LLMs via Minimal Sufficient Representation Learning](https://arxiv.org/abs/2605.30039v2)** | 2026-05-29 | Accepted by KDD 2026 |
-| **[The Terminal Representation in Reinforcement Learning](https://arxiv.org/abs/2605.31289v1)** | 2026-05-29 |  |
-| **[Learning Cardiac Latent Representations in Vectorcardiogram Space](https://arxiv.org/abs/2605.31249v1)** | 2026-05-29 |  |
-| **[HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model](https://arxiv.org/abs/2605.31234v1)** | 2026-05-29 |  |
-| **[HiERO-StepG @ Ego4D Step Grounding Challenge: hierarchical activity understanding enables zero-shot step grounding](https://arxiv.org/abs/2605.31227v1)** | 2026-05-29 | <details><summary>Techn...</summary><p>Technical report for the Ego4D Goal Step - Step Grounding challenge at CVPR 2026, derived from arXiv:2505.12911</p></details> |
-| **[Detect in Any Scene: An Agentic Framework for Object Detection with Experience-Aware Reasoning](https://arxiv.org/abs/2605.31174v1)** | 2026-05-29 |  |
-| **[Learning Hyperspherical Time-Frequency Representations for Time-Series Out-of-Distribution Detection](https://arxiv.org/abs/2605.31155v1)** | 2026-05-29 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 tables, accepted at IJCAI-ECAI 2026</p></details> |
-| **[View Space: Learning Representation across Arbitrary Graphs](https://arxiv.org/abs/2512.11561v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[NTR: Neural Token Reconstruction for Scene Token Bottleneck in End-to-End Driving](https://arxiv.org/abs/2605.31116v1)** | 2026-05-29 |  |
-| **[HQ-JEPA: Hybrid Quantum Joint-Embedding Predictive Architecture for Cross-Modal Remote Sensing Representation Learning](https://arxiv.org/abs/2605.31068v1)** | 2026-05-29 | 19 pages |
+| **[Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition](https://arxiv.org/abs/2606.02526v1)** | 2026-06-01 |  |
+| **[Spatial Representation Learning Beyond Pixels: Unifying Raster Data and Vector Semantics for Human-Centric Geospatial Foundation Models](https://arxiv.org/abs/2606.02374v1)** | 2026-06-01 |  |
+| **[Multi-modal Video Representation Alignment for Robust Self-supervised Driver Distraction Detection](https://arxiv.org/abs/2606.02352v1)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at the IEEE ITSC 2026</p></details> |
+| **[From Extrinsic to Intrinsic: Geodesic-Guided Representation Learning for 3D Geometric Data](https://arxiv.org/abs/2606.02268v1)** | 2026-06-01 |  |
+| **[Closing the Alignment-Maturity Gap in Federated Prototype Learning](https://arxiv.org/abs/2606.02172v1)** | 2026-06-01 |  |
+| **[Provable Data Scaling Law for Meta Learning via Complexity Minimization](https://arxiv.org/abs/2606.02008v1)** | 2026-06-01 |  |
+| **[Visualizing definitional divergence in high-dimensional data by manifold alignment: Application to 3D right ventricular strain computations](https://arxiv.org/abs/2501.12178v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Medical Imaging, DOI: 10.1109/TMI.2026.3698240 \c{opyright} 2026 IEEE. Personal use is permitted. For all other uses, permission must be obtained from IEEE</p></details> |
+| **[RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency](https://arxiv.org/abs/2411.15076v3)** | 2026-06-01 | 18 pages, 9 figures |
+| **[Rank-Constrained Deep Matrix Completion for Group Recommendation](https://arxiv.org/abs/2606.01948v1)** | 2026-06-01 |  |
+| **[Advancing Electrolaryngeal Speech Enhancement Through Speech-Text Representation Learning](https://arxiv.org/abs/2606.01905v1)** | 2026-06-01 | <details><summary>15 pa...</summary><p>15 pages, 7 figures. Accepted to IEEE TBME</p></details> |
+| **[Beyond the Simplex: Balanced Prototype Geometry for Scorer-Agnostic Open-Set Recognition](https://arxiv.org/abs/2606.01883v1)** | 2026-06-01 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 6 tables</p></details> |
+| **[Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](https://arxiv.org/abs/2605.04819v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements](https://arxiv.org/abs/2604.28173v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted as Highlight at CVPR2024. Project page: https://vision.ist.i.kyoto-u.ac.jp/research/action-motifs/</p></details> |
+| **[Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning](https://arxiv.org/abs/2508.06588v3)** | 2026-06-01 | ICML2026 |
+| **[UniNote: A Unified Embedding Model for Multimodal Representation and Ranking](https://arxiv.org/abs/2605.29287v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted by KDD Ads Track 2026</p></details> |
 
