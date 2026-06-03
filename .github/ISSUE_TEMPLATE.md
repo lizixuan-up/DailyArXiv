@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2026
+title: Latest 15 Papers - June 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v5)** | 2026-06-02 |  |
 | **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v2)** | 2026-05-25 | Under Review |
 | **[Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking](https://arxiv.org/abs/2605.25007v1)** | 2026-05-24 |  |
 | **[Behavior-Guided Candidate Calibration for Multimodal Recommendation](https://arxiv.org/abs/2605.22073v1)** | 2026-05-21 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v2)** | 2026-04-10 |  |
 | **[Joint Behavior-guided and Modality-coherence Conditional Graph Diffusion Denoising for Multi Modal Recommendation](https://arxiv.org/abs/2604.03654v1)** | 2026-04-04 |  |
 | **[Training-free Adjustable Polynomial Graph Filtering for Ultra-fast Multimodal Recommendation](https://arxiv.org/abs/2503.04406v3)** | 2026-03-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables; published in the Engineering Applications of Artificial Intelligence (Please cite our journal version.)</p></details> |
-| **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition](https://arxiv.org/abs/2606.02526v1)** | 2026-06-01 |  |
-| **[Spatial Representation Learning Beyond Pixels: Unifying Raster Data and Vector Semantics for Human-Centric Geospatial Foundation Models](https://arxiv.org/abs/2606.02374v1)** | 2026-06-01 |  |
-| **[Multi-modal Video Representation Alignment for Robust Self-supervised Driver Distraction Detection](https://arxiv.org/abs/2606.02352v1)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at the IEEE ITSC 2026</p></details> |
-| **[From Extrinsic to Intrinsic: Geodesic-Guided Representation Learning for 3D Geometric Data](https://arxiv.org/abs/2606.02268v1)** | 2026-06-01 |  |
-| **[Closing the Alignment-Maturity Gap in Federated Prototype Learning](https://arxiv.org/abs/2606.02172v1)** | 2026-06-01 |  |
-| **[Provable Data Scaling Law for Meta Learning via Complexity Minimization](https://arxiv.org/abs/2606.02008v1)** | 2026-06-01 |  |
-| **[Visualizing definitional divergence in high-dimensional data by manifold alignment: Application to 3D right ventricular strain computations](https://arxiv.org/abs/2501.12178v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Medical Imaging, DOI: 10.1109/TMI.2026.3698240 \c{opyright} 2026 IEEE. Personal use is permitted. For all other uses, permission must be obtained from IEEE</p></details> |
-| **[RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency](https://arxiv.org/abs/2411.15076v3)** | 2026-06-01 | 18 pages, 9 figures |
-| **[Rank-Constrained Deep Matrix Completion for Group Recommendation](https://arxiv.org/abs/2606.01948v1)** | 2026-06-01 |  |
-| **[Advancing Electrolaryngeal Speech Enhancement Through Speech-Text Representation Learning](https://arxiv.org/abs/2606.01905v1)** | 2026-06-01 | <details><summary>15 pa...</summary><p>15 pages, 7 figures. Accepted to IEEE TBME</p></details> |
-| **[Beyond the Simplex: Balanced Prototype Geometry for Scorer-Agnostic Open-Set Recognition](https://arxiv.org/abs/2606.01883v1)** | 2026-06-01 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 6 tables</p></details> |
-| **[Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](https://arxiv.org/abs/2605.04819v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements](https://arxiv.org/abs/2604.28173v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted as Highlight at CVPR2024. Project page: https://vision.ist.i.kyoto-u.ac.jp/research/action-motifs/</p></details> |
-| **[Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning](https://arxiv.org/abs/2508.06588v3)** | 2026-06-01 | ICML2026 |
-| **[UniNote: A Unified Embedding Model for Multimodal Representation and Ranking](https://arxiv.org/abs/2605.29287v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted by KDD Ads Track 2026</p></details> |
+| **[CoralBay: A Self-Supervised CT Foundation Model](https://arxiv.org/abs/2606.03888v1)** | 2026-06-02 |  |
+| **[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://arxiv.org/abs/2509.22468v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Rethinking the Role of Tensor Decompositions in Post-Training LLM Compression](https://arxiv.org/abs/2606.03465v1)** | 2026-06-02 |  |
+| **[CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations](https://arxiv.org/abs/2606.03435v1)** | 2026-06-02 | ICLR 2026 |
+| **[Edge-Aware and Content-Adaptive Infrared Gas Leak Detection for Industrial Safety Monitoring](https://arxiv.org/abs/2512.23234v3)** | 2026-06-02 |  |
+| **[SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching](https://arxiv.org/abs/2606.03406v1)** | 2026-06-02 | 14 pages |
+| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v1)** | 2026-06-02 | Accepted by KDD2026 |
+| **[GeoSem-WAM: Geometry- and Semantic-Aware World Action Models](https://arxiv.org/abs/2606.03188v1)** | 2026-06-02 |  |
+| **[Evidence-Aware Protein Complex Detection: Methods, Benchmarks, and Reproducibility Challenges](https://arxiv.org/abs/2606.03178v1)** | 2026-06-02 | <details><summary>Revie...</summary><p>Review article; 23 pages, 7 figures, 7 tables</p></details> |
+| **[Towards Blind Lens Aberration Correction via Large LensLib Pre-training and Discrete Degradation Priors](https://arxiv.org/abs/2511.17126v4)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE International Conference on Computational Photography (ICCP). The source code and datasets will be made publicly available at https://github.com/zju-jiangqi/FoundCAC</p></details> |
+| **[SRENet: Spectral Re-Entry Network for Point Cloud Action Recognition](https://arxiv.org/abs/2606.03160v1)** | 2026-06-02 | <details><summary>13 pa...</summary><p>13 pages, 11 figures. Accepted by IEEE Transactions on Circuits and Systems for Video Technology</p></details> |
+| **[MIPIC: Matryoshka Representation Learning via Self-Distilled Intra-Relational and Progressive Information Chaining](https://arxiv.org/abs/2604.24374v2)** | 2026-06-02 | ACL Findings |
+| **[Reconstructing Content with Collaborative Attention for Universal Multimodal Representation Learning](https://arxiv.org/abs/2603.01471v3)** | 2026-06-02 |  |
+| **[Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation](https://arxiv.org/abs/2605.25402v2)** | 2026-06-02 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accepted Paper; Anatomy-Anchored Ultrasound Self-Supervision</p></details> |
+| **[ArrowFlow: Hierarchical Machine Learning in the Space of Permutations](https://arxiv.org/abs/2604.04087v2)** | 2026-06-01 |  |
 
