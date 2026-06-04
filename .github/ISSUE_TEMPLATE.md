@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2026
+title: Latest 15 Papers - June 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoralBay: A Self-Supervised CT Foundation Model](https://arxiv.org/abs/2606.03888v1)** | 2026-06-02 |  |
-| **[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://arxiv.org/abs/2509.22468v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Rethinking the Role of Tensor Decompositions in Post-Training LLM Compression](https://arxiv.org/abs/2606.03465v1)** | 2026-06-02 |  |
-| **[CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations](https://arxiv.org/abs/2606.03435v1)** | 2026-06-02 | ICLR 2026 |
-| **[Edge-Aware and Content-Adaptive Infrared Gas Leak Detection for Industrial Safety Monitoring](https://arxiv.org/abs/2512.23234v3)** | 2026-06-02 |  |
-| **[SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching](https://arxiv.org/abs/2606.03406v1)** | 2026-06-02 | 14 pages |
-| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v1)** | 2026-06-02 | Accepted by KDD2026 |
-| **[GeoSem-WAM: Geometry- and Semantic-Aware World Action Models](https://arxiv.org/abs/2606.03188v1)** | 2026-06-02 |  |
-| **[Evidence-Aware Protein Complex Detection: Methods, Benchmarks, and Reproducibility Challenges](https://arxiv.org/abs/2606.03178v1)** | 2026-06-02 | <details><summary>Revie...</summary><p>Review article; 23 pages, 7 figures, 7 tables</p></details> |
-| **[Towards Blind Lens Aberration Correction via Large LensLib Pre-training and Discrete Degradation Priors](https://arxiv.org/abs/2511.17126v4)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE International Conference on Computational Photography (ICCP). The source code and datasets will be made publicly available at https://github.com/zju-jiangqi/FoundCAC</p></details> |
-| **[SRENet: Spectral Re-Entry Network for Point Cloud Action Recognition](https://arxiv.org/abs/2606.03160v1)** | 2026-06-02 | <details><summary>13 pa...</summary><p>13 pages, 11 figures. Accepted by IEEE Transactions on Circuits and Systems for Video Technology</p></details> |
-| **[MIPIC: Matryoshka Representation Learning via Self-Distilled Intra-Relational and Progressive Information Chaining](https://arxiv.org/abs/2604.24374v2)** | 2026-06-02 | ACL Findings |
-| **[Reconstructing Content with Collaborative Attention for Universal Multimodal Representation Learning](https://arxiv.org/abs/2603.01471v3)** | 2026-06-02 |  |
-| **[Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation](https://arxiv.org/abs/2605.25402v2)** | 2026-06-02 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accepted Paper; Anatomy-Anchored Ultrasound Self-Supervision</p></details> |
-| **[ArrowFlow: Hierarchical Machine Learning in the Space of Permutations](https://arxiv.org/abs/2604.04087v2)** | 2026-06-01 |  |
+| **[BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning](https://arxiv.org/abs/2606.05139v1)** | 2026-06-03 |  |
+| **[Continual Visual and Verbal Learning Through a Child's Egocentric Input](https://arxiv.org/abs/2606.05115v1)** | 2026-06-03 | 15 pages, 4 figures |
+| **[RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](https://arxiv.org/abs/2606.05109v1)** | 2026-06-03 |  |
+| **[CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection](https://arxiv.org/abs/2606.04898v1)** | 2026-06-03 | Accepted MICCAI 2026 |
+| **[StrokeTimer: Robust Representation Learning for Ischemic Stroke Onset-Time Estimation from Non-contrast CT](https://arxiv.org/abs/2606.04722v1)** | 2026-06-03 | <details><summary>Early...</summary><p>Early accepted at MICCAI 2026</p></details> |
+| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Treat Traffic Like Trees: A Semantic-Preserving Hierarchical Graph-Based Expert Framework for Encrypted Traffic Analysis](https://arxiv.org/abs/2606.04517v1)** | 2026-06-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning](https://arxiv.org/abs/2606.04448v1)** | 2026-06-03 | 9 pages |
+| **[Motion-Guided Causal Disentanglement for Robust Multi-View Cine Cardiac MRI Diagnosis](https://arxiv.org/abs/2606.04414v1)** | 2026-06-03 |  |
+| **[An Ensembled Latent Factor Model via Differential Evolution and Gradient Descent Optimization](https://arxiv.org/abs/2606.04408v1)** | 2026-06-03 |  |
+| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v2)** | 2026-06-03 | Accepted by KDD2026 |
+| **[Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation](https://arxiv.org/abs/2605.25402v3)** | 2026-06-03 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accepted Paper; Anatomy-Anchored Ultrasound Self-Supervision</p></details> |
+| **[Quantum entanglement provides a competitive advantage in adversarial games](https://arxiv.org/abs/2603.10289v2)** | 2026-06-03 | 22 pages, 5 figures |
+| **[Equivariant Latent Alignment via Flow Matching under Group Symmetries](https://arxiv.org/abs/2605.30705v2)** | 2026-06-02 |  |
+| **[A Cookbook of 3D Vision: Data, Learning Paradigms, and Application](https://arxiv.org/abs/2606.04291v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 OpenSUN3D Workshop. Official version available at CVF Open Access. https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html</p></details> |
 
