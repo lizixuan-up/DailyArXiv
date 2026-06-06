@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2026
+title: Latest 15 Papers - June 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning](https://arxiv.org/abs/2606.05139v1)** | 2026-06-03 |  |
-| **[Continual Visual and Verbal Learning Through a Child's Egocentric Input](https://arxiv.org/abs/2606.05115v1)** | 2026-06-03 | 15 pages, 4 figures |
-| **[RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](https://arxiv.org/abs/2606.05109v1)** | 2026-06-03 |  |
-| **[CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection](https://arxiv.org/abs/2606.04898v1)** | 2026-06-03 | Accepted MICCAI 2026 |
-| **[StrokeTimer: Robust Representation Learning for Ischemic Stroke Onset-Time Estimation from Non-contrast CT](https://arxiv.org/abs/2606.04722v1)** | 2026-06-03 | <details><summary>Early...</summary><p>Early accepted at MICCAI 2026</p></details> |
-| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Treat Traffic Like Trees: A Semantic-Preserving Hierarchical Graph-Based Expert Framework for Encrypted Traffic Analysis](https://arxiv.org/abs/2606.04517v1)** | 2026-06-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning](https://arxiv.org/abs/2606.04448v1)** | 2026-06-03 | 9 pages |
-| **[Motion-Guided Causal Disentanglement for Robust Multi-View Cine Cardiac MRI Diagnosis](https://arxiv.org/abs/2606.04414v1)** | 2026-06-03 |  |
-| **[An Ensembled Latent Factor Model via Differential Evolution and Gradient Descent Optimization](https://arxiv.org/abs/2606.04408v1)** | 2026-06-03 |  |
-| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v2)** | 2026-06-03 | Accepted by KDD2026 |
-| **[Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation](https://arxiv.org/abs/2605.25402v3)** | 2026-06-03 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accepted Paper; Anatomy-Anchored Ultrasound Self-Supervision</p></details> |
-| **[Quantum entanglement provides a competitive advantage in adversarial games](https://arxiv.org/abs/2603.10289v2)** | 2026-06-03 | 22 pages, 5 figures |
-| **[Equivariant Latent Alignment via Flow Matching under Group Symmetries](https://arxiv.org/abs/2605.30705v2)** | 2026-06-02 |  |
-| **[A Cookbook of 3D Vision: Data, Learning Paradigms, and Application](https://arxiv.org/abs/2606.04291v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 OpenSUN3D Workshop. Official version available at CVF Open Access. https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html</p></details> |
+| **[PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding](https://arxiv.org/abs/2606.06485v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://atrovast.github.io/PAR3D/</p></details> |
+| **[JI-ADF: Joint-Individual Learning with Adaptive Decision Fusion for Multimodal Skin Lesion Classification](https://arxiv.org/abs/2604.27343v2)** | 2026-06-04 |  |
+| **[Zero-Flow Encoders](https://arxiv.org/abs/2602.00797v2)** | 2026-06-04 | <details><summary>Yakun...</summary><p>Yakun Wang and Leyang Wang contributed equally to this work</p></details> |
+| **[PAC-Bayesian Adversarially Robust Generalization for Message Passing Graph Neural Networks: A Sensitivity Analysis](https://arxiv.org/abs/2606.06293v1)** | 2026-06-04 |  |
+| **[Discrete Causal Representations from Heterogeneous Domains: A Bayesian Approach with Social Survey Applications](https://arxiv.org/abs/2606.06288v1)** | 2026-06-04 |  |
+| **[Learning Emotion-discriminative Representations for Zero-Shot Cross-lingual Speech Emotion Recognition](https://arxiv.org/abs/2606.06200v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
+| **[A Machine Learning-Based Framework for Discovering Huntington's Disease Stages: Integrating Graph Representation Learning and clustering to Uncover Progression Dynamics in Longitudinal Enroll-HD Dataset](https://arxiv.org/abs/2606.06196v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 10th International Conference on Medical and Health Informatics (ICMHI 2026), Association for Computing Machinery (ACM)</p></details> |
+| **[Edge-Aware Curvature Modeling for Graph Understanding in Large Language Models](https://arxiv.org/abs/2606.06073v1)** | 2026-06-04 |  |
+| **[LLM-Conditioned Synthesis of Pathological Gaits via Structured Gait-Language Representations](https://arxiv.org/abs/2606.06048v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at CVPR MOMA Workshop 2026 and selected for spotlight presentation at the workshop</p></details> |
+| **[HoT-SSM:Higher-order Temporal Knowledge Graph Reasoning with State Space Models for Health Care](https://arxiv.org/abs/2606.05994v1)** | 2026-06-04 | Paper under review |
+| **[EEGDancer: Dynamic Emotion Latent Space Masked Modeling with Reinforcement Learning for EEG Continuous Emotion Prediction](https://arxiv.org/abs/2606.05855v1)** | 2026-06-04 | <details><summary>51 pa...</summary><p>51 pages, 9 figures, 13 tables</p></details> |
+| **[FORTE: FOL-guided Optimal Refinement for Text-audio rEtrieval](https://arxiv.org/abs/2606.05812v1)** | 2026-06-04 | Under Review |
+| **[M2S-AVSR: Modality-aware Multi-view Self-supervised Representation for Robust Audio-Visual Speech Recognition](https://arxiv.org/abs/2606.05763v1)** | 2026-06-04 | <details><summary>submi...</summary><p>submitted to IEEE Transactions on Audio, Speech, and Language Processing</p></details> |
+| **[Interpreting Style Representations via Style-Eliciting Prompts](https://arxiv.org/abs/2606.05716v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
+| **[Monte Carlo Steklov Operators for Large-Scale Geometry Processing in the Wild](https://arxiv.org/abs/2606.05581v1)** | 2026-06-04 | 21 pages |
 
