@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Teach Multimodal Recommendation Model to See via Personalized Visual Extraction and Adaptive Learning](https://arxiv.org/abs/2606.09082v1)** | 2026-06-08 |  |
 | **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v5)** | 2026-06-02 |  |
 | **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v2)** | 2026-05-25 | Under Review |
 | **[Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking](https://arxiv.org/abs/2605.25007v1)** | 2026-05-24 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation](https://arxiv.org/abs/2604.14839v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2026</p></details> |
 | **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v2)** | 2026-04-10 |  |
 | **[Joint Behavior-guided and Modality-coherence Conditional Graph Diffusion Denoising for Multi Modal Recommendation](https://arxiv.org/abs/2604.03654v1)** | 2026-04-04 |  |
-| **[Training-free Adjustable Polynomial Graph Filtering for Ultra-fast Multimodal Recommendation](https://arxiv.org/abs/2503.04406v3)** | 2026-03-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables; published in the Engineering Applications of Artificial Intelligence (Please cite our journal version.)</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963v3)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. 40 pages, 19 figures. The first two authors contributed equally</p></details> |
-| **[Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models](https://arxiv.org/abs/2606.07303v1)** | 2026-06-05 | <details><summary>24 pa...</summary><p>24 pages, 25 references. Theoretical framework relating representation learning, representational emergence, and world models</p></details> |
-| **[LLM-Conditioned Synthesis of Pathological Gaits via Structured Gait-Language Representations](https://arxiv.org/abs/2606.06048v2)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted at CVPR MOMA Workshop 2026 and selected for spotlight presentation at the workshop</p></details> |
-| **[AdaTok: Self-Budgeting Image Tokenization with Quality-Preserving Dynamic Tokens](https://arxiv.org/abs/2606.07185v1)** | 2026-06-05 | <details><summary>Prepr...</summary><p>Preprint; 11 pages, 4 figures</p></details> |
-| **[CF-JEPA: Mask-free forward prediction with asymmetric encoder utilization for time-series representation learning](https://arxiv.org/abs/2606.07031v1)** | 2026-06-05 |  |
-| **[M2S-AVSR: Modality-aware Multi-view Self-supervised Representation for Robust Audio-Visual Speech Recognition](https://arxiv.org/abs/2606.05763v2)** | 2026-06-05 | <details><summary>submi...</summary><p>submitted to IEEE Transactions on Audio, Speech, and Language Processing</p></details> |
-| **[Lighting-Aware Representation Learning under Controllable Lighting Variation](https://arxiv.org/abs/2606.06899v1)** | 2026-06-05 |  |
-| **[Multi-FRuGaL: Multimodal Flexible Redundancy-aware Decomposed Gated Learning for Cancer Diagnosis and Prognosis](https://arxiv.org/abs/2606.06867v1)** | 2026-06-05 |  |
-| **[Principles and Practice of Deep Representation Learning: or a Mathematical Theory of Memory](https://arxiv.org/abs/2606.06624v1)** | 2026-06-04 | <details><summary>versi...</summary><p>version 2; TeX source and supplementary material at https://ma-lab-berkeley.github.io/deep-representation-learning-book/</p></details> |
-| **[PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding](https://arxiv.org/abs/2606.06485v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://atrovast.github.io/PAR3D/</p></details> |
-| **[JI-ADF: Joint-Individual Learning with Adaptive Decision Fusion for Multimodal Skin Lesion Classification](https://arxiv.org/abs/2604.27343v2)** | 2026-06-04 |  |
-| **[Zero-Flow Encoders](https://arxiv.org/abs/2602.00797v2)** | 2026-06-04 | <details><summary>Yakun...</summary><p>Yakun Wang and Leyang Wang contributed equally to this work</p></details> |
-| **[PAC-Bayesian Adversarially Robust Generalization for Message Passing Graph Neural Networks: A Sensitivity Analysis](https://arxiv.org/abs/2606.06293v1)** | 2026-06-04 |  |
-| **[Discrete Causal Representations from Heterogeneous Domains: A Bayesian Approach with Social Survey Applications](https://arxiv.org/abs/2606.06288v1)** | 2026-06-04 |  |
-| **[Learning Emotion-discriminative Representations for Zero-Shot Cross-lingual Speech Emotion Recognition](https://arxiv.org/abs/2606.06200v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
+| **[AetheRock: An Arm-Worn Robot Teaching System for Force-Guided Vision-Tactile Learning](https://arxiv.org/abs/2606.09777v1)** | 2026-06-08 |  |
+| **[Next-Token Prediction Learns Generalisable Representations of Sleep Physiology](https://arxiv.org/abs/2606.09605v1)** | 2026-06-08 |  |
+| **[VQ-Atom: Semantic Discretization of Local Atomic Environments for Molecular Representation Learning](https://arxiv.org/abs/2605.16823v2)** | 2026-06-08 |  |
+| **[Loss-Guided Adaptive Scale Refinement for Molecular Force Prediction](https://arxiv.org/abs/2606.09480v1)** | 2026-06-08 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 6 tables. Preprint on adaptive scale refinement for molecular force prediction</p></details> |
+| **[Training-Free Generalized Few-Shot Segmentation through Open-Vocabulary Semantic Arbitration](https://arxiv.org/abs/2606.09474v1)** | 2026-06-08 |  |
+| **[RT-SDGOD: Real-Time Single-Domain Generalized Object Detection](https://arxiv.org/abs/2606.09367v1)** | 2026-06-08 |  |
+| **[TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders](https://arxiv.org/abs/2606.09323v1)** | 2026-06-08 |  |
+| **[Multi-View Speech Representation Learning for Parkinson's Disease Detection Using Context-guided Cross-modal Attention](https://arxiv.org/abs/2606.09271v1)** | 2026-06-08 |  |
+| **[Self-supervised Learning Matters: A Simple Ensemble Solution for Micro-Gesture Recognition](https://arxiv.org/abs/2606.09261v1)** | 2026-06-08 |  |
+| **[Alcmean's: Unsupervised community detection using local Laplacian, automatic detection of the number of centers](https://arxiv.org/abs/2606.09100v1)** | 2026-06-08 |  |
+| **[Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection](https://arxiv.org/abs/2603.21511v2)** | 2026-06-08 | <details><summary>Corre...</summary><p>Corrected several numerical entries due to a reporting error; the corrected values do not affect the main conclusions</p></details> |
+| **[Teach Multimodal Recommendation Model to See via Personalized Visual Extraction and Adaptive Learning](https://arxiv.org/abs/2606.09082v1)** | 2026-06-08 |  |
+| **[Causal Representation Learning from Network Data](https://arxiv.org/abs/2509.01916v2)** | 2026-06-08 | 19 pages, 8 figures |
+| **[RankGLU: Residual Gated Score Formation for Cross-Sectional Stock Prediction](https://arxiv.org/abs/2606.08930v1)** | 2026-06-08 | <details><summary>Code:...</summary><p>Code: https://github.com/HuixiangXiao/RankGLU</p></details> |
+| **[Flexible Online Representation Learning Based on Similarity Matching](https://arxiv.org/abs/2606.01546v2)** | 2026-06-08 | <details><summary>6 pag...</summary><p>6 pages, 3 figures. Originally accepted to IJCNN 2023 but not presented owing to visa issues</p></details> |
 
