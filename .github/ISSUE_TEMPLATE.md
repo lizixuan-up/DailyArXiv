@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v1)** | 2026-06-09 |  |
+| **[DMT: Demographic Conditioning, Morphology-Enhanced Transformer for Cuffless Blood Pressure Estimation from PPG Signals](https://arxiv.org/abs/2606.11125v1)** | 2026-06-09 |  |
+| **[EcoDefender: Energy-Efficient Hybrid Anomaly Detection for IoT Edge Gateways](https://arxiv.org/abs/2511.18235v2)** | 2026-06-09 |  |
+| **[One Step Closer to Ground Truth: A Multi-Scale Residual-Aware Representation Learning Pipeline for Predicting Time Series Data](https://arxiv.org/abs/2606.10678v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '26)</p></details> |
+| **[PromptEmbedder: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting](https://arxiv.org/abs/2605.28066v2)** | 2026-06-09 |  |
+| **[Efficient RWKV-based Representation Learning for 3D Point Clouds](https://arxiv.org/abs/2606.10395v1)** | 2026-06-09 |  |
+| **[Spatiotemporal Graph Transformer for 3D Neighborhood Interaction and Quality Prediction in Metal Additive Manufacturing](https://arxiv.org/abs/2606.10227v1)** | 2026-06-08 | <details><summary>Submi...</summary><p>Submitted to Journal of Intelligent Manufacturing, 23 pages, 10 figures, 2 tables</p></details> |
+| **[Automated Pronunciation Evaluation for Korean Toddler Speech using Speech Diarization and Self-Supervised Learning](https://arxiv.org/abs/2606.10213v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This paper will be presented at IEEE ICTs4ehealth in June, 2026</p></details> |
+| **[Intrinsic Footpoint-invariant Riemannian Cross-covariance](https://arxiv.org/abs/2606.10212v1)** | 2026-06-08 | 31 pages, 16 figures |
+| **[Mining Electronic Health Records to Investigate Effectiveness of Ensemble Deep Clustering](https://arxiv.org/abs/2604.07085v2)** | 2026-06-08 | <details><summary>2026 ...</summary><p>2026 14th IEEE Conference on Healthcare Informatics</p></details> |
+| **[Unsupervised Style Representation Learning for AI-Text Detection via Paraphrase Inversion](https://arxiv.org/abs/2606.10099v1)** | 2026-06-08 |  |
+| **[A Theory on Flow Matching with Neural Networks](https://arxiv.org/abs/2606.10089v1)** | 2026-06-08 |  |
+| **[The Chronicles of Radio Frequency Fingerprinting](https://arxiv.org/abs/2606.10031v1)** | 2026-06-08 | 12 pages, 9 figures |
 | **[AetheRock: An Arm-Worn Robot Teaching System for Force-Guided Vision-Tactile Learning](https://arxiv.org/abs/2606.09777v1)** | 2026-06-08 |  |
 | **[Next-Token Prediction Learns Generalisable Representations of Sleep Physiology](https://arxiv.org/abs/2606.09605v1)** | 2026-06-08 |  |
-| **[VQ-Atom: Semantic Discretization of Local Atomic Environments for Molecular Representation Learning](https://arxiv.org/abs/2605.16823v2)** | 2026-06-08 |  |
-| **[Loss-Guided Adaptive Scale Refinement for Molecular Force Prediction](https://arxiv.org/abs/2606.09480v1)** | 2026-06-08 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 6 tables. Preprint on adaptive scale refinement for molecular force prediction</p></details> |
-| **[Training-Free Generalized Few-Shot Segmentation through Open-Vocabulary Semantic Arbitration](https://arxiv.org/abs/2606.09474v1)** | 2026-06-08 |  |
-| **[RT-SDGOD: Real-Time Single-Domain Generalized Object Detection](https://arxiv.org/abs/2606.09367v1)** | 2026-06-08 |  |
-| **[TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders](https://arxiv.org/abs/2606.09323v1)** | 2026-06-08 |  |
-| **[Multi-View Speech Representation Learning for Parkinson's Disease Detection Using Context-guided Cross-modal Attention](https://arxiv.org/abs/2606.09271v1)** | 2026-06-08 |  |
-| **[Self-supervised Learning Matters: A Simple Ensemble Solution for Micro-Gesture Recognition](https://arxiv.org/abs/2606.09261v1)** | 2026-06-08 |  |
-| **[Alcmean's: Unsupervised community detection using local Laplacian, automatic detection of the number of centers](https://arxiv.org/abs/2606.09100v1)** | 2026-06-08 |  |
-| **[Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection](https://arxiv.org/abs/2603.21511v2)** | 2026-06-08 | <details><summary>Corre...</summary><p>Corrected several numerical entries due to a reporting error; the corrected values do not affect the main conclusions</p></details> |
-| **[Teach Multimodal Recommendation Model to See via Personalized Visual Extraction and Adaptive Learning](https://arxiv.org/abs/2606.09082v1)** | 2026-06-08 |  |
-| **[Causal Representation Learning from Network Data](https://arxiv.org/abs/2509.01916v2)** | 2026-06-08 | 19 pages, 8 figures |
-| **[RankGLU: Residual Gated Score Formation for Cross-Sectional Stock Prediction](https://arxiv.org/abs/2606.08930v1)** | 2026-06-08 | <details><summary>Code:...</summary><p>Code: https://github.com/HuixiangXiao/RankGLU</p></details> |
-| **[Flexible Online Representation Learning Based on Similarity Matching](https://arxiv.org/abs/2606.01546v2)** | 2026-06-08 | <details><summary>6 pag...</summary><p>6 pages, 3 figures. Originally accepted to IJCNN 2023 but not presented owing to visa issues</p></details> |
 
