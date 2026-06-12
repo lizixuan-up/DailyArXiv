@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Causal Inference with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903v5)** | 2026-06-11 |  |
+| **[BrainPro: Towards Large-scale Brain State-aware EEG Representation Learning](https://arxiv.org/abs/2509.22050v2)** | 2026-06-11 | 31 pages, 11 figures |
+| **[PlaceRep: Geospatial Place Representation Learning from Large-Scale Point-of-Interest Data](https://arxiv.org/abs/2507.02921v4)** | 2026-06-11 |  |
+| **[BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning](https://arxiv.org/abs/2604.27277v3)** | 2026-06-11 | 25 pages, 5 figures |
+| **[Disentangling Dynamical Systems: Causal Representation Learning Meets Local Sparse Attention](https://arxiv.org/abs/2603.14483v2)** | 2026-06-11 | <details><summary>Prese...</summary><p>Presented as an Oral at the 5th Conference on Causal Learning and Reasoning</p></details> |
+| **[Masked and Predictive Self-Supervised Foundation Models for 3D Brain MRI](https://arxiv.org/abs/2606.13315v1)** | 2026-06-11 |  |
+| **[Extracting Governing Equations from Latent Dynamics via Multi-View Contrastive Learning](https://arxiv.org/abs/2606.13260v1)** | 2026-06-11 |  |
+| **[Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](https://arxiv.org/abs/2606.11930v2)** | 2026-06-11 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 5 tables</p></details> |
+| **[Blind Dexterous Grasping via Real2Sim2Real Tactile Policy Learning](https://arxiv.org/abs/2606.11767v2)** | 2026-06-11 | 23 pages, 6 figures |
+| **[BSViT: A Burst Spiking Vision Transformer for Expressive and Efficient Visual Representation Learning](https://arxiv.org/abs/2604.23165v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted by ECML PKDD 2026</p></details> |
+| **[Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation](https://arxiv.org/abs/2506.21855v3)** | 2026-06-11 |  |
+| **[One Step Closer to Ground Truth: A Multi-Scale Residual-Aware Representation Learning Pipeline for Predicting Time Series Data](https://arxiv.org/abs/2606.10678v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '26)</p></details> |
+| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v2)** | 2026-06-10 |  |
 | **[Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects](https://arxiv.org/abs/2606.10212v2)** | 2026-06-10 | 31 pages, 16 figures |
 | **[Latent World Recovery for Multimodal Learning with Missing Modalities](https://arxiv.org/abs/2606.12362v1)** | 2026-06-10 |  |
-| **[Bridging Day and Night: Unsupervised Cross-Domain Re-Identification with Synergistic Prompt and Prototype Learning](https://arxiv.org/abs/2606.12258v1)** | 2026-06-10 |  |
-| **[Implicit Neural Representations of Individual Behavior](https://arxiv.org/abs/2606.12200v1)** | 2026-06-10 | <details><summary>ICML ...</summary><p>ICML 2026, Structured Probabilistic Inference & Generative Modeling Workshop</p></details> |
-| **[Tac-DINO: Learning Vision-Tactile Features with Patch Alignment](https://arxiv.org/abs/2606.12069v1)** | 2026-06-10 |  |
-| **[MFEN:Multi-Frequency Expert Network for Visible-Infrared Person Re-ID](https://arxiv.org/abs/2606.12051v1)** | 2026-06-10 | CVPR Highlight |
-| **[Impact of Connectivity on Laplacian Representations in Reinforcement Learning](https://arxiv.org/abs/2603.08558v3)** | 2026-06-10 |  |
-| **[Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930v1)** | 2026-06-10 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 4 tables</p></details> |
-| **[Lung-SRAD: Spectral-Aware Regularized Audio DASS with Dual-Axis Patch-Mix Contrastive Learning for Respiratory Sound Classification](https://arxiv.org/abs/2606.11922v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
-| **[RePAIR: Predictive Self-Supervised Representation Learning in Chess](https://arxiv.org/abs/2606.11860v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted for oral presentation at IEEE Conference on Games 2026</p></details> |
-| **[Blind Dexterous Grasping via Real2Sim2Real Tactile Policy Learning](https://arxiv.org/abs/2606.11767v1)** | 2026-06-10 | 23 pages, 6 figures |
-| **[Global Geometry Is Not Enough for Vision Representations](https://arxiv.org/abs/2602.03282v3)** | 2026-06-10 |  |
-| **[Benchmarking Neural Speech Compression from a Rate-Distortion Perspective](https://arxiv.org/abs/2606.11631v1)** | 2026-06-10 |  |
-| **[Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation](https://arxiv.org/abs/2506.21855v2)** | 2026-06-10 |  |
-| **[Enhancing Spectral Embedding through Robust and Flexible Knowledge Transfer in Electronic Health Records](https://arxiv.org/abs/2606.11570v1)** | 2026-06-10 |  |
 
