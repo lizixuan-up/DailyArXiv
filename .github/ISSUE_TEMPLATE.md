@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2026
+title: Latest 15 Papers - June 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,12 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BrainWorld: A Structural-Prior-Conditioned Generative Model for Whole-Brain 4D fMRI Dynamics](https://arxiv.org/abs/2606.17742v1)** | 2026-06-16 |  |
+| **[Scalable and Interpretable Representation Alignment with Ordinal Similarity](https://arxiv.org/abs/2606.16379v2)** | 2026-06-16 |  |
+| **[Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning](https://arxiv.org/abs/2606.17513v1)** | 2026-06-16 |  |
+| **[TRACE: Learning to Compute on Circuit Graphs](https://arxiv.org/abs/2509.21886v3)** | 2026-06-16 |  |
+| **[SoK: AI-Augmented Binary Reversing](https://arxiv.org/abs/2606.17398v1)** | 2026-06-16 | <details><summary>20 pa...</summary><p>20 pages, 7 tables, 3 figures</p></details> |
+| **[Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation](https://arxiv.org/abs/2606.17340v1)** | 2026-06-15 |  |
 | **[FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models](https://arxiv.org/abs/2606.17020v1)** | 2026-06-15 |  |
 | **[Data-Driven Decoding of Russell's Circumplex Model of Affect](https://arxiv.org/abs/2606.16843v1)** | 2026-06-15 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation](https://arxiv.org/abs/2606.16838v1)** | 2026-06-15 | KDD 2026 Accepted |
@@ -50,10 +56,4 @@ labels: documentation
 | **[PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates](https://arxiv.org/abs/2606.16602v1)** | 2026-06-15 |  |
 | **[Autonomous End-to-End SOH Prediction Services for Battery Systems via Temporal-Contrastive Representation Learning](https://arxiv.org/abs/2606.16434v1)** | 2026-06-15 |  |
 | **[Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images](https://arxiv.org/abs/2606.16421v1)** | 2026-06-15 | 6 pages, 3 figures |
-| **[FOUNDv2: Learning Unified User Quantized Tokenizers for User Representation](https://arxiv.org/abs/2508.00956v3)** | 2026-06-15 |  |
-| **[Scalable and Interpretable Representation Alignment with Ordinal Similarity](https://arxiv.org/abs/2606.16379v1)** | 2026-06-15 |  |
-| **[DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](https://arxiv.org/abs/2603.04239v2)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted in CVPR 2026, GitHub Code: https://github.com/kobeshegu/DiverseDiT, Project Page: https://forevermamba.work/projects/DiverseDiT/</p></details> |
-| **[Sensor-Conditioned Representation Learning via Scene-Relevant Observation Quotients](https://arxiv.org/abs/2606.16210v1)** | 2026-06-15 |  |
-| **[SimSiam Naming Game: A Unified Approach for Emergent Communication and Representation Learning](https://arxiv.org/abs/2410.21803v3)** | 2026-06-15 |  |
-| **[Circuit Tracing in Autoregressive Protein Language Models](https://arxiv.org/abs/2606.16044v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted into the Mechanistic Interpretability Workshop at ICML 2026. 24 pages, 14 figures</p></details> |
 
