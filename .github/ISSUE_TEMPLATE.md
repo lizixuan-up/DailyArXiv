@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrainWorld: A Structural-Prior-Conditioned Generative Model for Whole-Brain 4D fMRI Dynamics](https://arxiv.org/abs/2606.17742v1)** | 2026-06-16 |  |
-| **[Scalable and Interpretable Representation Alignment with Ordinal Similarity](https://arxiv.org/abs/2606.16379v2)** | 2026-06-16 |  |
-| **[Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning](https://arxiv.org/abs/2606.17513v1)** | 2026-06-16 |  |
-| **[TRACE: Learning to Compute on Circuit Graphs](https://arxiv.org/abs/2509.21886v3)** | 2026-06-16 |  |
-| **[SoK: AI-Augmented Binary Reversing](https://arxiv.org/abs/2606.17398v1)** | 2026-06-16 | <details><summary>20 pa...</summary><p>20 pages, 7 tables, 3 figures</p></details> |
-| **[Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation](https://arxiv.org/abs/2606.17340v1)** | 2026-06-15 |  |
-| **[FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models](https://arxiv.org/abs/2606.17020v1)** | 2026-06-15 |  |
-| **[Data-Driven Decoding of Russell's Circumplex Model of Affect](https://arxiv.org/abs/2606.16843v1)** | 2026-06-15 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation](https://arxiv.org/abs/2606.16838v1)** | 2026-06-15 | KDD 2026 Accepted |
-| **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v6)** | 2026-06-15 | ICML 2026 |
-| **[InfoNCE Induces Gaussian Distribution](https://arxiv.org/abs/2602.24012v2)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, Oral</p></details> |
-| **[SUP-MCRL: Subject-aware Unified Pseudo-feature Coded Multimodal Contrastive Representation Learning for EEG Visual Decoding](https://arxiv.org/abs/2606.16615v1)** | 2026-06-15 |  |
-| **[PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates](https://arxiv.org/abs/2606.16602v1)** | 2026-06-15 |  |
-| **[Autonomous End-to-End SOH Prediction Services for Battery Systems via Temporal-Contrastive Representation Learning](https://arxiv.org/abs/2606.16434v1)** | 2026-06-15 |  |
-| **[Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images](https://arxiv.org/abs/2606.16421v1)** | 2026-06-15 | 6 pages, 3 figures |
+| **[HT-Bench: Benchmarking and Learning Dexterous Full-Hand Tactile Representations with Egocentric Vision](https://arxiv.org/abs/2606.19161v1)** | 2026-06-17 | 9pages, 4figures |
+| **[DREAM: Extending Vision-Language Models with Dual-Objective Encoding for Cross-Modal Retrieval](https://arxiv.org/abs/2606.19062v1)** | 2026-06-17 |  |
+| **[TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer](https://arxiv.org/abs/2606.18959v1)** | 2026-06-17 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables, accepted into IROS 2026</p></details> |
+| **[DINO-Med3D: Bridging Dimension and Domain Gaps in Volumetric Segmentation via Progressive Adaptation](https://arxiv.org/abs/2606.18886v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. The camera-ready version and link will be made publicly available upon publication</p></details> |
+| **[Aligning Implied Statements for Implicit Hate Speech Generalizability with Context-Bounded Semi-hard Negative Mining](https://arxiv.org/abs/2606.18852v1)** | 2026-06-17 |  |
+| **[Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](https://arxiv.org/abs/2606.18836v1)** | 2026-06-17 |  |
+| **[Structured Spectral Graph Representation Learning for Multi-label Abnormality Analysis from 3D CT Scans](https://arxiv.org/abs/2510.10779v4)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at MELBA Journal 2026</p></details> |
+| **[Trainable Photonic Measurement for Physics-Informed PDE Learning](https://arxiv.org/abs/2606.18713v1)** | 2026-06-17 |  |
+| **[Dual-Channel Grounded World Modeling (DCGWM): Structural Prevention of Objective Interference Collapse via Heterogeneous External Grounding with Inward-Only Gradient Flow](https://arxiv.org/abs/2606.18688v1)** | 2026-06-17 | <details><summary>Posit...</summary><p>Position paper. Experimental validation in progress</p></details> |
+| **[Experimental Analysis of Neural Network-Based Image Classification on the CIFAR-10 Dataset](https://arxiv.org/abs/2606.18565v1)** | 2026-06-17 | 7 pages |
+| **[Information-Theoretic Measures in AI: A Practical Decision Guide](https://arxiv.org/abs/2604.23716v2)** | 2026-06-16 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 1 figure. Submitted to Entropy (MDPI)</p></details> |
+| **[Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation](https://arxiv.org/abs/2606.18509v1)** | 2026-06-16 |  |
+| **[Zero-Shot Cross-City Generalization in End-to-End Autonomous Driving: Self-Supervised versus Supervised Representations](https://arxiv.org/abs/2603.11417v2)** | 2026-06-16 |  |
+| **[FORGE: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/abs/2508.20330v5)** | 2026-06-16 | Published in TMLR |
+| **[Structured Representation Learning with Locally Linear Embeddings and Adaptive Feature Fusion](https://arxiv.org/abs/2606.18469v1)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (04/2026)</p></details> |
 
