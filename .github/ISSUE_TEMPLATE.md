@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HT-Bench: Benchmarking and Learning Dexterous Full-Hand Tactile Representations with Egocentric Vision](https://arxiv.org/abs/2606.19161v1)** | 2026-06-17 | 9pages, 4figures |
-| **[DREAM: Extending Vision-Language Models with Dual-Objective Encoding for Cross-Modal Retrieval](https://arxiv.org/abs/2606.19062v1)** | 2026-06-17 |  |
-| **[TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer](https://arxiv.org/abs/2606.18959v1)** | 2026-06-17 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables, accepted into IROS 2026</p></details> |
-| **[DINO-Med3D: Bridging Dimension and Domain Gaps in Volumetric Segmentation via Progressive Adaptation](https://arxiv.org/abs/2606.18886v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. The camera-ready version and link will be made publicly available upon publication</p></details> |
-| **[Aligning Implied Statements for Implicit Hate Speech Generalizability with Context-Bounded Semi-hard Negative Mining](https://arxiv.org/abs/2606.18852v1)** | 2026-06-17 |  |
-| **[Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](https://arxiv.org/abs/2606.18836v1)** | 2026-06-17 |  |
-| **[Structured Spectral Graph Representation Learning for Multi-label Abnormality Analysis from 3D CT Scans](https://arxiv.org/abs/2510.10779v4)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at MELBA Journal 2026</p></details> |
-| **[Trainable Photonic Measurement for Physics-Informed PDE Learning](https://arxiv.org/abs/2606.18713v1)** | 2026-06-17 |  |
-| **[Dual-Channel Grounded World Modeling (DCGWM): Structural Prevention of Objective Interference Collapse via Heterogeneous External Grounding with Inward-Only Gradient Flow](https://arxiv.org/abs/2606.18688v1)** | 2026-06-17 | <details><summary>Posit...</summary><p>Position paper. Experimental validation in progress</p></details> |
-| **[Experimental Analysis of Neural Network-Based Image Classification on the CIFAR-10 Dataset](https://arxiv.org/abs/2606.18565v1)** | 2026-06-17 | 7 pages |
-| **[Information-Theoretic Measures in AI: A Practical Decision Guide](https://arxiv.org/abs/2604.23716v2)** | 2026-06-16 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 1 figure. Submitted to Entropy (MDPI)</p></details> |
-| **[Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation](https://arxiv.org/abs/2606.18509v1)** | 2026-06-16 |  |
-| **[Zero-Shot Cross-City Generalization in End-to-End Autonomous Driving: Self-Supervised versus Supervised Representations](https://arxiv.org/abs/2603.11417v2)** | 2026-06-16 |  |
-| **[FORGE: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/abs/2508.20330v5)** | 2026-06-16 | Published in TMLR |
-| **[Structured Representation Learning with Locally Linear Embeddings and Adaptive Feature Fusion](https://arxiv.org/abs/2606.18469v1)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (04/2026)</p></details> |
+| **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1)** | 2026-06-18 |  |
+| **[A Deep Generative Model for Resting-State EEG Synthesis and Transferable Representation Learning](https://arxiv.org/abs/2503.02636v5)** | 2026-06-18 |  |
+| **[Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging](https://arxiv.org/abs/2606.14957v2)** | 2026-06-18 | <details><summary>Under...</summary><p>Under Review Preprint</p></details> |
+| **[CUPID: Reconstructing UV Texture Maps for Interpretable Person-of-Interest Deepfake Detection](https://arxiv.org/abs/2606.20302v1)** | 2026-06-18 |  |
+| **[Attention-based PCA](https://arxiv.org/abs/2605.18315v2)** | 2026-06-18 |  |
+| **[SUP-MCRL: Subject-aware Unified Pseudo-feature Coded Multimodal Contrastive Representation Learning for EEG Visual Decoding](https://arxiv.org/abs/2606.16615v2)** | 2026-06-18 |  |
+| **[PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection](https://arxiv.org/abs/2606.20055v1)** | 2026-06-18 |  |
+| **[FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification](https://arxiv.org/abs/2606.20044v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted in ICML 2026</p></details> |
+| **[Segment-Level Mandarin Chinese Speech-Based Cognitive Impairment Detection via an Autoencoder with Contrastive Learning](https://arxiv.org/abs/2606.19996v1)** | 2026-06-18 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 5 tables</p></details> |
+| **[Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](https://arxiv.org/abs/2605.30089v2)** | 2026-06-18 | Accepted by ICML'26 |
+| **[SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision](https://arxiv.org/abs/2606.19915v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2026</p></details> |
+| **[A deep learning framework for jointly solving transient Fokker-Planck equations with arbitrary parameters and initial distributions](https://arxiv.org/abs/2604.06001v2)** | 2026-06-18 |  |
+| **[DADP: Domain Adaptive Diffusion Policy](https://arxiv.org/abs/2602.04037v3)** | 2026-06-17 |  |
+| **[REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk](https://arxiv.org/abs/2606.19522v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted for publication at MICCAI 2026</p></details> |
+| **[Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents](https://arxiv.org/abs/2511.08378v4)** | 2026-06-17 | <details><summary>accep...</summary><p>accepted by AAAI 2026 Oral</p></details> |
 
