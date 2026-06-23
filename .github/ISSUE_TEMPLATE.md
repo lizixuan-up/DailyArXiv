@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2026
+title: Latest 15 Papers - June 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios](https://arxiv.org/abs/2606.23291v1)** | 2026-06-22 |  |
 | **[MOTOR: Learning ID-free Item Representation with Token Crossing for Embedding-based Multimodal Recommendation](https://arxiv.org/abs/2410.19276v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by ECML-PKDD 2026</p></details> |
 | **[Teach Multimodal Recommendation Model to See via Personalized Visual Extraction and Adaptive Learning](https://arxiv.org/abs/2606.09082v1)** | 2026-06-08 |  |
 | **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v5)** | 2026-06-02 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
 | **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v2)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to SIGIR '26</p></details> |
 | **[Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation](https://arxiv.org/abs/2604.14839v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2026</p></details> |
-| **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v2)** | 2026-04-10 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1)** | 2026-06-18 |  |
-| **[A Deep Generative Model for Resting-State EEG Synthesis and Transferable Representation Learning](https://arxiv.org/abs/2503.02636v5)** | 2026-06-18 |  |
-| **[Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging](https://arxiv.org/abs/2606.14957v2)** | 2026-06-18 | <details><summary>Under...</summary><p>Under Review Preprint</p></details> |
-| **[CUPID: Reconstructing UV Texture Maps for Interpretable Person-of-Interest Deepfake Detection](https://arxiv.org/abs/2606.20302v1)** | 2026-06-18 |  |
-| **[Attention-based PCA](https://arxiv.org/abs/2605.18315v2)** | 2026-06-18 |  |
-| **[SUP-MCRL: Subject-aware Unified Pseudo-feature Coded Multimodal Contrastive Representation Learning for EEG Visual Decoding](https://arxiv.org/abs/2606.16615v2)** | 2026-06-18 |  |
-| **[PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection](https://arxiv.org/abs/2606.20055v1)** | 2026-06-18 |  |
-| **[FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification](https://arxiv.org/abs/2606.20044v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted in ICML 2026</p></details> |
-| **[Segment-Level Mandarin Chinese Speech-Based Cognitive Impairment Detection via an Autoencoder with Contrastive Learning](https://arxiv.org/abs/2606.19996v1)** | 2026-06-18 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 5 tables</p></details> |
-| **[Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](https://arxiv.org/abs/2605.30089v2)** | 2026-06-18 | Accepted by ICML'26 |
-| **[SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision](https://arxiv.org/abs/2606.19915v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2026</p></details> |
-| **[A deep learning framework for jointly solving transient Fokker-Planck equations with arbitrary parameters and initial distributions](https://arxiv.org/abs/2604.06001v2)** | 2026-06-18 |  |
-| **[DADP: Domain Adaptive Diffusion Policy](https://arxiv.org/abs/2602.04037v3)** | 2026-06-17 |  |
-| **[REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk](https://arxiv.org/abs/2606.19522v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted for publication at MICCAI 2026</p></details> |
-| **[Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents](https://arxiv.org/abs/2511.08378v4)** | 2026-06-17 | <details><summary>accep...</summary><p>accepted by AAAI 2026 Oral</p></details> |
+| **[DiT-Reward: Generative Representations for Text-to-Image Reward Modeling](https://arxiv.org/abs/2606.23626v1)** | 2026-06-22 |  |
+| **[Patient-Aware Contrastive Learning Preserves Per-Patient Structure in RR-Interval Representations](https://arxiv.org/abs/2606.23570v1)** | 2026-06-22 |  |
+| **[Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Networks with Group Lasso Regularization](https://arxiv.org/abs/2507.03318v3)** | 2026-06-22 | 15 pages, 8 figures |
+| **[P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2606.23256v1)** | 2026-06-22 |  |
+| **[Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning](https://arxiv.org/abs/2606.23199v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Emerging Topics in Computational Intelligence. Author-accepted manuscript</p></details> |
+| **[A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing](https://arxiv.org/abs/2603.21911v2)** | 2026-06-22 |  |
+| **[Segment-Level Mandarin Chinese Speech-Based Cognitive Impairment Detection via an Autoencoder with Contrastive Learning](https://arxiv.org/abs/2606.19996v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This manuscript was uploaded prematurely. The authors have identified substantial revisions that are required in the methodology, experimental design, and interpretation of results. To avoid potential confusion and citation of an incomplete version, the authors have decided to withdraw this version and prepare a substantially revised manuscript</p></details> |
+| **[Federated Learning for Global Carbon Emission Forecasting: A Hybrid Time-Series Approach with Statistical and Neural Models](https://arxiv.org/abs/2606.22618v1)** | 2026-06-21 | <details><summary>Appro...</summary><p>Approximately 22 pages, 5 figures, 15 tables. Submitted for journal publication</p></details> |
+| **[Structured Spectral Graph Representation Learning for Multi-label Abnormality Analysis from 3D CT Scans](https://arxiv.org/abs/2510.10779v5)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted at MELBA Journal 2026</p></details> |
+| **[Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307v1)** | 2026-06-21 |  |
+| **[BAC-JEPA: Label-Efficient Breast Arterial Calcification Segmentation via Synthetic Mammography-Guided Supervision](https://arxiv.org/abs/2606.22089v1)** | 2026-06-20 |  |
+| **[Morphology-Aware Multimodal Representation Learning for Insect Phylogenetic Reconstruction](https://arxiv.org/abs/2606.22077v1)** | 2026-06-20 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, and 2 tables</p></details> |
+| **[Learning by Shifting: Temporal View Construction for Time Series Contrastive Learning](https://arxiv.org/abs/2606.21957v1)** | 2026-06-20 | <details><summary>Publi...</summary><p>Published in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD)</p></details> |
+| **[Cohort-Anchored Foundation Models for Electronic Health Records: From Risk Scores to Auditable Peer Cohorts](https://arxiv.org/abs/2606.21885v1)** | 2026-06-20 |  |
+| **[Radial Basis Function Networks as Projection Heads in Self-Supervised Learning](https://arxiv.org/abs/2606.21590v1)** | 2026-06-19 | 20 pages, 2 figures |
 
