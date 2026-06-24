@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation](https://arxiv.org/abs/2606.24874v1)** | 2026-06-23 |  |
+| **[Learning Ego-Centric BEV Representations from a Perspective-Privileged View: Cross-View Supervision for Online HD Map Construction](https://arxiv.org/abs/2605.12218v2)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at the European Conference on Computer Vision (ECCV) 2026</p></details> |
+| **[Invariant Graph Representations for Continuous-Time Dynamic Graphs Under Distribution Shifts](https://arxiv.org/abs/2405.19062v2)** | 2026-06-23 |  |
+| **[Understanding Deep Representation Learning via Layerwise Feature Compression and Discrimination](https://arxiv.org/abs/2311.02960v5)** | 2026-06-23 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Machine Learning Research</p></details> |
+| **[Point-Voxel Absorbing Graph Representation Learning for Event Stream based Recognition](https://arxiv.org/abs/2306.05239v3)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted by International Conference on Robotics and Learning (ICRL) 2026</p></details> |
+| **[A Dual Edge Spatial Jacobian Image Graph for Interpretable Diabetic Retinopathy Grading](https://arxiv.org/abs/2606.24168v1)** | 2026-06-23 |  |
+| **[SBM With Multiple Samples: Improved Spectral Recovery](https://arxiv.org/abs/2606.24141v1)** | 2026-06-23 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, accepted at ICANN 2026</p></details> |
+| **[Quantifying Dimensional Independence in Speech: An Information-Theoretic Framework for Disentangled Representation Learning](https://arxiv.org/abs/2602.20592v2)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
+| **[DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs](https://arxiv.org/abs/2606.24089v1)** | 2026-06-23 | <details><summary>Comme...</summary><p>Comments: 8 pages, 7 figures, accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy](https://arxiv.org/abs/2606.23964v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. Code available at: https://github.com/marrlab/mae3d-opencell</p></details> |
+| **[HyMaTE: A Hybrid Mamba and Transformer Model for EHR Representation Learning](https://arxiv.org/abs/2509.24118v2)** | 2026-06-22 | <details><summary>Proce...</summary><p>Proceedings of the 16th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB), 2025</p></details> |
 | **[DiT-Reward: Generative Representations for Text-to-Image Reward Modeling](https://arxiv.org/abs/2606.23626v1)** | 2026-06-22 |  |
 | **[Patient-Aware Contrastive Learning Preserves Per-Patient Structure in RR-Interval Representations](https://arxiv.org/abs/2606.23570v1)** | 2026-06-22 |  |
 | **[Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Networks with Group Lasso Regularization](https://arxiv.org/abs/2507.03318v3)** | 2026-06-22 | 15 pages, 8 figures |
 | **[P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2606.23256v1)** | 2026-06-22 |  |
-| **[Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning](https://arxiv.org/abs/2606.23199v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Emerging Topics in Computational Intelligence. Author-accepted manuscript</p></details> |
-| **[A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing](https://arxiv.org/abs/2603.21911v2)** | 2026-06-22 |  |
-| **[Segment-Level Mandarin Chinese Speech-Based Cognitive Impairment Detection via an Autoencoder with Contrastive Learning](https://arxiv.org/abs/2606.19996v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This manuscript was uploaded prematurely. The authors have identified substantial revisions that are required in the methodology, experimental design, and interpretation of results. To avoid potential confusion and citation of an incomplete version, the authors have decided to withdraw this version and prepare a substantially revised manuscript</p></details> |
-| **[Federated Learning for Global Carbon Emission Forecasting: A Hybrid Time-Series Approach with Statistical and Neural Models](https://arxiv.org/abs/2606.22618v1)** | 2026-06-21 | <details><summary>Appro...</summary><p>Approximately 22 pages, 5 figures, 15 tables. Submitted for journal publication</p></details> |
-| **[Structured Spectral Graph Representation Learning for Multi-label Abnormality Analysis from 3D CT Scans](https://arxiv.org/abs/2510.10779v5)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted at MELBA Journal 2026</p></details> |
-| **[Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307v1)** | 2026-06-21 |  |
-| **[BAC-JEPA: Label-Efficient Breast Arterial Calcification Segmentation via Synthetic Mammography-Guided Supervision](https://arxiv.org/abs/2606.22089v1)** | 2026-06-20 |  |
-| **[Morphology-Aware Multimodal Representation Learning for Insect Phylogenetic Reconstruction](https://arxiv.org/abs/2606.22077v1)** | 2026-06-20 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, and 2 tables</p></details> |
-| **[Learning by Shifting: Temporal View Construction for Time Series Contrastive Learning](https://arxiv.org/abs/2606.21957v1)** | 2026-06-20 | <details><summary>Publi...</summary><p>Published in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD)</p></details> |
-| **[Cohort-Anchored Foundation Models for Electronic Health Records: From Risk Scores to Auditable Peer Cohorts](https://arxiv.org/abs/2606.21885v1)** | 2026-06-20 |  |
-| **[Radial Basis Function Networks as Projection Heads in Self-Supervised Learning](https://arxiv.org/abs/2606.21590v1)** | 2026-06-19 | 20 pages, 2 figures |
 
