@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2026
+title: Latest 15 Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation](https://arxiv.org/abs/2606.26016v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[KIGNet: Physics-Motivated Multi-Graph Representation Learning for Explainable Jet Tagging](https://arxiv.org/abs/2512.07420v3)** | 2026-06-24 | 23 pages, 4 figures |
+| **[ACT-JEPA: Novel Joint-Embedding Predictive Architecture for Efficient Policy Representation Learning](https://arxiv.org/abs/2501.14622v5)** | 2026-06-24 | Published version |
+| **[What Does the Brain See? Multiview Neural Representations to Demystify the Brain-Visual Alignment](https://arxiv.org/abs/2606.25718v1)** | 2026-06-24 |  |
+| **[Frequency-Aware Self-Supervised Music Representation Learning](https://arxiv.org/abs/2606.25713v1)** | 2026-06-24 | Submitted to TASLP |
+| **[BitNet Text Embeddings](https://arxiv.org/abs/2606.25674v1)** | 2026-06-24 | Under review |
+| **[To View Transform or Not to View Transform: NeRF-based Pre-training Perspective](https://arxiv.org/abs/2603.28090v2)** | 2026-06-24 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR'26)</p></details> |
+| **[Weight Space Representation Learning via Neural Field Adaptation](https://arxiv.org/abs/2512.01759v3)** | 2026-06-24 | <details><summary>9 pag...</summary><p>9 pages body, 9 pages appendix</p></details> |
+| **[Semantic Allocation in Ordered Bottlenecks: Predictive Residual Inference for Visual Representation Learning](https://arxiv.org/abs/2606.25232v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to ICANN 2026 main proceedings. 12 pages, 5 figures</p></details> |
+| **[MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning](https://arxiv.org/abs/2606.25225v1)** | 2026-06-23 |  |
+| **[Efficient Adaptive Data Acquisition via Pretrained Belief Representations](https://arxiv.org/abs/2606.25197v1)** | 2026-06-23 | Preprint |
+| **[Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model](https://arxiv.org/abs/2606.25176v1)** | 2026-06-23 | 13 pages |
 | **[FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation](https://arxiv.org/abs/2606.24874v1)** | 2026-06-23 |  |
 | **[Learning Ego-Centric BEV Representations from a Perspective-Privileged View: Cross-View Supervision for Online HD Map Construction](https://arxiv.org/abs/2605.12218v2)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at the European Conference on Computer Vision (ECCV) 2026</p></details> |
 | **[Invariant Graph Representations for Continuous-Time Dynamic Graphs Under Distribution Shifts](https://arxiv.org/abs/2405.19062v2)** | 2026-06-23 |  |
-| **[Understanding Deep Representation Learning via Layerwise Feature Compression and Discrimination](https://arxiv.org/abs/2311.02960v5)** | 2026-06-23 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Machine Learning Research</p></details> |
-| **[Point-Voxel Absorbing Graph Representation Learning for Event Stream based Recognition](https://arxiv.org/abs/2306.05239v3)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted by International Conference on Robotics and Learning (ICRL) 2026</p></details> |
-| **[A Dual Edge Spatial Jacobian Image Graph for Interpretable Diabetic Retinopathy Grading](https://arxiv.org/abs/2606.24168v1)** | 2026-06-23 |  |
-| **[SBM With Multiple Samples: Improved Spectral Recovery](https://arxiv.org/abs/2606.24141v1)** | 2026-06-23 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, accepted at ICANN 2026</p></details> |
-| **[Quantifying Dimensional Independence in Speech: An Information-Theoretic Framework for Disentangled Representation Learning](https://arxiv.org/abs/2602.20592v2)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
-| **[DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs](https://arxiv.org/abs/2606.24089v1)** | 2026-06-23 | <details><summary>Comme...</summary><p>Comments: 8 pages, 7 figures, accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy](https://arxiv.org/abs/2606.23964v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. Code available at: https://github.com/marrlab/mae3d-opencell</p></details> |
-| **[HyMaTE: A Hybrid Mamba and Transformer Model for EHR Representation Learning](https://arxiv.org/abs/2509.24118v2)** | 2026-06-22 | <details><summary>Proce...</summary><p>Proceedings of the 16th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB), 2025</p></details> |
-| **[DiT-Reward: Generative Representations for Text-to-Image Reward Modeling](https://arxiv.org/abs/2606.23626v1)** | 2026-06-22 |  |
-| **[Patient-Aware Contrastive Learning Preserves Per-Patient Structure in RR-Interval Representations](https://arxiv.org/abs/2606.23570v1)** | 2026-06-22 |  |
-| **[Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Networks with Group Lasso Regularization](https://arxiv.org/abs/2507.03318v3)** | 2026-06-22 | 15 pages, 8 figures |
-| **[P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2606.23256v1)** | 2026-06-22 |  |
 
