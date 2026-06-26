@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://arxiv.org/abs/2606.27313v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Graph Neural Networks Applications Across Domains: All Insights You Need](https://arxiv.org/abs/2606.27202v1)** | 2026-06-25 |  |
+| **[Modeling Local, Global, and Cross-Modal Context in Multimodal 3D MRI](https://arxiv.org/abs/2606.26894v1)** | 2026-06-25 |  |
+| **[Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction](https://arxiv.org/abs/2606.26812v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[Patent Representation Learning via Self-supervision](https://arxiv.org/abs/2511.10657v2)** | 2026-06-25 |  |
+| **[Temporally Consistent Label Interpolation for Robust Surgical Multi-Task Learning under Challenging Conditions](https://arxiv.org/abs/2606.26634v1)** | 2026-06-25 | 17pages, 16figures |
+| **[Sketched Linear Contrastive Learning: Approximation, Optimization, and Statistical Scaling](https://arxiv.org/abs/2606.26617v1)** | 2026-06-25 | 34 pages, 4 figures |
+| **[WQ-Fusion: Dynamic Gated Attention for Cross-Domain Audio Representation](https://arxiv.org/abs/2606.26556v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2026</p></details> |
+| **[Learning Language-Driven Sequence-Level Modal-Invariant Representations for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2601.12062v2)** | 2026-06-25 |  |
+| **[A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks](https://arxiv.org/abs/2606.26212v1)** | 2026-06-24 |  |
 | **[MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation](https://arxiv.org/abs/2606.26016v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Federated Hash Projected Latent Factor Learning](https://arxiv.org/abs/2606.26192v1)** | 2026-06-24 |  |
 | **[KIGNet: Physics-Motivated Multi-Graph Representation Learning for Explainable Jet Tagging](https://arxiv.org/abs/2512.07420v3)** | 2026-06-24 | 23 pages, 4 figures |
 | **[ACT-JEPA: Novel Joint-Embedding Predictive Architecture for Efficient Policy Representation Learning](https://arxiv.org/abs/2501.14622v5)** | 2026-06-24 | Published version |
 | **[What Does the Brain See? Multiview Neural Representations to Demystify the Brain-Visual Alignment](https://arxiv.org/abs/2606.25718v1)** | 2026-06-24 |  |
-| **[Frequency-Aware Self-Supervised Music Representation Learning](https://arxiv.org/abs/2606.25713v1)** | 2026-06-24 | Submitted to TASLP |
-| **[BitNet Text Embeddings](https://arxiv.org/abs/2606.25674v1)** | 2026-06-24 | Under review |
-| **[To View Transform or Not to View Transform: NeRF-based Pre-training Perspective](https://arxiv.org/abs/2603.28090v2)** | 2026-06-24 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR'26)</p></details> |
-| **[Weight Space Representation Learning via Neural Field Adaptation](https://arxiv.org/abs/2512.01759v3)** | 2026-06-24 | <details><summary>9 pag...</summary><p>9 pages body, 9 pages appendix</p></details> |
-| **[Semantic Allocation in Ordered Bottlenecks: Predictive Residual Inference for Visual Representation Learning](https://arxiv.org/abs/2606.25232v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to ICANN 2026 main proceedings. 12 pages, 5 figures</p></details> |
-| **[MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning](https://arxiv.org/abs/2606.25225v1)** | 2026-06-23 |  |
-| **[Efficient Adaptive Data Acquisition via Pretrained Belief Representations](https://arxiv.org/abs/2606.25197v1)** | 2026-06-23 | Preprint |
-| **[Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model](https://arxiv.org/abs/2606.25176v1)** | 2026-06-23 | 13 pages |
-| **[FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation](https://arxiv.org/abs/2606.24874v1)** | 2026-06-23 |  |
-| **[Learning Ego-Centric BEV Representations from a Perspective-Privileged View: Cross-View Supervision for Online HD Map Construction](https://arxiv.org/abs/2605.12218v2)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at the European Conference on Computer Vision (ECCV) 2026</p></details> |
-| **[Invariant Graph Representations for Continuous-Time Dynamic Graphs Under Distribution Shifts](https://arxiv.org/abs/2405.19062v2)** | 2026-06-23 |  |
 
