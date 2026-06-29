@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 28, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MeDUET: Disentangled Unified Pretraining for 3D Medical Image Synthesis and Analysis](https://arxiv.org/abs/2602.17901v3)** | 2026-06-26 |  |
+| **[Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts](https://arxiv.org/abs/2606.28228v1)** | 2026-06-26 |  |
+| **[Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection](https://arxiv.org/abs/2606.28134v1)** | 2026-06-26 |  |
+| **[Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH'26</p></details> |
+| **[Curriculum-guided Change Detection Training: Toward Accurate Serac Fall Monitoring](https://arxiv.org/abs/2606.28012v1)** | 2026-06-26 | <details><summary>Prepr...</summary><p>Preprint, 11 pages, 5 figures</p></details> |
+| **[GNBAN: Graph Neural Basis Attention Networks for Long-Horizon Forecasting over Large Entity Sets](https://arxiv.org/abs/2606.27863v1)** | 2026-06-26 | 12 pages, 3 Figure |
+| **[SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks](https://arxiv.org/abs/2606.27807v1)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. 16 pages, 9 figures</p></details> |
+| **[Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding](https://arxiv.org/abs/2604.02546v2)** | 2026-06-26 | <details><summary>This ...</summary><p>This paper requires substantial refinement for the camera-ready version, including revisions to the title, experimental results, and discussion</p></details> |
+| **[Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation](https://arxiv.org/abs/2606.27681v1)** | 2026-06-26 |  |
+| **[Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings](https://arxiv.org/abs/2606.27672v1)** | 2026-06-26 | <details><summary>Submi...</summary><p>Submitted to IEEE SENSORS 2026</p></details> |
+| **[Beyond MoCap: Scaling Motion Tokenizers with Synthetic Human Motion for Generative Modeling](https://arxiv.org/abs/2606.27547v1)** | 2026-06-25 |  |
+| **[ReWorld: Learning Better Representations for World Action Models](https://arxiv.org/abs/2606.27504v1)** | 2026-06-25 | 19 pages,3 figures |
 | **[ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://arxiv.org/abs/2606.27313v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[Graph Neural Networks Applications Across Domains: All Insights You Need](https://arxiv.org/abs/2606.27202v1)** | 2026-06-25 |  |
 | **[Modeling Local, Global, and Cross-Modal Context in Multimodal 3D MRI](https://arxiv.org/abs/2606.26894v1)** | 2026-06-25 |  |
-| **[Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction](https://arxiv.org/abs/2606.26812v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[Patent Representation Learning via Self-supervision](https://arxiv.org/abs/2511.10657v2)** | 2026-06-25 |  |
-| **[Temporally Consistent Label Interpolation for Robust Surgical Multi-Task Learning under Challenging Conditions](https://arxiv.org/abs/2606.26634v1)** | 2026-06-25 | 17pages, 16figures |
-| **[Sketched Linear Contrastive Learning: Approximation, Optimization, and Statistical Scaling](https://arxiv.org/abs/2606.26617v1)** | 2026-06-25 | 34 pages, 4 figures |
-| **[WQ-Fusion: Dynamic Gated Attention for Cross-Domain Audio Representation](https://arxiv.org/abs/2606.26556v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2026</p></details> |
-| **[Learning Language-Driven Sequence-Level Modal-Invariant Representations for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2601.12062v2)** | 2026-06-25 |  |
-| **[A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks](https://arxiv.org/abs/2606.26212v1)** | 2026-06-24 |  |
-| **[MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation](https://arxiv.org/abs/2606.26016v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Federated Hash Projected Latent Factor Learning](https://arxiv.org/abs/2606.26192v1)** | 2026-06-24 |  |
-| **[KIGNet: Physics-Motivated Multi-Graph Representation Learning for Explainable Jet Tagging](https://arxiv.org/abs/2512.07420v3)** | 2026-06-24 | 23 pages, 4 figures |
-| **[ACT-JEPA: Novel Joint-Embedding Predictive Architecture for Efficient Policy Representation Learning](https://arxiv.org/abs/2501.14622v5)** | 2026-06-24 | Published version |
-| **[What Does the Brain See? Multiview Neural Representations to Demystify the Brain-Visual Alignment](https://arxiv.org/abs/2606.25718v1)** | 2026-06-24 |  |
 
