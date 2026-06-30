@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -24,6 +24,7 @@ labels: documentation
 | --- | --- | --- |
 | **[URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios](https://arxiv.org/abs/2606.23291v1)** | 2026-06-22 |  |
 | **[MOTOR: Learning ID-free Item Representation with Token Crossing for Embedding-based Multimodal Recommendation](https://arxiv.org/abs/2410.19276v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by ECML-PKDD 2026</p></details> |
+| **[ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation](https://arxiv.org/abs/2606.28357v1)** | 2026-06-08 | <details><summary>The 6...</summary><p>The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
 | **[Teach Multimodal Recommendation Model to See via Personalized Visual Extraction and Adaptive Learning](https://arxiv.org/abs/2606.09082v1)** | 2026-06-08 |  |
 | **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v5)** | 2026-06-02 |  |
 | **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v2)** | 2026-05-25 | Under Review |
@@ -36,24 +37,23 @@ labels: documentation
 | **[TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation](https://arxiv.org/abs/2604.26247v1)** | 2026-04-29 |  |
 | **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
 | **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v2)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to SIGIR '26</p></details> |
-| **[Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation](https://arxiv.org/abs/2604.14839v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2026</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MeDUET: Disentangled Unified Pretraining for 3D Medical Image Synthesis and Analysis](https://arxiv.org/abs/2602.17901v3)** | 2026-06-26 |  |
-| **[Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts](https://arxiv.org/abs/2606.28228v1)** | 2026-06-26 |  |
-| **[Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection](https://arxiv.org/abs/2606.28134v1)** | 2026-06-26 |  |
-| **[Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH'26</p></details> |
-| **[Curriculum-guided Change Detection Training: Toward Accurate Serac Fall Monitoring](https://arxiv.org/abs/2606.28012v1)** | 2026-06-26 | <details><summary>Prepr...</summary><p>Preprint, 11 pages, 5 figures</p></details> |
-| **[GNBAN: Graph Neural Basis Attention Networks for Long-Horizon Forecasting over Large Entity Sets](https://arxiv.org/abs/2606.27863v1)** | 2026-06-26 | 12 pages, 3 Figure |
-| **[SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks](https://arxiv.org/abs/2606.27807v1)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. 16 pages, 9 figures</p></details> |
-| **[Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding](https://arxiv.org/abs/2604.02546v2)** | 2026-06-26 | <details><summary>This ...</summary><p>This paper requires substantial refinement for the camera-ready version, including revisions to the title, experimental results, and discussion</p></details> |
-| **[Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation](https://arxiv.org/abs/2606.27681v1)** | 2026-06-26 |  |
-| **[Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings](https://arxiv.org/abs/2606.27672v1)** | 2026-06-26 | <details><summary>Submi...</summary><p>Submitted to IEEE SENSORS 2026</p></details> |
-| **[Beyond MoCap: Scaling Motion Tokenizers with Synthetic Human Motion for Generative Modeling](https://arxiv.org/abs/2606.27547v1)** | 2026-06-25 |  |
-| **[ReWorld: Learning Better Representations for World Action Models](https://arxiv.org/abs/2606.27504v1)** | 2026-06-25 | 19 pages,3 figures |
-| **[ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://arxiv.org/abs/2606.27313v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Graph Neural Networks Applications Across Domains: All Insights You Need](https://arxiv.org/abs/2606.27202v1)** | 2026-06-25 |  |
-| **[Modeling Local, Global, and Cross-Modal Context in Multimodal 3D MRI](https://arxiv.org/abs/2606.26894v1)** | 2026-06-25 |  |
+| **[Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing](https://arxiv.org/abs/2606.30555v1)** | 2026-06-29 | <details><summary>8 pag...</summary><p>8 pages (9 more for appendix), 3 figures. Published at the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
+| **[Energy-Efficient Plant Monitoring via Knowledge Distillation](https://arxiv.org/abs/2604.27178v2)** | 2026-06-29 |  |
+| **[Self-Supervised Learning of Plant Image Representations](https://arxiv.org/abs/2604.27538v2)** | 2026-06-29 |  |
+| **[Muon learns balanced solutions in matrix factorization without slow saddle-to-saddle dynamics](https://arxiv.org/abs/2606.30509v1)** | 2026-06-29 |  |
+| **[OLIVE: View-Augmented Latent Prediction with Waveform Reconstruction for Speech SSL](https://arxiv.org/abs/2606.30356v1)** | 2026-06-29 |  |
+| **[Semantic-Driven Scale and Spatial Selection for Efficient Cross-Modal Alignment in Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2606.30244v1)** | 2026-06-29 | Submitted |
+| **[Representation Learning for Equivariant Inference with Guarantees](https://arxiv.org/abs/2505.19809v3)** | 2026-06-29 | <details><summary>67 pa...</summary><p>67 pages, 22 figures, accepted to International Conference on Machine Learning (ICML-2026)</p></details> |
+| **[3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification](https://arxiv.org/abs/2604.26520v2)** | 2026-06-29 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, accepted to the European Conference on Computer Vision (ECCV) 2026</p></details> |
+| **[Private Federated Learning for High-dimensional Time Series](https://arxiv.org/abs/2604.07135v2)** | 2026-06-29 |  |
+| **[Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation](https://arxiv.org/abs/2602.19778v4)** | 2026-06-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 4 tables. Accepted to DAFx26</p></details> |
+| **[Dynamic High-frequency Convolution for Infrared Small Target Detection](https://arxiv.org/abs/2602.02969v2)** | 2026-06-29 |  |
+| **[Frequency-Aware Self-Supervised Music Representation Learning](https://arxiv.org/abs/2606.25713v2)** | 2026-06-29 | Submitted to TASLP |
+| **[HomeDiffusion: Zero-Shot Object Customization with Multi-View Representation Learning for Indoor Scenes](https://arxiv.org/abs/2606.29828v1)** | 2026-06-29 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 6 tables</p></details> |
+| **[DRESS: Disentangled Representation-based Self-Supervised Meta-Learning for Diverse Tasks](https://arxiv.org/abs/2503.09679v2)** | 2026-06-29 | <details><summary>12 pa...</summary><p>12 pages, 12 figures (including figures in the Appendix). An earlier version of the paper has been presented at the Self-Supervised Learning workshop at the 2024 NeurIPS conference</p></details> |
+| **[SonoCLIP: Mask-Guided Region-Aware Vision-Language Pretraining for Fetal Ultrasound Analysis](https://arxiv.org/abs/2606.29586v1)** | 2026-06-28 |  |
 
