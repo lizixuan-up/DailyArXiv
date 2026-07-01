@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2026
+title: Latest 15 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing](https://arxiv.org/abs/2606.30555v1)** | 2026-06-29 | <details><summary>8 pag...</summary><p>8 pages (9 more for appendix), 3 figures. Published at the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
-| **[Energy-Efficient Plant Monitoring via Knowledge Distillation](https://arxiv.org/abs/2604.27178v2)** | 2026-06-29 |  |
-| **[Self-Supervised Learning of Plant Image Representations](https://arxiv.org/abs/2604.27538v2)** | 2026-06-29 |  |
-| **[Muon learns balanced solutions in matrix factorization without slow saddle-to-saddle dynamics](https://arxiv.org/abs/2606.30509v1)** | 2026-06-29 |  |
-| **[OLIVE: View-Augmented Latent Prediction with Waveform Reconstruction for Speech SSL](https://arxiv.org/abs/2606.30356v1)** | 2026-06-29 |  |
-| **[Semantic-Driven Scale and Spatial Selection for Efficient Cross-Modal Alignment in Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2606.30244v1)** | 2026-06-29 | Submitted |
-| **[Representation Learning for Equivariant Inference with Guarantees](https://arxiv.org/abs/2505.19809v3)** | 2026-06-29 | <details><summary>67 pa...</summary><p>67 pages, 22 figures, accepted to International Conference on Machine Learning (ICML-2026)</p></details> |
-| **[3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification](https://arxiv.org/abs/2604.26520v2)** | 2026-06-29 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, accepted to the European Conference on Computer Vision (ECCV) 2026</p></details> |
-| **[Private Federated Learning for High-dimensional Time Series](https://arxiv.org/abs/2604.07135v2)** | 2026-06-29 |  |
-| **[Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation](https://arxiv.org/abs/2602.19778v4)** | 2026-06-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 4 tables. Accepted to DAFx26</p></details> |
-| **[Dynamic High-frequency Convolution for Infrared Small Target Detection](https://arxiv.org/abs/2602.02969v2)** | 2026-06-29 |  |
-| **[Frequency-Aware Self-Supervised Music Representation Learning](https://arxiv.org/abs/2606.25713v2)** | 2026-06-29 | Submitted to TASLP |
-| **[HomeDiffusion: Zero-Shot Object Customization with Multi-View Representation Learning for Indoor Scenes](https://arxiv.org/abs/2606.29828v1)** | 2026-06-29 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 6 tables</p></details> |
-| **[DRESS: Disentangled Representation-based Self-Supervised Meta-Learning for Diverse Tasks](https://arxiv.org/abs/2503.09679v2)** | 2026-06-29 | <details><summary>12 pa...</summary><p>12 pages, 12 figures (including figures in the Appendix). An earlier version of the paper has been presented at the Self-Supervised Learning workshop at the 2024 NeurIPS conference</p></details> |
-| **[SonoCLIP: Mask-Guided Region-Aware Vision-Language Pretraining for Fetal Ultrasound Analysis](https://arxiv.org/abs/2606.29586v1)** | 2026-06-28 |  |
+| **[FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning](https://arxiv.org/abs/2606.32016v1)** | 2026-06-30 |  |
+| **[TacGen: Touch Is a Necessary Dimension of Physical-World Representation -- Addressing Tactile Data Scarcity with Scalable Vision-to-Touch Alignment and Generation](https://arxiv.org/abs/2606.29173v2)** | 2026-06-30 | 49 pages, 29 figures |
+| **[ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://arxiv.org/abs/2606.27313v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Rhythm-Structured Predictive Learning for Remote Photoplethysmography](https://arxiv.org/abs/2606.31736v1)** | 2026-06-30 |  |
+| **[Diffusing Blame: Task-Dependent Credit Assignment in Biologically Plausible Dual-Stream Networks](https://arxiv.org/abs/2606.31700v1)** | 2026-06-30 | ALIFE2026 |
+| **[Mitigating Positional Leakage in 3D Masked Autoencoders for Robust Representation Learning](https://arxiv.org/abs/2606.31570v1)** | 2026-06-30 |  |
+| **[Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models](https://arxiv.org/abs/2606.31397v1)** | 2026-06-30 | <details><summary>ICML ...</summary><p>ICML 2026 Workshop on Connecting Low-rank Representations in AI, CoLoRAI, 26 pages, 12 figures, 5 tables</p></details> |
+| **[PGUDA: Pressure-Guided Unsupervised Domain Adaptation with Cross-Modal Knowledge Distillation for sEMG-Based Gesture Recognition](https://arxiv.org/abs/2606.31349v1)** | 2026-06-30 |  |
+| **[Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning](https://arxiv.org/abs/2510.14819v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Knowledge and Data Engineering</p></details> |
+| **[Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding](https://arxiv.org/abs/2606.31232v1)** | 2026-06-30 |  |
+| **[Can Tabular In-Context Learners Generalize to Biomolecular Property Prediction?](https://arxiv.org/abs/2606.31126v1)** | 2026-06-30 |  |
+| **[Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation](https://arxiv.org/abs/2511.16757v2)** | 2026-06-29 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code available at https://github.com/AudenAI/Auden</p></details> |
+| **[NetVAD: Foundation-Model Representation Learning for Identifier-Free Unsupervised Intrusion Detection](https://arxiv.org/abs/2606.01452v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted at IEEE Intelligent Conference on Intelligence and Security Informatics (ISI)</p></details> |
+| **[Symmetry in language statistics shapes the geometry of model representations](https://arxiv.org/abs/2602.15029v3)** | 2026-06-29 | ICML 2026 |
+| **[MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation](https://arxiv.org/abs/2606.26016v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
