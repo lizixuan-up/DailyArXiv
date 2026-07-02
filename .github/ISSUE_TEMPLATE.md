@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LeNEPA: No-Augmentation Next-Latent Prediction for Time-Series Representation Learning](https://arxiv.org/abs/2607.00958v1)** | 2026-07-01 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables; accepted by the 12th Mining and Learning from Time Series (KDD MILETS 2026); source code and artifacts: https://github.com/langotime/lenepa-milets-2026</p></details> |
+| **[FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning](https://arxiv.org/abs/2603.22969v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Mirror-Fusion Attention for Reflection-Aware Self-Supervised Representation Learning](https://arxiv.org/abs/2607.00850v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted at ECML PKDD 2026. The final authenticated version will be available in the Springer LNCS proceedings</p></details> |
+| **[ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction](https://arxiv.org/abs/2607.00798v1)** | 2026-07-01 | 11 pages, 5 figures |
+| **[Fraud is Not Just Rarity: A Causal Prototype Attention Approach to Realistic Synthetic Oversampling](https://arxiv.org/abs/2507.14706v2)** | 2026-07-01 | 27 pages, 15 figures |
+| **[FrameONE: Hierarchical Motion Modeling for Universal Multi-View Echocardiographic Keyframe Detection](https://arxiv.org/abs/2607.00748v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026. 10 pages, 4 figures</p></details> |
+| **[Identifying Latent Concepts and Structures for Generalized Category Discovery](https://arxiv.org/abs/2607.00620v1)** | 2026-07-01 | <details><summary>This ...</summary><p>This paper has been accepted by ICML2026</p></details> |
+| **[BrainFIBRE: A Foundation Model via Information Decomposition for Brain Microstructure](https://arxiv.org/abs/2607.00573v1)** | 2026-07-01 | <details><summary>ECCV ...</summary><p>ECCV 2026. The first three authors contributed equally</p></details> |
+| **[Cross4D-JEPA: Dense Cross-modal Correspondence Distillation for 4D Point Cloud Representation Learning](https://arxiv.org/abs/2607.00514v1)** | 2026-07-01 |  |
+| **[PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.01359v3)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[Information-Regularized Attention for Visual-Centric Reasoning](https://arxiv.org/abs/2607.00434v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[SAOT: Self-Supervised Continual Graph Learning with Structure-Aware Optimal Transport](https://arxiv.org/abs/2607.00377v1)** | 2026-07-01 | <details><summary>The p...</summary><p>The paper has 9 pages of text and 13 pages in total (including acknowledgments, impact statement, references, and appendix), with 6 figures and 4 tables. This paper has been accepted by ICML 2026 conference and this is a final version of the manuscript submitted to the conference</p></details> |
+| **[MEPA: Multi-Scale Representation Alignment for Visual Autoregressive Modeling with Mixture of Experts](https://arxiv.org/abs/2607.00371v1)** | 2026-07-01 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 8 tables, Accepted at ECCV 2026</p></details> |
 | **[FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning](https://arxiv.org/abs/2606.32016v1)** | 2026-06-30 |  |
 | **[TacGen: Touch Is a Necessary Dimension of Physical-World Representation -- Addressing Tactile Data Scarcity with Scalable Vision-to-Touch Alignment and Generation](https://arxiv.org/abs/2606.29173v2)** | 2026-06-30 | 49 pages, 29 figures |
-| **[ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://arxiv.org/abs/2606.27313v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Rhythm-Structured Predictive Learning for Remote Photoplethysmography](https://arxiv.org/abs/2606.31736v1)** | 2026-06-30 |  |
-| **[Diffusing Blame: Task-Dependent Credit Assignment in Biologically Plausible Dual-Stream Networks](https://arxiv.org/abs/2606.31700v1)** | 2026-06-30 | ALIFE2026 |
-| **[Mitigating Positional Leakage in 3D Masked Autoencoders for Robust Representation Learning](https://arxiv.org/abs/2606.31570v1)** | 2026-06-30 |  |
-| **[Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models](https://arxiv.org/abs/2606.31397v1)** | 2026-06-30 | <details><summary>ICML ...</summary><p>ICML 2026 Workshop on Connecting Low-rank Representations in AI, CoLoRAI, 26 pages, 12 figures, 5 tables</p></details> |
-| **[PGUDA: Pressure-Guided Unsupervised Domain Adaptation with Cross-Modal Knowledge Distillation for sEMG-Based Gesture Recognition](https://arxiv.org/abs/2606.31349v1)** | 2026-06-30 |  |
-| **[Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning](https://arxiv.org/abs/2510.14819v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Knowledge and Data Engineering</p></details> |
-| **[Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding](https://arxiv.org/abs/2606.31232v1)** | 2026-06-30 |  |
-| **[Can Tabular In-Context Learners Generalize to Biomolecular Property Prediction?](https://arxiv.org/abs/2606.31126v1)** | 2026-06-30 |  |
-| **[Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation](https://arxiv.org/abs/2511.16757v2)** | 2026-06-29 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code available at https://github.com/AudenAI/Auden</p></details> |
-| **[NetVAD: Foundation-Model Representation Learning for Identifier-Free Unsupervised Intrusion Detection](https://arxiv.org/abs/2606.01452v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted at IEEE Intelligent Conference on Intelligence and Security Informatics (ISI)</p></details> |
-| **[Symmetry in language statistics shapes the geometry of model representations](https://arxiv.org/abs/2602.15029v3)** | 2026-06-29 | ICML 2026 |
-| **[MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation](https://arxiv.org/abs/2606.26016v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
