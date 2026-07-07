@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 06, 2026
+title: Latest 15 Papers - July 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EGRA:Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation](https://arxiv.org/abs/2508.16170v2)** | 2026-07-06 |  |
 | **[URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios](https://arxiv.org/abs/2606.23291v1)** | 2026-06-22 |  |
 | **[MOTOR: Learning ID-free Item Representation with Token Crossing for Embedding-based Multimodal Recommendation](https://arxiv.org/abs/2410.19276v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by ECML-PKDD 2026</p></details> |
 | **[ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation](https://arxiv.org/abs/2606.28357v1)** | 2026-06-08 | <details><summary>The 6...</summary><p>The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
@@ -36,24 +37,23 @@ labels: documentation
 | **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v3)** | 2026-04-30 |  |
 | **[TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation](https://arxiv.org/abs/2604.26247v1)** | 2026-04-29 |  |
 | **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
-| **[Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/abs/2512.06883v2)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to SIGIR '26</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual Analytics of Neighborhood Attribute Profiles for Exploring Structural Equivalence](https://arxiv.org/abs/2607.02163v1)** | 2026-07-02 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. Accepted as a Short Paper at IEEE VIS 2026</p></details> |
-| **[Multimodal Fusion for Fine-Grained Classification of Breast Fibroadenoma and Phyllodes Tumors](https://arxiv.org/abs/2607.02091v1)** | 2026-07-02 |  |
-| **[A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA](https://arxiv.org/abs/2504.03711v2)** | 2026-07-02 |  |
-| **[Low-Latency Task-Oriented Image Transmission with Opportunistic Spectrum Access](https://arxiv.org/abs/2607.01921v1)** | 2026-07-02 | <details><summary>This ...</summary><p>This work has been accepted for presentation at IEEE SPAWC 2026</p></details> |
-| **[Pattern-Calibrated Multimodal Prediction under Blockwise Missingness](https://arxiv.org/abs/2607.01821v1)** | 2026-07-02 |  |
-| **[Role-Aware Neural Convex Divergence Heads for Asymmetric Representation Learning](https://arxiv.org/abs/2607.01762v1)** | 2026-07-02 |  |
-| **[When Do Conservation Laws Survive Learned Representations? Certified Horizons for Latent World Models](https://arxiv.org/abs/2606.24945v2)** | 2026-07-02 | <details><summary>16 pa...</summary><p>16 pages, including appendices. v2: second soft-survival system (Duffing double well, pre-registered) with a linear-oscillator anchor; 5-seed and step-size hardening of the state-Kepler result; 8-seed SympNet confirmation of the lift null. Code: https://github.com/TimothyWang418/se3-ejepa</p></details> |
-| **[MKGR: Multimodal Knowledge-Graph Representation Learning for Cold-Start Protein-Protein Interaction Prediction](https://arxiv.org/abs/2607.01627v1)** | 2026-07-02 |  |
-| **[A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](https://arxiv.org/abs/2601.04509v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Understanding Deep Representation Learning via Layerwise Feature Compression and Discrimination](https://arxiv.org/abs/2311.02960v6)** | 2026-07-02 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Machine Learning Research</p></details> |
-| **[RGB-Pointmap Pretraining for Unified 3D Scene Understanding](https://arxiv.org/abs/2604.02546v3)** | 2026-07-02 | <details><summary>19 Pa...</summary><p>19 Pages, ECCV 2026 Accepted</p></details> |
-| **[H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR](https://arxiv.org/abs/2607.01566v1)** | 2026-07-02 |  |
-| **[NeuroBridge: Bridging Multi-Task MRI Knowledge for Neurodegenerative Disease Diagnosis](https://arxiv.org/abs/2607.01401v1)** | 2026-07-01 | 5 figures. 3 tables |
-| **[On the Asymptotics of Self-Supervised Pre-training: Two-Stage M-Estimation and Representation Symmetry](https://arxiv.org/abs/2603.27631v2)** | 2026-07-01 | <details><summary>Confe...</summary><p>Conference on Learning Theory, 6197-6309</p></details> |
-| **[LeNEPA: No-Augmentation Next-Latent Prediction for Time-Series Representation Learning](https://arxiv.org/abs/2607.00958v1)** | 2026-07-01 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables; accepted by the 12th Mining and Learning from Time Series (KDD MILETS 2026); source code and artifacts: https://github.com/langotime/lenepa-milets-2026</p></details> |
+| **[Steering Optimisation Trajectories in Diffusion Representation Learning](https://arxiv.org/abs/2607.05319v1)** | 2026-07-06 |  |
+| **[Learning Probabilistic Embeddings for Unsupervised Action Segmentation](https://arxiv.org/abs/2607.05263v1)** | 2026-07-06 | ECCV2026 |
+| **[A Transformer-Based Contrastive Learning Approach for Few-Shot Sign Language Recognition](https://arxiv.org/abs/2204.02803v2)** | 2026-07-06 |  |
+| **[Relational Multi-Agent Reinforcement Learning for Dynamic Pricing in High-Speed Railway Markets](https://arxiv.org/abs/2607.05179v1)** | 2026-07-06 | 46 pages, 14 figures |
+| **[Platonic Projection Structures: Operator-Induced Observability in Representation Learning](https://arxiv.org/abs/2607.05175v1)** | 2026-07-06 | <details><summary>29 pa...</summary><p>29 pages, 7 figures. Published in Entropy</p></details> |
+| **[Geometry-aware Depth-guided Representation Learning for Structure-preserving Low-light Image Enhancement](https://arxiv.org/abs/2607.05005v1)** | 2026-07-06 |  |
+| **[Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction](https://arxiv.org/abs/2607.04912v1)** | 2026-07-06 |  |
+| **[KinEMbed: Decoding Kinematics from Electromyography via Cross-Modal Contrastive Learning](https://arxiv.org/abs/2607.04820v1)** | 2026-07-06 | <details><summary>ICML ...</summary><p>ICML 2026 Workshop on Structured Data for Health, Seoul, South Korea</p></details> |
+| **[Hierarchical Scaffolding Enables Human-Like Cognitive Selectivity under Data Scarcity](https://arxiv.org/abs/2607.04709v1)** | 2026-07-06 |  |
+| **[Machine Learning for Depression Screening and Intervention: an Original Circadian Rhythm Score-based Methodology](https://arxiv.org/abs/2607.04648v1)** | 2026-07-06 |  |
+| **[Integrating Neural Encoders in Bayesian Generalized Linear Mixed Models for Multimodal Data](https://arxiv.org/abs/2607.04647v1)** | 2026-07-06 | 21 pages, 5 figures |
+| **[CRISP: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining](https://arxiv.org/abs/2607.04541v1)** | 2026-07-05 | <details><summary>17 pa...</summary><p>17 pages, under review</p></details> |
+| **[A non-invasive video-based method for individual identification of wildlife using gait dynamics](https://arxiv.org/abs/2607.04518v1)** | 2026-07-05 | <details><summary>This ...</summary><p>This article is under review in "Methods in Ecology and Evalution"</p></details> |
+| **[EVAS: Efficient Multimodal Temporal Forgery Localization via Audio-Visual Synergy and Steered Boundary Calibration](https://arxiv.org/abs/2607.04472v1)** | 2026-07-05 |  |
+| **[Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961v2)** | 2026-07-05 |  |
 
