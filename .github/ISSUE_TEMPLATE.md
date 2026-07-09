@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization](https://arxiv.org/abs/2607.07682v1)** | 2026-07-08 |  |
+| **[TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500v1)** | 2026-07-08 |  |
+| **[Hypergraph Neural Stochastic Diffusion: An SDE Framework for Uncertainty Estimation](https://arxiv.org/abs/2607.07330v1)** | 2026-07-08 | 26 pages,6 figures |
+| **[Research on Domain Information Mining and Theme Evolution of Scientific Papers](https://arxiv.org/abs/2204.08476v2)** | 2026-07-08 | 6 pages, 0 figures |
+| **[MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation](https://arxiv.org/abs/2606.26016v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference](https://arxiv.org/abs/2602.22590v2)** | 2026-07-08 |  |
+| **[Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors](https://arxiv.org/abs/2510.04758v3)** | 2026-07-08 |  |
+| **[Can Tabular In-Context Learners Generalize to Biomolecular Property Prediction?](https://arxiv.org/abs/2606.31126v2)** | 2026-07-08 |  |
+| **[HPR-SAM: Hierarchical Probabilistic Representation Learning for Prompt-free SAM-based Medical Image Segmentation](https://arxiv.org/abs/2607.06972v1)** | 2026-07-08 | 9 pages, 4 figures |
+| **[Can We Really Learn One Representation to Optimize All Rewards?](https://arxiv.org/abs/2602.11399v2)** | 2026-07-08 |  |
+| **[Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks](https://arxiv.org/abs/2607.05419v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Neural Networks and Learning Systems</p></details> |
+| **[Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted Measures on Manifolds](https://arxiv.org/abs/2607.06696v1)** | 2026-07-07 |  |
 | **[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval](https://arxiv.org/abs/2601.09159v4)** | 2026-07-07 | Accepted to ACL 2026 |
 | **[XRFormer: Multiscale Tokenization for XRF Representation Learning](https://arxiv.org/abs/2607.06424v1)** | 2026-07-07 | <details><summary>Inter...</summary><p>International Conference on Pattern Recognition, 2026</p></details> |
 | **[TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://arxiv.org/abs/2601.21135v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Camera-ready version</p></details> |
-| **[What Images Cannot Say: Language-Guided Olfactory Representation Learning](https://arxiv.org/abs/2607.06402v1)** | 2026-07-07 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page: https://www.lix.polytechnique.fr/vista/projects/2026_scent_tsonis/</p></details> |
-| **[Generalized Synthetic Image Detection with Enhanced RGB-Noise Representation Learning](https://arxiv.org/abs/2607.06354v1)** | 2026-07-07 |  |
-| **[UniField: A Unified Field-Aware MRI Enhancement Framework](https://arxiv.org/abs/2603.09223v2)** | 2026-07-07 |  |
-| **[From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications](https://arxiv.org/abs/2308.16041v2)** | 2026-07-07 |  |
-| **[KOAL: Knowledge-Driven Prostate Cancer Grading with Ordinal-Aware Learning](https://arxiv.org/abs/2607.06019v1)** | 2026-07-07 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables. Accepted at MICCAI 2026. This is the submitted version prior to peer review. The final authenticated version will be available on SpringerLink</p></details> |
-| **[Blind Quality Enhancement of Compressed Video via Fine-Grained Degradation-Guided Sequential Inference](https://arxiv.org/abs/2511.16137v2)** | 2026-07-07 |  |
-| **[PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling](https://arxiv.org/abs/2607.03692v2)** | 2026-07-07 | Comments are welcome |
-| **[Signed-Graph Recommendation as Structural Consistency Maximization](https://arxiv.org/abs/2607.05952v1)** | 2026-07-07 |  |
-| **[GaussFusion: Towards Multimodal 3D Gaussian Pretraining](https://arxiv.org/abs/2607.05906v1)** | 2026-07-07 | <details><summary>32 pa...</summary><p>32 pages, 6 figures, 6 tables</p></details> |
-| **[$C^3$ASD: Multi-Level Consistency-Driven Representation Learning](https://arxiv.org/abs/2607.03018v2)** | 2026-07-07 | ECCV 2026 |
-| **[Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](https://arxiv.org/abs/2607.05736v1)** | 2026-07-07 | 14 pages, 3 figures |
-| **[Steering Optimisation Trajectories in Diffusion Representation Learning](https://arxiv.org/abs/2607.05319v1)** | 2026-07-06 |  |
 
