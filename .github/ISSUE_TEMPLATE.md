@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision](https://arxiv.org/abs/2601.21688v2)** | 2026-07-09 |  |
+| **[The Proxy Presumption: From Semantic Embeddings to Valid Social Measures](https://arxiv.org/abs/2605.07409v2)** | 2026-07-09 | <details><summary>ACL 2...</summary><p>ACL 2026 (Oral + SAC Highlight)</p></details> |
+| **[From Performance to Viability: A Bootstrap Framework for Latent-Space Representation Learning in Adaptive Biological Systems](https://arxiv.org/abs/2606.01374v2)** | 2026-07-09 | <details><summary>25 pa...</summary><p>25 pages. Methodological framework for latent-space representation learning in adaptive biological systems</p></details> |
+| **[Retrieval of Scientific and Technological Resources for Experts and Scholars](https://arxiv.org/abs/2204.06142v2)** | 2026-07-09 | 7 pages |
+| **[Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](https://arxiv.org/abs/2607.08465v1)** | 2026-07-09 |  |
+| **[Semantic Representation Learning of Scientific Literature based on Adaptive Feature and Graph Neural Network](https://arxiv.org/abs/2311.00296v2)** | 2026-07-09 | 7 pages |
+| **[Efficient Partitioning Method of Large-Scale Public Safety Spatio-Temporal Data based on Information Loss Constraints](https://arxiv.org/abs/2306.12857v3)** | 2026-07-09 | 6 pages |
+| **[Unpaired Joint Distribution Modeling via Multi-Scale Image Representations](https://arxiv.org/abs/2607.08198v1)** | 2026-07-09 |  |
+| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
+| **[Improving RCT-Based Treatment Effect Estimation Under Covariate Mismatch via Calibrated Alignment](https://arxiv.org/abs/2603.19186v3)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted at the 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026). Code: https://github.com/AsiaeeLab/calm-cate</p></details> |
+| **[VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness](https://arxiv.org/abs/2607.08112v1)** | 2026-07-09 |  |
+| **[MetaHGNIE: Meta-Path Induced Hypergraph Contrastive Learning in Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2512.12477v2)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Artificial Intelligence</p></details> |
+| **[Accurate Portraits of Scientific Resources and Knowledge Service Components](https://arxiv.org/abs/2204.04883v2)** | 2026-07-09 | 5 pages |
+| **[DKDNet: Dual Knowledge and Data-Driven Network for Cross-Domain Automatic Modulation Classification](https://arxiv.org/abs/2607.08031v1)** | 2026-07-09 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 9 tables</p></details> |
 | **[Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization](https://arxiv.org/abs/2607.07682v1)** | 2026-07-08 |  |
-| **[TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500v1)** | 2026-07-08 |  |
-| **[Hypergraph Neural Stochastic Diffusion: An SDE Framework for Uncertainty Estimation](https://arxiv.org/abs/2607.07330v1)** | 2026-07-08 | 26 pages,6 figures |
-| **[Research on Domain Information Mining and Theme Evolution of Scientific Papers](https://arxiv.org/abs/2204.08476v2)** | 2026-07-08 | 6 pages, 0 figures |
-| **[MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation](https://arxiv.org/abs/2606.26016v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference](https://arxiv.org/abs/2602.22590v2)** | 2026-07-08 |  |
-| **[Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors](https://arxiv.org/abs/2510.04758v3)** | 2026-07-08 |  |
-| **[Can Tabular In-Context Learners Generalize to Biomolecular Property Prediction?](https://arxiv.org/abs/2606.31126v2)** | 2026-07-08 |  |
-| **[HPR-SAM: Hierarchical Probabilistic Representation Learning for Prompt-free SAM-based Medical Image Segmentation](https://arxiv.org/abs/2607.06972v1)** | 2026-07-08 | 9 pages, 4 figures |
-| **[Can We Really Learn One Representation to Optimize All Rewards?](https://arxiv.org/abs/2602.11399v2)** | 2026-07-08 |  |
-| **[Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks](https://arxiv.org/abs/2607.05419v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Neural Networks and Learning Systems</p></details> |
-| **[Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted Measures on Manifolds](https://arxiv.org/abs/2607.06696v1)** | 2026-07-07 |  |
-| **[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval](https://arxiv.org/abs/2601.09159v4)** | 2026-07-07 | Accepted to ACL 2026 |
-| **[XRFormer: Multiscale Tokenization for XRF Representation Learning](https://arxiv.org/abs/2607.06424v1)** | 2026-07-07 | <details><summary>Inter...</summary><p>International Conference on Pattern Recognition, 2026</p></details> |
-| **[TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://arxiv.org/abs/2601.21135v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Camera-ready version</p></details> |
 
