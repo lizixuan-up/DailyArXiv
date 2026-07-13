@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Scenario Similarity Search for Autonomous Driving](https://arxiv.org/abs/2607.09428v1)** | 2026-07-10 |  |
+| **[Contrastive Learning on Multimodal Analysis of Electronic Health Records](https://arxiv.org/abs/2403.14926v3)** | 2026-07-10 |  |
+| **[Omni-Sleep: A Sleep Foundation Model via Hierarchical Contrastive Learning of CNS-ANS Dynamics](https://arxiv.org/abs/2607.07720v2)** | 2026-07-10 |  |
+| **[Joint-Embedding Predictive Architecture for Solar PV Panel Fault Classification](https://arxiv.org/abs/2607.09205v1)** | 2026-07-10 |  |
+| **[Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing](https://arxiv.org/abs/2607.09143v1)** | 2026-07-10 |  |
+| **[Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method](https://arxiv.org/abs/2607.09078v1)** | 2026-07-10 | <details><summary>18 pa...</summary><p>18 pages, 19 figures, 5 tables</p></details> |
+| **[Probing Diffusion Denoising Dynamics for Contrastive Representation Learning](https://arxiv.org/abs/2607.09067v1)** | 2026-07-10 |  |
+| **[3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy](https://arxiv.org/abs/2606.23964v2)** | 2026-07-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/marrlab/mae3d-opencell</p></details> |
+| **[CUPID: Reconstructing UV Texture Maps for Interpretable Person-of-Interest Deepfake Detection](https://arxiv.org/abs/2606.20302v2)** | 2026-07-09 |  |
+| **[How are linear representations learned? Exact solutions to the dynamics of abstraction](https://arxiv.org/abs/2607.08843v1)** | 2026-07-09 | 81 pages, 7 figures |
 | **[XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision](https://arxiv.org/abs/2601.21688v2)** | 2026-07-09 |  |
 | **[The Proxy Presumption: From Semantic Embeddings to Valid Social Measures](https://arxiv.org/abs/2605.07409v2)** | 2026-07-09 | <details><summary>ACL 2...</summary><p>ACL 2026 (Oral + SAC Highlight)</p></details> |
 | **[From Performance to Viability: A Bootstrap Framework for Latent-Space Representation Learning in Adaptive Biological Systems](https://arxiv.org/abs/2606.01374v2)** | 2026-07-09 | <details><summary>25 pa...</summary><p>25 pages. Methodological framework for latent-space representation learning in adaptive biological systems</p></details> |
 | **[Retrieval of Scientific and Technological Resources for Experts and Scholars](https://arxiv.org/abs/2204.06142v2)** | 2026-07-09 | 7 pages |
 | **[Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](https://arxiv.org/abs/2607.08465v1)** | 2026-07-09 |  |
-| **[Semantic Representation Learning of Scientific Literature based on Adaptive Feature and Graph Neural Network](https://arxiv.org/abs/2311.00296v2)** | 2026-07-09 | 7 pages |
-| **[Efficient Partitioning Method of Large-Scale Public Safety Spatio-Temporal Data based on Information Loss Constraints](https://arxiv.org/abs/2306.12857v3)** | 2026-07-09 | 6 pages |
-| **[Unpaired Joint Distribution Modeling via Multi-Scale Image Representations](https://arxiv.org/abs/2607.08198v1)** | 2026-07-09 |  |
-| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
-| **[Improving RCT-Based Treatment Effect Estimation Under Covariate Mismatch via Calibrated Alignment](https://arxiv.org/abs/2603.19186v3)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted at the 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026). Code: https://github.com/AsiaeeLab/calm-cate</p></details> |
-| **[VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness](https://arxiv.org/abs/2607.08112v1)** | 2026-07-09 |  |
-| **[MetaHGNIE: Meta-Path Induced Hypergraph Contrastive Learning in Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2512.12477v2)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Artificial Intelligence</p></details> |
-| **[Accurate Portraits of Scientific Resources and Knowledge Service Components](https://arxiv.org/abs/2204.04883v2)** | 2026-07-09 | 5 pages |
-| **[DKDNet: Dual Knowledge and Data-Driven Network for Cross-Domain Automatic Modulation Classification](https://arxiv.org/abs/2607.08031v1)** | 2026-07-09 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 9 tables</p></details> |
-| **[Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization](https://arxiv.org/abs/2607.07682v1)** | 2026-07-08 |  |
 
