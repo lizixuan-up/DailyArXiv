@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Scenario Similarity Search for Autonomous Driving](https://arxiv.org/abs/2607.09428v1)** | 2026-07-10 |  |
-| **[Contrastive Learning on Multimodal Analysis of Electronic Health Records](https://arxiv.org/abs/2403.14926v3)** | 2026-07-10 |  |
-| **[Omni-Sleep: A Sleep Foundation Model via Hierarchical Contrastive Learning of CNS-ANS Dynamics](https://arxiv.org/abs/2607.07720v2)** | 2026-07-10 |  |
-| **[Joint-Embedding Predictive Architecture for Solar PV Panel Fault Classification](https://arxiv.org/abs/2607.09205v1)** | 2026-07-10 |  |
-| **[Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing](https://arxiv.org/abs/2607.09143v1)** | 2026-07-10 |  |
-| **[Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method](https://arxiv.org/abs/2607.09078v1)** | 2026-07-10 | <details><summary>18 pa...</summary><p>18 pages, 19 figures, 5 tables</p></details> |
-| **[Probing Diffusion Denoising Dynamics for Contrastive Representation Learning](https://arxiv.org/abs/2607.09067v1)** | 2026-07-10 |  |
-| **[3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy](https://arxiv.org/abs/2606.23964v2)** | 2026-07-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/marrlab/mae3d-opencell</p></details> |
-| **[CUPID: Reconstructing UV Texture Maps for Interpretable Person-of-Interest Deepfake Detection](https://arxiv.org/abs/2606.20302v2)** | 2026-07-09 |  |
-| **[How are linear representations learned? Exact solutions to the dynamics of abstraction](https://arxiv.org/abs/2607.08843v1)** | 2026-07-09 | 81 pages, 7 figures |
-| **[XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision](https://arxiv.org/abs/2601.21688v2)** | 2026-07-09 |  |
-| **[The Proxy Presumption: From Semantic Embeddings to Valid Social Measures](https://arxiv.org/abs/2605.07409v2)** | 2026-07-09 | <details><summary>ACL 2...</summary><p>ACL 2026 (Oral + SAC Highlight)</p></details> |
-| **[From Performance to Viability: A Bootstrap Framework for Latent-Space Representation Learning in Adaptive Biological Systems](https://arxiv.org/abs/2606.01374v2)** | 2026-07-09 | <details><summary>25 pa...</summary><p>25 pages. Methodological framework for latent-space representation learning in adaptive biological systems</p></details> |
-| **[Retrieval of Scientific and Technological Resources for Experts and Scholars](https://arxiv.org/abs/2204.06142v2)** | 2026-07-09 | 7 pages |
-| **[Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](https://arxiv.org/abs/2607.08465v1)** | 2026-07-09 |  |
+| **[CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery](https://arxiv.org/abs/2607.11712v1)** | 2026-07-13 |  |
+| **[Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models](https://arxiv.org/abs/2606.07303v2)** | 2026-07-13 | <details><summary>25 pa...</summary><p>25 pages, 25 references, no figures or tables. Conceptual and theoretical framework on representational emergence, explanatory insufficiency, representation learning, world models, and autonomous artificial intelligence</p></details> |
+| **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v1)** | 2026-07-13 |  |
+| **[Metadata Supervised MRI Representations for Modelling and Controlling Acquisition Variability](https://arxiv.org/abs/2607.11295v1)** | 2026-07-13 |  |
+| **[pyMEAL: A Multi-Encoder Augmentation-Aware-Learning Toolbox for Robust Medical Image Translation](https://arxiv.org/abs/2505.24421v2)** | 2026-07-13 | <details><summary>46 pa...</summary><p>46 pages, 11 figures, 3 tables</p></details> |
+| **[Temporal Feature Distillation for Label-Efficient Precise Event Spotting in Sports Videos](https://arxiv.org/abs/2607.10998v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2026</p></details> |
+| **[Learning Anatomy-Grounded CT Vision-Language Representations with Organ-Hierarchical Report Knowledge](https://arxiv.org/abs/2607.10953v1)** | 2026-07-12 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
+| **[TOLiD: Bridging the Architecture Gap in Vision Foundation Model to LiDAR Pretraining via Token Lifting for Distillation](https://arxiv.org/abs/2607.10762v1)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted to The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
+| **[On the modality gap and the contrastive loss in multi-modal representation learning](https://arxiv.org/abs/2607.10698v1)** | 2026-07-12 |  |
+| **[Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection](https://arxiv.org/abs/2603.21511v3)** | 2026-07-12 | CVPR 2026 |
+| **[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/abs/2511.02776v3)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted to ICML2026 as Oral</p></details> |
+| **[Representation Learning for Semiparametric Causal Mediation Analysis under No Essential Heterogeneity](https://arxiv.org/abs/2607.10540v1)** | 2026-07-12 | 30 pages, 2 figures |
+| **[Emergent Generalization by Representation Learning in Artificial Neural Networks](https://arxiv.org/abs/2607.10430v1)** | 2026-07-11 |  |
+| **[SPORT: Structure-Aware Prototype Disentanglement for Incomplete Multi-View Clustering](https://arxiv.org/abs/2607.10413v1)** | 2026-07-11 |  |
+| **[TVT-PAPD: Pathology-Aware Prototype Distillation for Self-Supervised Whole Slide Image Classification](https://arxiv.org/abs/2607.10406v1)** | 2026-07-11 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 10 tables</p></details> |
 
