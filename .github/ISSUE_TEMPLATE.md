@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2026
+title: Latest 15 Papers - July 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AlphaWiSE: Adaptive Weight Interpolation for Continual Multimodal Representation Learning](https://arxiv.org/abs/2607.15094v1)** | 2026-07-16 |  |
+| **[DualHNIE: Dual-Channel Hypergraph Learning for Node Importance Estimation in Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2512.12477v3)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Artificial Intelligence</p></details> |
+| **[Angular Gaussian Supervised Contrastive Learning for Long-Tailed Electrocardiogram Arrhythmia Diagnosis](https://arxiv.org/abs/2607.14613v1)** | 2026-07-16 |  |
+| **[MIDI-RAE-JEPA: Hierarchical Representation Learning and Generation for Symbolic Music](https://arxiv.org/abs/2607.14537v1)** | 2026-07-16 | 8 pages, 8 figures |
+| **[Probing Spatial Structure in Pretrained Audio Representations](https://arxiv.org/abs/2606.05544v2)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
+| **[NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis](https://arxiv.org/abs/2607.14314v1)** | 2026-07-15 |  |
 | **[From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery](https://arxiv.org/abs/2607.12474v2)** | 2026-07-15 |  |
 | **[BenthiCat: An opti-acoustic dataset for advancing benthic classification and habitat mapping](https://arxiv.org/abs/2510.04876v3)** | 2026-07-15 | <details><summary>Artic...</summary><p>Article under review by Earth System Science Data (ESSD)</p></details> |
+| **[What Do Temporal Graph Learning Models Learn?](https://arxiv.org/abs/2510.09416v4)** | 2026-07-15 |  |
 | **[The 2nd International StepUP Competition for Biometric Footstep Recognition: From Steps to Strides](https://arxiv.org/abs/2607.13905v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Joint Conference on Biometrics (IJCB)</p></details> |
 | **[Stable Attention Response for Reliable Precipitation Nowcasting](https://arxiv.org/abs/2605.13181v2)** | 2026-07-15 |  |
 | **[Hierarchical Self-Supervised Representation Learning Framework for Multivariate Time Series Grounded in ECG Analysis](https://arxiv.org/abs/2607.01145v2)** | 2026-07-15 | <details><summary>29 pa...</summary><p>29 pages, 8 figures. Polished text, improved formatting, fixed speed benchmark result, and added new downstream task. Code will be made publicly available soon</p></details> |
 | **[The TIME Machine: On The Power of Motion for Efficient Perception](https://arxiv.org/abs/2605.23045v3)** | 2026-07-15 | <details><summary>for p...</summary><p>for project page, see https://time-model.github.io/</p></details> |
 | **[Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling](https://arxiv.org/abs/2607.13558v1)** | 2026-07-15 | Accepted by KDD 2026 |
 | **[Factorized Spectral Representations for Reinforcement Learning](https://arxiv.org/abs/2607.13498v1)** | 2026-07-15 |  |
-| **[Self-Supervised Visual Representation Learning: Pretrain-Finetuning or Joint Training?](https://arxiv.org/abs/2607.13192v1)** | 2026-07-14 |  |
-| **[Form, Not Content? A Preregistered, Placebo-Controlled Evaluation of Learned Error-Conditioned Self-Repair Through Prompts and Weights in Frozen Small Code Models](https://arxiv.org/abs/2607.12962v1)** | 2026-07-14 | <details><summary>54 pa...</summary><p>54 pages, 6 figures, 17 tables. Preregistered, placebo-controlled evaluation</p></details> |
-| **[Weakly Supervised Spatio-Temporal Candidate Discovery of Dairy Farm Sites from Seasonal Satellite Imagery](https://arxiv.org/abs/2607.12748v1)** | 2026-07-14 |  |
-| **[Vision-Based Dribbling for Humanoid Soccer via Privileged Representation Learning](https://arxiv.org/abs/2607.12702v1)** | 2026-07-14 |  |
-| **[Physics-Informed Structure Anchoring With Capture-Aware Prototype Calibration for Cross-Environment RF Fingerprinting](https://arxiv.org/abs/2607.09760v2)** | 2026-07-14 |  |
-| **[Together, Then Apart: Balancing Alignment and Distinctiveness for Multimodal Survival Analysis](https://arxiv.org/abs/2511.18089v2)** | 2026-07-14 |  |
-| **[CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification](https://arxiv.org/abs/2607.12556v1)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at MAPR 2026. Code: https://github.com/ThucHuynh44/CGRL</p></details> |
 
