@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 19, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning](https://arxiv.org/abs/2607.16090v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
+| **[The Terminal Representation in Reinforcement Learning](https://arxiv.org/abs/2605.31289v2)** | 2026-07-17 |  |
+| **[Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework](https://arxiv.org/abs/2607.15933v1)** | 2026-07-17 | <details><summary>33 pa...</summary><p>33 pages, 17 figures, and 16 tables. arXiv admin note: substantial text overlap with arXiv:2506.15078</p></details> |
+| **[CAMMAR: Culture-Aware Matryoshka for Metaphorical Arabic Representations](https://arxiv.org/abs/2607.15847v1)** | 2026-07-17 | 14 pages, 5 figures |
+| **[Label-Free Concept Drift Assessment for Reliable AI in Emerging Wireless Applications](https://arxiv.org/abs/2508.00042v2)** | 2026-07-17 | 13 pages, 12 figures |
+| **[Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation](https://arxiv.org/abs/2607.15727v1)** | 2026-07-17 | <details><summary>accep...</summary><p>accepted to IROS 2026</p></details> |
+| **[BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating](https://arxiv.org/abs/2607.15639v1)** | 2026-07-17 |  |
+| **[LLM4EHR: Aligning Clinical Time Series with Medical Event Sequences via Large Language Models](https://arxiv.org/abs/2607.15447v1)** | 2026-07-16 |  |
+| **[Clinical Audit Logs as Multi-Axial Traces of Care Delivery](https://arxiv.org/abs/2607.15397v1)** | 2026-07-16 |  |
 | **[AlphaWiSE: Adaptive Weight Interpolation for Continual Multimodal Representation Learning](https://arxiv.org/abs/2607.15094v1)** | 2026-07-16 |  |
 | **[DualHNIE: Dual-Channel Hypergraph Learning for Node Importance Estimation in Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2512.12477v3)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Artificial Intelligence</p></details> |
 | **[Angular Gaussian Supervised Contrastive Learning for Long-Tailed Electrocardiogram Arrhythmia Diagnosis](https://arxiv.org/abs/2607.14613v1)** | 2026-07-16 |  |
 | **[MIDI-RAE-JEPA: Hierarchical Representation Learning and Generation for Symbolic Music](https://arxiv.org/abs/2607.14537v1)** | 2026-07-16 | 8 pages, 8 figures |
 | **[Probing Spatial Structure in Pretrained Audio Representations](https://arxiv.org/abs/2606.05544v2)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis](https://arxiv.org/abs/2607.14314v1)** | 2026-07-15 |  |
-| **[From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery](https://arxiv.org/abs/2607.12474v2)** | 2026-07-15 |  |
-| **[BenthiCat: An opti-acoustic dataset for advancing benthic classification and habitat mapping](https://arxiv.org/abs/2510.04876v3)** | 2026-07-15 | <details><summary>Artic...</summary><p>Article under review by Earth System Science Data (ESSD)</p></details> |
-| **[What Do Temporal Graph Learning Models Learn?](https://arxiv.org/abs/2510.09416v4)** | 2026-07-15 |  |
-| **[The 2nd International StepUP Competition for Biometric Footstep Recognition: From Steps to Strides](https://arxiv.org/abs/2607.13905v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Joint Conference on Biometrics (IJCB)</p></details> |
-| **[Stable Attention Response for Reliable Precipitation Nowcasting](https://arxiv.org/abs/2605.13181v2)** | 2026-07-15 |  |
-| **[Hierarchical Self-Supervised Representation Learning Framework for Multivariate Time Series Grounded in ECG Analysis](https://arxiv.org/abs/2607.01145v2)** | 2026-07-15 | <details><summary>29 pa...</summary><p>29 pages, 8 figures. Polished text, improved formatting, fixed speed benchmark result, and added new downstream task. Code will be made publicly available soon</p></details> |
-| **[The TIME Machine: On The Power of Motion for Efficient Perception](https://arxiv.org/abs/2605.23045v3)** | 2026-07-15 | <details><summary>for p...</summary><p>for project page, see https://time-model.github.io/</p></details> |
-| **[Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling](https://arxiv.org/abs/2607.13558v1)** | 2026-07-15 | Accepted by KDD 2026 |
-| **[Factorized Spectral Representations for Reinforcement Learning](https://arxiv.org/abs/2607.13498v1)** | 2026-07-15 |  |
 
