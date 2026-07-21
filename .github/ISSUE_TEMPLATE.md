@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2026
+title: Latest 15 Papers - July 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning](https://arxiv.org/abs/2607.16090v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
-| **[The Terminal Representation in Reinforcement Learning](https://arxiv.org/abs/2605.31289v2)** | 2026-07-17 |  |
-| **[Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework](https://arxiv.org/abs/2607.15933v1)** | 2026-07-17 | <details><summary>33 pa...</summary><p>33 pages, 17 figures, and 16 tables. arXiv admin note: substantial text overlap with arXiv:2506.15078</p></details> |
-| **[CAMMAR: Culture-Aware Matryoshka for Metaphorical Arabic Representations](https://arxiv.org/abs/2607.15847v1)** | 2026-07-17 | 14 pages, 5 figures |
-| **[Label-Free Concept Drift Assessment for Reliable AI in Emerging Wireless Applications](https://arxiv.org/abs/2508.00042v2)** | 2026-07-17 | 13 pages, 12 figures |
-| **[Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation](https://arxiv.org/abs/2607.15727v1)** | 2026-07-17 | <details><summary>accep...</summary><p>accepted to IROS 2026</p></details> |
-| **[BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating](https://arxiv.org/abs/2607.15639v1)** | 2026-07-17 |  |
-| **[LLM4EHR: Aligning Clinical Time Series with Medical Event Sequences via Large Language Models](https://arxiv.org/abs/2607.15447v1)** | 2026-07-16 |  |
-| **[Clinical Audit Logs as Multi-Axial Traces of Care Delivery](https://arxiv.org/abs/2607.15397v1)** | 2026-07-16 |  |
-| **[AlphaWiSE: Adaptive Weight Interpolation for Continual Multimodal Representation Learning](https://arxiv.org/abs/2607.15094v1)** | 2026-07-16 |  |
-| **[DualHNIE: Dual-Channel Hypergraph Learning for Node Importance Estimation in Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2512.12477v3)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Artificial Intelligence</p></details> |
-| **[Angular Gaussian Supervised Contrastive Learning for Long-Tailed Electrocardiogram Arrhythmia Diagnosis](https://arxiv.org/abs/2607.14613v1)** | 2026-07-16 |  |
-| **[MIDI-RAE-JEPA: Hierarchical Representation Learning and Generation for Symbolic Music](https://arxiv.org/abs/2607.14537v1)** | 2026-07-16 | 8 pages, 8 figures |
-| **[Probing Spatial Structure in Pretrained Audio Representations](https://arxiv.org/abs/2606.05544v2)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
-| **[NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis](https://arxiv.org/abs/2607.14314v1)** | 2026-07-15 |  |
+| **[Patch Policy: Efficient Embodied Control via Dense Visual Representations](https://arxiv.org/abs/2607.18236v1)** | 2026-07-20 |  |
+| **[Information-Based Exploration via Random Features for Reinforcement Learning](https://arxiv.org/abs/2607.17981v1)** | 2026-07-20 |  |
+| **[FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors](https://arxiv.org/abs/2512.19504v2)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</p></details> |
+| **[Phasor Attention: Mean Root Square Normalization for Phase Manifold Preservation](https://arxiv.org/abs/2607.17822v1)** | 2026-07-20 |  |
+| **[Instance-Level Generation for Representation Learning](https://arxiv.org/abs/2510.09171v2)** | 2026-07-20 | TMLR |
+| **[Quantifying Avian Morphological Evolution through Deep Representation Learning](https://arxiv.org/abs/2602.03824v2)** | 2026-07-20 | <details><summary>Reade...</summary><p>Readers from the field of computer science may be interested in section 2.1, 2.2, 2.3, 3.1, 3.2, 4.1, 4.2, 4.3. These sections discussed the interpretability and representation learning. They're put here to prove the biological validity of the method</p></details> |
+| **[SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection](https://arxiv.org/abs/2606.09772v2)** | 2026-07-20 |  |
+| **[Learning to Detect Cross-Modal Negation: An Analysis of Latent Representations and an Attention-Based Solution](https://arxiv.org/abs/2607.17712v1)** | 2026-07-20 | <details><summary>This ...</summary><p>This manuscript is an accepted version of the article (published at ICNLP2026). Published in IEEE Xplore, DOI:10.1109/ICNLP69856.2026.11527861 document: https://ieeexplore.ieee.org/abstract/document/11527861</p></details> |
+| **[The Matryoshka Hypencoder](https://arxiv.org/abs/2607.17457v1)** | 2026-07-20 | SIGIR 2026 |
+| **[Node4All: Learning Node Representation Beyond Datasets](https://arxiv.org/abs/2607.17272v1)** | 2026-07-19 | Accepted to KDD 2026 |
+| **[Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations](https://arxiv.org/abs/2607.17264v1)** | 2026-07-19 | <details><summary>Publi...</summary><p>Published at ICML 2026</p></details> |
+| **[Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation](https://arxiv.org/abs/2607.17184v1)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026</p></details> |
+| **[BrainFIBRE: A Foundation Model via Information Decomposition for Brain Microstructure](https://arxiv.org/abs/2607.00573v2)** | 2026-07-19 | <details><summary>ECCV ...</summary><p>ECCV 2026. Author name corrected in V2</p></details> |
+| **[Multi-Level Privacy-Preserving Dementia Detection from Speech via Targeted Adversarial Obfuscation and Representation Learning](https://arxiv.org/abs/2607.17098v1)** | 2026-07-19 | Accepted |
+| **[Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging](https://arxiv.org/abs/2606.14957v3)** | 2026-07-19 | <details><summary>Under...</summary><p>Under Review Preprint</p></details> |
 
