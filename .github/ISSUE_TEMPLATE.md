@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](https://arxiv.org/abs/2607.08465v2)** | 2026-07-21 | <details><summary>the m...</summary><p>the manuscript requires substantial revision following further validation</p></details> |
+| **[Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](https://arxiv.org/abs/2607.19253v1)** | 2026-07-21 | <details><summary>Paper...</summary><p>Paper submitted to IJAIED</p></details> |
+| **[Advancing Multimodal Fusion on Heterogeneous Medical Data with Hybrid Geometry Attention](https://arxiv.org/abs/2607.19086v1)** | 2026-07-21 | <details><summary>ACM S...</summary><p>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
+| **[Subject-Conditioned Glucose Forecasting in Type-1 Diabetes](https://arxiv.org/abs/2607.19006v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted at the IEEE EMBC 2026 Conference</p></details> |
+| **[Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation](https://arxiv.org/abs/2602.19863v3)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 as Highlight</p></details> |
+| **[Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark](https://arxiv.org/abs/2607.18768v1)** | 2026-07-21 |  |
+| **[Weakly Supervised Pathology-Informed Representation Learning for PET-Based Content Retrieval of Intra-Tumour Heterogeneity](https://arxiv.org/abs/2607.18762v1)** | 2026-07-21 |  |
+| **[End-to-End Markov State Sequence Learning for Auditory Attention Decoding](https://arxiv.org/abs/2607.18614v1)** | 2026-07-21 |  |
+| **[Robust Multi-View Classification under Noisy Supervision via Global Anchor Consensus](https://arxiv.org/abs/2607.18561v1)** | 2026-07-20 |  |
+| **[Reasoning Fine-Tuning Induces Persistent Latent Policy States](https://arxiv.org/abs/2607.18532v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at the Conference on Language Modeling (COLM) 2026. 45 pages, including appendices; 24 figures and 12 tables. Code: https://github.com/withmartian/mi-cot</p></details> |
 | **[Patch Policy: Efficient Embodied Control via Dense Visual Representations](https://arxiv.org/abs/2607.18236v1)** | 2026-07-20 |  |
 | **[Information-Based Exploration via Random Features for Reinforcement Learning](https://arxiv.org/abs/2607.17981v1)** | 2026-07-20 |  |
 | **[FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors](https://arxiv.org/abs/2512.19504v2)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</p></details> |
 | **[Phasor Attention: Mean Root Square Normalization for Phase Manifold Preservation](https://arxiv.org/abs/2607.17822v1)** | 2026-07-20 |  |
 | **[Instance-Level Generation for Representation Learning](https://arxiv.org/abs/2510.09171v2)** | 2026-07-20 | TMLR |
-| **[Quantifying Avian Morphological Evolution through Deep Representation Learning](https://arxiv.org/abs/2602.03824v2)** | 2026-07-20 | <details><summary>Reade...</summary><p>Readers from the field of computer science may be interested in section 2.1, 2.2, 2.3, 3.1, 3.2, 4.1, 4.2, 4.3. These sections discussed the interpretability and representation learning. They're put here to prove the biological validity of the method</p></details> |
-| **[SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection](https://arxiv.org/abs/2606.09772v2)** | 2026-07-20 |  |
-| **[Learning to Detect Cross-Modal Negation: An Analysis of Latent Representations and an Attention-Based Solution](https://arxiv.org/abs/2607.17712v1)** | 2026-07-20 | <details><summary>This ...</summary><p>This manuscript is an accepted version of the article (published at ICNLP2026). Published in IEEE Xplore, DOI:10.1109/ICNLP69856.2026.11527861 document: https://ieeexplore.ieee.org/abstract/document/11527861</p></details> |
-| **[The Matryoshka Hypencoder](https://arxiv.org/abs/2607.17457v1)** | 2026-07-20 | SIGIR 2026 |
-| **[Node4All: Learning Node Representation Beyond Datasets](https://arxiv.org/abs/2607.17272v1)** | 2026-07-19 | Accepted to KDD 2026 |
-| **[Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations](https://arxiv.org/abs/2607.17264v1)** | 2026-07-19 | <details><summary>Publi...</summary><p>Published at ICML 2026</p></details> |
-| **[Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation](https://arxiv.org/abs/2607.17184v1)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026</p></details> |
-| **[BrainFIBRE: A Foundation Model via Information Decomposition for Brain Microstructure](https://arxiv.org/abs/2607.00573v2)** | 2026-07-19 | <details><summary>ECCV ...</summary><p>ECCV 2026. Author name corrected in V2</p></details> |
-| **[Multi-Level Privacy-Preserving Dementia Detection from Speech via Targeted Adversarial Obfuscation and Representation Learning](https://arxiv.org/abs/2607.17098v1)** | 2026-07-19 | Accepted |
-| **[Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging](https://arxiv.org/abs/2606.14957v3)** | 2026-07-19 | <details><summary>Under...</summary><p>Under Review Preprint</p></details> |
 
