@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Supervised Learning of Structured Dynamics from Videos](https://arxiv.org/abs/2607.21576v1)** | 2026-07-23 | <details><summary>prepr...</summary><p>preprint, Project page: https://lukasknobel.github.io/projects/StructuredDynamics</p></details> |
+| **[Toward Generalizable Cognitive Impairment Detection with Speech-Based Multimodal Large Language Models](https://arxiv.org/abs/2607.21496v1)** | 2026-07-23 |  |
+| **[Constrained latent state modeling: A unifying perspective on representation learning under competing constraints](https://arxiv.org/abs/2605.15995v2)** | 2026-07-23 | <details><summary>Compa...</summary><p>Companion repository containing the reference implementation, reproducible experiments, documentation, and model cards: https://github.com/gwenole-quellec/clsm</p></details> |
+| **[MSBraM: A Multi-scale Self-supervised Brain Foundation Model for Hierarchical EEG Dynamics Learning](https://arxiv.org/abs/2607.21402v1)** | 2026-07-23 |  |
+| **[Hierarchical Self-Supervised Representation Learning Framework for Multivariate Time Series Grounded in ECG Analysis](https://arxiv.org/abs/2607.01145v3)** | 2026-07-23 | <details><summary>29 pa...</summary><p>29 pages, 8 figures. Further clarified, added the new downstream task in the abstract and intro since last update.<< Polished text, improved formatting, fixed speed benchmark result, and added new downstream task. Code will be made publicly available soon</p></details> |
+| **[Multimodal Pretraining for Generalizable EEG Representation Learning](https://arxiv.org/abs/2607.21384v1)** | 2026-07-23 |  |
+| **[Learning Transfers: Kan Extensions for Neural Invariants](https://arxiv.org/abs/2606.07627v2)** | 2026-07-23 | <details><summary>We ad...</summary><p>We added illustrations and have rewritten substantial parts of the paper to improve clarity</p></details> |
+| **[HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving](https://arxiv.org/abs/2607.20988v1)** | 2026-07-23 | <details><summary>20 pa...</summary><p>20 pages with 13 figures</p></details> |
+| **[Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted Measures on Manifolds](https://arxiv.org/abs/2607.06696v2)** | 2026-07-23 |  |
+| **[Cross-Domain Generalization in Optical Networks via Joint Contrastive and Classification Learning](https://arxiv.org/abs/2607.20666v1)** | 2026-07-22 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted and presented at the 30th International Conference on Optical Network Design and Modelling (ONDM 2026), Munich, Germany, 12-15 May 2026</p></details> |
 | **[Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training](https://arxiv.org/abs/2607.20238v1)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 11 figures,</p></details> |
 | **[User-Centric Modeling of Transactional Sequences with Explainable State Space Models](https://arxiv.org/abs/2607.20228v1)** | 2026-07-22 |  |
 | **[IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning](https://arxiv.org/abs/2603.15263v2)** | 2026-07-22 |  |
 | **[BitNet Text Embeddings](https://arxiv.org/abs/2606.25674v2)** | 2026-07-22 |  |
 | **[Sketched Linear Contrastive Learning: Approximation, Optimization, and Statistical Scaling](https://arxiv.org/abs/2606.26617v2)** | 2026-07-22 | 30 pages, 5 figures |
-| **[Differentially Private Neural Network Training Under the Hidden State Assumption](https://arxiv.org/abs/2407.08233v3)** | 2026-07-22 |  |
-| **[Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning](https://arxiv.org/abs/2607.19809v1)** | 2026-07-22 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Under review at ICONIP 2026</p></details> |
-| **[Physics-Aware Complex-Valued State Space Model with Scattering-Prior Feature Modulation for PolSAR Image Classification](https://arxiv.org/abs/2607.19787v1)** | 2026-07-22 | <details><summary>20pag...</summary><p>20pages, 14 figures, 10 tables</p></details> |
-| **[Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.16144v4)** | 2026-07-22 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. In the previous version, Juntendo University was erroneously listed as the affiliation; we must clarify that this paper has absolutely no relation to Juntendo University. Therefore, we have replaced this affiliation in the new version</p></details> |
-| **[AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation](https://arxiv.org/abs/2602.17071v3)** | 2026-07-22 | 32 pages, 8 figures |
-| **[Revisiting Forest Proximities via Sparse Leaf-Incidence Kernels](https://arxiv.org/abs/2601.02735v3)** | 2026-07-22 |  |
-| **[DREMnet: An Interpretable Denoising Framework for Semi-Airborne Transient Electromagnetic Signal](https://arxiv.org/abs/2503.22223v2)** | 2026-07-21 |  |
-| **[Interpretable Deep Learning Paradigm for Airborne Transient Electromagnetic Inversion](https://arxiv.org/abs/2503.22214v2)** | 2026-07-21 |  |
-| **[Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era](https://arxiv.org/abs/2602.16018v2)** | 2026-07-21 |  |
-| **[Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](https://arxiv.org/abs/2607.08465v2)** | 2026-07-21 | <details><summary>the m...</summary><p>the manuscript requires substantial revision following further validation</p></details> |
 
