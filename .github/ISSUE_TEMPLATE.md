@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Self-Distillation of Hidden Layers for Self-Supervised Representation Learning](https://arxiv.org/abs/2603.15553v2)** | 2026-07-27 |  |
-| **[Unsupervised Graph Representation Learning with Complementary View Alignment](https://arxiv.org/abs/2607.24338v1)** | 2026-07-27 |  |
-| **[FloAff-Kitchen: Bridging Navigation and Manipulation via Canonical and Progressive Floor Affordance Learning](https://arxiv.org/abs/2607.24207v1)** | 2026-07-27 |  |
-| **[Parallel Tokenizers: Rethinking Encoder Models' Vocabulary Design in Cross-Lingual Transfer of Low-Resource Languages](https://arxiv.org/abs/2510.06128v2)** | 2026-07-27 | <details><summary>17 pa...</summary><p>17 pages, 25 tables, 6 figures</p></details> |
-| **[EEGForceFusion: Joint Tokenised-Continuous Representation Learning for Subject-Independent Grasp Force Decoding](https://arxiv.org/abs/2607.24126v1)** | 2026-07-27 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 4 tables, accepted at Brain-Machine Interface (BMI) Systems Session, IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026)</p></details> |
-| **[Action-Sufficient Goal Representations](https://arxiv.org/abs/2601.22496v2)** | 2026-07-27 |  |
-| **[MOCA: A Transformer-based Modular Causal Inference Framework with One-way Cross-attention and Cutting Feedback](https://arxiv.org/abs/2604.23107v2)** | 2026-07-27 | <details><summary>41 pa...</summary><p>41 pages, 6 figures, 6 tables. Preprint</p></details> |
-| **[RODR: Riemannian Orthogonally Decoupled Regularization for Disentangled Manifold Representation](https://arxiv.org/abs/2607.23958v1)** | 2026-07-27 | 10 pages, 4 figures |
-| **[ORGAN: Object-Centric Representation Learning using Cycle Consistent Generative Adversarial Networks](https://arxiv.org/abs/2603.02063v2)** | 2026-07-26 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/Hullimulli/ORGAN</p></details> |
-| **[Neonatal Hypoxic-ischaemic Encephalopathy Classification from the EEG and HRV Signals Using a Conformer based Masked Autoencoder](https://arxiv.org/abs/2607.23554v1)** | 2026-07-26 | <details><summary>Paper...</summary><p>Paper submits to IEEE Transactions on Neural Networks and Learning Systems</p></details> |
-| **[Asymmetric Hierarchical Anchoring for Robust Audio-Visual Cross-Modal Generalization](https://arxiv.org/abs/2602.03570v2)** | 2026-07-26 |  |
-| **[Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs](https://arxiv.org/abs/2607.23355v1)** | 2026-07-25 | Accepted to FSE'24 |
-| **[Bifrost: Empowering Pretrained Language Model with Fallibility Representation for Log-Based Fault Diagnosis](https://arxiv.org/abs/2607.23169v1)** | 2026-07-25 | <details><summary>Accep...</summary><p>Accepted by ASE 2026 (Research Track)</p></details> |
-| **[From Camera-Based Sensing to Reasoning: A Comprehensive Review Toward Proactive Vulnerable Road User Safety](https://arxiv.org/abs/2510.03314v2)** | 2026-07-25 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
-| **[DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive Decentralized Multi-Robot Cooperative Transport](https://arxiv.org/abs/2603.08111v2)** | 2026-07-25 | 9 pages, 7 figures |
+| **[INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models](https://arxiv.org/abs/2607.26056v1)** | 2026-07-28 | <details><summary>28 pa...</summary><p>28 pages, 11 figures, including appendices</p></details> |
+| **[Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance](https://arxiv.org/abs/2607.26040v1)** | 2026-07-28 | <details><summary>8 pag...</summary><p>8 pages, 18 pages total, 3 figures</p></details> |
+| **[Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling](https://arxiv.org/abs/2607.26038v1)** | 2026-07-28 |  |
+| **[Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](https://arxiv.org/abs/2606.18836v2)** | 2026-07-28 |  |
+| **[Contrastive Representation Learning of Longitudinal Disease Trajectories on Temporal Graphs](https://arxiv.org/abs/2607.25609v1)** | 2026-07-28 |  |
+| **[TRWH: A Text-Driven Random Walk Heterogeneous GNN for Semantic-Aware Sparse Recommendation](https://arxiv.org/abs/2607.25471v1)** | 2026-07-28 |  |
+| **[PRIMA: Pre-Training with Risk-Integrated Image--Metadata Alignment for Medical Diagnosis with LLM-Based Feature Aggregation](https://arxiv.org/abs/2602.23297v3)** | 2026-07-28 |  |
+| **[The Case Against Generation for Retrieval: Discriminative Language Models as Effective Retrievers](https://arxiv.org/abs/2607.25346v1)** | 2026-07-28 |  |
+| **[Dual-Domain Manifold Modeling for Hyperspectral Image Fusion](https://arxiv.org/abs/2607.25338v1)** | 2026-07-28 |  |
+| **[Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control](https://arxiv.org/abs/2607.25337v1)** | 2026-07-28 |  |
+| **[From Cellular Responses to Pharmacological Domains: Multimodal Zero-Shot Drug Representation Learning](https://arxiv.org/abs/2607.25322v1)** | 2026-07-28 |  |
+| **[AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation](https://arxiv.org/abs/2602.17071v4)** | 2026-07-28 | 32 pages, 8 figures |
+| **[When Does Deep Representation Learning Help Single-Cell Clustering? A Sensitivity-Aware Diagnostic Benchmark for Biomedical AI Pipelines](https://arxiv.org/abs/2607.25288v1)** | 2026-07-28 | <details><summary>13 pa...</summary><p>13 pages, 6 figures. Accepted at ISRSD 2026</p></details> |
+| **[Tokenizing Numerical and Embedding Features for LLM RecSys](https://arxiv.org/abs/2607.10016v2)** | 2026-07-28 |  |
+| **[AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models](https://arxiv.org/abs/2607.25243v1)** | 2026-07-28 |  |
 
