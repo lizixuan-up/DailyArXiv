@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation](https://arxiv.org/abs/2607.26720v1)** | 2026-07-29 |  |
 | **[One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation](https://arxiv.org/abs/2607.24607v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
 | **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026</p></details> |
 | **[EGRA:Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation](https://arxiv.org/abs/2508.16170v3)** | 2026-07-25 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[Modality-Aware Identity Construction and Counterfactual Structure Learning for ID-Free Multimodal Recommendation](https://arxiv.org/abs/2605.18044v1)** | 2026-05-18 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, submitted to IEEE Transactions on Multimedia</p></details> |
 | **[Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks](https://arxiv.org/abs/2605.06238v1)** | 2026-05-07 |  |
 | **[Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion](https://arxiv.org/abs/2605.00670v1)** | 2026-05-01 |  |
-| **[UniRec: Unified Multimodal Encoding for LLM-Based Recommendations](https://arxiv.org/abs/2601.19423v3)** | 2026-04-30 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models](https://arxiv.org/abs/2604.23321v2)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
+| **[SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation](https://arxiv.org/abs/2607.26885v1)** | 2026-07-29 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, accepted by PRCV2026</p></details> |
+| **[Kairos: Numerically Robust News Recommendation under Item Cold-Start via Cholesky-based LinUCB](https://arxiv.org/abs/2607.26832v1)** | 2026-07-29 | <details><summary>Engli...</summary><p>English preprint. The German version was peer-reviewed and accepted at SKILL 2026 (Gesellschaft für Informatik)</p></details> |
+| **[PRISM-Net: Patient-specific reference-guided inter-breast symmetry matching for three-class breast DCE-MRI classification](https://arxiv.org/abs/2607.26799v1)** | 2026-07-29 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 5 tables</p></details> |
+| **[Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control](https://arxiv.org/abs/2607.25337v2)** | 2026-07-29 |  |
+| **[Guarding Organizations Against Malware Risk: A Novel Graph-Based Malware Detection Method](https://arxiv.org/abs/2607.26634v1)** | 2026-07-29 |  |
+| **[JEPADepth: Masked Predictive Representation Learning for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2607.26600v1)** | 2026-07-29 |  |
+| **[Uncertainty-Guided LLM Semantic Augmentation for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2607.26599v1)** | 2026-07-29 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, 5 tables</p></details> |
+| **[SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM](https://arxiv.org/abs/2607.26595v1)** | 2026-07-29 |  |
+| **[Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing](https://arxiv.org/abs/2606.30555v3)** | 2026-07-29 | <details><summary>8 pag...</summary><p>8 pages (9 more for appendix), 3 figures. Published at the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
+| **[Hyper-FEOD: Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE](https://arxiv.org/abs/2604.11140v2)** | 2026-07-29 |  |
+| **[LC-SEPLM: long-range contact-supervised adaptation for sequence-only protein representation learning](https://arxiv.org/abs/2607.22777v2)** | 2026-07-29 |  |
+| **[The Confounder Trap: Treatment-Encoding Representations in Causal Inference with Text](https://arxiv.org/abs/2607.26309v1)** | 2026-07-28 |  |
+| **[Revisiting Forest Proximities via Sparse Leaf-Incidence Kernels](https://arxiv.org/abs/2601.02735v4)** | 2026-07-28 |  |
 | **[INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models](https://arxiv.org/abs/2607.26056v1)** | 2026-07-28 | <details><summary>28 pa...</summary><p>28 pages, 11 figures, including appendices</p></details> |
-| **[Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance](https://arxiv.org/abs/2607.26040v1)** | 2026-07-28 | <details><summary>8 pag...</summary><p>8 pages, 18 pages total, 3 figures</p></details> |
-| **[Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling](https://arxiv.org/abs/2607.26038v1)** | 2026-07-28 |  |
-| **[Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](https://arxiv.org/abs/2606.18836v2)** | 2026-07-28 |  |
-| **[Contrastive Representation Learning of Longitudinal Disease Trajectories on Temporal Graphs](https://arxiv.org/abs/2607.25609v1)** | 2026-07-28 |  |
-| **[TRWH: A Text-Driven Random Walk Heterogeneous GNN for Semantic-Aware Sparse Recommendation](https://arxiv.org/abs/2607.25471v1)** | 2026-07-28 |  |
-| **[PRIMA: Pre-Training with Risk-Integrated Image--Metadata Alignment for Medical Diagnosis with LLM-Based Feature Aggregation](https://arxiv.org/abs/2602.23297v3)** | 2026-07-28 |  |
-| **[The Case Against Generation for Retrieval: Discriminative Language Models as Effective Retrievers](https://arxiv.org/abs/2607.25346v1)** | 2026-07-28 |  |
-| **[Dual-Domain Manifold Modeling for Hyperspectral Image Fusion](https://arxiv.org/abs/2607.25338v1)** | 2026-07-28 |  |
-| **[Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control](https://arxiv.org/abs/2607.25337v1)** | 2026-07-28 |  |
-| **[From Cellular Responses to Pharmacological Domains: Multimodal Zero-Shot Drug Representation Learning](https://arxiv.org/abs/2607.25322v1)** | 2026-07-28 |  |
-| **[AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation](https://arxiv.org/abs/2602.17071v4)** | 2026-07-28 | 32 pages, 8 figures |
-| **[When Does Deep Representation Learning Help Single-Cell Clustering? A Sensitivity-Aware Diagnostic Benchmark for Biomedical AI Pipelines](https://arxiv.org/abs/2607.25288v1)** | 2026-07-28 | <details><summary>13 pa...</summary><p>13 pages, 6 figures. Accepted at ISRSD 2026</p></details> |
-| **[Tokenizing Numerical and Embedding Features for LLM RecSys](https://arxiv.org/abs/2607.10016v2)** | 2026-07-28 |  |
-| **[AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models](https://arxiv.org/abs/2607.25243v1)** | 2026-07-28 |  |
 
