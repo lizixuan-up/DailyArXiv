@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 02, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,8 +22,9 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v4)** | 2026-07-31 |  |
+| **[CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation](https://arxiv.org/abs/2607.26720v2)** | 2026-07-31 |  |
 | **[Towards Transfer-Efficient Multi-modal Sequential Recommendation with State Space Duality](https://arxiv.org/abs/2506.02916v5)** | 2026-07-30 |  |
-| **[CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation](https://arxiv.org/abs/2607.26720v1)** | 2026-07-29 |  |
 | **[One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation](https://arxiv.org/abs/2607.24607v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
 | **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026</p></details> |
 | **[EGRA:Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation](https://arxiv.org/abs/2508.16170v3)** | 2026-07-25 |  |
@@ -36,11 +37,18 @@ labels: documentation
 | **[Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking](https://arxiv.org/abs/2605.25007v1)** | 2026-05-24 |  |
 | **[Behavior-Guided Candidate Calibration for Multimodal Recommendation](https://arxiv.org/abs/2605.22073v1)** | 2026-05-21 |  |
 | **[Modality-Aware Identity Construction and Counterfactual Structure Learning for ID-Free Multimodal Recommendation](https://arxiv.org/abs/2605.18044v1)** | 2026-05-18 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, submitted to IEEE Transactions on Multimedia</p></details> |
-| **[Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks](https://arxiv.org/abs/2605.06238v1)** | 2026-05-07 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The K-Space Signature: Frequency-Domain Representation Learning for Medical Deepfake Detection](https://arxiv.org/abs/2607.29541v1)** | 2026-07-31 |  |
+| **[JoVA: Unified Multimodal Learning for Joint Video-Audio Generation and Editing](https://arxiv.org/abs/2512.13677v2)** | 2026-07-31 | ECCV 2026 |
+| **[Nonparametric Partial Disentanglement via Mechanism Sparsity: Sparse Actions, Interventions and Sparse Temporal Dependencies](https://arxiv.org/abs/2401.04890v2)** | 2026-07-31 | JMLR 2026. 90 pages |
+| **[VFAD: Variational Semantic Prompting Meets Frequency-Adaptive Representation Learning for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2607.29370v1)** | 2026-07-31 |  |
+| **[Wrong Code, Right Structure: Learning Netlist Representations from Imperfect LLM-Generated RTL](https://arxiv.org/abs/2603.09161v2)** | 2026-07-31 |  |
+| **[Rethinking EEG-Based Disease Diagnosis: Decoupling Instance Representation Learning from Subject-Level Supervision](https://arxiv.org/abs/2607.27274v2)** | 2026-07-31 |  |
+| **[LegoQ: Density-Matrix Representation Learning with Spectral-Spatial State Transitions for Hyperspectral Classification](https://arxiv.org/abs/2607.28970v1)** | 2026-07-31 |  |
+| **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v1)** | 2026-07-30 |  |
 | **[Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories](https://arxiv.org/abs/2607.28567v1)** | 2026-07-30 |  |
 | **[BCNet: Bronchus Classification via Structure Guided Representation Learning](https://arxiv.org/abs/2205.06947v3)** | 2026-07-30 | <details><summary>The b...</summary><p>The benchmark is available at https://osf.io/pskr9/?viewonly=94fa3d87274b4095ac9a4b88cc9a1341</p></details> |
 | **[Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation](https://arxiv.org/abs/2607.17184v2)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026</p></details> |
@@ -48,12 +56,4 @@ labels: documentation
 | **[CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising](https://arxiv.org/abs/2607.28236v1)** | 2026-07-30 | <details><summary>Submi...</summary><p>Submitted to 16th International Conference on Computer and Knowledge Engineering (ICCKE 2026)</p></details> |
 | **[Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation](https://arxiv.org/abs/2607.28226v1)** | 2026-07-30 |  |
 | **[Interpretable Representation via LLM-Driven Generative Disentanglement for Local-Life Service Recommendation](https://arxiv.org/abs/2607.27944v1)** | 2026-07-30 |  |
-| **[Hierarchical Latent Reasoning for LLM-based Recommendation](https://arxiv.org/abs/2607.27760v1)** | 2026-07-30 |  |
-| **[SiamJEPA: On the Role of Siamese Student Encoders in JEPA](https://arxiv.org/abs/2607.04044v2)** | 2026-07-30 |  |
-| **[Kairos: Numerically Robust News Recommendation under Item Cold-Start via Cholesky-based LinUCB](https://arxiv.org/abs/2607.26832v2)** | 2026-07-30 | <details><summary>Engli...</summary><p>English preprint. The German version was peer-reviewed and accepted at SKILL 2026 (Gesellschaft für Informatik). (v2: updated Figure 3 asset)</p></details> |
-| **[Understanding Submodular Information Measure Based Objectives for Representation Learning: A Variance and Separation Perspective](https://arxiv.org/abs/2607.27660v1)** | 2026-07-30 |  |
-| **[MedXplore: Towards Reliable and Unbiased Generalized Category Discovery in Medical Imaging](https://arxiv.org/abs/2607.27620v1)** | 2026-07-30 | <details><summary>accep...</summary><p>accepted by ACM MM 26</p></details> |
-| **[Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted Measures on Manifolds](https://arxiv.org/abs/2607.06696v3)** | 2026-07-29 |  |
-| **[Sparsity Induced Identifiability in Matrix Tri-Factorisation](https://arxiv.org/abs/2607.27507v1)** | 2026-07-29 |  |
-| **[MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models](https://arxiv.org/abs/2604.23321v2)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
 
