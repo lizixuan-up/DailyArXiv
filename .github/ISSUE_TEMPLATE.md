@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 03, 2026
+title: Latest 15 Papers - August 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The K-Space Signature: Frequency-Domain Representation Learning for Medical Deepfake Detection](https://arxiv.org/abs/2607.29541v1)** | 2026-07-31 |  |
-| **[JoVA: Unified Multimodal Learning for Joint Video-Audio Generation and Editing](https://arxiv.org/abs/2512.13677v2)** | 2026-07-31 | ECCV 2026 |
-| **[Nonparametric Partial Disentanglement via Mechanism Sparsity: Sparse Actions, Interventions and Sparse Temporal Dependencies](https://arxiv.org/abs/2401.04890v2)** | 2026-07-31 | JMLR 2026. 90 pages |
-| **[VFAD: Variational Semantic Prompting Meets Frequency-Adaptive Representation Learning for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2607.29370v1)** | 2026-07-31 |  |
-| **[Wrong Code, Right Structure: Learning Netlist Representations from Imperfect LLM-Generated RTL](https://arxiv.org/abs/2603.09161v2)** | 2026-07-31 |  |
-| **[Rethinking EEG-Based Disease Diagnosis: Decoupling Instance Representation Learning from Subject-Level Supervision](https://arxiv.org/abs/2607.27274v2)** | 2026-07-31 |  |
-| **[LegoQ: Density-Matrix Representation Learning with Spectral-Spatial State Transitions for Hyperspectral Classification](https://arxiv.org/abs/2607.28970v1)** | 2026-07-31 |  |
-| **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v1)** | 2026-07-30 |  |
-| **[Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories](https://arxiv.org/abs/2607.28567v1)** | 2026-07-30 |  |
-| **[BCNet: Bronchus Classification via Structure Guided Representation Learning](https://arxiv.org/abs/2205.06947v3)** | 2026-07-30 | <details><summary>The b...</summary><p>The benchmark is available at https://osf.io/pskr9/?viewonly=94fa3d87274b4095ac9a4b88cc9a1341</p></details> |
-| **[Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation](https://arxiv.org/abs/2607.17184v2)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026</p></details> |
-| **[TopoFormer: Topology Meets Attention for Graph Learning](https://arxiv.org/abs/2607.28259v1)** | 2026-07-30 | 26 pages, 5 figures |
-| **[CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising](https://arxiv.org/abs/2607.28236v1)** | 2026-07-30 | <details><summary>Submi...</summary><p>Submitted to 16th International Conference on Computer and Knowledge Engineering (ICCKE 2026)</p></details> |
-| **[Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation](https://arxiv.org/abs/2607.28226v1)** | 2026-07-30 |  |
-| **[Interpretable Representation via LLM-Driven Generative Disentanglement for Local-Life Service Recommendation](https://arxiv.org/abs/2607.27944v1)** | 2026-07-30 |  |
+| **[VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification](https://arxiv.org/abs/2608.02598v1)** | 2026-08-03 | 12 pages, 10 figures |
+| **[Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?](https://arxiv.org/abs/2608.02547v1)** | 2026-08-03 |  |
+| **[FlowCLIP: Contrastive Pretraining Using Domain Names for Encrypted Traffic Classification](https://arxiv.org/abs/2606.17746v3)** | 2026-08-03 |  |
+| **[Hierarchical Pre-Training of Vision Encoders with Large Language Model](https://arxiv.org/abs/2604.00086v2)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, accepted to Computer Vision and Pattern Recognition Conference (CVPR) Workshops 2026. 5th MMFM Workshop: What is Next in Multimodal Foundation Models?</p></details> |
+| **[Syntax Meets Semantics: Understanding Scientific Formulae](https://arxiv.org/abs/2608.02457v1)** | 2026-08-03 |  |
+| **[Self-Supervised Representations for Binary Program Clustering: From Empirical Study to Retrieval-Augmented Learning](https://arxiv.org/abs/2608.02348v1)** | 2026-08-03 |  |
+| **[Disentangled Contrastive Learning for Zero-Shot Multilingual Dense Retrieval](https://arxiv.org/abs/2608.02189v1)** | 2026-08-03 | 14 pages, 4 figures |
+| **[The K-Space Signature: Frequency-Domain Representation Learning for Medical Deepfake Detection](https://arxiv.org/abs/2607.29541v2)** | 2026-08-03 |  |
+| **[SWINSleepNet: A Hierarchical Context-Aware Framework for Sleep Staging (v2)](https://arxiv.org/abs/2608.02183v1)** | 2026-08-03 | <details><summary>Repor...</summary><p>Report-no: SDUST-SLEEP-202608-V2; 10 pages, 7 figures, revised updated version of arXiv submit/7867870, conference submission draft</p></details> |
+| **[CARNet: Channel-Adaptive Receiver Network for Robust NextG Communications](https://arxiv.org/abs/2608.02172v1)** | 2026-08-03 | 5 pages, 3 figures |
+| **[Douyin Multimodal Embedding Model Technical Report](https://arxiv.org/abs/2608.02148v1)** | 2026-08-03 | Technical Report |
+| **[STEAM:ASpatio-TEmporal Alignment Mixture-of-Experts Model with Hierarchical Pre-training for EEG Decoding](https://arxiv.org/abs/2608.02070v1)** | 2026-08-03 |  |
+| **[Less is More: Compact-Token Masked Feature Prediction for Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v3)** | 2026-08-03 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
+| **[Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.16144v5)** | 2026-08-03 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. In the previous version, Juntendo University was erroneously listed as the affiliation; we must clarify that this paper has absolutely no relation to Juntendo University. Therefore, we have replaced this affiliation in the new version</p></details> |
+| **[Understanding and Correcting Low-Frequency Bias in EEG Foundation Model](https://arxiv.org/abs/2608.01898v1)** | 2026-08-03 |  |
 
