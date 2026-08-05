@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NearID: Identity Representation Learning via Near-identity Distractors](https://arxiv.org/abs/2604.01973v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026, Code, model, and dataset are released, visit https://github.com/Gorluxor/NearID</p></details> |
+| **[Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language](https://arxiv.org/abs/2608.03855v1)** | 2026-08-04 |  |
+| **[LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851v1)** | 2026-08-04 | <details><summary>CVPR ...</summary><p>CVPR 2026 Workshop accepted</p></details> |
+| **[Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations](https://arxiv.org/abs/2608.03611v1)** | 2026-08-04 |  |
+| **[FlowCLIP: Contrastive Pretraining Using Domain Names for Encrypted Traffic Classification](https://arxiv.org/abs/2606.17746v4)** | 2026-08-04 |  |
+| **[CRIL-U-Net: Compact Ratio-Interaction Learning for Focal Cortical Dysplasia Segmentation from T1w and FLAIR MRI](https://arxiv.org/abs/2608.03185v1)** | 2026-08-04 |  |
+| **[SphUnc: Hyperspherical Uncertainty Decomposition and Causal Identification via Information Geometry](https://arxiv.org/abs/2603.01168v3)** | 2026-08-04 | 22 pages, 15 figures |
+| **[DiverseDiT++: Quantifying, Analyzing, and Promoting Representation Diversity in Diffusion Transformers](https://arxiv.org/abs/2608.03082v1)** | 2026-08-04 | 35 pages, 32 figures |
+| **[PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling](https://arxiv.org/abs/2608.03041v1)** | 2026-08-04 |  |
+| **[CLIP4VI-ReID: Learning Modality-shared Representations via CLIP Semantic Bridge for Visible-Infrared Person Re-identification](https://arxiv.org/abs/2511.10309v2)** | 2026-08-04 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Transactions on Biometrics, Behavior, and Identity Science</p></details> |
+| **[Beyond Solving: Prescriptive Probing for Neural Routing Solvers](https://arxiv.org/abs/2602.07216v2)** | 2026-08-04 |  |
+| **[HyperFL: Query-Adaptive Representation Learning for Software Fault Localization](https://arxiv.org/abs/2608.02967v1)** | 2026-08-04 |  |
 | **[VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification](https://arxiv.org/abs/2608.02598v1)** | 2026-08-03 | 12 pages, 10 figures |
 | **[Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?](https://arxiv.org/abs/2608.02547v1)** | 2026-08-03 |  |
-| **[FlowCLIP: Contrastive Pretraining Using Domain Names for Encrypted Traffic Classification](https://arxiv.org/abs/2606.17746v3)** | 2026-08-03 |  |
 | **[Hierarchical Pre-Training of Vision Encoders with Large Language Model](https://arxiv.org/abs/2604.00086v2)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, accepted to Computer Vision and Pattern Recognition Conference (CVPR) Workshops 2026. 5th MMFM Workshop: What is Next in Multimodal Foundation Models?</p></details> |
-| **[Syntax Meets Semantics: Understanding Scientific Formulae](https://arxiv.org/abs/2608.02457v1)** | 2026-08-03 |  |
-| **[Self-Supervised Representations for Binary Program Clustering: From Empirical Study to Retrieval-Augmented Learning](https://arxiv.org/abs/2608.02348v1)** | 2026-08-03 |  |
-| **[Disentangled Contrastive Learning for Zero-Shot Multilingual Dense Retrieval](https://arxiv.org/abs/2608.02189v1)** | 2026-08-03 | 14 pages, 4 figures |
-| **[The K-Space Signature: Frequency-Domain Representation Learning for Medical Deepfake Detection](https://arxiv.org/abs/2607.29541v2)** | 2026-08-03 |  |
-| **[SWINSleepNet: A Hierarchical Context-Aware Framework for Sleep Staging (v2)](https://arxiv.org/abs/2608.02183v1)** | 2026-08-03 | <details><summary>Repor...</summary><p>Report-no: SDUST-SLEEP-202608-V2; 10 pages, 7 figures, revised updated version of arXiv submit/7867870, conference submission draft</p></details> |
-| **[CARNet: Channel-Adaptive Receiver Network for Robust NextG Communications](https://arxiv.org/abs/2608.02172v1)** | 2026-08-03 | 5 pages, 3 figures |
-| **[Douyin Multimodal Embedding Model Technical Report](https://arxiv.org/abs/2608.02148v1)** | 2026-08-03 | Technical Report |
-| **[STEAM:ASpatio-TEmporal Alignment Mixture-of-Experts Model with Hierarchical Pre-training for EEG Decoding](https://arxiv.org/abs/2608.02070v1)** | 2026-08-03 |  |
-| **[Less is More: Compact-Token Masked Feature Prediction for Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v3)** | 2026-08-03 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
-| **[Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.16144v5)** | 2026-08-03 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. In the previous version, Juntendo University was erroneously listed as the affiliation; we must clarify that this paper has absolutely no relation to Juntendo University. Therefore, we have replaced this affiliation in the new version</p></details> |
-| **[Understanding and Correcting Low-Frequency Bias in EEG Foundation Model](https://arxiv.org/abs/2608.01898v1)** | 2026-08-03 |  |
 
