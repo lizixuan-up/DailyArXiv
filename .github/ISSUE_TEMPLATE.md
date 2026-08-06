@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection](https://arxiv.org/abs/2608.05069v1)** | 2026-08-05 |  |
+| **[Beyond Network Topology: Biological Evidence Integration and Reproducible Benchmarking for Protein Complex Detection](https://arxiv.org/abs/2606.03178v2)** | 2026-08-05 | <details><summary>Appro...</summary><p>Approximately 20 manuscript pages, 7 figures, and 7 tables, with supplementary information. This is a focused critical methodological review on evidence-aware protein-complex detection, structural and functional evidence integration, and reproducible benchmarking. It has not been presented at a conference or published elsewhere</p></details> |
+| **[Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning](https://arxiv.org/abs/2608.04926v1)** | 2026-08-05 |  |
+| **[Visual Representation Matters: Exploiting Temporal Differences in Video-to-Audio Generation](https://arxiv.org/abs/2608.04902v1)** | 2026-08-05 |  |
+| **[Stable Attention Response for Reliable Precipitation Nowcasting](https://arxiv.org/abs/2605.13181v3)** | 2026-08-05 |  |
+| **[Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection](https://arxiv.org/abs/2608.04753v1)** | 2026-08-05 | <details><summary>Submi...</summary><p>Submitted to the 4th IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2026)</p></details> |
+| **[MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2604.00513v3)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted by the 34th ACM International Conference on Multimedia (ACM MM), 2026. 10 pages, 6 figures</p></details> |
+| **[STEAM: A Spatio-TEmporal Alignment Mixture-of-Experts Model with Hierarchical Pre-training for EEG Decoding](https://arxiv.org/abs/2608.02070v2)** | 2026-08-05 |  |
+| **[Prototype-based Self-Supervised Multimodal Learning for PPG and Accelerometry Signals](https://arxiv.org/abs/2510.09764v2)** | 2026-08-05 |  |
+| **[GenAI-Powered Inference](https://arxiv.org/abs/2507.03897v3)** | 2026-08-05 |  |
+| **[NodeJEPA: Structure-Conditioned Latent Prediction for Node-Level Graph Self-Supervised Learning](https://arxiv.org/abs/2608.04381v1)** | 2026-08-05 | 20 pages, 10 figures |
+| **[Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction](https://arxiv.org/abs/2608.04257v1)** | 2026-08-04 |  |
+| **[Transferable Dual-Stream Representations for Mesoscale-Preserving Sea Surface Temperature Downscaling](https://arxiv.org/abs/2608.04230v1)** | 2026-08-04 |  |
+| **[DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2511.17354v4)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://dseqjepa-project.com</p></details> |
 | **[NearID: Identity Representation Learning via Near-identity Distractors](https://arxiv.org/abs/2604.01973v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026, Code, model, and dataset are released, visit https://github.com/Gorluxor/NearID</p></details> |
-| **[Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language](https://arxiv.org/abs/2608.03855v1)** | 2026-08-04 |  |
-| **[LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851v1)** | 2026-08-04 | <details><summary>CVPR ...</summary><p>CVPR 2026 Workshop accepted</p></details> |
-| **[Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations](https://arxiv.org/abs/2608.03611v1)** | 2026-08-04 |  |
-| **[FlowCLIP: Contrastive Pretraining Using Domain Names for Encrypted Traffic Classification](https://arxiv.org/abs/2606.17746v4)** | 2026-08-04 |  |
-| **[CRIL-U-Net: Compact Ratio-Interaction Learning for Focal Cortical Dysplasia Segmentation from T1w and FLAIR MRI](https://arxiv.org/abs/2608.03185v1)** | 2026-08-04 |  |
-| **[SphUnc: Hyperspherical Uncertainty Decomposition and Causal Identification via Information Geometry](https://arxiv.org/abs/2603.01168v3)** | 2026-08-04 | 22 pages, 15 figures |
-| **[DiverseDiT++: Quantifying, Analyzing, and Promoting Representation Diversity in Diffusion Transformers](https://arxiv.org/abs/2608.03082v1)** | 2026-08-04 | 35 pages, 32 figures |
-| **[PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling](https://arxiv.org/abs/2608.03041v1)** | 2026-08-04 |  |
-| **[CLIP4VI-ReID: Learning Modality-shared Representations via CLIP Semantic Bridge for Visible-Infrared Person Re-identification](https://arxiv.org/abs/2511.10309v2)** | 2026-08-04 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Transactions on Biometrics, Behavior, and Identity Science</p></details> |
-| **[Beyond Solving: Prescriptive Probing for Neural Routing Solvers](https://arxiv.org/abs/2602.07216v2)** | 2026-08-04 |  |
-| **[HyperFL: Query-Adaptive Representation Learning for Software Fault Localization](https://arxiv.org/abs/2608.02967v1)** | 2026-08-04 |  |
-| **[VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification](https://arxiv.org/abs/2608.02598v1)** | 2026-08-03 | 12 pages, 10 figures |
-| **[Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?](https://arxiv.org/abs/2608.02547v1)** | 2026-08-03 |  |
-| **[Hierarchical Pre-Training of Vision Encoders with Large Language Model](https://arxiv.org/abs/2604.00086v2)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, accepted to Computer Vision and Pattern Recognition Conference (CVPR) Workshops 2026. 5th MMFM Workshop: What is Next in Multimodal Foundation Models?</p></details> |
 
