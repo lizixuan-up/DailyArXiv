@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuroBridge: Bridging Multi-Task MRI Knowledge for Neurodegenerative Disease Diagnosis](https://arxiv.org/abs/2607.01401v2)** | 2026-08-10 | 5 figures. 3 tables |
-| **[Seeing SDG 6 from space: local-scale monitoring of piped water and sewage systems across Africa using satellite imagery and self-supervised learning](https://arxiv.org/abs/2411.19093v7)** | 2026-08-10 | Under Review |
-| **[TeaMatch: Teachable Cross-Modal Representation Learning for 2D-3D Matching](https://arxiv.org/abs/2608.09590v1)** | 2026-08-10 |  |
-| **[Machine Learning and Data Analysis Using Posets: A Survey](https://arxiv.org/abs/2404.03082v3)** | 2026-08-10 |  |
-| **[Flow-based conditional cardiac anatomy generation for virtual cohorts](https://arxiv.org/abs/2608.09460v1)** | 2026-08-10 |  |
-| **[Foundation Models are Implicit Deepfake Detectors](https://arxiv.org/abs/2608.09427v1)** | 2026-08-10 |  |
-| **[From Objectives to What Models Learn: A Landau Theory of Invariant Learning](https://arxiv.org/abs/2608.09396v1)** | 2026-08-10 |  |
-| **[One Query, Many Scales: Sparse Mixture-of-Experts for Efficient Hierarchical Cross-View Geo-Localization](https://arxiv.org/abs/2608.01060v2)** | 2026-08-10 |  |
-| **[GeoLink: A 3D-Aware Framework Towards Better Generalization in Cross-View Geo-Localization](https://arxiv.org/abs/2604.13183v3)** | 2026-08-10 |  |
-| **[Your Spending Needs Attention: Modeling Financial Habits with Transformers](https://arxiv.org/abs/2507.23267v2)** | 2026-08-10 |  |
-| **[Multimodal Federated Learning under Dual-Axis Modality Missingness](https://arxiv.org/abs/2608.09240v1)** | 2026-08-10 |  |
-| **[HOPPER: Learnable Hop Extraction for Linearized Graph Sequence Models](https://arxiv.org/abs/2608.09031v1)** | 2026-08-10 | <details><summary>24 pa...</summary><p>24 pages, 1 figure, 4 tables</p></details> |
-| **[CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304v2)** | 2026-08-10 |  |
-| **[Dynamic Distribution-Aware Uncertainty Tracking in Vision-Language Representation Learning](https://arxiv.org/abs/2608.09011v1)** | 2026-08-10 |  |
-| **[UPolarSQ: Polar Representation Learning for Optic Disc and Peripapillary Atrophy Segmentation and Quantification in Fundus Photographs](https://arxiv.org/abs/2608.08771v1)** | 2026-08-09 |  |
+| **[Capturing Uncertainty in Human Motion for Representation Learning in Soccer](https://arxiv.org/abs/2608.11203v1)** | 2026-08-11 |  |
+| **[GLAM: Efficient Continual Learning at Scale via Grouped LoRA Adapter Merging](https://arxiv.org/abs/2509.13211v4)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at the Conference on Lifelong Learning Agents (CoLLAs 2026)</p></details> |
+| **[Learning Representations from Incomplete EHR Data with Dual-Masked Autoencoding](https://arxiv.org/abs/2602.15159v2)** | 2026-08-11 | <details><summary>MLHC ...</summary><p>MLHC 2026 camera-ready. Spotlight at NeurIPS TS4H 2025</p></details> |
+| **[LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space](https://arxiv.org/abs/2605.31249v2)** | 2026-08-11 |  |
+| **[FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](https://arxiv.org/abs/2608.10857v1)** | 2026-08-11 |  |
+| **[Flow-Based Generative Modeling for Optimizing Sampling Policies in Compressed Sensing Applications](https://arxiv.org/abs/2606.00078v2)** | 2026-08-11 |  |
+| **[DINO-A: Adapting Self-Distillation Vision Transformers to General Audio Representation Learning](https://arxiv.org/abs/2608.10659v1)** | 2026-08-11 |  |
+| **[Beyond Dry References: Learning Relative Audio Effects Representations via Contrastive Distance Learning](https://arxiv.org/abs/2608.10573v1)** | 2026-08-11 | <details><summary>8 pag...</summary><p>8 pages (6 pages of main text), 3 figures, 3 tables. Accepted at the 27th International Society for Music Information Retrieval Conference (ISMIR 2026). Project page: https://relative-fx.github.io</p></details> |
+| **[Rethinking Text-Based Image Retrieval in Specific Domain](https://arxiv.org/abs/2608.10524v1)** | 2026-08-11 | 13 pages |
+| **[Unlocking the Power of Medical Tabular Data via Semantic-Aware Multimodal Pre-training](https://arxiv.org/abs/2608.10522v1)** | 2026-08-11 | <details><summary>INTER...</summary><p>INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (ORAL presentation)</p></details> |
+| **[Temporal Straightening for Latent Planning](https://arxiv.org/abs/2603.12231v3)** | 2026-08-11 | <details><summary>ICML2...</summary><p>ICML2026 Camera Ready</p></details> |
+| **[BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning](https://arxiv.org/abs/2604.06336v2)** | 2026-08-11 |  |
+| **[A Joint-Distribution Route to Fair Representations with Continuous Sensitive Attributes](https://arxiv.org/abs/2608.10470v1)** | 2026-08-11 |  |
+| **[Fisher8: Stabilizing Neural Heteroscedastic Regression via Output-Layer Fisher Geometry](https://arxiv.org/abs/2608.10374v1)** | 2026-08-11 |  |
+| **[Motion Artifact-Aware Self-Supervised Representation Learning for 3D Brain MRI Motion Artifact Reduction](https://arxiv.org/abs/2608.10170v1)** | 2026-08-10 |  |
 
