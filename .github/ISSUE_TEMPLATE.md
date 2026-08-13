@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/abs/2608.12313v1)** | 2026-08-12 |  |
+| **[Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction](https://arxiv.org/abs/2608.12209v1)** | 2026-08-12 |  |
+| **[Behavior and Representation in Open-Weight Large Language Models for Combinatorial Optimization: From Feature Extraction to Algorithm Selection](https://arxiv.org/abs/2512.13374v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted for publication in Computers & Operations Research. Code and data are available on Zenodo: https://doi.org/10.5281/zenodo.21891840</p></details> |
+| **[Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models](https://arxiv.org/abs/2606.07303v3)** | 2026-08-12 | <details><summary>27 pa...</summary><p>27 pages, 25 references, no figures or tables. Conceptual framework on representational emergence and explanatory insufficiency, with implications for representation learning, world models, autonomous AI, and scientific discovery</p></details> |
+| **[Representation Finetuning for Continual Learning](https://arxiv.org/abs/2603.11201v3)** | 2026-08-12 |  |
+| **[Kernel Methods for Learning Operators with Multiple Inputs and Outputs](https://arxiv.org/abs/2608.11831v1)** | 2026-08-12 |  |
+| **[CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304v3)** | 2026-08-12 |  |
+| **[Instruction Alignment for Binary Code Representation Learning](https://arxiv.org/abs/2608.11766v1)** | 2026-08-12 | <details><summary>In pr...</summary><p>In proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)</p></details> |
+| **[Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization](https://arxiv.org/abs/2608.11737v1)** | 2026-08-12 |  |
+| **[STAR: A Spatial-Topology Aware Routing Framework for Generalizable 3D Scene Understanding](https://arxiv.org/abs/2608.11699v1)** | 2026-08-12 | <details><summary>The t...</summary><p>The third author is the corresponding author</p></details> |
+| **[RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency](https://arxiv.org/abs/2411.15076v4)** | 2026-08-12 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, accepted by TMI'26</p></details> |
+| **[Dual-Primal Graph VAEs for Noisy Label Aggregation](https://arxiv.org/abs/2608.11473v1)** | 2026-08-11 |  |
+| **[Gloss-Free Representation Learning for Cross-Dataset Sign Spotting](https://arxiv.org/abs/2608.11332v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at the 4th LIMIT Workshop (Representation Learning with Very Limited Resources), ECCV 2026. The abstract was shortened to comply with arXiv's 1,920-character limit</p></details> |
 | **[Capturing Uncertainty in Human Motion for Representation Learning in Soccer](https://arxiv.org/abs/2608.11203v1)** | 2026-08-11 |  |
-| **[GLAM: Efficient Continual Learning at Scale via Grouped LoRA Adapter Merging](https://arxiv.org/abs/2509.13211v4)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at the Conference on Lifelong Learning Agents (CoLLAs 2026)</p></details> |
-| **[Learning Representations from Incomplete EHR Data with Dual-Masked Autoencoding](https://arxiv.org/abs/2602.15159v2)** | 2026-08-11 | <details><summary>MLHC ...</summary><p>MLHC 2026 camera-ready. Spotlight at NeurIPS TS4H 2025</p></details> |
-| **[LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space](https://arxiv.org/abs/2605.31249v2)** | 2026-08-11 |  |
-| **[FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](https://arxiv.org/abs/2608.10857v1)** | 2026-08-11 |  |
-| **[Flow-Based Generative Modeling for Optimizing Sampling Policies in Compressed Sensing Applications](https://arxiv.org/abs/2606.00078v2)** | 2026-08-11 |  |
-| **[DINO-A: Adapting Self-Distillation Vision Transformers to General Audio Representation Learning](https://arxiv.org/abs/2608.10659v1)** | 2026-08-11 |  |
-| **[Beyond Dry References: Learning Relative Audio Effects Representations via Contrastive Distance Learning](https://arxiv.org/abs/2608.10573v1)** | 2026-08-11 | <details><summary>8 pag...</summary><p>8 pages (6 pages of main text), 3 figures, 3 tables. Accepted at the 27th International Society for Music Information Retrieval Conference (ISMIR 2026). Project page: https://relative-fx.github.io</p></details> |
-| **[Rethinking Text-Based Image Retrieval in Specific Domain](https://arxiv.org/abs/2608.10524v1)** | 2026-08-11 | 13 pages |
-| **[Unlocking the Power of Medical Tabular Data via Semantic-Aware Multimodal Pre-training](https://arxiv.org/abs/2608.10522v1)** | 2026-08-11 | <details><summary>INTER...</summary><p>INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (ORAL presentation)</p></details> |
-| **[Temporal Straightening for Latent Planning](https://arxiv.org/abs/2603.12231v3)** | 2026-08-11 | <details><summary>ICML2...</summary><p>ICML2026 Camera Ready</p></details> |
-| **[BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning](https://arxiv.org/abs/2604.06336v2)** | 2026-08-11 |  |
-| **[A Joint-Distribution Route to Fair Representations with Continuous Sensitive Attributes](https://arxiv.org/abs/2608.10470v1)** | 2026-08-11 |  |
-| **[Fisher8: Stabilizing Neural Heteroscedastic Regression via Output-Layer Fisher Geometry](https://arxiv.org/abs/2608.10374v1)** | 2026-08-11 |  |
-| **[Motion Artifact-Aware Self-Supervised Representation Learning for 3D Brain MRI Motion Artifact Reduction](https://arxiv.org/abs/2608.10170v1)** | 2026-08-10 |  |
+| **[CLEAR: Class-wise Expert Aggregation with Structured Sampling for Long-Tailed Classification](https://arxiv.org/abs/2608.11287v1)** | 2026-08-11 |  |
 
