@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/abs/2608.12313v1)** | 2026-08-12 |  |
-| **[Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction](https://arxiv.org/abs/2608.12209v1)** | 2026-08-12 |  |
-| **[Behavior and Representation in Open-Weight Large Language Models for Combinatorial Optimization: From Feature Extraction to Algorithm Selection](https://arxiv.org/abs/2512.13374v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted for publication in Computers & Operations Research. Code and data are available on Zenodo: https://doi.org/10.5281/zenodo.21891840</p></details> |
-| **[Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models](https://arxiv.org/abs/2606.07303v3)** | 2026-08-12 | <details><summary>27 pa...</summary><p>27 pages, 25 references, no figures or tables. Conceptual framework on representational emergence and explanatory insufficiency, with implications for representation learning, world models, autonomous AI, and scientific discovery</p></details> |
-| **[Representation Finetuning for Continual Learning](https://arxiv.org/abs/2603.11201v3)** | 2026-08-12 |  |
-| **[Kernel Methods for Learning Operators with Multiple Inputs and Outputs](https://arxiv.org/abs/2608.11831v1)** | 2026-08-12 |  |
-| **[CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304v3)** | 2026-08-12 |  |
-| **[Instruction Alignment for Binary Code Representation Learning](https://arxiv.org/abs/2608.11766v1)** | 2026-08-12 | <details><summary>In pr...</summary><p>In proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)</p></details> |
-| **[Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization](https://arxiv.org/abs/2608.11737v1)** | 2026-08-12 |  |
-| **[STAR: A Spatial-Topology Aware Routing Framework for Generalizable 3D Scene Understanding](https://arxiv.org/abs/2608.11699v1)** | 2026-08-12 | <details><summary>The t...</summary><p>The third author is the corresponding author</p></details> |
-| **[RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency](https://arxiv.org/abs/2411.15076v4)** | 2026-08-12 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, accepted by TMI'26</p></details> |
-| **[Dual-Primal Graph VAEs for Noisy Label Aggregation](https://arxiv.org/abs/2608.11473v1)** | 2026-08-11 |  |
-| **[Gloss-Free Representation Learning for Cross-Dataset Sign Spotting](https://arxiv.org/abs/2608.11332v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at the 4th LIMIT Workshop (Representation Learning with Very Limited Resources), ECCV 2026. The abstract was shortened to comply with arXiv's 1,920-character limit</p></details> |
-| **[Capturing Uncertainty in Human Motion for Representation Learning in Soccer](https://arxiv.org/abs/2608.11203v1)** | 2026-08-11 |  |
-| **[CLEAR: Class-wise Expert Aggregation with Structured Sampling for Long-Tailed Classification](https://arxiv.org/abs/2608.11287v1)** | 2026-08-11 |  |
+| **[A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456v1)** | 2026-08-13 |  |
+| **[Subject-Aware Multi-Granularity Alignment for Zero-Shot EEG-to-Image Retrieval](https://arxiv.org/abs/2604.17782v2)** | 2026-08-13 |  |
+| **[Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings](https://arxiv.org/abs/2511.23204v3)** | 2026-08-13 | <details><summary>Autho...</summary><p>Author list in metadata corrected to match the paper</p></details> |
+| **[A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources](https://arxiv.org/abs/2608.13183v1)** | 2026-08-13 |  |
+| **[Paths: Prompt-aware Spatio-temporal Transformer with Hierarchical Multi-modal Fusion for RGB-Event Video Person Re-Identification](https://arxiv.org/abs/2608.13092v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted by ACM MM2026. More modifications may be performed</p></details> |
+| **[Aftab: A Comprehensive Benchmark of CNN Encoders and Advanced Value Functions in Parallelized Q-Networks](https://arxiv.org/abs/2608.07335v2)** | 2026-08-13 |  |
+| **[EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding](https://arxiv.org/abs/2608.13072v1)** | 2026-08-13 |  |
+| **[Incremental Evaluation and Training in Relational Deep Learning](https://arxiv.org/abs/2608.13023v1)** | 2026-08-13 |  |
+| **[Multiview Representation Learning via Distributed Joint Latent Space Structuring](https://arxiv.org/abs/2504.18455v2)** | 2026-08-13 |  |
+| **[Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning](https://arxiv.org/abs/2602.21186v2)** | 2026-08-13 |  |
+| **[NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://arxiv.org/abs/2608.12898v1)** | 2026-08-13 |  |
+| **[Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries](https://arxiv.org/abs/2411.16818v2)** | 2026-08-13 |  |
+| **[Dual-Manifold Geometry Guided Representation Learning: Adaptive Coupling between Kernel and Data Spaces](https://arxiv.org/abs/2608.12737v1)** | 2026-08-13 |  |
+| **[The Impact of Temporal Context Length and Encoding Strategies on Self-Supervised ECG Representation Learning](https://arxiv.org/abs/2608.12695v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026). 6 pages, 2 figures, 1 table</p></details> |
+| **[Finding the Needle in a Haystack: Test-Time Analog Circuit Representation Adaptation for Bayesian Optimization](https://arxiv.org/abs/2608.12687v1)** | 2026-08-13 |  |
 
