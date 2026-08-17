@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 16, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RecipeNet: A Hierarchical Transformer for Recipe Data](https://arxiv.org/abs/2608.14505v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
+| **[Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments](https://arxiv.org/abs/2608.14456v1)** | 2026-08-14 |  |
+| **[GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure](https://arxiv.org/abs/2608.14428v1)** | 2026-08-14 | Accepted by ECCV2026 |
+| **[Disentangled Shared Representations Improve Morpho-Transcriptomic Integration](https://arxiv.org/abs/2608.14355v1)** | 2026-08-14 |  |
+| **[ProFocus: Interpreting Affective Experience in Artistic Images with Progressive Visual Focusing](https://arxiv.org/abs/2608.13974v1)** | 2026-08-14 |  |
+| **[CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification](https://arxiv.org/abs/2608.13939v1)** | 2026-08-14 |  |
+| **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v2)** | 2026-08-13 |  |
+| **[Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization](https://arxiv.org/abs/2607.07682v2)** | 2026-08-13 |  |
+| **[MedPlex: Deep Vision-Language Co-Adaptation for Clinically Grounded Medical Segmentation](https://arxiv.org/abs/2608.13690v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted By BMVC-2026</p></details> |
 | **[A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456v1)** | 2026-08-13 |  |
 | **[Subject-Aware Multi-Granularity Alignment for Zero-Shot EEG-to-Image Retrieval](https://arxiv.org/abs/2604.17782v2)** | 2026-08-13 |  |
 | **[Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings](https://arxiv.org/abs/2511.23204v3)** | 2026-08-13 | <details><summary>Autho...</summary><p>Author list in metadata corrected to match the paper</p></details> |
 | **[A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources](https://arxiv.org/abs/2608.13183v1)** | 2026-08-13 |  |
 | **[Paths: Prompt-aware Spatio-temporal Transformer with Hierarchical Multi-modal Fusion for RGB-Event Video Person Re-Identification](https://arxiv.org/abs/2608.13092v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted by ACM MM2026. More modifications may be performed</p></details> |
 | **[Aftab: A Comprehensive Benchmark of CNN Encoders and Advanced Value Functions in Parallelized Q-Networks](https://arxiv.org/abs/2608.07335v2)** | 2026-08-13 |  |
-| **[EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding](https://arxiv.org/abs/2608.13072v1)** | 2026-08-13 |  |
-| **[Incremental Evaluation and Training in Relational Deep Learning](https://arxiv.org/abs/2608.13023v1)** | 2026-08-13 |  |
-| **[Multiview Representation Learning via Distributed Joint Latent Space Structuring](https://arxiv.org/abs/2504.18455v2)** | 2026-08-13 |  |
-| **[Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning](https://arxiv.org/abs/2602.21186v2)** | 2026-08-13 |  |
-| **[NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://arxiv.org/abs/2608.12898v1)** | 2026-08-13 |  |
-| **[Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries](https://arxiv.org/abs/2411.16818v2)** | 2026-08-13 |  |
-| **[Dual-Manifold Geometry Guided Representation Learning: Adaptive Coupling between Kernel and Data Spaces](https://arxiv.org/abs/2608.12737v1)** | 2026-08-13 |  |
-| **[The Impact of Temporal Context Length and Encoding Strategies on Self-Supervised ECG Representation Learning](https://arxiv.org/abs/2608.12695v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026). 6 pages, 2 figures, 1 table</p></details> |
-| **[Finding the Needle in a Haystack: Test-Time Analog Circuit Representation Adaptation for Bayesian Optimization](https://arxiv.org/abs/2608.12687v1)** | 2026-08-13 |  |
 
