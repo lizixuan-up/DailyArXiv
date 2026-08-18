@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
 | **[Is Personalized Modality Weighting Actually Personalized? A Controlled Audit of Per-User Weighting Claims in Multimodal Recommenders](https://arxiv.org/abs/2608.05655v1)** | 2026-08-06 |  |
 | **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v3)** | 2026-08-06 | <details><summary>Autho...</summary><p>Author Accepted Manuscript. Accepted for publication in the Proceedings of the 34th ACM International Conference on Multimedia (ACM MM '26). This author-created manuscript is not the ACM Version of Record</p></details> |
 | **[What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems](https://arxiv.org/abs/2608.07565v1)** | 2026-08-03 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation](https://arxiv.org/abs/2606.28357v1)** | 2026-06-08 | <details><summary>The 6...</summary><p>The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
 | **[Teach Multimodal Recommendation Model to See via Personalized Visual Extraction and Adaptive Learning](https://arxiv.org/abs/2606.09082v1)** | 2026-06-08 |  |
 | **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v5)** | 2026-06-02 |  |
-| **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v2)** | 2026-05-25 | Under Review |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RecipeNet: A Hierarchical Transformer for Recipe Data](https://arxiv.org/abs/2608.14505v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
-| **[Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments](https://arxiv.org/abs/2608.14456v1)** | 2026-08-14 |  |
-| **[GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure](https://arxiv.org/abs/2608.14428v1)** | 2026-08-14 | Accepted by ECCV2026 |
-| **[Disentangled Shared Representations Improve Morpho-Transcriptomic Integration](https://arxiv.org/abs/2608.14355v1)** | 2026-08-14 |  |
-| **[ProFocus: Interpreting Affective Experience in Artistic Images with Progressive Visual Focusing](https://arxiv.org/abs/2608.13974v1)** | 2026-08-14 |  |
-| **[CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification](https://arxiv.org/abs/2608.13939v1)** | 2026-08-14 |  |
-| **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v2)** | 2026-08-13 |  |
-| **[Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization](https://arxiv.org/abs/2607.07682v2)** | 2026-08-13 |  |
-| **[MedPlex: Deep Vision-Language Co-Adaptation for Clinically Grounded Medical Segmentation](https://arxiv.org/abs/2608.13690v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted By BMVC-2026</p></details> |
-| **[A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456v1)** | 2026-08-13 |  |
-| **[Subject-Aware Multi-Granularity Alignment for Zero-Shot EEG-to-Image Retrieval](https://arxiv.org/abs/2604.17782v2)** | 2026-08-13 |  |
-| **[Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings](https://arxiv.org/abs/2511.23204v3)** | 2026-08-13 | <details><summary>Autho...</summary><p>Author list in metadata corrected to match the paper</p></details> |
-| **[A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources](https://arxiv.org/abs/2608.13183v1)** | 2026-08-13 |  |
-| **[Paths: Prompt-aware Spatio-temporal Transformer with Hierarchical Multi-modal Fusion for RGB-Event Video Person Re-Identification](https://arxiv.org/abs/2608.13092v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted by ACM MM2026. More modifications may be performed</p></details> |
-| **[Aftab: A Comprehensive Benchmark of CNN Encoders and Advanced Value Functions in Parallelized Q-Networks](https://arxiv.org/abs/2608.07335v2)** | 2026-08-13 |  |
+| **[Deep Learning for BioImaging: What Are We Really Learning?](https://arxiv.org/abs/2603.13377v2)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement](https://arxiv.org/abs/2608.16628v1)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026)</p></details> |
+| **[Douyin Multimodal Embedding Model Technical Report](https://arxiv.org/abs/2608.02148v2)** | 2026-08-17 | Technical Report |
+| **[Declining Modularity of Intellectual Bases During the Emergence of Research Areas](https://arxiv.org/abs/2608.16602v1)** | 2026-08-17 | <details><summary>21 pa...</summary><p>21 pages, 6 figures; supplementary information included as ancillary file</p></details> |
+| **[Large language models as synthetic clinical experts to inform longitudinal rare-disease modeling](https://arxiv.org/abs/2608.16507v1)** | 2026-08-17 |  |
+| **[CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts](https://arxiv.org/abs/2509.14104v2)** | 2026-08-17 |  |
+| **[A Representation-Learning Item Response Model for Identifying Behaviorally Important Actions in PIAAC Process Data](https://arxiv.org/abs/2608.16423v1)** | 2026-08-17 |  |
+| **[Free-Flow Class-Incremental Learning: Towards Robust CIL under Variable Class Arrivals](https://arxiv.org/abs/2604.02765v2)** | 2026-08-17 | <details><summary>7page...</summary><p>7pages, 5figures, 2 tables</p></details> |
+| **[Understanding Sources of Demographic Predictability in Brain MRI via Disentangling Anatomy and Contrast](https://arxiv.org/abs/2603.04113v3)** | 2026-08-17 |  |
+| **[The Trade-off Between Covariate Dependence and Latent Structure in Representation Learning](https://arxiv.org/abs/2608.16245v1)** | 2026-08-17 |  |
+| **[Understanding and Stabilizing Deep Q-Learning via Controlled Bootstrapping and Regulated Value Dynamics](https://arxiv.org/abs/2608.16182v1)** | 2026-08-17 |  |
+| **[Unified Condition-Action Modeling for Accurate One-Step Action Generation](https://arxiv.org/abs/2608.16153v1)** | 2026-08-17 |  |
+| **[Retrieval-guided Twin Fusion with Similarity-aware Contrast for Molecule-Text Alignment](https://arxiv.org/abs/2608.16005v1)** | 2026-08-17 |  |
+| **[CM-MAE: A Physics-Guided Cross-Modal Self-Supervised Learning Framework for Vision-Wireless Applications](https://arxiv.org/abs/2608.15972v1)** | 2026-08-16 |  |
+| **[Leveraging Generative Artificial Intelligence for Causal Inference with Unstructured Data](https://arxiv.org/abs/2507.03897v4)** | 2026-08-16 |  |
 
