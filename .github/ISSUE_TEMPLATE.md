@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 23, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,14 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction](https://arxiv.org/abs/2608.21349v1)** | 2026-08-21 |  |
+| **[VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation](https://arxiv.org/abs/2608.21290v1)** | 2026-08-21 |  |
+| **[ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval](https://arxiv.org/abs/2608.15698v2)** | 2026-08-21 |  |
+| **[Capturing Cardiac Cyclicity through Phase-Equivariant Self-Supervised Learning](https://arxiv.org/abs/2608.21147v1)** | 2026-08-21 |  |
+| **[A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration](https://arxiv.org/abs/2608.21099v1)** | 2026-08-21 |  |
+| **[CoST: Semantic-Aware Urban Understanding via Spatial-Temporal Alignment](https://arxiv.org/abs/2608.21041v1)** | 2026-08-21 |  |
+| **[Kinematic Knowledge Maps for Pattern Alignment: Structured Latent Representational Learning in Multimodal Gait Analysis](https://arxiv.org/abs/2608.20969v1)** | 2026-08-21 |  |
+| **[Conditional-Independence-Regularized Distributional Autoencoders for Mixed-Type Data](https://arxiv.org/abs/2608.20562v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted by STAI-X 2026</p></details> |
 | **[From Kriging to Spatial AI: Fifty Years of Spatial Statistics for Complex Dependent Data](https://arxiv.org/abs/2608.20260v1)** | 2026-08-20 | <details><summary>68 pa...</summary><p>68 pages; invited review article on the development of spatial statistics from kriging and classical dependence modeling to modern Spatial AI</p></details> |
 | **[Electronic Navigational Chart Change Classification](https://arxiv.org/abs/2608.20218v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted at 34th ACM SIGSPATIAL 2026</p></details> |
 | **[Self-supervised Learning Matters: A Simple Ensemble Solution for Micro-Gesture Recognition](https://arxiv.org/abs/2606.09261v2)** | 2026-08-20 |  |
@@ -48,12 +56,4 @@ labels: documentation
 | **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence](https://arxiv.org/abs/2601.19597v7)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted at ICML 2026; v7: Exposition and notation refined; results unchanged</p></details> |
 | **[Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners](https://arxiv.org/abs/2608.19863v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project website: https://umbertocappellazzo.github.io/nape</p></details> |
 | **[Detecting Explanatory Insufficiency in Learned Representations: A Framework for Representational Vigilance](https://arxiv.org/abs/2606.13172v4)** | 2026-08-20 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, no tables, 16 references. Version 3. Conceptual and methodological framework for monitoring representational adequacy and detecting explanatory insufficiency in learned representations. Introduces a five-operation representational-vigilance process</p></details> |
-| **[Bootstrap Theory of Representational Emergence (TBER): Explanatory Insufficiency, Transition Regimes, and the Emergence of New Representational Levels](https://arxiv.org/abs/2606.07303v4)** | 2026-08-20 | <details><summary>Versi...</summary><p>Version 4. Major theoretical revision introducing the distinction between manifestations of explanatory insufficiency and resolution regimes (local-corrective, representationally resolutive, and structurally recurrent), together with regime-sensitive diagnosis and closure assessment. Formal mathematical boundary cases have been clarified. 28 references, no figures or tables</p></details> |
-| **[HT-Bench: Benchmarking and Learning Dexterous Full-Hand Tactile Representations with Egocentric Vision](https://arxiv.org/abs/2606.19161v2)** | 2026-08-20 | 9pages, 4figures |
-| **[DA-WAM: Decision-Aligned Future Latents for Driving World Models](https://arxiv.org/abs/2608.19085v2)** | 2026-08-20 |  |
-| **[RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/abs/2608.19693v1)** | 2026-08-20 | LIMIT@ECCV 2026 |
-| **[SAGE-XGBoost: Spatially Augmented Graph Embeddings--Machine Learning Framework for Natural Hazards Susceptibility Mapping under Data Scarcity](https://arxiv.org/abs/2608.19672v1)** | 2026-08-20 |  |
-| **[When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation](https://arxiv.org/abs/2608.15639v2)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted by CIKM2026 (Full Research Track)</p></details> |
-| **[SSR-GRPO: Integrating Supervision and Semantic IDs into Reinforcement Learning for Dense Retrieval in E-commerce](https://arxiv.org/abs/2608.19595v1)** | 2026-08-20 |  |
-| **[Fairness-Aware Network Embeddings: Methods, Applications, and Challenges](https://arxiv.org/abs/2608.19381v1)** | 2026-08-19 |  |
 
