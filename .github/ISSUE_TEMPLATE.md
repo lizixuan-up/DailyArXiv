@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BioKERN: Biological Kernel Regularization for Histology-to-Transcriptomics Neighborhood Retrieval](https://arxiv.org/abs/2608.24823v1)** | 2026-08-25 |  |
+| **[Image Difference Quantification Using Autoencoder-Based Latent Representations](https://arxiv.org/abs/2608.24782v1)** | 2026-08-25 |  |
+| **[GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models](https://arxiv.org/abs/2608.24714v1)** | 2026-08-25 | 13 pages, 5 figures |
+| **[MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery](https://arxiv.org/abs/2512.19612v3)** | 2026-08-25 | <details><summary>accep...</summary><p>accepted at ACL 2026 (main track)</p></details> |
+| **[HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learning for E-commerce Representation Learning](https://arxiv.org/abs/2608.24467v1)** | 2026-08-25 |  |
+| **[MolGA: Molecular Graph Adaptation with Pre-trained 2D Graph Encoder](https://arxiv.org/abs/2510.07289v2)** | 2026-08-25 |  |
+| **[The Impact of Temporal Context Length and Encoding Strategies on Self-Supervised ECG Representation Learning](https://arxiv.org/abs/2608.12695v2)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026). 6 pages, 2 figures, 1 table</p></details> |
+| **[Joint-Embedding Prediction of Masked Point Tubes for Self-Supervised Learning on 4D Point Cloud Videos](https://arxiv.org/abs/2608.24093v1)** | 2026-08-25 | <details><summary>13 pa...</summary><p>13 pages, 4 figures; supplementary material included</p></details> |
+| **[Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios](https://arxiv.org/abs/2608.24091v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
+| **[Representation Learning in Diffusion and Flow-based Model: An Application Aspect](https://arxiv.org/abs/2608.24068v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted by Vicinagearth</p></details> |
+| **[ChorusTIC: Training-Free Multivariate Time Series Classification via Chorus In-Context Learning](https://arxiv.org/abs/2608.24033v1)** | 2026-08-25 |  |
+| **[S-matrix informed neural networks for amplitude analysis](https://arxiv.org/abs/2608.23750v1)** | 2026-08-24 | 29 pages, 23 figures |
+| **[Velocity-coupled Representation Refinement for Satellite Orbit Prediction](https://arxiv.org/abs/2608.23728v1)** | 2026-08-24 | 18 pages, 6 figures |
 | **[RAD: Rule-Augmented Relational Anomaly Detection](https://arxiv.org/abs/2608.23468v1)** | 2026-08-24 |  |
 | **[ReWorld: Representation Learning for World Action Models](https://arxiv.org/abs/2606.27504v2)** | 2026-08-24 | 15 pages,5 figures |
-| **[Towards a Densing Law for User Representation Learning at Billion-Scale Capacity](https://arxiv.org/abs/2608.23392v1)** | 2026-08-24 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, technical report</p></details> |
-| **[Graph Representation Learning of Lightweight IoT Ciphers](https://arxiv.org/abs/2608.23054v1)** | 2026-08-24 | <details><summary>This ...</summary><p>This is the author's version of a paper accepted at the 33rd International Conference on Neural Information Processing (ICONIP 2026)</p></details> |
-| **[Hierarchy-Aware Semantic Losses for Knowledge Graph Link Prediction](https://arxiv.org/abs/2608.22981v1)** | 2026-08-24 |  |
-| **[SynerMedGen: Synergizing Medical Multimodal Understanding with Generation via Task Alignment](https://arxiv.org/abs/2605.08724v2)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Stochastic Separability of Embedding Manifolds](https://arxiv.org/abs/2608.22874v1)** | 2026-08-24 |  |
-| **[RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling](https://arxiv.org/abs/2608.22849v1)** | 2026-08-24 | 21 pages, 5 figures |
-| **[Fairness-Aware Mixture-of-Experts via Subgroup Reweighting and Gate Regularization](https://arxiv.org/abs/2608.22820v1)** | 2026-08-24 |  |
-| **[ReCoG: Reciprocal Co-Evolution for Multimodal Graph Learning](https://arxiv.org/abs/2608.22786v1)** | 2026-08-24 |  |
-| **[Contextrast++: Robust Multi-Scale Contextual Contrastive Learning for Semantic Segmentation](https://arxiv.org/abs/2608.22679v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026</p></details> |
-| **[Hyperbolic Hierarchical Clustering for Visual Representation Learning](https://arxiv.org/abs/2608.22665v1)** | 2026-08-24 |  |
-| **[Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules](https://arxiv.org/abs/2608.22642v1)** | 2026-08-23 |  |
-| **[Seeing SDG 6 from space: local-scale monitoring of piped water and sewage systems across Africa using satellite imagery and self-supervised learning](https://arxiv.org/abs/2411.19093v8)** | 2026-08-23 | Under Review |
-| **[Unified Condition-Action Modeling for Accurate One-Step Action Generation](https://arxiv.org/abs/2608.16153v3)** | 2026-08-23 |  |
 
