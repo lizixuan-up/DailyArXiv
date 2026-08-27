@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
 | **[URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios](https://arxiv.org/abs/2606.23291v2)** | 2026-08-22 | <details><summary>This ...</summary><p>This manuscript has been published in the Springer's Journal of Intelligent Information Systems: https://link.springer.com/article/10.1007/s10844-026-01088-x</p></details> |
 | **[BRIDGE: Behavior-Guided Residual Integration with Dual-Frequency Graph Evidence](https://arxiv.org/abs/2605.22073v2)** | 2026-08-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures. Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026). Project page: https://lizesheng13.github.io/bridge/</p></details> |
 | **[What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems](https://arxiv.org/abs/2608.07565v2)** | 2026-08-18 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[EGRA:Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation](https://arxiv.org/abs/2508.16170v3)** | 2026-07-25 |  |
 | **[MOTOR: Learning ID-free Item Representation with Token Crossing for Embedding-based Multimodal Recommendation](https://arxiv.org/abs/2410.19276v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by ECML-PKDD 2026</p></details> |
 | **[ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation](https://arxiv.org/abs/2606.28357v1)** | 2026-06-08 | <details><summary>The 6...</summary><p>The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
-| **[Teach Multimodal Recommendation Model to See via Personalized Visual Extraction and Adaptive Learning](https://arxiv.org/abs/2606.09082v1)** | 2026-06-08 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporally Centered SIGReg Improves LeWorldModel Representations for Robot Policy Learning](https://arxiv.org/abs/2607.26924v3)** | 2026-08-26 |  |
+| **[Drift-Aware Multimodal User Representation Learning via Multi-Scale Temporal Modeling and Sparse Mixture-of-Experts](https://arxiv.org/abs/2608.25773v1)** | 2026-08-26 |  |
+| **[A General-Purpose Framework for Chemical Reaction Representation with Atomic Correspondence and Flexible Condition Adaptation](https://arxiv.org/abs/2411.17629v3)** | 2026-08-26 |  |
+| **[Phase-Consistent Magnetic Spectral Learning for Multi-View Clustering](https://arxiv.org/abs/2602.18728v2)** | 2026-08-26 | <details><summary>Updat...</summary><p>Updated author list and revised manuscript</p></details> |
+| **[Advantage-Driven Explicit Memory for Social Navigation](https://arxiv.org/abs/2608.25610v1)** | 2026-08-26 |  |
+| **[Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark](https://arxiv.org/abs/2608.25520v1)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by the 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2026). 15 pages, 5 figures</p></details> |
+| **[Joint Beamforming Design and Port Selection in Fluid Antenna-Assisted Multi-Cell Networks: A Personalized Federated Learning Approach](https://arxiv.org/abs/2608.25514v1)** | 2026-08-26 | <details><summary>This ...</summary><p>This paper is accepted by IEEE GLOBECOM 2026</p></details> |
+| **[SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting](https://arxiv.org/abs/2608.25493v1)** | 2026-08-26 |  |
+| **[Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era](https://arxiv.org/abs/2602.16018v3)** | 2026-08-25 |  |
+| **[Regularized Latent Dynamics Prediction is a Strong Baseline For Behavioral Foundation Models](https://arxiv.org/abs/2603.15857v2)** | 2026-08-25 | <details><summary>ICLR ...</summary><p>ICLR 2026 Update 08/25/2026: (i) Fixed a typo in eq. 7. (ii) Updated lemma 1 to a stronger bound for RLDP</p></details> |
+| **[Differentiated Aggregation to Improve Generalization in Federated Learning](https://arxiv.org/abs/2404.11754v4)** | 2026-08-25 | <details><summary>25 pa...</summary><p>25 pages. Published in Transactions on Machine Learning Research (TMLR), 2025</p></details> |
+| **[Drift Variation Autoencoder: Unifying Generation and Representation Learning through Conditional Posterior Flow Matching](https://arxiv.org/abs/2608.25138v1)** | 2026-08-25 |  |
 | **[BioKERN: Biological Kernel Regularization for Histology-to-Transcriptomics Neighborhood Retrieval](https://arxiv.org/abs/2608.24823v1)** | 2026-08-25 |  |
 | **[Image Difference Quantification Using Autoencoder-Based Latent Representations](https://arxiv.org/abs/2608.24782v1)** | 2026-08-25 |  |
 | **[GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models](https://arxiv.org/abs/2608.24714v1)** | 2026-08-25 | 13 pages, 5 figures |
-| **[MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery](https://arxiv.org/abs/2512.19612v3)** | 2026-08-25 | <details><summary>accep...</summary><p>accepted at ACL 2026 (main track)</p></details> |
-| **[HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learning for E-commerce Representation Learning](https://arxiv.org/abs/2608.24467v1)** | 2026-08-25 |  |
-| **[MolGA: Molecular Graph Adaptation with Pre-trained 2D Graph Encoder](https://arxiv.org/abs/2510.07289v2)** | 2026-08-25 |  |
-| **[The Impact of Temporal Context Length and Encoding Strategies on Self-Supervised ECG Representation Learning](https://arxiv.org/abs/2608.12695v2)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026). 6 pages, 2 figures, 1 table</p></details> |
-| **[Joint-Embedding Prediction of Masked Point Tubes for Self-Supervised Learning on 4D Point Cloud Videos](https://arxiv.org/abs/2608.24093v1)** | 2026-08-25 | <details><summary>13 pa...</summary><p>13 pages, 4 figures; supplementary material included</p></details> |
-| **[Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios](https://arxiv.org/abs/2608.24091v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
-| **[Representation Learning in Diffusion and Flow-based Model: An Application Aspect](https://arxiv.org/abs/2608.24068v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted by Vicinagearth</p></details> |
-| **[ChorusTIC: Training-Free Multivariate Time Series Classification via Chorus In-Context Learning](https://arxiv.org/abs/2608.24033v1)** | 2026-08-25 |  |
-| **[S-matrix informed neural networks for amplitude analysis](https://arxiv.org/abs/2608.23750v1)** | 2026-08-24 | 29 pages, 23 figures |
-| **[Velocity-coupled Representation Refinement for Satellite Orbit Prediction](https://arxiv.org/abs/2608.23728v1)** | 2026-08-24 | 18 pages, 6 figures |
-| **[RAD: Rule-Augmented Relational Anomaly Detection](https://arxiv.org/abs/2608.23468v1)** | 2026-08-24 |  |
-| **[ReWorld: Representation Learning for World Action Models](https://arxiv.org/abs/2606.27504v2)** | 2026-08-24 | 15 pages,5 figures |
 
