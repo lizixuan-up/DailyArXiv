@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2026
+title: Latest 15 Papers - August 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules](https://arxiv.org/abs/2608.22642v2)** | 2026-08-27 |  |
+| **[Omni-Interactive Universal Embedder](https://arxiv.org/abs/2608.27044v1)** | 2026-08-27 | Preprint |
+| **[Aitchison Embeddings for Learning Compositional Graph Representations](https://arxiv.org/abs/2605.00716v3)** | 2026-08-27 | <details><summary>ICML ...</summary><p>ICML 2026 Camera-ready version</p></details> |
+| **[Benchmarking_Fast_Domain_Adaptation_for_Unsupervised_Speech_Units](https://arxiv.org/abs/2608.26992v1)** | 2026-08-27 |  |
+| **[Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations](https://arxiv.org/abs/2608.03611v2)** | 2026-08-27 |  |
+| **[TabuLM: Morphology-Aware Tabular Pre-training for Low-Resource Languages](https://arxiv.org/abs/2608.26923v1)** | 2026-08-27 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 7 tables</p></details> |
+| **[Domain-Specific Self-Supervised Representation Learning for Retinal Fundus Classification](https://arxiv.org/abs/2608.26686v1)** | 2026-08-27 |  |
+| **[Technical Comparative Benchmarking Study: Advanced AI Hybrid Methods for Renewable Energy Farm Optimization and Forecasting](https://arxiv.org/abs/2608.26613v1)** | 2026-08-27 |  |
+| **[Unified Condition-Action Modeling for Accurate One-Step Action Generation](https://arxiv.org/abs/2608.16153v4)** | 2026-08-27 |  |
+| **[Cross-lingual Representation Learning via Centroid Intervention Fusion](https://arxiv.org/abs/2608.26357v1)** | 2026-08-26 | EMNLP 2026 (Main) |
+| **[A causal graph-informed temporal convolution architecture for interpretable retail electricity price forecasting](https://arxiv.org/abs/2608.26234v1)** | 2026-08-26 |  |
 | **[Temporally Centered SIGReg Improves LeWorldModel Representations for Robot Policy Learning](https://arxiv.org/abs/2607.26924v3)** | 2026-08-26 |  |
 | **[Drift-Aware Multimodal User Representation Learning via Multi-Scale Temporal Modeling and Sparse Mixture-of-Experts](https://arxiv.org/abs/2608.25773v1)** | 2026-08-26 |  |
 | **[A General-Purpose Framework for Chemical Reaction Representation with Atomic Correspondence and Flexible Condition Adaptation](https://arxiv.org/abs/2411.17629v3)** | 2026-08-26 |  |
 | **[Phase-Consistent Magnetic Spectral Learning for Multi-View Clustering](https://arxiv.org/abs/2602.18728v2)** | 2026-08-26 | <details><summary>Updat...</summary><p>Updated author list and revised manuscript</p></details> |
-| **[Advantage-Driven Explicit Memory for Social Navigation](https://arxiv.org/abs/2608.25610v1)** | 2026-08-26 |  |
-| **[Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark](https://arxiv.org/abs/2608.25520v1)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by the 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2026). 15 pages, 5 figures</p></details> |
-| **[Joint Beamforming Design and Port Selection in Fluid Antenna-Assisted Multi-Cell Networks: A Personalized Federated Learning Approach](https://arxiv.org/abs/2608.25514v1)** | 2026-08-26 | <details><summary>This ...</summary><p>This paper is accepted by IEEE GLOBECOM 2026</p></details> |
-| **[SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting](https://arxiv.org/abs/2608.25493v1)** | 2026-08-26 |  |
-| **[Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era](https://arxiv.org/abs/2602.16018v3)** | 2026-08-25 |  |
-| **[Regularized Latent Dynamics Prediction is a Strong Baseline For Behavioral Foundation Models](https://arxiv.org/abs/2603.15857v2)** | 2026-08-25 | <details><summary>ICLR ...</summary><p>ICLR 2026 Update 08/25/2026: (i) Fixed a typo in eq. 7. (ii) Updated lemma 1 to a stronger bound for RLDP</p></details> |
-| **[Differentiated Aggregation to Improve Generalization in Federated Learning](https://arxiv.org/abs/2404.11754v4)** | 2026-08-25 | <details><summary>25 pa...</summary><p>25 pages. Published in Transactions on Machine Learning Research (TMLR), 2025</p></details> |
-| **[Drift Variation Autoencoder: Unifying Generation and Representation Learning through Conditional Posterior Flow Matching](https://arxiv.org/abs/2608.25138v1)** | 2026-08-25 |  |
-| **[BioKERN: Biological Kernel Regularization for Histology-to-Transcriptomics Neighborhood Retrieval](https://arxiv.org/abs/2608.24823v1)** | 2026-08-25 |  |
-| **[Image Difference Quantification Using Autoencoder-Based Latent Representations](https://arxiv.org/abs/2608.24782v1)** | 2026-08-25 |  |
-| **[GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models](https://arxiv.org/abs/2608.24714v1)** | 2026-08-25 | 13 pages, 5 figures |
 
