@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agents as Knowledge Integrator and Utilizer in Multimodal Recommendation](https://arxiv.org/abs/2608.29410v1)** | 2026-08-29 |  |
 | **[Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation](https://arxiv.org/abs/2608.27950v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
 | **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
 | **[URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios](https://arxiv.org/abs/2606.23291v2)** | 2026-08-22 | <details><summary>This ...</summary><p>This manuscript has been published in the Springer's Journal of Intelligent Information Systems: https://link.springer.com/article/10.1007/s10844-026-01088-x</p></details> |
@@ -36,24 +37,23 @@ labels: documentation
 | **[One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation](https://arxiv.org/abs/2607.24607v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
 | **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026</p></details> |
 | **[EGRA:Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation](https://arxiv.org/abs/2508.16170v3)** | 2026-07-25 |  |
-| **[MOTOR: Learning ID-free Item Representation with Token Crossing for Embedding-based Multimodal Recommendation](https://arxiv.org/abs/2410.19276v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by ECML-PKDD 2026</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture - Bridging Predictive and Generative Self-Supervised Learning](https://arxiv.org/abs/2603.20111v2)** | 2026-08-28 | <details><summary>Proce...</summary><p>Proceedings of the 43rd International Conference on Machine Learning, Seoul, South Korea. PMLR 306, 2026</p></details> |
-| **[Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection](https://arxiv.org/abs/2509.24192v2)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
-| **[RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling](https://arxiv.org/abs/2608.22849v2)** | 2026-08-28 | 25 pages, 5 figures |
-| **[Scalable dynamic community detection on temporal graphs using graph neural networks](https://arxiv.org/abs/2608.28342v1)** | 2026-08-28 | <details><summary>Submi...</summary><p>Submitted to Trans KDD</p></details> |
-| **[HyperVision: A Channel-Adaptive Ground-Based Hyperspectral Vision Pre-trained Backbone](https://arxiv.org/abs/2605.17286v3)** | 2026-08-28 |  |
-| **[Beyond Flat Netlist: Hierarchical Graph Representation Learning for Scalable Analysis of Sequential Circuits](https://arxiv.org/abs/2608.28188v1)** | 2026-08-28 |  |
-| **[Exploring the Design Space of Representation Learning for Audio Transformations](https://arxiv.org/abs/2608.28127v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to ISMIR 2026</p></details> |
-| **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v2)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Industry Track</p></details> |
-| **[uScenes: A Multimodal RGB and 3D Sonar Dataset for Underwater Robot Perception](https://arxiv.org/abs/2608.27795v1)** | 2026-08-28 |  |
-| **[How Architecture and Training Affect TPC Representations Across Experiments](https://arxiv.org/abs/2608.21756v2)** | 2026-08-27 |  |
-| **[CARDINAL Predicts Cardiovascular Risk From Non-contrast Cardiac CT](https://arxiv.org/abs/2608.27690v1)** | 2026-08-27 |  |
-| **[Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules](https://arxiv.org/abs/2608.22642v2)** | 2026-08-27 |  |
-| **[Omni-Interactive Universal Embedder](https://arxiv.org/abs/2608.27044v1)** | 2026-08-27 | Preprint |
-| **[Aitchison Embeddings for Learning Compositional Graph Representations](https://arxiv.org/abs/2605.00716v3)** | 2026-08-27 | <details><summary>ICML ...</summary><p>ICML 2026 Camera-ready version</p></details> |
-| **[Benchmarking_Fast_Domain_Adaptation_for_Unsupervised_Speech_Units](https://arxiv.org/abs/2608.26992v1)** | 2026-08-27 |  |
+| **[TDDM-Melatt: A Decoupled Memory and Diffusion Framework for Generalizable Encrypted Traffic Classification](https://arxiv.org/abs/2608.30745v1)** | 2026-08-31 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, 9 tables, accepted at the 2026 ACM Conference on Computer and Communications Security (CCS 2026)</p></details> |
+| **[Liquid Gated Attention](https://arxiv.org/abs/2608.30695v1)** | 2026-08-31 | <details><summary>Code ...</summary><p>Code is available at https://anonymous.4open.science/r/Liquid-Gated-Attention-6B55</p></details> |
+| **[Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH'26</p></details> |
+| **[GeoGR: Enabling Spatio-Temporal Aware Industrial-scale Generative POI Recommendations](https://arxiv.org/abs/2602.10411v2)** | 2026-08-31 |  |
+| **[PRISM: Predictive Recomposition via Semantic Latent Decomposition for View-invariant Video Representation Learning](https://arxiv.org/abs/2608.30388v1)** | 2026-08-31 |  |
+| **[Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection](https://arxiv.org/abs/2509.24192v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
+| **[Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding](https://arxiv.org/abs/2608.30279v1)** | 2026-08-31 |  |
+| **[SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting](https://arxiv.org/abs/2608.25493v2)** | 2026-08-31 | <details><summary>19 pa...</summary><p>19 pages, Accepted 37th British Machine Vision Conference, BMVC 2026</p></details> |
+| **[Heterogeneous Dependency Graph-Guided Attentionfor Patent Representation Learning](https://arxiv.org/abs/2605.10073v3)** | 2026-08-31 |  |
+| **[MASQ: Mask-Aware Spatiotemporal Quantization for Unsupervised Skeleton Action Segmentation](https://arxiv.org/abs/2608.29891v1)** | 2026-08-30 |  |
+| **[Structural Hierarchy and Geometry in Molecular Representation Learning](https://arxiv.org/abs/2608.29886v1)** | 2026-08-30 |  |
+| **[Joycent: Multi-Accent TTS via Disentangled Accent Modeling and Layer-Specific Conditioning](https://arxiv.org/abs/2606.16417v4)** | 2026-08-30 |  |
+| **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence](https://arxiv.org/abs/2601.19597v8)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted at ICML 2026; v8: Exposition and notation refined; results unchanged</p></details> |
+| **[R$^2$A: Learning Persona Policies Through Persona Representation Learning and Runtime Alignment](https://arxiv.org/abs/2608.29798v1)** | 2026-08-30 | 17 pages, 6 figures |
+| **[Cross-Modal Visuo-Tactile Representation Learning with Action Chunking Transformers for Contact-Rich Manipulation](https://arxiv.org/abs/2602.00514v3)** | 2026-08-30 |  |
 
