@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v4)** | 2026-09-01 | <details><summary>Autho...</summary><p>Author Accepted Manuscript. Accepted for publication in the Proceedings of the 34th ACM International Conference on Multimedia (ACM MM '26). This author-created manuscript is not the ACM Version of Record</p></details> |
 | **[Agents as Knowledge Integrator and Utilizer in Multimodal Recommendation](https://arxiv.org/abs/2608.29410v1)** | 2026-08-29 |  |
 | **[Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation](https://arxiv.org/abs/2608.27950v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
 | **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems](https://arxiv.org/abs/2608.07565v2)** | 2026-08-18 |  |
 | **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
 | **[Is Personalized Modality Weighting Actually Personalized? A Controlled Audit of Per-User Weighting Claims in Multimodal Recommenders](https://arxiv.org/abs/2608.05655v1)** | 2026-08-06 |  |
-| **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v3)** | 2026-08-06 | <details><summary>Autho...</summary><p>Author Accepted Manuscript. Accepted for publication in the Proceedings of the 34th ACM International Conference on Multimedia (ACM MM '26). This author-created manuscript is not the ACM Version of Record</p></details> |
 | **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v4)** | 2026-07-31 |  |
 | **[CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation](https://arxiv.org/abs/2607.26720v2)** | 2026-07-31 |  |
 | **[Towards Transfer-Efficient Multi-modal Sequential Recommendation with State Space Duality](https://arxiv.org/abs/2506.02916v5)** | 2026-07-30 |  |
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TDDM-Melatt: A Decoupled Memory and Diffusion Framework for Generalizable Encrypted Traffic Classification](https://arxiv.org/abs/2608.30745v1)** | 2026-08-31 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, 9 tables, accepted at the 2026 ACM Conference on Computer and Communications Security (CCS 2026)</p></details> |
-| **[Liquid Gated Attention](https://arxiv.org/abs/2608.30695v1)** | 2026-08-31 | <details><summary>Code ...</summary><p>Code is available at https://anonymous.4open.science/r/Liquid-Gated-Attention-6B55</p></details> |
-| **[Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH'26</p></details> |
-| **[GeoGR: Enabling Spatio-Temporal Aware Industrial-scale Generative POI Recommendations](https://arxiv.org/abs/2602.10411v2)** | 2026-08-31 |  |
-| **[PRISM: Predictive Recomposition via Semantic Latent Decomposition for View-invariant Video Representation Learning](https://arxiv.org/abs/2608.30388v1)** | 2026-08-31 |  |
-| **[Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection](https://arxiv.org/abs/2509.24192v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
-| **[Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding](https://arxiv.org/abs/2608.30279v1)** | 2026-08-31 |  |
-| **[SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting](https://arxiv.org/abs/2608.25493v2)** | 2026-08-31 | <details><summary>19 pa...</summary><p>19 pages, Accepted 37th British Machine Vision Conference, BMVC 2026</p></details> |
-| **[Heterogeneous Dependency Graph-Guided Attentionfor Patent Representation Learning](https://arxiv.org/abs/2605.10073v3)** | 2026-08-31 |  |
-| **[MASQ: Mask-Aware Spatiotemporal Quantization for Unsupervised Skeleton Action Segmentation](https://arxiv.org/abs/2608.29891v1)** | 2026-08-30 |  |
-| **[Structural Hierarchy and Geometry in Molecular Representation Learning](https://arxiv.org/abs/2608.29886v1)** | 2026-08-30 |  |
-| **[Joycent: Multi-Accent TTS via Disentangled Accent Modeling and Layer-Specific Conditioning](https://arxiv.org/abs/2606.16417v4)** | 2026-08-30 |  |
-| **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence](https://arxiv.org/abs/2601.19597v8)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted at ICML 2026; v8: Exposition and notation refined; results unchanged</p></details> |
-| **[R$^2$A: Learning Persona Policies Through Persona Representation Learning and Runtime Alignment](https://arxiv.org/abs/2608.29798v1)** | 2026-08-30 | 17 pages, 6 figures |
-| **[Cross-Modal Visuo-Tactile Representation Learning with Action Chunking Transformers for Contact-Rich Manipulation](https://arxiv.org/abs/2602.00514v3)** | 2026-08-30 |  |
+| **[Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://arxiv.org/abs/2609.01596v1)** | 2026-09-01 | <details><summary>Proje...</summary><p>Project page: https://pine-lab-ntu.github.io/facet-0/</p></details> |
+| **[H3-World: Turning Language Understanding into World Control](https://arxiv.org/abs/2609.01560v1)** | 2026-09-01 |  |
+| **[CWoMP: Morpheme Representation Learning for Interlinear Glossing](https://arxiv.org/abs/2603.18184v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026. Project page: http://cwomp.github.io</p></details> |
+| **[Pix2Rep-v2: Data-Efficient Representation Learning for Dense Medical Imaging Applications](https://arxiv.org/abs/2609.01427v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
+| **[Polish ModernBERT: The Long and Short of Polish Language Understanding](https://arxiv.org/abs/2609.01379v1)** | 2026-09-01 |  |
+| **[Electronic Navigational Chart Change Classification](https://arxiv.org/abs/2608.20218v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at The 34th ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL '26), November 03--06, 2026, Riverside, CA, USA</p></details> |
+| **[Enhancing Self-Supervised Visual Representation Learning via Low-Rank Adapted LLMs](https://arxiv.org/abs/2507.00754v4)** | 2026-09-01 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 32 pages, 7 figures</p></details> |
+| **[On the Design Fundamentals of Pixel Text Representation Learning](https://arxiv.org/abs/2609.01147v1)** | 2026-09-01 | EMNLP 2026 |
+| **[User Representation via Cross Multi-source Behavior Pre-training for Mobile Games](https://arxiv.org/abs/2609.01057v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by IEEE ICDM 2026, regular paper, 10 pages</p></details> |
+| **[SynCo: Synthetic Hard Negatives for Contrastive Visual Representation Learning](https://arxiv.org/abs/2410.02401v8)** | 2026-09-01 | Preprint |
+| **[When Features Become Instances: Inverted Contrastive Learning for Unsupervised Feature Selection](https://arxiv.org/abs/2609.00782v1)** | 2026-09-01 |  |
+| **[MUGEN: Generating Unlearnable Graph Examples for Multiple Learning Tasks](https://arxiv.org/abs/2609.00696v1)** | 2026-09-01 |  |
+| **[Learning Feasibility-Aware Latent Spaces for Preference-Based Exploration of Procedural Automotive Wheel Designs](https://arxiv.org/abs/2609.00527v1)** | 2026-09-01 |  |
+| **[SlideMix: Enhancing Whole Slide Image Analysis via Multimodal Shuffling](https://arxiv.org/abs/2609.00396v1)** | 2026-08-31 |  |
+| **[NeuroPriv: Adversarial Representation Learning for Privacy in Wearable EEG Systems](https://arxiv.org/abs/2609.00390v1)** | 2026-08-31 |  |
 
