@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2026
+title: Latest 15 Papers - September 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MEOX: Compact Multimodal Mixture-of-Experts for Earth Observation](https://arxiv.org/abs/2609.05351v1)** | 2026-09-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Geoscience and Remote Sensing</p></details> |
-| **[Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference](https://arxiv.org/abs/2609.05262v1)** | 2026-09-04 | 27 pages, 3 figures |
-| **[SoK: AI-Augmented Binary Reversing](https://arxiv.org/abs/2606.17398v2)** | 2026-09-04 | <details><summary>21 pa...</summary><p>21 pages, 7 tables, 4 figures</p></details> |
-| **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v2)** | 2026-09-04 | <details><summary>Needs...</summary><p>Needs further revision</p></details> |
-| **[Dynamic Heterogeneous Graph Representation Learning: A Survey](https://arxiv.org/abs/2609.04779v1)** | 2026-09-04 | <details><summary>IJCAI...</summary><p>IJCAI 2026 Survey Track</p></details> |
-| **[Vectorizing Classical Tamil: Representation Learning for Verse-Commentary Pairs](https://arxiv.org/abs/2609.04755v1)** | 2026-09-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 6 tables</p></details> |
-| **[Wireless Foundation Models: State-of-the-Art and Open Challenges](https://arxiv.org/abs/2609.04707v1)** | 2026-09-04 |  |
-| **[Discriminative Flow Matching: Beyond Time-Conditioning in Generative Restoration via Flow-State Representations](https://arxiv.org/abs/2609.04525v1)** | 2026-09-03 |  |
-| **[Nested Inductive Bias Framework for SPD Manifold Learning](https://arxiv.org/abs/2609.04466v1)** | 2026-09-03 |  |
-| **[Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations](https://arxiv.org/abs/2609.04174v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Project page: https://akola-mbey-denis.github.io/Z3D-page/</p></details> |
-| **[TAP-Path: Task-Adaptive Structural and Token Pruning for Efficient and Trustworthy Pathology Foundation Models](https://arxiv.org/abs/2609.04071v1)** | 2026-09-03 |  |
-| **[Catalogue Photography as a Cold Start: Toward Deployable Carbide Burr Recognition](https://arxiv.org/abs/2609.03995v1)** | 2026-09-03 | <details><summary>Exten...</summary><p>Extended abstract not yet published to a conference or journal</p></details> |
-| **[Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models](https://arxiv.org/abs/2609.03927v1)** | 2026-09-03 |  |
-| **[Differentiable Interval Bottlenecks for Interpretable Anomaly Detection in Numerical Data](https://arxiv.org/abs/2609.03878v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted at ICDM 2026</p></details> |
-| **[CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception](https://arxiv.org/abs/2609.03818v1)** | 2026-09-03 | <details><summary>17 pa...</summary><p>17 pages, accepted at ICML 2026</p></details> |
+| **[Kairos: A Dataset for Fine-Grained Video-Language Modeling over Space, Time, and Dynamics](https://arxiv.org/abs/2609.08755v1)** | 2026-09-08 |  |
+| **[Neither Adversarial Training Nor Purification: Emergent Adversarial Robustness from Oscillatory Predictive Learning](https://arxiv.org/abs/2609.08683v1)** | 2026-09-08 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 6 tables</p></details> |
+| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v3)** | 2026-09-08 |  |
+| **[The Rules-and-Facts Model for Simultaneous Generalization and Memorization in Neural Networks](https://arxiv.org/abs/2603.25579v2)** | 2026-09-08 |  |
+| **[Geometric Dictionary Learning of Dynamical Systems with Optimal Transport](https://arxiv.org/abs/2605.18276v2)** | 2026-09-08 |  |
+| **[DoGMA: A Central-Dogma-Guided Foundation Model for Multi-Omics Alignment and Multi-Task Learning in Oncology](https://arxiv.org/abs/2608.08148v2)** | 2026-09-08 |  |
+| **[Revisiting Spectral Representations in Generative Diffusion Models](https://arxiv.org/abs/2609.08253v1)** | 2026-09-08 | ICML 2026 |
+| **[Topology-induced Operators Reveal Complementary Graph Representations without Training](https://arxiv.org/abs/2609.08152v1)** | 2026-09-08 |  |
+| **[Information-Entropy-Driven Fault Propagation Modeling for Probabilistic Network Performance Prediction](https://arxiv.org/abs/2609.08143v1)** | 2026-09-08 |  |
+| **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v2)** | 2026-09-07 |  |
+| **[US-JEPA: A Joint Embedding Predictive Architecture for Ultrasound](https://arxiv.org/abs/2602.19322v2)** | 2026-09-07 |  |
+| **[Quantile-Led Feature Extraction for Multi-Horizon Predictive Maintenance in Industrial Manufacturing Systems](https://arxiv.org/abs/2609.07533v1)** | 2026-09-07 |  |
+| **[Simulation-Supervised Foundation Models for Retention Time Prediction in High-Performance Liquid Chromatography beyond Experimental Data Coverage](https://arxiv.org/abs/2609.07531v1)** | 2026-09-07 |  |
+| **[When Semantically Consistent Encoding Meets View-Label Heterogeneity Modeling: A Unified Framework for Incomplete Multi-View Multi-Label Learning](https://arxiv.org/abs/2609.07525v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted by IEEE TPAMI</p></details> |
+| **[Vectorizing Classical Tamil: Representation Learning for Verse-Commentary Pairs](https://arxiv.org/abs/2609.04755v2)** | 2026-09-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 6 tables</p></details> |
 
