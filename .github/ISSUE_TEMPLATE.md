@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,13 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge](https://arxiv.org/abs/2609.10322v1)** | 2026-09-09 |  |
+| **[RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2601.15891v4)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
+| **[Frequency-Aware Self-Supervised Music Representation Learning](https://arxiv.org/abs/2606.25713v3)** | 2026-09-09 | Submitted to TASLP |
+| **[ViSR-KGC: Visual Subgraph Reasoning with Vision-Language Models for Multimodal Knowledge Graph Completion](https://arxiv.org/abs/2608.05833v3)** | 2026-09-09 |  |
+| **[DGCPath: Distribution-Aware Generative Contrastive Framework for Self-supervised Path Representation Learning -- Extended Version](https://arxiv.org/abs/2609.07316v2)** | 2026-09-09 | <details><summary>This ...</summary><p>This paper is an extended version of DGCPath, which was published at IJCAI 2026</p></details> |
+| **[Cross-Species Animal Re-Identification with Semantic Consistency Learning](https://arxiv.org/abs/2609.09705v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 18 pages, 5 figures</p></details> |
+| **[DFNN: A Deep Fréchet Neural Network Framework for Learning Metric-Space-Valued Responses](https://arxiv.org/abs/2510.17072v2)** | 2026-09-08 |  |
 | **[Kairos: A Dataset for Fine-Grained Video-Language Modeling over Space, Time, and Dynamics](https://arxiv.org/abs/2609.08755v1)** | 2026-09-08 |  |
 | **[Neither Adversarial Training Nor Purification: Emergent Adversarial Robustness from Oscillatory Predictive Learning](https://arxiv.org/abs/2609.08683v1)** | 2026-09-08 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 6 tables</p></details> |
 | **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v3)** | 2026-09-08 |  |
@@ -49,11 +56,4 @@ labels: documentation
 | **[DoGMA: A Central-Dogma-Guided Foundation Model for Multi-Omics Alignment and Multi-Task Learning in Oncology](https://arxiv.org/abs/2608.08148v2)** | 2026-09-08 |  |
 | **[Revisiting Spectral Representations in Generative Diffusion Models](https://arxiv.org/abs/2609.08253v1)** | 2026-09-08 | ICML 2026 |
 | **[Topology-induced Operators Reveal Complementary Graph Representations without Training](https://arxiv.org/abs/2609.08152v1)** | 2026-09-08 |  |
-| **[Information-Entropy-Driven Fault Propagation Modeling for Probabilistic Network Performance Prediction](https://arxiv.org/abs/2609.08143v1)** | 2026-09-08 |  |
-| **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v2)** | 2026-09-07 |  |
-| **[US-JEPA: A Joint Embedding Predictive Architecture for Ultrasound](https://arxiv.org/abs/2602.19322v2)** | 2026-09-07 |  |
-| **[Quantile-Led Feature Extraction for Multi-Horizon Predictive Maintenance in Industrial Manufacturing Systems](https://arxiv.org/abs/2609.07533v1)** | 2026-09-07 |  |
-| **[Simulation-Supervised Foundation Models for Retention Time Prediction in High-Performance Liquid Chromatography beyond Experimental Data Coverage](https://arxiv.org/abs/2609.07531v1)** | 2026-09-07 |  |
-| **[When Semantically Consistent Encoding Meets View-Label Heterogeneity Modeling: A Unified Framework for Incomplete Multi-View Multi-Label Learning](https://arxiv.org/abs/2609.07525v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted by IEEE TPAMI</p></details> |
-| **[Vectorizing Classical Tamil: Representation Learning for Verse-Commentary Pairs](https://arxiv.org/abs/2609.04755v2)** | 2026-09-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 6 tables</p></details> |
 
