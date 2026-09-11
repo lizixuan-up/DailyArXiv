@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v3)** | 2026-09-10 |  |
 | **[Latent-Aligned Reasoning for Multimodal Recommendation](https://arxiv.org/abs/2609.04645v1)** | 2026-09-04 |  |
 | **[MURAL: Multimodal Uncertainty-aware Recommendation via Adaptive edge Learning](https://arxiv.org/abs/2609.04574v1)** | 2026-09-04 |  |
 | **[Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation](https://arxiv.org/abs/2609.02152v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2026 (ACM MM 2026)</p></details> |
@@ -36,24 +37,23 @@ labels: documentation
 | **[Is Personalized Modality Weighting Actually Personalized? A Controlled Audit of Per-User Weighting Claims in Multimodal Recommenders](https://arxiv.org/abs/2608.05655v1)** | 2026-08-06 |  |
 | **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v4)** | 2026-07-31 |  |
 | **[CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation](https://arxiv.org/abs/2607.26720v2)** | 2026-07-31 |  |
-| **[Towards Transfer-Efficient Multi-modal Sequential Recommendation with State Space Duality](https://arxiv.org/abs/2506.02916v5)** | 2026-07-30 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v3)** | 2026-09-10 |  |
+| **[Exploring Diffusion Transformers for Cross-Modal Augmentation in Multimodal Brain State Decoding](https://arxiv.org/abs/2609.11341v1)** | 2026-09-10 | <details><summary>CoMA-...</summary><p>CoMA-DiT, a cross-modal augmentation framework built on Diffusion Transformer, extends multimodal learning beyond fusion by leveraging paired modalities as mutual generative supervision to enrich training data and improve brain state decoding</p></details> |
+| **[Representation learning of human cortical folding to reveal long lasting neurodevelopmental signatures](https://arxiv.org/abs/2609.05438v2)** | 2026-09-10 |  |
+| **[MUtE: A Dual Framework for Concept Erasure and Counterfactual Interventions](https://arxiv.org/abs/2609.11253v1)** | 2026-09-10 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 6 tables</p></details> |
+| **[TeleOCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://arxiv.org/abs/2608.12898v3)** | 2026-09-10 |  |
+| **[Optimizing Three Critical Factors for Practical and Effective OOD Detection Fine-Tuning](https://arxiv.org/abs/2308.01030v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026. Code: https://github.com/hyunjunchhoi/Three-factors</p></details> |
+| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
+| **[Exploring Second-Order Pattern Recognition in Speaker Recognition](https://arxiv.org/abs/2609.11182v1)** | 2026-09-10 | <details><summary>Submi...</summary><p>Submit to ICASSP 2027</p></details> |
+| **[TailProp: content-adaptive light- and heavy-tailed propagation for vision](https://arxiv.org/abs/2609.11081v1)** | 2026-09-10 | <details><summary>Prepr...</summary><p>Preprint. Under review at ICLR 2027. 18 pages, main text 9 pages, includes appendix, figures and supplementary analyses</p></details> |
+| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
+| **[Perturbation: A simple and efficient adversarial tracer for representation learning in language models](https://arxiv.org/abs/2603.23821v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main</p></details> |
+| **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
 | **[Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge](https://arxiv.org/abs/2609.10322v1)** | 2026-09-09 |  |
 | **[RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2601.15891v4)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
 | **[Frequency-Aware Self-Supervised Music Representation Learning](https://arxiv.org/abs/2606.25713v3)** | 2026-09-09 | Submitted to TASLP |
-| **[ViSR-KGC: Visual Subgraph Reasoning with Vision-Language Models for Multimodal Knowledge Graph Completion](https://arxiv.org/abs/2608.05833v3)** | 2026-09-09 |  |
-| **[DGCPath: Distribution-Aware Generative Contrastive Framework for Self-supervised Path Representation Learning -- Extended Version](https://arxiv.org/abs/2609.07316v2)** | 2026-09-09 | <details><summary>This ...</summary><p>This paper is an extended version of DGCPath, which was published at IJCAI 2026</p></details> |
-| **[Cross-Species Animal Re-Identification with Semantic Consistency Learning](https://arxiv.org/abs/2609.09705v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 18 pages, 5 figures</p></details> |
-| **[DFNN: A Deep Fréchet Neural Network Framework for Learning Metric-Space-Valued Responses](https://arxiv.org/abs/2510.17072v2)** | 2026-09-08 |  |
-| **[Kairos: A Dataset for Fine-Grained Video-Language Modeling over Space, Time, and Dynamics](https://arxiv.org/abs/2609.08755v1)** | 2026-09-08 |  |
-| **[Neither Adversarial Training Nor Purification: Emergent Adversarial Robustness from Oscillatory Predictive Learning](https://arxiv.org/abs/2609.08683v1)** | 2026-09-08 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 6 tables</p></details> |
-| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v3)** | 2026-09-08 |  |
-| **[The Rules-and-Facts Model for Simultaneous Generalization and Memorization in Neural Networks](https://arxiv.org/abs/2603.25579v2)** | 2026-09-08 |  |
-| **[Geometric Dictionary Learning of Dynamical Systems with Optimal Transport](https://arxiv.org/abs/2605.18276v2)** | 2026-09-08 |  |
-| **[DoGMA: A Central-Dogma-Guided Foundation Model for Multi-Omics Alignment and Multi-Task Learning in Oncology](https://arxiv.org/abs/2608.08148v2)** | 2026-09-08 |  |
-| **[Revisiting Spectral Representations in Generative Diffusion Models](https://arxiv.org/abs/2609.08253v1)** | 2026-09-08 | ICML 2026 |
-| **[Topology-induced Operators Reveal Complementary Graph Representations without Training](https://arxiv.org/abs/2609.08152v1)** | 2026-09-08 |  |
 
