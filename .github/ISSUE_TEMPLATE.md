@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Modality-Guided Mixture of Structured Experts with Entropy-Triggered Routing for Multimodal Recommendation](https://arxiv.org/abs/2602.20723v3)** | 2026-09-14 | <details><summary>36 pa...</summary><p>36 pages, 9 figures. Code and reproducibility configurations: https://github.com/jidaivita/MAGNET</p></details> |
 | **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v3)** | 2026-09-10 |  |
 | **[Latent-Aligned Reasoning for Multimodal Recommendation](https://arxiv.org/abs/2609.04645v1)** | 2026-09-04 |  |
 | **[MURAL: Multimodal Uncertainty-aware Recommendation via Adaptive edge Learning](https://arxiv.org/abs/2609.04574v1)** | 2026-09-04 |  |
@@ -36,24 +37,23 @@ labels: documentation
 | **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
 | **[Is Personalized Modality Weighting Actually Personalized? A Controlled Audit of Per-User Weighting Claims in Multimodal Recommenders](https://arxiv.org/abs/2608.05655v1)** | 2026-08-06 |  |
 | **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v4)** | 2026-07-31 |  |
-| **[CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation](https://arxiv.org/abs/2607.26720v2)** | 2026-07-31 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v3)** | 2026-09-10 |  |
-| **[Exploring Diffusion Transformers for Cross-Modal Augmentation in Multimodal Brain State Decoding](https://arxiv.org/abs/2609.11341v1)** | 2026-09-10 | <details><summary>CoMA-...</summary><p>CoMA-DiT, a cross-modal augmentation framework built on Diffusion Transformer, extends multimodal learning beyond fusion by leveraging paired modalities as mutual generative supervision to enrich training data and improve brain state decoding</p></details> |
-| **[Representation learning of human cortical folding to reveal long lasting neurodevelopmental signatures](https://arxiv.org/abs/2609.05438v2)** | 2026-09-10 |  |
-| **[MUtE: A Dual Framework for Concept Erasure and Counterfactual Interventions](https://arxiv.org/abs/2609.11253v1)** | 2026-09-10 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 6 tables</p></details> |
-| **[TeleOCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://arxiv.org/abs/2608.12898v3)** | 2026-09-10 |  |
-| **[Optimizing Three Critical Factors for Practical and Effective OOD Detection Fine-Tuning](https://arxiv.org/abs/2308.01030v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026. Code: https://github.com/hyunjunchhoi/Three-factors</p></details> |
-| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
-| **[Exploring Second-Order Pattern Recognition in Speaker Recognition](https://arxiv.org/abs/2609.11182v1)** | 2026-09-10 | <details><summary>Submi...</summary><p>Submit to ICASSP 2027</p></details> |
-| **[TailProp: content-adaptive light- and heavy-tailed propagation for vision](https://arxiv.org/abs/2609.11081v1)** | 2026-09-10 | <details><summary>Prepr...</summary><p>Preprint. Under review at ICLR 2027. 18 pages, main text 9 pages, includes appendix, figures and supplementary analyses</p></details> |
-| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
-| **[Perturbation: A simple and efficient adversarial tracer for representation learning in language models](https://arxiv.org/abs/2603.23821v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main</p></details> |
-| **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
-| **[Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge](https://arxiv.org/abs/2609.10322v1)** | 2026-09-09 |  |
-| **[RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2601.15891v4)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
-| **[Frequency-Aware Self-Supervised Music Representation Learning](https://arxiv.org/abs/2606.25713v3)** | 2026-09-09 | Submitted to TASLP |
+| **[FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection](https://arxiv.org/abs/2609.17491v1)** | 2026-09-15 | 5 pages, 6 figures |
+| **[Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging](https://arxiv.org/abs/2606.14957v5)** | 2026-09-15 | <details><summary>Under...</summary><p>Under Review Preprint</p></details> |
+| **[Type-IV Code Clone Detection via Layer-Wise Non-Contrastive Representation Learning](https://arxiv.org/abs/2609.17338v1)** | 2026-09-15 |  |
+| **[MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects](https://arxiv.org/abs/2609.17194v1)** | 2026-09-15 |  |
+| **[EviDep: Uncertainty-Aware Multimodal Depression Estimation via Disentangled Evidential Learning](https://arxiv.org/abs/2604.16579v3)** | 2026-09-15 |  |
+| **[Hub-Spectral Activation of Latent Multimodal Knowledge](https://arxiv.org/abs/2609.17094v1)** | 2026-09-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, including appendices</p></details> |
+| **[Repurposing Unified Topological Signatures for Graph Representation Learning](https://arxiv.org/abs/2609.17061v1)** | 2026-09-15 |  |
+| **[HyCoSeq: Contextual Hyperbolic Representation Learning for Genomic Sequences](https://arxiv.org/abs/2609.16925v1)** | 2026-09-15 |  |
+| **[SPEAR NeXT Causal Latent Forecasting Across Multiple Horizons for Spectral Temporal Earth Representation Learning](https://arxiv.org/abs/2609.16871v1)** | 2026-09-15 | 24 Pages |
+| **[Hyper-RED: Scalable Event Pre-training via Semantic Hypergraph Distillation](https://arxiv.org/abs/2609.16811v1)** | 2026-09-15 |  |
+| **[Learning aligned EEG representations with subject-specific encoders](https://arxiv.org/abs/2606.16462v3)** | 2026-09-15 |  |
+| **[MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking](https://arxiv.org/abs/2609.16695v1)** | 2026-09-15 | 35 pages, 5 figures |
+| **[FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation](https://arxiv.org/abs/2609.16591v1)** | 2026-09-15 |  |
+| **[SITA: Learning Speaker-Invariant and Tone-Aware Speech Representations for Low-Resource Tonal Languages](https://arxiv.org/abs/2601.09050v2)** | 2026-09-15 |  |
+| **[Channel-Informed Neural Network for Physical Layer Key Generation](https://arxiv.org/abs/2609.16341v1)** | 2026-09-14 |  |
 
