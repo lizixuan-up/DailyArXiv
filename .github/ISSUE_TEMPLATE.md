@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comprehensive reconstruction of collider events with hypergraph representation learning and graph-conditioned diffusion](https://arxiv.org/abs/2609.18928v1)** | 2026-09-16 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, to be submitted to PRX Intelligence</p></details> |
+| **[ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks](https://arxiv.org/abs/2609.18595v1)** | 2026-09-16 | 12 pages |
+| **[Learning A Unified Template for Gait Recognition](https://arxiv.org/abs/2609.18490v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
+| **[ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models](https://arxiv.org/abs/2609.18487v1)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project Page: https://deepcybo-physai.github.io/ActionPiece/</p></details> |
+| **[Latency-Tolerant Cloud-Edge Collaborative Vision-Language-Action Models via Emergent Representational Specialization](https://arxiv.org/abs/2608.00569v3)** | 2026-09-16 |  |
+| **[Variational Approach for Job Shop Scheduling](https://arxiv.org/abs/2602.00408v3)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted manuscript. Published in Journal of Manufacturing Systems 89 (2026) 215-235. Supplementary material included</p></details> |
+| **[Hyperbolic Graph Representation Learning for Differential Diagnosis on Biomedical Knowledge Graphs](https://arxiv.org/abs/2609.18481v1)** | 2026-09-16 |  |
+| **[Learning Kernels by Alignment for Multiclass Bayes Classification](https://arxiv.org/abs/2609.06474v2)** | 2026-09-16 |  |
+| **[Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration](https://arxiv.org/abs/2609.18088v1)** | 2026-09-16 |  |
+| **[Calendar-Structured Sparse Principal Component Analysis for Interpretable Multi-Periodic Electricity Consumption Profiles](https://arxiv.org/abs/2609.06060v2)** | 2026-09-16 | 34 pages, 7 figures |
+| **[GeomVLA: Unifying Scene, Motion, and Action in 3D](https://arxiv.org/abs/2609.13812v2)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted to CoRL 2026. Project page: https://ziyin-xiong.github.io/geomvla.io/</p></details> |
 | **[FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection](https://arxiv.org/abs/2609.17491v1)** | 2026-09-15 | 5 pages, 6 figures |
 | **[Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging](https://arxiv.org/abs/2606.14957v5)** | 2026-09-15 | <details><summary>Under...</summary><p>Under Review Preprint</p></details> |
 | **[Type-IV Code Clone Detection via Layer-Wise Non-Contrastive Representation Learning](https://arxiv.org/abs/2609.17338v1)** | 2026-09-15 |  |
-| **[MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects](https://arxiv.org/abs/2609.17194v1)** | 2026-09-15 |  |
-| **[EviDep: Uncertainty-Aware Multimodal Depression Estimation via Disentangled Evidential Learning](https://arxiv.org/abs/2604.16579v3)** | 2026-09-15 |  |
-| **[Hub-Spectral Activation of Latent Multimodal Knowledge](https://arxiv.org/abs/2609.17094v1)** | 2026-09-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, including appendices</p></details> |
-| **[Repurposing Unified Topological Signatures for Graph Representation Learning](https://arxiv.org/abs/2609.17061v1)** | 2026-09-15 |  |
-| **[HyCoSeq: Contextual Hyperbolic Representation Learning for Genomic Sequences](https://arxiv.org/abs/2609.16925v1)** | 2026-09-15 |  |
-| **[SPEAR NeXT Causal Latent Forecasting Across Multiple Horizons for Spectral Temporal Earth Representation Learning](https://arxiv.org/abs/2609.16871v1)** | 2026-09-15 | 24 Pages |
-| **[Hyper-RED: Scalable Event Pre-training via Semantic Hypergraph Distillation](https://arxiv.org/abs/2609.16811v1)** | 2026-09-15 |  |
-| **[Learning aligned EEG representations with subject-specific encoders](https://arxiv.org/abs/2606.16462v3)** | 2026-09-15 |  |
-| **[MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking](https://arxiv.org/abs/2609.16695v1)** | 2026-09-15 | 35 pages, 5 figures |
-| **[FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation](https://arxiv.org/abs/2609.16591v1)** | 2026-09-15 |  |
-| **[SITA: Learning Speaker-Invariant and Tone-Aware Speech Representations for Low-Resource Tonal Languages](https://arxiv.org/abs/2601.09050v2)** | 2026-09-15 |  |
-| **[Channel-Informed Neural Network for Physical Layer Key Generation](https://arxiv.org/abs/2609.16341v1)** | 2026-09-14 |  |
+| **[Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction](https://arxiv.org/abs/2609.17646v1)** | 2026-09-15 |  |
 
