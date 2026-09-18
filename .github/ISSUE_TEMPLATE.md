@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2026
+title: Latest 15 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JEPA-Anything: Learning Predictive Models across Different Worlds](https://arxiv.org/abs/2609.20800v1)** | 2026-09-17 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/JEPA-Anything</p></details> |
+| **[VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation](https://arxiv.org/abs/2608.21290v2)** | 2026-09-17 |  |
+| **[Pretrained Medical Representations for the Practical Screening of Drug Repositioning Candidates](https://arxiv.org/abs/2609.19865v1)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 AI for Science Workshop</p></details> |
+| **[Absence is Presence: Understanding Visual Scene Negative Events Under Safety Cognitive Constraint](https://arxiv.org/abs/2609.19812v1)** | 2026-09-17 |  |
+| **[LIFD: Anchored Diffusion for 3D-Aware Scene Memory in Robotic Manipulation](https://arxiv.org/abs/2609.19796v1)** | 2026-09-17 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to ICRA 2027</p></details> |
+| **[Cross-Sectional Asset Retrieval via Future-Aligned Soft Contrastive Learning](https://arxiv.org/abs/2602.10711v2)** | 2026-09-17 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 10 tables</p></details> |
+| **[Task-Directed Residual AddUNet:Perfect-Reconstruction Routing for Full-Rate Representations](https://arxiv.org/abs/2609.15857v2)** | 2026-09-16 |  |
 | **[Comprehensive reconstruction of collider events with hypergraph representation learning and graph-conditioned diffusion](https://arxiv.org/abs/2609.18928v1)** | 2026-09-16 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, to be submitted to PRX Intelligence</p></details> |
+| **[FedVideoMAE: Efficient Federated Video Moderation with Differential Privacy and Secure Aggregation](https://arxiv.org/abs/2512.18809v3)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted to ICONIP 2026</p></details> |
 | **[ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks](https://arxiv.org/abs/2609.18595v1)** | 2026-09-16 | 12 pages |
 | **[Learning A Unified Template for Gait Recognition](https://arxiv.org/abs/2609.18490v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models](https://arxiv.org/abs/2609.18487v1)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project Page: https://deepcybo-physai.github.io/ActionPiece/</p></details> |
 | **[Latency-Tolerant Cloud-Edge Collaborative Vision-Language-Action Models via Emergent Representational Specialization](https://arxiv.org/abs/2608.00569v3)** | 2026-09-16 |  |
 | **[Variational Approach for Job Shop Scheduling](https://arxiv.org/abs/2602.00408v3)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted manuscript. Published in Journal of Manufacturing Systems 89 (2026) 215-235. Supplementary material included</p></details> |
 | **[Hyperbolic Graph Representation Learning for Differential Diagnosis on Biomedical Knowledge Graphs](https://arxiv.org/abs/2609.18481v1)** | 2026-09-16 |  |
-| **[Learning Kernels by Alignment for Multiclass Bayes Classification](https://arxiv.org/abs/2609.06474v2)** | 2026-09-16 |  |
-| **[Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration](https://arxiv.org/abs/2609.18088v1)** | 2026-09-16 |  |
-| **[Calendar-Structured Sparse Principal Component Analysis for Interpretable Multi-Periodic Electricity Consumption Profiles](https://arxiv.org/abs/2609.06060v2)** | 2026-09-16 | 34 pages, 7 figures |
-| **[GeomVLA: Unifying Scene, Motion, and Action in 3D](https://arxiv.org/abs/2609.13812v2)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted to CoRL 2026. Project page: https://ziyin-xiong.github.io/geomvla.io/</p></details> |
-| **[FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection](https://arxiv.org/abs/2609.17491v1)** | 2026-09-15 | 5 pages, 6 figures |
-| **[Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging](https://arxiv.org/abs/2606.14957v5)** | 2026-09-15 | <details><summary>Under...</summary><p>Under Review Preprint</p></details> |
-| **[Type-IV Code Clone Detection via Layer-Wise Non-Contrastive Representation Learning](https://arxiv.org/abs/2609.17338v1)** | 2026-09-15 |  |
-| **[Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction](https://arxiv.org/abs/2609.17646v1)** | 2026-09-15 |  |
 
