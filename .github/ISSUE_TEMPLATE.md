@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cross-sector generalization of accident-process role classification in occupational accident narratives](https://arxiv.org/abs/2609.22081v1)** | 2026-09-18 |  |
-| **[LIFD: Anchored Diffusion for 3D-Aware Scene Memory in Robotic Manipulation](https://arxiv.org/abs/2609.19796v2)** | 2026-09-18 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to ICRA 2027</p></details> |
-| **[STAR: Sparse Tactile Representation Learning in Vision-Tactile-Language-Action Models for Dexterous Manipulation](https://arxiv.org/abs/2609.12549v2)** | 2026-09-18 |  |
-| **[Rhamba: Region-Aware Hybrid Attention-Mamba Framework for Self-Supervised Learning in Resting-State fMRI](https://arxiv.org/abs/2605.01240v3)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted for publication in Computers in Biology and Medicine</p></details> |
-| **[Chronosphere: Space-Time Tessellation of Local Climate Experts](https://arxiv.org/abs/2609.21872v1)** | 2026-09-18 |  |
-| **[PSR: Predictive Sensorimotor Representation Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2609.21753v1)** | 2026-09-18 | 7 pages, 5 figures |
-| **[The Impact of Semantic Pairs on Self-Supervised Representation Learning](https://arxiv.org/abs/2510.08722v4)** | 2026-09-18 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 5 tables</p></details> |
-| **[A benchmark dataset and baseline methods for four-dimensional STEM diffraction patterns](https://arxiv.org/abs/2609.21593v1)** | 2026-09-18 | <details><summary>16 pa...</summary><p>16 pages, 5 figures. Data and trained model weights: https://doi.org/10.57760/sciencedb.nbsdc.00281. Code: https://github.com/Gaiya69-rgb/4D-ImageNet</p></details> |
-| **[Adaptive Preference Modeling via Explicit Indirect Relational Learning for Personalized Fashion Matching](https://arxiv.org/abs/2609.21475v1)** | 2026-09-18 |  |
-| **[Brownian Heads for Deep ReLU Representations: Activation Mass and the Cost of Same-Sample Selection](https://arxiv.org/abs/2609.21422v1)** | 2026-09-18 |  |
-| **[JEPA Guided Diffusion: Predictive Vision-Language Conditioning for Generative Traffic Forecasting](https://arxiv.org/abs/2609.21379v1)** | 2026-09-18 | <details><summary>ECCV ...</summary><p>ECCV Workshop 2026, AI City Challenge 2026 Track 5</p></details> |
-| **[Co-Evolving Zero-Day Jamming: Adaptive Attack Synthesis and Graph Attention-Based Online Detection](https://arxiv.org/abs/2609.21334v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted for publication in the 2026 IEEE Global Communications Conference (GLOBECOM)</p></details> |
-| **[From Reports to Ontologies: Ontology-Guided Representation Learning for 12-Lead ECG](https://arxiv.org/abs/2605.25883v2)** | 2026-09-17 |  |
-| **[JEPA-Anything: Learning Predictive Models across Different Worlds](https://arxiv.org/abs/2609.20800v1)** | 2026-09-17 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/JEPA-Anything</p></details> |
-| **[VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation](https://arxiv.org/abs/2608.21290v2)** | 2026-09-17 |  |
+| **[PixelDiT2: Representation-Grounded Pixel Diffusion Transformers](https://arxiv.org/abs/2609.24919v1)** | 2026-09-21 |  |
+| **[Toward a foundation model for forest point clouds](https://arxiv.org/abs/2609.24787v1)** | 2026-09-21 | <details><summary>Proje...</summary><p>Project page: https://prs-eth.github.io/ForPT</p></details> |
+| **[Metadata Supervised Imaging Representations for Modelling and Controlling Acquisition Variability](https://arxiv.org/abs/2607.11295v2)** | 2026-09-21 |  |
+| **[Ananke: Contractive Torus Attractor Networks](https://arxiv.org/abs/2609.24737v1)** | 2026-09-21 | 17 pages |
+| **[Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210v5)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH'26</p></details> |
+| **[Relationally Grounded Latent World Models for Autonomous Driving](https://arxiv.org/abs/2609.24626v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at the NeuRo-SymBolic World Models (RoBoWoMo) Workshop at IROS 2026</p></details> |
+| **[SiST-GNN: Simultaneous Spatial-Temporal Message Passing for Dynamic Graph Representation Learning](https://arxiv.org/abs/2605.25548v2)** | 2026-09-21 |  |
+| **[Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors](https://arxiv.org/abs/2609.24385v1)** | 2026-09-21 |  |
+| **[Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs](https://arxiv.org/abs/2609.24352v1)** | 2026-09-21 |  |
+| **[AdaptiveCDM: Source-Free Few-Shot Domain Adaptation for Cell Detection in Microscopic Images](https://arxiv.org/abs/2503.03370v3)** | 2026-09-21 | 6 pages, 5 figures |
+| **[Action-Slot: Structured Action-Centric Representation Learning for Multi-Agent Atomic Activity Understanding](https://arxiv.org/abs/2609.24127v1)** | 2026-09-21 | 17 pages, 7 figures |
+| **[Positive Pair Geometry Matters: Optimal Transport for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2609.24125v1)** | 2026-09-21 | 12 pages, 5 figures |
+| **[Causal Bayesian Optimization: Foundations, Methods, and Applications](https://arxiv.org/abs/2609.24112v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR), 2026</p></details> |
+| **[Adaptive Cortically Constrained EEG-Vision Alignment for Zero-Shot Brain-to-Image Retrieval](https://arxiv.org/abs/2609.24109v1)** | 2026-09-21 |  |
+| **[GLR-MM: Graph-Based Global-Local Reconstruction for Robust Multimodal Chest X-ray and EHR Representation Learning under Missing Modalities](https://arxiv.org/abs/2609.23876v1)** | 2026-09-20 | Accepted in MICCAI |
 
