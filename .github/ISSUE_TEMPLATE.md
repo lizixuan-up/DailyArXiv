@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2026
+title: Latest 15 Papers - September 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeoComposer: Geometry-Grounded Photographic Composition Instruction](https://arxiv.org/abs/2609.26620v1)** | 2026-09-22 |  |
+| **[Discovering Data Manifold Geometry through Geometric Properties](https://arxiv.org/abs/2602.02611v2)** | 2026-09-22 |  |
+| **[On the Role of the Projector in Contrastive Self-Supervised Learning: Last-Layer Rank Dynamics Drive Representation Quality](https://arxiv.org/abs/2609.26334v1)** | 2026-09-22 | <details><summary>Under...</summary><p>Under review at Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model](https://arxiv.org/abs/2609.26299v1)** | 2026-09-22 | <details><summary>9 pag...</summary><p>9 pages, 4 figures; 8 pages supplementary with 4 figures</p></details> |
+| **[Canonical locks that encode part-whole hierarchies](https://arxiv.org/abs/2609.26046v1)** | 2026-09-22 | Work in Progress |
+| **[Radiance-Field Guided Pretraining: Scaling Localization Models with Unlabeled Wireless Signals](https://arxiv.org/abs/2512.07309v2)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted by IMWUT (Ubicomp 2026)</p></details> |
+| **[Multi-View Fair Clustering Guided by Cross-View Sensitive Information Discrepancy](https://arxiv.org/abs/2609.25811v1)** | 2026-09-22 |  |
+| **[RepUCB: Representation Learning-Based UCB for Heterogeneous Multi-Task Linear Bandits](https://arxiv.org/abs/2604.00531v2)** | 2026-09-22 |  |
+| **[TRACE: Trajectory Representation and Consistency Estimation for AI-Generated Video Detection](https://arxiv.org/abs/2609.25775v1)** | 2026-09-22 |  |
+| **[Graph Domain Adaptation Does Not End with Representation Learning](https://arxiv.org/abs/2609.25692v1)** | 2026-09-22 |  |
+| **[CableVLA: Simulation-Privileged Global-Local Representation Learning for Cable Routing](https://arxiv.org/abs/2609.25606v1)** | 2026-09-22 |  |
 | **[PixelDiT2: Representation-Grounded Pixel Diffusion Transformers](https://arxiv.org/abs/2609.24919v1)** | 2026-09-21 |  |
 | **[Toward a foundation model for forest point clouds](https://arxiv.org/abs/2609.24787v1)** | 2026-09-21 | <details><summary>Proje...</summary><p>Project page: https://prs-eth.github.io/ForPT</p></details> |
 | **[Metadata Supervised Imaging Representations for Modelling and Controlling Acquisition Variability](https://arxiv.org/abs/2607.11295v2)** | 2026-09-21 |  |
 | **[Ananke: Contractive Torus Attractor Networks](https://arxiv.org/abs/2609.24737v1)** | 2026-09-21 | 17 pages |
-| **[Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210v5)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH'26</p></details> |
-| **[Relationally Grounded Latent World Models for Autonomous Driving](https://arxiv.org/abs/2609.24626v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at the NeuRo-SymBolic World Models (RoBoWoMo) Workshop at IROS 2026</p></details> |
-| **[SiST-GNN: Simultaneous Spatial-Temporal Message Passing for Dynamic Graph Representation Learning](https://arxiv.org/abs/2605.25548v2)** | 2026-09-21 |  |
-| **[Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors](https://arxiv.org/abs/2609.24385v1)** | 2026-09-21 |  |
-| **[Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs](https://arxiv.org/abs/2609.24352v1)** | 2026-09-21 |  |
-| **[AdaptiveCDM: Source-Free Few-Shot Domain Adaptation for Cell Detection in Microscopic Images](https://arxiv.org/abs/2503.03370v3)** | 2026-09-21 | 6 pages, 5 figures |
-| **[Action-Slot: Structured Action-Centric Representation Learning for Multi-Agent Atomic Activity Understanding](https://arxiv.org/abs/2609.24127v1)** | 2026-09-21 | 17 pages, 7 figures |
-| **[Positive Pair Geometry Matters: Optimal Transport for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2609.24125v1)** | 2026-09-21 | 12 pages, 5 figures |
-| **[Causal Bayesian Optimization: Foundations, Methods, and Applications](https://arxiv.org/abs/2609.24112v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR), 2026</p></details> |
-| **[Adaptive Cortically Constrained EEG-Vision Alignment for Zero-Shot Brain-to-Image Retrieval](https://arxiv.org/abs/2609.24109v1)** | 2026-09-21 |  |
-| **[GLR-MM: Graph-Based Global-Local Reconstruction for Robust Multimodal Chest X-ray and EHR Representation Learning under Missing Modalities](https://arxiv.org/abs/2609.23876v1)** | 2026-09-20 | Accepted in MICCAI |
 
