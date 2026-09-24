@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2026
+title: Latest 15 Papers - September 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,19 +41,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
+| **[Depth-Guided Contrastive Learning for 2D Representations with 3D Spatial Awareness](https://arxiv.org/abs/2609.28159v1)** | 2026-09-23 |  |
+| **[Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v1)** | 2026-09-23 |  |
+| **[ViMoWear: Visual Motion-Guided sEMG-IMU Representation Learning for Subject-Independent Thumb Gesture Recognition](https://arxiv.org/abs/2609.27595v1)** | 2026-09-23 |  |
+| **[PhyMo: A Physical-Field Modality for Multimodal AI4Physics](https://arxiv.org/abs/2609.27554v1)** | 2026-09-23 | Under review |
+| **[MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects](https://arxiv.org/abs/2609.17194v2)** | 2026-09-23 |  |
+| **[ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model](https://arxiv.org/abs/2609.26299v2)** | 2026-09-23 | <details><summary>9 pag...</summary><p>9 pages, 4 figures; 8 pages supplementary with 4 figures</p></details> |
 | **[GeoComposer: Geometry-Grounded Photographic Composition Instruction](https://arxiv.org/abs/2609.26620v1)** | 2026-09-22 |  |
 | **[Discovering Data Manifold Geometry through Geometric Properties](https://arxiv.org/abs/2602.02611v2)** | 2026-09-22 |  |
 | **[On the Role of the Projector in Contrastive Self-Supervised Learning: Last-Layer Rank Dynamics Drive Representation Quality](https://arxiv.org/abs/2609.26334v1)** | 2026-09-22 | <details><summary>Under...</summary><p>Under review at Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model](https://arxiv.org/abs/2609.26299v1)** | 2026-09-22 | <details><summary>9 pag...</summary><p>9 pages, 4 figures; 8 pages supplementary with 4 figures</p></details> |
 | **[Canonical locks that encode part-whole hierarchies](https://arxiv.org/abs/2609.26046v1)** | 2026-09-22 | Work in Progress |
 | **[Radiance-Field Guided Pretraining: Scaling Localization Models with Unlabeled Wireless Signals](https://arxiv.org/abs/2512.07309v2)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted by IMWUT (Ubicomp 2026)</p></details> |
 | **[Multi-View Fair Clustering Guided by Cross-View Sensitive Information Discrepancy](https://arxiv.org/abs/2609.25811v1)** | 2026-09-22 |  |
 | **[RepUCB: Representation Learning-Based UCB for Heterogeneous Multi-Task Linear Bandits](https://arxiv.org/abs/2604.00531v2)** | 2026-09-22 |  |
 | **[TRACE: Trajectory Representation and Consistency Estimation for AI-Generated Video Detection](https://arxiv.org/abs/2609.25775v1)** | 2026-09-22 |  |
-| **[Graph Domain Adaptation Does Not End with Representation Learning](https://arxiv.org/abs/2609.25692v1)** | 2026-09-22 |  |
-| **[CableVLA: Simulation-Privileged Global-Local Representation Learning for Cable Routing](https://arxiv.org/abs/2609.25606v1)** | 2026-09-22 |  |
-| **[PixelDiT2: Representation-Grounded Pixel Diffusion Transformers](https://arxiv.org/abs/2609.24919v1)** | 2026-09-21 |  |
-| **[Toward a foundation model for forest point clouds](https://arxiv.org/abs/2609.24787v1)** | 2026-09-21 | <details><summary>Proje...</summary><p>Project page: https://prs-eth.github.io/ForPT</p></details> |
-| **[Metadata Supervised Imaging Representations for Modelling and Controlling Acquisition Variability](https://arxiv.org/abs/2607.11295v2)** | 2026-09-21 |  |
-| **[Ananke: Contractive Torus Attractor Networks](https://arxiv.org/abs/2609.24737v1)** | 2026-09-21 | 17 pages |
 
