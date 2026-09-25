@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -28,6 +28,7 @@ labels: documentation
 | **[MURAL: Multimodal Uncertainty-aware Recommendation via Adaptive edge Learning](https://arxiv.org/abs/2609.04574v1)** | 2026-09-04 |  |
 | **[Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation](https://arxiv.org/abs/2609.02152v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2026 (ACM MM 2026)</p></details> |
 | **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v4)** | 2026-09-01 | <details><summary>Autho...</summary><p>Author Accepted Manuscript. Accepted for publication in the Proceedings of the 34th ACM International Conference on Multimedia (ACM MM '26). This author-created manuscript is not the ACM Version of Record</p></details> |
+| **[Anatomy of a Decision: Uncertainty-aware Hierarchical Intent Learning via Flow Matching for Multimodal Recommendation](https://arxiv.org/abs/2609.29609v1)** | 2026-08-30 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Accepted at WISE 2026</p></details> |
 | **[Agents as Knowledge Integrator and Utilizer in Multimodal Recommendation](https://arxiv.org/abs/2608.29410v1)** | 2026-08-29 |  |
 | **[Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation](https://arxiv.org/abs/2608.27950v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
 | **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
@@ -36,24 +37,23 @@ labels: documentation
 | **[What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems](https://arxiv.org/abs/2608.07565v2)** | 2026-08-18 |  |
 | **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
 | **[Is Personalized Modality Weighting Actually Personalized? A Controlled Audit of Per-User Weighting Claims in Multimodal Recommenders](https://arxiv.org/abs/2608.05655v1)** | 2026-08-06 |  |
-| **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v4)** | 2026-07-31 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring](https://arxiv.org/abs/2605.26026v2)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
+| **[Pointwise Generalization in Deep Neural Networks](https://arxiv.org/abs/2605.18598v2)** | 2026-09-24 |  |
+| **[AI-based detection of worsening heart failure from low-resolution telemonitoring data](https://arxiv.org/abs/2609.29742v1)** | 2026-09-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, under review for publication</p></details> |
+| **[TopU-LBVS: A Realistic Multi Target Benchmark for Ligand Based Virtual Screening](https://arxiv.org/abs/2609.29740v1)** | 2026-09-24 | 75 pages |
+| **[RQ-Reg: A Residual-Quantization-Based Framework for Continuous Value Prediction in Recommender Systems](https://arxiv.org/abs/2602.23012v2)** | 2026-09-24 |  |
+| **[IronViT: Toward Efficient Generalist Visual Representation Learning](https://arxiv.org/abs/2609.29252v1)** | 2026-09-24 |  |
+| **[Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v2)** | 2026-09-24 |  |
+| **[Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data](https://arxiv.org/abs/2608.29001v2)** | 2026-09-23 | <details><summary>Publi...</summary><p>Published in International Joint Conference on Neural Networks, 2025 (IJCNN 2025). Code available in: https://github.com/thcastilho/interpretable-embeddings</p></details> |
 | **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
 | **[Depth-Guided Contrastive Learning for 2D Representations with 3D Spatial Awareness](https://arxiv.org/abs/2609.28159v1)** | 2026-09-23 |  |
-| **[Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v1)** | 2026-09-23 |  |
 | **[ViMoWear: Visual Motion-Guided sEMG-IMU Representation Learning for Subject-Independent Thumb Gesture Recognition](https://arxiv.org/abs/2609.27595v1)** | 2026-09-23 |  |
 | **[PhyMo: A Physical-Field Modality for Multimodal AI4Physics](https://arxiv.org/abs/2609.27554v1)** | 2026-09-23 | Under review |
 | **[MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects](https://arxiv.org/abs/2609.17194v2)** | 2026-09-23 |  |
 | **[ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model](https://arxiv.org/abs/2609.26299v2)** | 2026-09-23 | <details><summary>9 pag...</summary><p>9 pages, 4 figures; 8 pages supplementary with 4 figures</p></details> |
-| **[GeoComposer: Geometry-Grounded Photographic Composition Instruction](https://arxiv.org/abs/2609.26620v1)** | 2026-09-22 |  |
-| **[Discovering Data Manifold Geometry through Geometric Properties](https://arxiv.org/abs/2602.02611v2)** | 2026-09-22 |  |
-| **[On the Role of the Projector in Contrastive Self-Supervised Learning: Last-Layer Rank Dynamics Drive Representation Quality](https://arxiv.org/abs/2609.26334v1)** | 2026-09-22 | <details><summary>Under...</summary><p>Under review at Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Canonical locks that encode part-whole hierarchies](https://arxiv.org/abs/2609.26046v1)** | 2026-09-22 | Work in Progress |
-| **[Radiance-Field Guided Pretraining: Scaling Localization Models with Unlabeled Wireless Signals](https://arxiv.org/abs/2512.07309v2)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted by IMWUT (Ubicomp 2026)</p></details> |
-| **[Multi-View Fair Clustering Guided by Cross-View Sensitive Information Discrepancy](https://arxiv.org/abs/2609.25811v1)** | 2026-09-22 |  |
-| **[RepUCB: Representation Learning-Based UCB for Heterogeneous Multi-Task Linear Bandits](https://arxiv.org/abs/2604.00531v2)** | 2026-09-22 |  |
-| **[TRACE: Trajectory Representation and Consistency Estimation for AI-Generated Video Detection](https://arxiv.org/abs/2609.25775v1)** | 2026-09-22 |  |
+| **[DCRMTA: Deep Causal Representation Learning for Multi-Touch Attribution](https://arxiv.org/abs/2401.08875v3)** | 2026-09-22 |  |
 
