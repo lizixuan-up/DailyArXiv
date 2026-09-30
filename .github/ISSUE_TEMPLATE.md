@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control](https://arxiv.org/abs/2609.35758v1)** | 2026-09-28 | <details><summary>9 pag...</summary><p>9 pages, including an additional one-page appendix in this arXiv version. Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
-| **[HOPPER: Learnable Hop Extraction for Linearized Graph Sequence Models](https://arxiv.org/abs/2608.09031v2)** | 2026-09-28 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 7 tables</p></details> |
-| **[The Platonic Universe: Do Foundation Models See the Same Sky?](https://arxiv.org/abs/2509.19453v2)** | 2026-09-28 | <details><summary>32 pa...</summary><p>32 pages, 8 tables, 13 figures, code available here: https://github.com/UniverseTBD/platonic-universe</p></details> |
-| **[Structured Latent Modeling for Supervised Multimodal Information Decomposition](https://arxiv.org/abs/2609.35502v1)** | 2026-09-28 |  |
-| **[DiMoP: Diffusion-Driven Motion Representation Learning With Frame-Level Pseudo-Classification for Skeleton-Based Action Recognition](https://arxiv.org/abs/2609.35444v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to IEEE TRANSACTIONS ON BIOMETRICS, BEHAVIOR, AND IDENTITY SCIENCE</p></details> |
-| **[Graph Structure Learning with Temporal Graph Information Bottleneck for Inductive Representation Learning](https://arxiv.org/abs/2508.14859v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted in the 28th European Conference on Artificial Intelligence (ECAI), 2025 v2: corrects typographical errors in Eqs. (9) and (13), in Section 5.1, and in Table 2 and its discussion, and the sampling configuration stated in the implementation details; revises the proofs in Appendices A.2 and B</p></details> |
-| **[AbGaze: Attentive Geometric Representation Learning for End-to-End Antibody Design](https://arxiv.org/abs/2609.35296v1)** | 2026-09-28 |  |
-| **[Hyperbolic Manifold Constrained Tabular Neural Network](https://arxiv.org/abs/2607.09710v2)** | 2026-09-28 |  |
-| **[Effective Biological Representation Learning by Masking Gene Expression](https://arxiv.org/abs/2605.31562v2)** | 2026-09-28 | <details><summary>31 pa...</summary><p>31 pages, 11 figures. Accepted for main-track at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). Also presented at ICLR 2026 2nd Workshop on Foundation Models for Science: Real-World Impact and Science-First Design</p></details> |
-| **[Adversarial Consistency-Guided Representation Learning for Multi-view Clustering](https://arxiv.org/abs/2609.35212v1)** | 2026-09-28 | 5 pages, 4 figures |
-| **[Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting](https://arxiv.org/abs/2609.35041v1)** | 2026-09-28 | Accepted at ACM TOIS |
-| **[SBMVTrack: Spike-Budgeted Multi-View Learning for Power-Efficient UAV Tracking](https://arxiv.org/abs/2609.25503v2)** | 2026-09-28 |  |
-| **[Role-Guided MOE for Encoder-Level Pathology Representation Learning in WSI Classification](https://arxiv.org/abs/2609.34897v1)** | 2026-09-28 |  |
-| **[Conditional Predictive Sufficient Statistics for Visual Representation Learning](https://arxiv.org/abs/2609.30647v2)** | 2026-09-28 | 14 pages, 2 figures |
-| **[Localized time-frequency representation learning for bioacoustic classification in complex soundscapes](https://arxiv.org/abs/2502.13440v2)** | 2026-09-28 | <details><summary>Subst...</summary><p>Substantially revised, including new title and abstract. Main changes: expanded literature review; evaluation on an out-of-distribution dataset; additional BirdNET configurations; new dual-context classifier; ablations on TFE extraction and contrastive pre-training; simplified pipeline (autoencoder removed); restructured manuscript</p></details> |
+| **[TopoEmbedX: A General Framework for Representation Learning on Topological Domains](https://arxiv.org/abs/2609.37884v1)** | 2026-09-29 |  |
+| **[Minkowski Attractor Networks: Closed-Form Hyperbolic Flows for Visual Representations](https://arxiv.org/abs/2609.37817v1)** | 2026-09-29 | 15 pages |
+| **[Learning Expressive and Compositional Motion Representation via Spectral Skills](https://arxiv.org/abs/2609.37677v1)** | 2026-09-29 |  |
+| **[LEMON-ZEST: Evolution-Informed Tokenization for Efficient Protein Language Modeling](https://arxiv.org/abs/2609.37675v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 9 pages, 4 figures, 3 tables</p></details> |
+| **[Beyond a single latent space: a dual-latent world model for long-horizon planning](https://arxiv.org/abs/2609.37644v1)** | 2026-09-29 | <details><summary>31 pa...</summary><p>31 pages, 22 figures, 9 tables. Main text: 9 pages</p></details> |
+| **[Flattening the Connectome Spectrum: A Spectral Filter for FC Induces a Pretraining Target for fMRI Encoders](https://arxiv.org/abs/2609.37642v1)** | 2026-09-29 |  |
+| **[Comparing Corrupted Constrained Learning Problems](https://arxiv.org/abs/2608.25745v2)** | 2026-09-29 | 53 pages |
+| **[MoTIF-X: A Multimodal Tokenized Framework for Interpretable and Extensible Molecular Representation Learning](https://arxiv.org/abs/2609.37384v1)** | 2026-09-29 | <details><summary>5 fig...</summary><p>5 figures. Supplementary material is available as an ancillary file. Code: https://github.com/Bin-Chen-Lab/Motif-X</p></details> |
+| **[High-Dimensional Simulation-Based Inference in Latent Spaces](https://arxiv.org/abs/2609.37381v1)** | 2026-09-29 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 6 tables</p></details> |
+| **[Rethinking Vision Architectures with Gated Linear Attention and KAN](https://arxiv.org/abs/2609.22506v3)** | 2026-09-29 | <details><summary>19 pa...</summary><p>19 pages, 9 figures. Code available at https://github.com/mehizelali/linear-kan-transformer</p></details> |
+| **[OFBD: Object-Focused Background Debiasing for Long-Tailed Learning](https://arxiv.org/abs/2609.37331v1)** | 2026-09-29 |  |
+| **[ResComEmb: Effective and Efficient Multimodal Embedding via Residual Homogeneity Compression](https://arxiv.org/abs/2609.37225v1)** | 2026-09-29 | 19 pages |
+| **[Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead](https://arxiv.org/abs/2609.37165v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to CoRL 2026. Project website: https://dill-vla.github.io/</p></details> |
+| **[Identifying ODEs from Unstructured Data with Causal Representation Learning](https://arxiv.org/abs/2609.37083v1)** | 2026-09-29 |  |
+| **[Language as the Interface: Foundation-Model Contrastive Learning Links Transcriptomes and Electrophysiology](https://arxiv.org/abs/2609.37024v1)** | 2026-09-29 | <details><summary>Code:...</summary><p>Code: https://github.com/ai4biomedicine/LangPatch</p></details> |
 
