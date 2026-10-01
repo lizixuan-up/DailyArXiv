@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -23,6 +23,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaM-Rec: Adaptive Modality Routing for Multimodal Recommendation](https://arxiv.org/abs/2609.38455v1)** | 2026-09-29 |  |
 | **[MM-VeriRec: Failure-Guided Fusion for Verifiable Agentic Multimodal Recommendation](https://arxiv.org/abs/2609.31718v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on Agentic Multimodal Intelligence: Models, Benchmarks, and Applications (AMI '26), co-located with ACM Multimedia 2026</p></details> |
 | **[Modality-Guided Mixture of Structured Experts with Entropy-Triggered Routing for Multimodal Recommendation](https://arxiv.org/abs/2602.20723v3)** | 2026-09-14 | <details><summary>36 pa...</summary><p>36 pages, 9 figures. Code and reproducibility configurations: https://github.com/jidaivita/MAGNET</p></details> |
 | **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v3)** | 2026-09-10 |  |
@@ -37,24 +38,23 @@ labels: documentation
 | **[URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios](https://arxiv.org/abs/2606.23291v2)** | 2026-08-22 | <details><summary>This ...</summary><p>This manuscript has been published in the Springer's Journal of Intelligent Information Systems: https://link.springer.com/article/10.1007/s10844-026-01088-x</p></details> |
 | **[BRIDGE: Behavior-Guided Residual Integration with Dual-Frequency Graph Evidence](https://arxiv.org/abs/2605.22073v2)** | 2026-08-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures. Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026). Project page: https://lizesheng13.github.io/bridge/</p></details> |
 | **[What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems](https://arxiv.org/abs/2608.07565v2)** | 2026-08-18 |  |
-| **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TopoEmbedX: A General Framework for Representation Learning on Topological Domains](https://arxiv.org/abs/2609.37884v1)** | 2026-09-29 |  |
-| **[Minkowski Attractor Networks: Closed-Form Hyperbolic Flows for Visual Representations](https://arxiv.org/abs/2609.37817v1)** | 2026-09-29 | 15 pages |
-| **[Learning Expressive and Compositional Motion Representation via Spectral Skills](https://arxiv.org/abs/2609.37677v1)** | 2026-09-29 |  |
-| **[LEMON-ZEST: Evolution-Informed Tokenization for Efficient Protein Language Modeling](https://arxiv.org/abs/2609.37675v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 9 pages, 4 figures, 3 tables</p></details> |
-| **[Beyond a single latent space: a dual-latent world model for long-horizon planning](https://arxiv.org/abs/2609.37644v1)** | 2026-09-29 | <details><summary>31 pa...</summary><p>31 pages, 22 figures, 9 tables. Main text: 9 pages</p></details> |
-| **[Flattening the Connectome Spectrum: A Spectral Filter for FC Induces a Pretraining Target for fMRI Encoders](https://arxiv.org/abs/2609.37642v1)** | 2026-09-29 |  |
-| **[Comparing Corrupted Constrained Learning Problems](https://arxiv.org/abs/2608.25745v2)** | 2026-09-29 | 53 pages |
-| **[MoTIF-X: A Multimodal Tokenized Framework for Interpretable and Extensible Molecular Representation Learning](https://arxiv.org/abs/2609.37384v1)** | 2026-09-29 | <details><summary>5 fig...</summary><p>5 figures. Supplementary material is available as an ancillary file. Code: https://github.com/Bin-Chen-Lab/Motif-X</p></details> |
-| **[High-Dimensional Simulation-Based Inference in Latent Spaces](https://arxiv.org/abs/2609.37381v1)** | 2026-09-29 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 6 tables</p></details> |
-| **[Rethinking Vision Architectures with Gated Linear Attention and KAN](https://arxiv.org/abs/2609.22506v3)** | 2026-09-29 | <details><summary>19 pa...</summary><p>19 pages, 9 figures. Code available at https://github.com/mehizelali/linear-kan-transformer</p></details> |
-| **[OFBD: Object-Focused Background Debiasing for Long-Tailed Learning](https://arxiv.org/abs/2609.37331v1)** | 2026-09-29 |  |
-| **[ResComEmb: Effective and Efficient Multimodal Embedding via Residual Homogeneity Compression](https://arxiv.org/abs/2609.37225v1)** | 2026-09-29 | 19 pages |
-| **[Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead](https://arxiv.org/abs/2609.37165v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to CoRL 2026. Project website: https://dill-vla.github.io/</p></details> |
-| **[Identifying ODEs from Unstructured Data with Causal Representation Learning](https://arxiv.org/abs/2609.37083v1)** | 2026-09-29 |  |
-| **[Language as the Interface: Foundation-Model Contrastive Learning Links Transcriptomes and Electrophysiology](https://arxiv.org/abs/2609.37024v1)** | 2026-09-29 | <details><summary>Code:...</summary><p>Code: https://github.com/ai4biomedicine/LangPatch</p></details> |
+| **[Image Classifiers are Efficient Self-Supervised Video Representation Learners](https://arxiv.org/abs/2609.40347v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted in BMVC 2026</p></details> |
+| **[PixelDiT2: Representation-Grounded Pixel Diffusion Transformers](https://arxiv.org/abs/2609.24919v2)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Code: https://github.com/NVlabs/PixelDiT</p></details> |
+| **[SCOPE: Observation-Conditioned Full-Target Prediction for Sparse PDE Inference](https://arxiv.org/abs/2609.36527v2)** | 2026-09-30 | <details><summary>34 pa...</summary><p>34 pages, including supplementary material. Code: https://github.com/ru1ch3n/SCOPE. Author affiliation updated</p></details> |
+| **[HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning](https://arxiv.org/abs/2608.00491v2)** | 2026-09-30 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 tables</p></details> |
+| **[Bringing Generative Learning to Representation Learning: Self-Supervised Transfer Learning as Distribution Matching](https://arxiv.org/abs/2502.14424v5)** | 2026-09-30 | <details><summary>75 pa...</summary><p>75 pages, 5 figures, and 6 tables. Substantially revised version with a new title, an explicit distribution-matching formulation linking generative learning and representation learning, expanded theoretical treatment, additional transfer experiments, and appendices included in the same PDF. Code is available at https://github.com/vincen-github/DM</p></details> |
+| **[Edge-Aware and Content-Adaptive Infrared Gas Leak Detection for Industrial Safety Monitoring](https://arxiv.org/abs/2512.23234v4)** | 2026-09-30 |  |
+| **[DiDA: Video Object Segmentation with Distillation Learning of Deformable Attention](https://arxiv.org/abs/2401.13937v3)** | 2026-09-30 | ACCV 2026 |
+| **[CORD: Learning Reusable Degradation Representations Across Heterogeneous Physical Systems](https://arxiv.org/abs/2609.39784v1)** | 2026-09-30 | Preprint |
+| **[Values as Style: Disentangling Values from Semantics with One-Way Mixing for Low-Damage LLM Steering](https://arxiv.org/abs/2609.39701v1)** | 2026-09-30 |  |
+| **[Robust Transfer Learning for Paper ECG Recognition](https://arxiv.org/abs/2609.39581v1)** | 2026-09-30 |  |
+| **[Hyperbolic Prototype Routing for Rehearsal-Free Class-Incremental Learning](https://arxiv.org/abs/2609.39550v1)** | 2026-09-30 | <details><summary>6 pag...</summary><p>6 pages, supplementary material</p></details> |
+| **[From Core to Detail: Unsupervised Disentanglement with Entropy-Ordered Flows](https://arxiv.org/abs/2602.06940v2)** | 2026-09-30 | preprint |
+| **[Mutual Equilibrium: Multimodal Representation Learning through Reciprocal Feedback](https://arxiv.org/abs/2609.39456v1)** | 2026-09-30 | 20 pages |
+| **[Decoupled and Distilled: Task-Adaptive LoRA-Teachers with Ensemble Knowledge Transfer for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2609.39390v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted manuscript; 46 pages, supplementary material</p></details> |
+| **[UniWAM Technical Report: Unified Mobile Manipulation via Mixed-Stream World-Action Modeling and Manipulation Anchor Pose Supervision](https://arxiv.org/abs/2609.39388v1)** | 2026-09-30 | <details><summary>UniWA...</summary><p>UniWAM Technical Report</p></details> |
 
