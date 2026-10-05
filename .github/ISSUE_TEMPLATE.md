@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 04, 2026
+title: Latest 15 Papers - October 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry](https://arxiv.org/abs/2610.02186v1)** | 2026-10-01 |  |
-| **[Surface-volume self-supervised representation learning of brain MRI for genetic discovery](https://arxiv.org/abs/2610.02114v1)** | 2026-10-01 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 1 table, 2 supplementary tables</p></details> |
-| **[Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models](https://arxiv.org/abs/2610.01942v1)** | 2026-10-01 |  |
-| **[Pragmatic DML with AI-Learned Representations](https://arxiv.org/abs/2610.01935v1)** | 2026-10-01 |  |
-| **[Higher-Order Positional Encodings for Graph Representation Learning](https://arxiv.org/abs/2610.01903v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at the Fifth Learning on Graphs Conference (LoG 2026)</p></details> |
-| **[Graph Hierarchical Recurrence for Long-Range Generalization](https://arxiv.org/abs/2605.18387v2)** | 2026-10-01 |  |
-| **[A Matryoshka Hierarchical RAG for Efficient Multi-Hop Question Answering](https://arxiv.org/abs/2610.01767v1)** | 2026-10-01 |  |
-| **[Measuring the Stability Assumption Behind Action Chunking](https://arxiv.org/abs/2610.01626v1)** | 2026-10-01 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, 18 tables</p></details> |
-| **[Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts](https://arxiv.org/abs/2606.28228v2)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (camera-ready version). 53 pages, 15 figures</p></details> |
-| **[Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)](https://arxiv.org/abs/2610.01533v1)** | 2026-10-01 |  |
-| **[Langevin-Informed Transfer Learning: Replacing Target Samples by Black-Box Feedback](https://arxiv.org/abs/2610.01522v1)** | 2026-10-01 |  |
-| **[Information propagation dynamics in Deep Graph Networks](https://arxiv.org/abs/2410.10464v3)** | 2026-10-01 | PhD thesis |
-| **[A Large Scale Investigation of Scaling Limits in Chemical Language Models](https://arxiv.org/abs/2508.13408v3)** | 2026-10-01 |  |
-| **[Where Predictive Supervision Goes Shapes What VLA Policies Learn](https://arxiv.org/abs/2609.36645v2)** | 2026-10-01 | <details><summary>38 pa...</summary><p>38 pages (9 pages main text + appendix), 13 figures, 21 tables</p></details> |
-| **[Stochastic Optimal Control for Continuous-Time fMRI Representation Learning](https://arxiv.org/abs/2502.04892v2)** | 2026-10-01 | ICLR 2026 |
+| **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](https://arxiv.org/abs/2610.03712v1)** | 2026-10-02 |  |
+| **[Mastering Atari 2600 Games with Discovered Options](https://arxiv.org/abs/2610.03604v1)** | 2026-10-02 |  |
+| **[ZeroMAG: Zero-Shot Multimodal Adapter Generation for Plug-and-Play EEG Foundation Models](https://arxiv.org/abs/2610.03546v1)** | 2026-10-02 | 41 pages |
+| **[RATE: Risk-Aware Tactile Encoding for Contact-rich Robotic Manipulation](https://arxiv.org/abs/2610.03538v1)** | 2026-10-02 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 3 tables</p></details> |
+| **[Author Representation Strategies for Zero-Shot Authorship Attribution: A Comparative Study of LLM-Based and Embedding-Based Approaches](https://arxiv.org/abs/2610.03531v1)** | 2026-10-02 |  |
+| **[Causal Representation Learning with Instantaneous and Lagged Relations via Nonstationarity](https://arxiv.org/abs/2610.03452v1)** | 2026-10-02 | <details><summary>46 pa...</summary><p>46 pages, 6 figures, 16 tables</p></details> |
+| **[NARA: Anchor-Conditioned Representation Learning for Heterogeneous Vector Geoentities](https://arxiv.org/abs/2605.12276v2)** | 2026-10-02 |  |
+| **[Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role](https://arxiv.org/abs/2610.03410v1)** | 2026-10-02 |  |
+| **[LightLoc++: Sensor-Robust Representation Learning for Efficient Outdoor LiDAR Localization](https://arxiv.org/abs/2608.15317v2)** | 2026-10-02 | <details><summary>v2: c...</summary><p>v2: corrected author list (Shaoyang Chen was inadvertently omitted in v1)</p></details> |
+| **[Spectral Alignment in Forward-Backward Representations via Temporal Abstraction](https://arxiv.org/abs/2603.20103v4)** | 2026-10-02 |  |
+| **[HyperFuse: Fast Self-Supervised Node Embeddings for Attributed Hypergraphs](https://arxiv.org/abs/2610.03211v1)** | 2026-10-02 |  |
+| **[EEGDM: Learning EEG Representation with Latent Diffusion Model](https://arxiv.org/abs/2508.20705v5)** | 2026-10-02 | <details><summary>This ...</summary><p>This paper was accepted by IEEE Transactions on Biomedical Engineering</p></details> |
+| **[Pragmatic DML with AI-Learned Representations](https://arxiv.org/abs/2610.01935v2)** | 2026-10-02 |  |
+| **[ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs](https://arxiv.org/abs/2602.01124v4)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted at the Fifth Learning on Graphs Conference (LoG 2026)</p></details> |
 
