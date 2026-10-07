@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -23,6 +23,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeing the Context: Enhancing Recommender Systems with Image-Derived Contextual Signals](https://arxiv.org/abs/2610.08407v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the CARS workshop, RecSys 2026. 8 pages, 2 figures</p></details> |
 | **[OpticalRec: Unified Optical Vision-Language Representation for Multimodal Recommendation](https://arxiv.org/abs/2610.05432v1)** | 2026-10-04 |  |
 | **[AdaM-Rec: Adaptive Modality Routing for Multimodal Recommendation](https://arxiv.org/abs/2609.38455v2)** | 2026-10-04 |  |
 | **[MM-VeriRec: Failure-Guided Fusion for Verifiable Agentic Multimodal Recommendation](https://arxiv.org/abs/2609.31718v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on Agentic Multimodal Intelligence: Models, Benchmarks, and Applications (AMI '26), co-located with ACM Multimedia 2026</p></details> |
@@ -37,24 +38,23 @@ labels: documentation
 | **[Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation](https://arxiv.org/abs/2608.27950v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
 | **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
 | **[URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios](https://arxiv.org/abs/2606.23291v2)** | 2026-08-22 | <details><summary>This ...</summary><p>This manuscript has been published in the Springer's Journal of Intelligent Information Systems: https://link.springer.com/article/10.1007/s10844-026-01088-x</p></details> |
-| **[BRIDGE: Behavior-Guided Residual Integration with Dual-Frequency Graph Evidence](https://arxiv.org/abs/2605.22073v2)** | 2026-08-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures. Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026). Project page: https://lizesheng13.github.io/bridge/</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation](https://arxiv.org/abs/2610.06809v1)** | 2026-10-05 |  |
-| **[Hyperbolic Graph Representation Learning: Embed in One Metric, Optimize with Another](https://arxiv.org/abs/2610.06745v1)** | 2026-10-05 | 7 pages, 2 figures |
-| **[Decoupling Time and Space: A Temporally Conditioned Refinement for EEG Source Imaging](https://arxiv.org/abs/2610.06726v1)** | 2026-10-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
-| **[NeuroCBIR: A Fast and Accurate Image Retrieval System for Whole-Brain and Region-Specific MRI](https://arxiv.org/abs/2610.06502v1)** | 2026-10-05 | <details><summary>Neuro...</summary><p>Neuroimaging, Content-Based Image Retrieval, MRI, Zero-Shot Learning</p></details> |
-| **[Topology-Informed Prompt-Conditioned Universal Segmentation of Uterine Structures from Ultrasound and MRI](https://arxiv.org/abs/2610.06494v1)** | 2026-10-05 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 3 tables. Code: https://github.com/YonghengSun1997/TPUS</p></details> |
-| **[FairProp: Fair Node Representation Learning via Differentiable Propagation Layers](https://arxiv.org/abs/2610.06484v1)** | 2026-10-05 |  |
-| **[ARO: Aligned Representation learning for multi-Omics data](https://arxiv.org/abs/2610.06443v1)** | 2026-10-05 | <details><summary>Proce...</summary><p>Proceedings of the ICML 2026 3rd Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences, Seoul, Korea</p></details> |
-| **[Learning Pareto Stationary Fronts via Single-Pass Backpropagation](https://arxiv.org/abs/2610.06397v1)** | 2026-10-05 |  |
-| **[dIon: Fragmentation-Based Invariance for Self-Supervised Learning of Tandem Mass Spectra](https://arxiv.org/abs/2610.06282v1)** | 2026-10-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 29 tables. Code: https://github.com/statisticalbiotechnology/dIon</p></details> |
-| **[Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?](https://arxiv.org/abs/2610.06211v1)** | 2026-10-05 |  |
-| **[OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection](https://arxiv.org/abs/2507.21164v3)** | 2026-10-05 |  |
-| **[PlatoLTL: Scaling LTL-Guided Multi-Task RL](https://arxiv.org/abs/2601.22891v3)** | 2026-10-05 | <details><summary>16 pa...</summary><p>16 pages, 2 figures (main paper). 29 pages, 8 figures (appendix)</p></details> |
-| **[EEGDM: Label-Efficient EEG Representation Learning with Generative Diffusion Model](https://arxiv.org/abs/2508.14086v4)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted by IEEE JBHI (2026; DOI: 10.1109/JBHI.2026.3737616) 12 Pages</p></details> |
-| **[Mask-supervised Object-centric Representation Learning with LeJEPA](https://arxiv.org/abs/2607.02404v2)** | 2026-10-05 |  |
+| **[MSPR: Multi-scale Predictive Representations for Goal-conditioned Reinforcement Learning](https://arxiv.org/abs/2605.09364v2)** | 2026-10-06 |  |
+| **[TransMASK: Masked State Representation through Learned Transformation](https://arxiv.org/abs/2603.05670v2)** | 2026-10-06 |  |
+| **[Learning Hierarchical Causal Representations of the Effects of Forcings on Temperature in Climate Models](https://arxiv.org/abs/2609.30995v2)** | 2026-10-06 |  |
+| **[The Terminal Representation in Reinforcement Learning](https://arxiv.org/abs/2605.31289v3)** | 2026-10-06 |  |
+| **[Causal Effect Estimation under Networked Interference without Networked Unconfoundedness Assumption](https://arxiv.org/abs/2502.19741v4)** | 2026-10-06 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence, in press</p></details> |
+| **[Stochastic Siamese MAE Pretraining for Longitudinal Medical Images](https://arxiv.org/abs/2512.23441v2)** | 2026-10-06 | <details><summary>Provi...</summary><p>Provisional Accept at IEEE TMI. Code is available in https://github.com/EmreTaha/STAMP</p></details> |
+| **[Optimization Encoders: Rethinking Second-Order Meta-Learning for Neural Fields](https://arxiv.org/abs/2610.08075v1)** | 2026-10-06 |  |
+| **[RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/abs/2608.19693v2)** | 2026-10-06 | <details><summary>LIMIT...</summary><p>LIMIT@ECCV 2026 (Best Paper Award)</p></details> |
+| **[Scene-Agnostic Object-Centric Representation Learning for 3D Gaussian Splatting](https://arxiv.org/abs/2604.09045v2)** | 2026-10-06 | <details><summary>Publi...</summary><p>Published at the Third Workshop for Learning 3D with Multi-View Supervision (3DMV), CVPR 2026</p></details> |
+| **[Dynamic Alignment and Calibration for Multimodal Learning](https://arxiv.org/abs/2610.07928v1)** | 2026-10-06 | 17 pages |
+| **[Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations](https://arxiv.org/abs/2608.03611v3)** | 2026-10-06 |  |
+| **[UniST-Pred: A Robust Unified Framework for Spatio-Temporal Traffic Forecasting in Transportation Networks Under Disruptions](https://arxiv.org/abs/2602.14049v3)** | 2026-10-06 |  |
+| **[World Properties without World Models: Distributional Associations and the Interpretation of Decoding Results from Language Models](https://arxiv.org/abs/2603.04317v2)** | 2026-10-06 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 10 tables. Substantially revised to include analyses of full released Gurnee & Tegmark datasets with Llama-2 and Pythia comparisons; replaces the earlier 100-city, 194-figure analysis; also includes entity-level vectors, and pain and emotion decoding</p></details> |
+| **[VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation](https://arxiv.org/abs/2608.21290v3)** | 2026-10-06 |  |
+| **[Structure-aware Keypoint Localization for Videofluoroscopic Swallowing Study](https://arxiv.org/abs/2610.07726v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICME 2026 Oral</p></details> |
 
