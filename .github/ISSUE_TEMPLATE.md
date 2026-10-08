@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nonparametric Distribution Matching for Self-Supervised Whole-Slide Image Condensation](https://arxiv.org/abs/2610.00678v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, SPIGM@ICML 2026</p></details> |
+| **[$Δ$Representation: Geometry Supervised Representation Learning of Phenotypes via Counterfactual Reasoning for Medical VLMs](https://arxiv.org/abs/2610.10286v1)** | 2026-10-07 |  |
+| **[Geometry-Supervised Visual Representation Learning for Multi-Phenotype Lesion Interpretation in Medical VLMs](https://arxiv.org/abs/2610.10238v1)** | 2026-10-07 |  |
+| **[Constrained latent state modeling: A unifying perspective on representation learning under competing constraints](https://arxiv.org/abs/2605.15995v3)** | 2026-10-07 |  |
+| **[Global Average Precision for Representation Learning](https://arxiv.org/abs/2610.09863v1)** | 2026-10-07 |  |
+| **[VLANeXt Family: A Systematic Study of VLA Models from Core Recipes to Emerging Paradigms](https://arxiv.org/abs/2602.18532v6)** | 2026-10-07 | <details><summary>Proje...</summary><p>Project Page: https://dravenalg.github.io/projects/VLANeXt/</p></details> |
+| **[CircuitGate: Logic-Consistent Circuit-Level Functional Modeling for And-Inverter Graphs](https://arxiv.org/abs/2610.09549v1)** | 2026-10-07 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 11 tables. Qifan Zhang and Ruijie Li contributed equally. Qian Ma is the corresponding author</p></details> |
+| **[$R^2$-WAM: Repair-and-Reject Post-Training for World Action Models](https://arxiv.org/abs/2610.04913v2)** | 2026-10-07 | 24 pages, 7 figures |
+| **[DSReg: Provably Recovering Individual World Latents without Reconstruction](https://arxiv.org/abs/2610.09457v1)** | 2026-10-07 | <details><summary>Proje...</summary><p>Project page: https://dsreg.github.io/</p></details> |
+| **[Dual-Primal Graph VAEs for Noisy Label Aggregation](https://arxiv.org/abs/2608.11473v2)** | 2026-10-06 |  |
+| **[CAP: Codebook-Aligned Prediction for Tokenized Robot Policies](https://arxiv.org/abs/2610.09178v1)** | 2026-10-06 |  |
+| **[Residual-Stream Burden Shapes Representation Learning in Diffusion Transformers](https://arxiv.org/abs/2609.33895v2)** | 2026-10-06 | <details><summary>Under...</summary><p>Under review. Repo release: https://github.com/tongtongliang/residual-stream-burden</p></details> |
+| **[Towards Financial World Modeling](https://arxiv.org/abs/2610.09048v1)** | 2026-10-06 |  |
 | **[MSPR: Multi-scale Predictive Representations for Goal-conditioned Reinforcement Learning](https://arxiv.org/abs/2605.09364v2)** | 2026-10-06 |  |
 | **[TransMASK: Masked State Representation through Learned Transformation](https://arxiv.org/abs/2603.05670v2)** | 2026-10-06 |  |
-| **[Learning Hierarchical Causal Representations of the Effects of Forcings on Temperature in Climate Models](https://arxiv.org/abs/2609.30995v2)** | 2026-10-06 |  |
-| **[The Terminal Representation in Reinforcement Learning](https://arxiv.org/abs/2605.31289v3)** | 2026-10-06 |  |
-| **[Causal Effect Estimation under Networked Interference without Networked Unconfoundedness Assumption](https://arxiv.org/abs/2502.19741v4)** | 2026-10-06 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence, in press</p></details> |
-| **[Stochastic Siamese MAE Pretraining for Longitudinal Medical Images](https://arxiv.org/abs/2512.23441v2)** | 2026-10-06 | <details><summary>Provi...</summary><p>Provisional Accept at IEEE TMI. Code is available in https://github.com/EmreTaha/STAMP</p></details> |
-| **[Optimization Encoders: Rethinking Second-Order Meta-Learning for Neural Fields](https://arxiv.org/abs/2610.08075v1)** | 2026-10-06 |  |
-| **[RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/abs/2608.19693v2)** | 2026-10-06 | <details><summary>LIMIT...</summary><p>LIMIT@ECCV 2026 (Best Paper Award)</p></details> |
-| **[Scene-Agnostic Object-Centric Representation Learning for 3D Gaussian Splatting](https://arxiv.org/abs/2604.09045v2)** | 2026-10-06 | <details><summary>Publi...</summary><p>Published at the Third Workshop for Learning 3D with Multi-View Supervision (3DMV), CVPR 2026</p></details> |
-| **[Dynamic Alignment and Calibration for Multimodal Learning](https://arxiv.org/abs/2610.07928v1)** | 2026-10-06 | 17 pages |
-| **[Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations](https://arxiv.org/abs/2608.03611v3)** | 2026-10-06 |  |
-| **[UniST-Pred: A Robust Unified Framework for Spatio-Temporal Traffic Forecasting in Transportation Networks Under Disruptions](https://arxiv.org/abs/2602.14049v3)** | 2026-10-06 |  |
-| **[World Properties without World Models: Distributional Associations and the Interpretation of Decoding Results from Language Models](https://arxiv.org/abs/2603.04317v2)** | 2026-10-06 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 10 tables. Substantially revised to include analyses of full released Gurnee & Tegmark datasets with Llama-2 and Pythia comparisons; replaces the earlier 100-city, 194-figure analysis; also includes entity-level vectors, and pain and emotion decoding</p></details> |
-| **[VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation](https://arxiv.org/abs/2608.21290v3)** | 2026-10-06 |  |
-| **[Structure-aware Keypoint Localization for Videofluoroscopic Swallowing Study](https://arxiv.org/abs/2610.07726v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICME 2026 Oral</p></details> |
 
