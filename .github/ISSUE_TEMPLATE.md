@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 11, 2026
+title: Latest 15 Papers - October 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Projection-Aware 360-Degree Image Rectification via Dual-Projection Fusion](https://arxiv.org/abs/2512.00911v2)** | 2026-10-08 |  |
-| **[HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling](https://arxiv.org/abs/2610.12393v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[MiniWAM: Learning Compact Future Targets for Efficient World-Action Modeling](https://arxiv.org/abs/2610.12194v1)** | 2026-10-08 |  |
-| **[Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning](https://arxiv.org/abs/2609.12035v3)** | 2026-10-08 |  |
-| **[PulseBound: Future-Beat State Forecasting Under an Explicit Information Boundary](https://arxiv.org/abs/2610.12010v1)** | 2026-10-08 | under review |
-| **[TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning](https://arxiv.org/abs/2610.11945v1)** | 2026-10-08 |  |
-| **[AuraLuxMuse: Adaptive Fusion Modeling for Aesthetic Stage Lighting Design with Music and Expert Guidance](https://arxiv.org/abs/2610.11792v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted to appear in SIGGRAPH Asia 2026 Conference Papers</p></details> |
-| **[Sera: Semantic Representation Aggregation for Reliable and Interpretable Battery Health Forecasting](https://arxiv.org/abs/2610.11567v1)** | 2026-10-08 |  |
-| **[EVIE: Evidence-Vector-Informed Embeddings for Visual Document Retrieval](https://arxiv.org/abs/2610.11553v1)** | 2026-10-08 | 22 pages, 8 figures |
-| **[Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering](https://arxiv.org/abs/2610.11506v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026 Oral)</p></details> |
-| **[Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation](https://arxiv.org/abs/2610.11342v1)** | 2026-10-08 | Accepted by ICLR'26 |
-| **[ReCast: Attribution-Oriented Step Representation Learning for LLM-Based Agent Systems](https://arxiv.org/abs/2610.11334v1)** | 2026-10-08 |  |
-| **[Residual spectral instabilities in representation learning](https://arxiv.org/abs/2610.11257v1)** | 2026-10-08 | 19 pages, 3 figures |
-| **[Cross-species representation learning aligns mouse and human neural dynamics and tracks clinical drug efficacy](https://arxiv.org/abs/2610.11222v1)** | 2026-10-08 | <details><summary>33 pa...</summary><p>33 pages, 5 figures; supplementary material included (2 supplementary figures, 3 supplementary tables)</p></details> |
-| **[DiscoVL: Unveiling Disentangled C ross-Modal Representation Learning via Orthogonal Adversarial Regularization for V ision-Language Models](https://arxiv.org/abs/2610.11113v1)** | 2026-10-08 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 11 tables. Accepted to ECCV 2026</p></details> |
+| **[Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning](https://arxiv.org/abs/2610.13915v1)** | 2026-10-09 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026 (The 40th Annual Conference on Neural Information Processing Systems)</p></details> |
+| **[TabMF: Learning Dataset Representations with Tabular Foundation Models](https://arxiv.org/abs/2610.13818v1)** | 2026-10-09 |  |
+| **[EchoTab: Learning Measurement-Grounded Representations for Echocardiographic Diagnosis through Tabular Reconstruction](https://arxiv.org/abs/2610.13599v1)** | 2026-10-09 |  |
+| **[RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation](https://arxiv.org/abs/2610.13578v1)** | 2026-10-09 | <details><summary>21 pa...</summary><p>21 pages, 11 figures, 7 tables</p></details> |
+| **[MOSAIC: Multi-Scale Object-Centric Slot Adaptation with Image-Guided Prototype Conditioning for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2610.13547v1)** | 2026-10-09 |  |
+| **[HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model](https://arxiv.org/abs/2605.31234v2)** | 2026-10-09 |  |
+| **[The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show](https://arxiv.org/abs/2606.05328v2)** | 2026-10-09 |  |
+| **[The Predictability Bias of Joint-Embedding Predictive Learning in Medical Imaging](https://arxiv.org/abs/2610.13237v1)** | 2026-10-09 | 45 pages, 6 figures |
+| **[DeFM: Learning Foundation Representations from Depth for Robotics](https://arxiv.org/abs/2601.18923v2)** | 2026-10-09 | <details><summary>Condi...</summary><p>Conditionally Accepted to IEEE Transactions on Robotics, 19 pages, 15 Figures, 14 Tables</p></details> |
+| **[Multimodal Fusion for Fine-Grained Classification of Breast Fibroadenoma and Phyllodes Tumors](https://arxiv.org/abs/2607.02091v2)** | 2026-10-09 |  |
+| **[A4-MR: Abnormality-aware Anatomical Alignment for MR](https://arxiv.org/abs/2610.13056v1)** | 2026-10-09 |  |
+| **[Evo-World: A Lightweight Vision-Language-Action Model with Future Motion Prediction via Optical-Flow Supervision](https://arxiv.org/abs/2610.12936v1)** | 2026-10-09 |  |
+| **[Sparse Dictionary Learning for Measure-Valued Data via Linearized Optimal Transport: Efficient Algorithms and Sample Complexity](https://arxiv.org/abs/2610.12924v1)** | 2026-10-09 |  |
+| **[Sera: Semantic Representation Aggregation for Reliable and Interpretable Battery Health Forecasting](https://arxiv.org/abs/2610.11567v2)** | 2026-10-09 |  |
+| **[Cross-View Attention Fusion Net: A Prior-Guided Dual-View Representation Learning for Cardiac Output Estimation from Short-Term PPG Signals](https://arxiv.org/abs/2605.19666v2)** | 2026-10-09 |  |
 
