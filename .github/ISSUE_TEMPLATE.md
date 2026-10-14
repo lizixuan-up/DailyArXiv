@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 13, 2026
+title: Latest 15 Papers - October 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Diffusion Model for Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems](https://arxiv.org/abs/2609.34404v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Knowledge Discovery from Data (TKDD)</p></details> |
+| **[Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems](https://arxiv.org/abs/2609.34404v2)** | 2026-10-10 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Knowledge Discovery from Data (TKDD)</p></details> |
 | **[Diffusion Models in Recommendation Systems: A Survey](https://arxiv.org/abs/2501.10548v4)** | 2026-02-28 | 39 pages |
 | **[Continuous-time Discrete-space Diffusion Model for Recommendation](https://arxiv.org/abs/2511.12114v1)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted by WSDM 2026</p></details> |
 | **[Hyperbolic Diffusion Recommender Model](https://arxiv.org/abs/2504.01541v2)** | 2025-04-10 |  |
@@ -23,6 +23,9 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Evidence Modeling: Context-Coupled Graph Learning for Multimodal Recommendation](https://arxiv.org/abs/2610.15523v1)** | 2026-10-11 |  |
+| **[Federated Semantic Residuals for Multimodal Recommendation](https://arxiv.org/abs/2610.15505v1)** | 2026-10-11 | <details><summary>23 pa...</summary><p>23 pages, 14 figures. Includes appendices</p></details> |
+| **[Toward Explainability in Multimodal Recommendation](https://arxiv.org/abs/2610.15484v1)** | 2026-10-11 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, 4 tables</p></details> |
 | **[Seeing the Context: Enhancing Recommender Systems with Image-Derived Contextual Signals](https://arxiv.org/abs/2610.08407v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the CARS workshop, RecSys 2026. 8 pages, 2 figures</p></details> |
 | **[OpticalRec: Unified Optical Vision-Language Representation for Multimodal Recommendation](https://arxiv.org/abs/2610.05432v1)** | 2026-10-04 |  |
 | **[AdaM-Rec: Adaptive Modality Routing for Multimodal Recommendation](https://arxiv.org/abs/2609.38455v2)** | 2026-10-04 |  |
@@ -35,26 +38,23 @@ labels: documentation
 | **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v4)** | 2026-09-01 | <details><summary>Autho...</summary><p>Author Accepted Manuscript. Accepted for publication in the Proceedings of the 34th ACM International Conference on Multimedia (ACM MM '26). This author-created manuscript is not the ACM Version of Record</p></details> |
 | **[Anatomy of a Decision: Uncertainty-aware Hierarchical Intent Learning via Flow Matching for Multimodal Recommendation](https://arxiv.org/abs/2609.29609v1)** | 2026-08-30 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Accepted at WISE 2026</p></details> |
 | **[Agents as Knowledge Integrator and Utilizer in Multimodal Recommendation](https://arxiv.org/abs/2608.29410v1)** | 2026-08-29 |  |
-| **[Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation](https://arxiv.org/abs/2608.27950v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
-| **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
-| **[URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios](https://arxiv.org/abs/2606.23291v2)** | 2026-08-22 | <details><summary>This ...</summary><p>This manuscript has been published in the Springer's Journal of Intelligent Information Systems: https://link.springer.com/article/10.1007/s10844-026-01088-x</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning](https://arxiv.org/abs/2610.13915v1)** | 2026-10-09 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026 (The 40th Annual Conference on Neural Information Processing Systems)</p></details> |
-| **[TabMF: Learning Dataset Representations with Tabular Foundation Models](https://arxiv.org/abs/2610.13818v1)** | 2026-10-09 |  |
-| **[EchoTab: Learning Measurement-Grounded Representations for Echocardiographic Diagnosis through Tabular Reconstruction](https://arxiv.org/abs/2610.13599v1)** | 2026-10-09 |  |
-| **[RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation](https://arxiv.org/abs/2610.13578v1)** | 2026-10-09 | <details><summary>21 pa...</summary><p>21 pages, 11 figures, 7 tables</p></details> |
-| **[MOSAIC: Multi-Scale Object-Centric Slot Adaptation with Image-Guided Prototype Conditioning for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2610.13547v1)** | 2026-10-09 |  |
-| **[HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model](https://arxiv.org/abs/2605.31234v2)** | 2026-10-09 |  |
-| **[The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show](https://arxiv.org/abs/2606.05328v2)** | 2026-10-09 |  |
-| **[The Predictability Bias of Joint-Embedding Predictive Learning in Medical Imaging](https://arxiv.org/abs/2610.13237v1)** | 2026-10-09 | 45 pages, 6 figures |
-| **[DeFM: Learning Foundation Representations from Depth for Robotics](https://arxiv.org/abs/2601.18923v2)** | 2026-10-09 | <details><summary>Condi...</summary><p>Conditionally Accepted to IEEE Transactions on Robotics, 19 pages, 15 Figures, 14 Tables</p></details> |
-| **[Multimodal Fusion for Fine-Grained Classification of Breast Fibroadenoma and Phyllodes Tumors](https://arxiv.org/abs/2607.02091v2)** | 2026-10-09 |  |
-| **[A4-MR: Abnormality-aware Anatomical Alignment for MR](https://arxiv.org/abs/2610.13056v1)** | 2026-10-09 |  |
-| **[Evo-World: A Lightweight Vision-Language-Action Model with Future Motion Prediction via Optical-Flow Supervision](https://arxiv.org/abs/2610.12936v1)** | 2026-10-09 |  |
-| **[Sparse Dictionary Learning for Measure-Valued Data via Linearized Optimal Transport: Efficient Algorithms and Sample Complexity](https://arxiv.org/abs/2610.12924v1)** | 2026-10-09 |  |
-| **[Sera: Semantic Representation Aggregation for Reliable and Interpretable Battery Health Forecasting](https://arxiv.org/abs/2610.11567v2)** | 2026-10-09 |  |
-| **[Cross-View Attention Fusion Net: A Prior-Guided Dual-View Representation Learning for Cardiac Output Estimation from Short-Term PPG Signals](https://arxiv.org/abs/2605.19666v2)** | 2026-10-09 |  |
+| **[Towards Financial World Modeling](https://arxiv.org/abs/2610.09048v2)** | 2026-10-13 |  |
+| **[CoTL: Compact Token Learning for 3D Scene Representation](https://arxiv.org/abs/2610.18446v1)** | 2026-10-13 |  |
+| **[STAMP as a topology-aware molecular language for fragment-level learning and editing](https://arxiv.org/abs/2610.18438v1)** | 2026-10-13 |  |
+| **[Tanchun: Robust Flow-Based HTTP(S) DDoS Detection via Behavioral Attribute Guidance](https://arxiv.org/abs/2610.18406v1)** | 2026-10-13 |  |
+| **[Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors](https://arxiv.org/abs/2603.23356v2)** | 2026-10-13 | 12 pages, 5 figures |
+| **[CSBA-Net: Learning Cross-Scale Structural Dependencies for Influential Node Identification in Complex Networks](https://arxiv.org/abs/2610.18275v1)** | 2026-10-13 |  |
+| **[A Controlled Evaluation of Curvature Inspired Scalar Feature Scaling for Domain Generalization](https://arxiv.org/abs/2610.18227v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at TMLR, 9 pages, 1 figures</p></details> |
+| **[Closing the Estimation Gap: Training-Free Transductive Inference for Cross-Domain Few-Shot Action Recognition](https://arxiv.org/abs/2610.18209v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted by BMVC Workshop 2026</p></details> |
+| **[GeoNIRS: Geometry-Aware Pretraining for Heterogeneous fNIRS Representation Learning](https://arxiv.org/abs/2610.17845v1)** | 2026-10-13 | <details><summary>30 pa...</summary><p>30 pages, 5 figures, and 21 tables. Code and pretrained checkpoints are available at https://github.com/GeoNIRS/GeoNIRS</p></details> |
+| **[FASHION-RQ: Mining Hierarchical Semantic Structure for Automated Evaluation of Fashion Retrieval](https://arxiv.org/abs/2610.17841v1)** | 2026-10-13 |  |
+| **[Approximate Imitation Learning for Event-based Quadrotor Flight in Cluttered Environments](https://arxiv.org/abs/2603.07578v3)** | 2026-10-13 |  |
+| **[HiSTOR: Structured Treatment-outcome Representation Learning for High-Dimensional Longitudinal Data](https://arxiv.org/abs/2610.17739v1)** | 2026-10-13 |  |
+| **[Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement](https://arxiv.org/abs/2610.17716v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
+| **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v1)** | 2026-10-13 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
+| **[RAN-JEPA: An Action-Conditioned World Model for Energy-efficient Mobile Network Control](https://arxiv.org/abs/2610.17584v1)** | 2026-10-13 |  |
 
