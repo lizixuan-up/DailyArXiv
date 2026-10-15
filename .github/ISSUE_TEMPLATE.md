@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Representation Learning for Scalable Latent Tokenization](https://arxiv.org/abs/2610.20533v1)** | 2026-10-14 | 22 pages, 8 figures |
+| **[Imaging-anchored Multiomics in Cardiovascular Disease: Integrating Cardiac Imaging, Bulk, Single-cell, and Spatial Transcriptomics](https://arxiv.org/abs/2601.07871v2)** | 2026-10-14 | <details><summary>The a...</summary><p>The authors are withdrawing this version of the preprint to incorporate extensive updates, refine the multi-modal fusion pipelines, and expand the evaluation benchmarks for cardiac imaging and spatial transcriptomics integration. A revised and updated version will be resubmitted shortly</p></details> |
+| **[Contrastive uncertainty learning for robust multi-structure segmentation in lower-pelvic MR](https://arxiv.org/abs/2610.20251v1)** | 2026-10-14 | UNSURE MICCAI 2026 |
+| **[TabFORGE: A Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted by the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
+| **[CoTL: Compact Token Learning for 3D Scene Representation](https://arxiv.org/abs/2610.18446v2)** | 2026-10-14 |  |
+| **[Tactile-Guided Robot Learning: From Representation Learning to Foundation Models](https://arxiv.org/abs/2610.20134v1)** | 2026-10-14 |  |
+| **[HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling](https://arxiv.org/abs/2610.12393v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors](https://arxiv.org/abs/2610.19743v1)** | 2026-10-14 | <details><summary>20 pa...</summary><p>20 pages. Accepted at the Fortieth Annual Conference on Neural Information Processing Systems (2026)</p></details> |
+| **[ONCship: A Large-Scale Underwater Acoustic Corpus for Ship Recognition](https://arxiv.org/abs/2610.19722v1)** | 2026-10-14 |  |
+| **[Learning Visual Speech Representations via Cross-Modal Distillation and Joint Face-Lip Modeling](https://arxiv.org/abs/2610.19559v1)** | 2026-10-14 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026</p></details> |
+| **[When Treatments Spill Over: A Neural Framework for Spatiotemporal Causal Effect Estimation](https://arxiv.org/abs/2610.16086v2)** | 2026-10-14 | <details><summary>106 p...</summary><p>106 pages (23-page main text including references, plus 83-page supplementary material), 3 figures, 1 table in the main text</p></details> |
+| **[Platonic Projection Structures: Operator-Induced Observability in Representation Learning](https://arxiv.org/abs/2607.05175v2)** | 2026-10-14 | <details><summary>29 pa...</summary><p>29 pages, 7 figures. Published in Entropy</p></details> |
+| **[AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/abs/2608.12313v3)** | 2026-10-13 |  |
+| **[Neural Supervised Clustering for Learning Individualized Treatment Rules with Many Treatments](https://arxiv.org/abs/2610.19104v1)** | 2026-10-13 | 13 pages, 6 figures |
 | **[Towards Financial World Modeling](https://arxiv.org/abs/2610.09048v2)** | 2026-10-13 |  |
-| **[CoTL: Compact Token Learning for 3D Scene Representation](https://arxiv.org/abs/2610.18446v1)** | 2026-10-13 |  |
-| **[STAMP as a topology-aware molecular language for fragment-level learning and editing](https://arxiv.org/abs/2610.18438v1)** | 2026-10-13 |  |
-| **[Tanchun: Robust Flow-Based HTTP(S) DDoS Detection via Behavioral Attribute Guidance](https://arxiv.org/abs/2610.18406v1)** | 2026-10-13 |  |
-| **[Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors](https://arxiv.org/abs/2603.23356v2)** | 2026-10-13 | 12 pages, 5 figures |
-| **[CSBA-Net: Learning Cross-Scale Structural Dependencies for Influential Node Identification in Complex Networks](https://arxiv.org/abs/2610.18275v1)** | 2026-10-13 |  |
-| **[A Controlled Evaluation of Curvature Inspired Scalar Feature Scaling for Domain Generalization](https://arxiv.org/abs/2610.18227v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at TMLR, 9 pages, 1 figures</p></details> |
-| **[Closing the Estimation Gap: Training-Free Transductive Inference for Cross-Domain Few-Shot Action Recognition](https://arxiv.org/abs/2610.18209v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted by BMVC Workshop 2026</p></details> |
-| **[GeoNIRS: Geometry-Aware Pretraining for Heterogeneous fNIRS Representation Learning](https://arxiv.org/abs/2610.17845v1)** | 2026-10-13 | <details><summary>30 pa...</summary><p>30 pages, 5 figures, and 21 tables. Code and pretrained checkpoints are available at https://github.com/GeoNIRS/GeoNIRS</p></details> |
-| **[FASHION-RQ: Mining Hierarchical Semantic Structure for Automated Evaluation of Fashion Retrieval](https://arxiv.org/abs/2610.17841v1)** | 2026-10-13 |  |
-| **[Approximate Imitation Learning for Event-based Quadrotor Flight in Cluttered Environments](https://arxiv.org/abs/2603.07578v3)** | 2026-10-13 |  |
-| **[HiSTOR: Structured Treatment-outcome Representation Learning for High-Dimensional Longitudinal Data](https://arxiv.org/abs/2610.17739v1)** | 2026-10-13 |  |
-| **[Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement](https://arxiv.org/abs/2610.17716v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
-| **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v1)** | 2026-10-13 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
-| **[RAN-JEPA: An Action-Conditioned World Model for Energy-efficient Mobile Network Control](https://arxiv.org/abs/2610.17584v1)** | 2026-10-13 |  |
 
