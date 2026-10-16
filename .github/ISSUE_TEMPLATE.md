@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generative Representation Learning for Scalable Latent Tokenization](https://arxiv.org/abs/2610.20533v1)** | 2026-10-14 | 22 pages, 8 figures |
-| **[Imaging-anchored Multiomics in Cardiovascular Disease: Integrating Cardiac Imaging, Bulk, Single-cell, and Spatial Transcriptomics](https://arxiv.org/abs/2601.07871v2)** | 2026-10-14 | <details><summary>The a...</summary><p>The authors are withdrawing this version of the preprint to incorporate extensive updates, refine the multi-modal fusion pipelines, and expand the evaluation benchmarks for cardiac imaging and spatial transcriptomics integration. A revised and updated version will be resubmitted shortly</p></details> |
-| **[Contrastive uncertainty learning for robust multi-structure segmentation in lower-pelvic MR](https://arxiv.org/abs/2610.20251v1)** | 2026-10-14 | UNSURE MICCAI 2026 |
-| **[TabFORGE: A Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted by the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
-| **[CoTL: Compact Token Learning for 3D Scene Representation](https://arxiv.org/abs/2610.18446v2)** | 2026-10-14 |  |
-| **[Tactile-Guided Robot Learning: From Representation Learning to Foundation Models](https://arxiv.org/abs/2610.20134v1)** | 2026-10-14 |  |
-| **[HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling](https://arxiv.org/abs/2610.12393v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors](https://arxiv.org/abs/2610.19743v1)** | 2026-10-14 | <details><summary>20 pa...</summary><p>20 pages. Accepted at the Fortieth Annual Conference on Neural Information Processing Systems (2026)</p></details> |
-| **[ONCship: A Large-Scale Underwater Acoustic Corpus for Ship Recognition](https://arxiv.org/abs/2610.19722v1)** | 2026-10-14 |  |
-| **[Learning Visual Speech Representations via Cross-Modal Distillation and Joint Face-Lip Modeling](https://arxiv.org/abs/2610.19559v1)** | 2026-10-14 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026</p></details> |
-| **[When Treatments Spill Over: A Neural Framework for Spatiotemporal Causal Effect Estimation](https://arxiv.org/abs/2610.16086v2)** | 2026-10-14 | <details><summary>106 p...</summary><p>106 pages (23-page main text including references, plus 83-page supplementary material), 3 figures, 1 table in the main text</p></details> |
-| **[Platonic Projection Structures: Operator-Induced Observability in Representation Learning](https://arxiv.org/abs/2607.05175v2)** | 2026-10-14 | <details><summary>29 pa...</summary><p>29 pages, 7 figures. Published in Entropy</p></details> |
-| **[AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/abs/2608.12313v3)** | 2026-10-13 |  |
-| **[Neural Supervised Clustering for Learning Individualized Treatment Rules with Many Treatments](https://arxiv.org/abs/2610.19104v1)** | 2026-10-13 | 13 pages, 6 figures |
-| **[Towards Financial World Modeling](https://arxiv.org/abs/2610.09048v2)** | 2026-10-13 |  |
+| **[Language Models Struggle to Use Representations Learned In-Context](https://arxiv.org/abs/2602.04212v3)** | 2026-10-15 |  |
+| **[Motion- and Gravity-Aware Feedforward 3D Reconstruction](https://arxiv.org/abs/2610.22177v1)** | 2026-10-15 |  |
+| **[GraphBEAT: Graph-based Bucketized Event Aggregation Over Time for Early Risk Stratification of Gastrointestinal Cancers](https://arxiv.org/abs/2610.22014v1)** | 2026-10-15 |  |
+| **[Data-Efficient ConvNeXt Pretraining for High-Resolution Sentinel-1 GRD SAR Representation Learning](https://arxiv.org/abs/2610.21993v1)** | 2026-10-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures. Extends a preliminary paper to be presented at SPIE Asia Pacific Remote Sensing 2026</p></details> |
+| **[Time to Fake It: Continual Machine Learning Intensifies Unfairness in Deepfake Detection](https://arxiv.org/abs/2610.21974v1)** | 2026-10-15 |  |
+| **[TS-WAM: Temporal Latent Actions and World-Action Coupling for Vision-Language Robot Control](https://arxiv.org/abs/2610.21922v1)** | 2026-10-15 |  |
+| **[FlatClip: Reusing Image Foundation Models for fMRI Representation Learning via Cortical Flatmaps](https://arxiv.org/abs/2609.31204v2)** | 2026-10-15 | NeurIPS 2026 |
+| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v4)** | 2026-10-15 |  |
+| **[Hierarchical Interpretable Multitask Audio Representation Learning: An Analysis of Event-Scene Relationships through the Information Bottleneck](https://arxiv.org/abs/2610.21520v1)** | 2026-10-15 |  |
+| **[TabFORGE: A Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424v3)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted by the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
+| **[NOCE-Net: Representation Learning for Battery Operational Context via Nested Sequence Modelling](https://arxiv.org/abs/2610.21391v1)** | 2026-10-15 | <details><summary>38 pa...</summary><p>38 pages, Accepted in NeurIPS 2026</p></details> |
+| **[CoDeFont: One-Shot Font Generation via Multi-Scale Factor-Specific Representation Learning](https://arxiv.org/abs/2610.21364v1)** | 2026-10-15 | 10 pages, 6 figures |
+| **[Monotone Piecewise-Linear Harmonization of Multitemporal Multispectral Surface Reflectance With Unsupervised Deep Multiview Pseudoinvariant Features Learning](https://arxiv.org/abs/2610.21183v1)** | 2026-10-15 | 15 pages, 5 figures |
+| **[Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v3)** | 2026-10-15 |  |
+| **[World Modeling through Spectral Alignment](https://arxiv.org/abs/2610.15429v2)** | 2026-10-14 |  |
 
