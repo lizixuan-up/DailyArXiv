@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 18, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Language Models Struggle to Use Representations Learned In-Context](https://arxiv.org/abs/2602.04212v3)** | 2026-10-15 |  |
-| **[Motion- and Gravity-Aware Feedforward 3D Reconstruction](https://arxiv.org/abs/2610.22177v1)** | 2026-10-15 |  |
-| **[GraphBEAT: Graph-based Bucketized Event Aggregation Over Time for Early Risk Stratification of Gastrointestinal Cancers](https://arxiv.org/abs/2610.22014v1)** | 2026-10-15 |  |
-| **[Data-Efficient ConvNeXt Pretraining for High-Resolution Sentinel-1 GRD SAR Representation Learning](https://arxiv.org/abs/2610.21993v1)** | 2026-10-15 | <details><summary>30 pa...</summary><p>30 pages, 9 figures. Extends a preliminary paper to be presented at SPIE Asia Pacific Remote Sensing 2026</p></details> |
-| **[Time to Fake It: Continual Machine Learning Intensifies Unfairness in Deepfake Detection](https://arxiv.org/abs/2610.21974v1)** | 2026-10-15 |  |
-| **[TS-WAM: Temporal Latent Actions and World-Action Coupling for Vision-Language Robot Control](https://arxiv.org/abs/2610.21922v1)** | 2026-10-15 |  |
-| **[FlatClip: Reusing Image Foundation Models for fMRI Representation Learning via Cortical Flatmaps](https://arxiv.org/abs/2609.31204v2)** | 2026-10-15 | NeurIPS 2026 |
-| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v4)** | 2026-10-15 |  |
-| **[Hierarchical Interpretable Multitask Audio Representation Learning: An Analysis of Event-Scene Relationships through the Information Bottleneck](https://arxiv.org/abs/2610.21520v1)** | 2026-10-15 |  |
-| **[TabFORGE: A Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424v3)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted by the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
-| **[NOCE-Net: Representation Learning for Battery Operational Context via Nested Sequence Modelling](https://arxiv.org/abs/2610.21391v1)** | 2026-10-15 | <details><summary>38 pa...</summary><p>38 pages, Accepted in NeurIPS 2026</p></details> |
-| **[CoDeFont: One-Shot Font Generation via Multi-Scale Factor-Specific Representation Learning](https://arxiv.org/abs/2610.21364v1)** | 2026-10-15 | 10 pages, 6 figures |
-| **[Monotone Piecewise-Linear Harmonization of Multitemporal Multispectral Surface Reflectance With Unsupervised Deep Multiview Pseudoinvariant Features Learning](https://arxiv.org/abs/2610.21183v1)** | 2026-10-15 | 15 pages, 5 figures |
-| **[Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v3)** | 2026-10-15 |  |
-| **[World Modeling through Spectral Alignment](https://arxiv.org/abs/2610.15429v2)** | 2026-10-14 |  |
+| **[Structural Causal Bottleneck Models](https://arxiv.org/abs/2603.08682v3)** | 2026-10-16 | NeurIPS 2026 |
+| **[Synthetic Image Oversampling for Rare-Class Representation Learning in Deep Facial Phenotyping](https://arxiv.org/abs/2610.23730v1)** | 2026-10-16 | <details><summary>BIBM ...</summary><p>BIBM 2026 ML4BMI Workshop</p></details> |
+| **[Learning Cross-Coupled and Regime Dependent Dynamics for Aerial Manipulation](https://arxiv.org/abs/2605.14805v2)** | 2026-10-16 |  |
+| **[A Topological Signature of Learning under Noisy Labels](https://arxiv.org/abs/2610.23491v1)** | 2026-10-16 |  |
+| **[Can We Use Saliency Maps for the Evaluation of Generative Image Models?](https://arxiv.org/abs/2610.23411v1)** | 2026-10-16 |  |
+| **[Who Can Change Course? An Integrative Review of AI Sovereignty and Collective Learning Capacity](https://arxiv.org/abs/2606.00729v3)** | 2026-10-16 |  |
+| **[OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series Forecasting](https://arxiv.org/abs/2610.23345v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising](https://arxiv.org/abs/2607.28236v2)** | 2026-10-16 | Preprint |
+| **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence](https://arxiv.org/abs/2601.19597v9)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at ICML 2026; v9: Exposition refined, results unchanged; see Appx. H</p></details> |
+| **[Brain-to-Language Decoding: Paradigms, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v4)** | 2026-10-16 |  |
+| **[Knowledge-Guided Distributional Prompt Learning with Visual Hierarchy for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2610.23172v1)** | 2026-10-16 | 22 pages, 12 figures |
+| **[CIIR - Class-Indexed Interface Representation Learning](https://arxiv.org/abs/2610.23151v1)** | 2026-10-16 | 17 pages, 6 figures |
+| **[Reliability-Consistent Appearance Modeling for RGB-Infrared Multi-Object Tracking](https://arxiv.org/abs/2610.23125v1)** | 2026-10-16 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Submitted to IEEE Transactions on Multimedia</p></details> |
+| **[TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation](https://arxiv.org/abs/2610.23050v1)** | 2026-10-16 | <details><summary>30pag...</summary><p>30pages, Project page: https://fantasy-amap.github.io/TriFold</p></details> |
+| **[Causal Value Attribution of Marketing Labels in LLM-Generated Ads: A Deconfounder Approach](https://arxiv.org/abs/2610.23025v1)** | 2026-10-16 | <details><summary>74 pa...</summary><p>74 pages, under review in Journal of Marketing Research</p></details> |
 
