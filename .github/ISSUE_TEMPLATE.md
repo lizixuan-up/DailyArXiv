@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2026
+title: Latest 15 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -23,6 +23,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Decoupling for Diversified Recommendation through Semantic and Structural Shaping](https://arxiv.org/abs/2610.26024v1)** | 2026-10-19 |  |
 | **[Rethinking Evidence Modeling: Context-Coupled Graph Learning for Multimodal Recommendation](https://arxiv.org/abs/2610.15523v1)** | 2026-10-11 |  |
 | **[Federated Semantic Residuals for Multimodal Recommendation](https://arxiv.org/abs/2610.15505v1)** | 2026-10-11 | <details><summary>23 pa...</summary><p>23 pages, 14 figures. Includes appendices</p></details> |
 | **[Toward Explainability in Multimodal Recommendation](https://arxiv.org/abs/2610.15484v1)** | 2026-10-11 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, 4 tables</p></details> |
@@ -37,24 +38,23 @@ labels: documentation
 | **[Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation](https://arxiv.org/abs/2609.02152v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2026 (ACM MM 2026)</p></details> |
 | **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183v4)** | 2026-09-01 | <details><summary>Autho...</summary><p>Author Accepted Manuscript. Accepted for publication in the Proceedings of the 34th ACM International Conference on Multimedia (ACM MM '26). This author-created manuscript is not the ACM Version of Record</p></details> |
 | **[Anatomy of a Decision: Uncertainty-aware Hierarchical Intent Learning via Flow Matching for Multimodal Recommendation](https://arxiv.org/abs/2609.29609v1)** | 2026-08-30 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Accepted at WISE 2026</p></details> |
-| **[Agents as Knowledge Integrator and Utilizer in Multimodal Recommendation](https://arxiv.org/abs/2608.29410v1)** | 2026-08-29 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Structural Causal Bottleneck Models](https://arxiv.org/abs/2603.08682v3)** | 2026-10-16 | NeurIPS 2026 |
-| **[Synthetic Image Oversampling for Rare-Class Representation Learning in Deep Facial Phenotyping](https://arxiv.org/abs/2610.23730v1)** | 2026-10-16 | <details><summary>BIBM ...</summary><p>BIBM 2026 ML4BMI Workshop</p></details> |
-| **[Learning Cross-Coupled and Regime Dependent Dynamics for Aerial Manipulation](https://arxiv.org/abs/2605.14805v2)** | 2026-10-16 |  |
-| **[A Topological Signature of Learning under Noisy Labels](https://arxiv.org/abs/2610.23491v1)** | 2026-10-16 |  |
-| **[Can We Use Saliency Maps for the Evaluation of Generative Image Models?](https://arxiv.org/abs/2610.23411v1)** | 2026-10-16 |  |
-| **[Who Can Change Course? An Integrative Review of AI Sovereignty and Collective Learning Capacity](https://arxiv.org/abs/2606.00729v3)** | 2026-10-16 |  |
-| **[OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series Forecasting](https://arxiv.org/abs/2610.23345v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising](https://arxiv.org/abs/2607.28236v2)** | 2026-10-16 | Preprint |
-| **[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence](https://arxiv.org/abs/2601.19597v9)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at ICML 2026; v9: Exposition refined, results unchanged; see Appx. H</p></details> |
-| **[Brain-to-Language Decoding: Paradigms, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v4)** | 2026-10-16 |  |
-| **[Knowledge-Guided Distributional Prompt Learning with Visual Hierarchy for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2610.23172v1)** | 2026-10-16 | 22 pages, 12 figures |
-| **[CIIR - Class-Indexed Interface Representation Learning](https://arxiv.org/abs/2610.23151v1)** | 2026-10-16 | 17 pages, 6 figures |
-| **[Reliability-Consistent Appearance Modeling for RGB-Infrared Multi-Object Tracking](https://arxiv.org/abs/2610.23125v1)** | 2026-10-16 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Submitted to IEEE Transactions on Multimedia</p></details> |
-| **[TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation](https://arxiv.org/abs/2610.23050v1)** | 2026-10-16 | <details><summary>30pag...</summary><p>30pages, Project page: https://fantasy-amap.github.io/TriFold</p></details> |
-| **[Causal Value Attribution of Marketing Labels in LLM-Generated Ads: A Deconfounder Approach](https://arxiv.org/abs/2610.23025v1)** | 2026-10-16 | <details><summary>74 pa...</summary><p>74 pages, under review in Journal of Marketing Research</p></details> |
+| **[SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum](https://arxiv.org/abs/2610.26824v1)** | 2026-10-19 | preprint |
+| **[TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation](https://arxiv.org/abs/2610.23050v2)** | 2026-10-19 | <details><summary>30pag...</summary><p>30pages, Project page: https://fantasy-amap.github.io/TriFold</p></details> |
+| **[Hierarchical Token Merging with Recursive Autoencoders for Unsupervised Grammar Induction](https://arxiv.org/abs/2610.26695v1)** | 2026-10-19 |  |
+| **[Global Time-Aware Conditioning (GTC): A Mechanism for Time-Aware Pediatric Sleep Representation Learning](https://arxiv.org/abs/2610.26618v1)** | 2026-10-19 |  |
+| **[BERT Is Already a Denoiser: Cheaply Unlocking Iterative Generation in Masked Language Models](https://arxiv.org/abs/2610.26601v1)** | 2026-10-19 |  |
+| **[Learning Geometry-Aware Planning Representations for Monocular Flight with Cross-Modal Supervision](https://arxiv.org/abs/2610.26508v1)** | 2026-10-19 |  |
+| **[TIM: Temporal Decoupling with Iterative Mutual-Refinement Model for Longitudinal Radiology Report Generation](https://arxiv.org/abs/2610.26271v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[On the Value of Cross-Modal Misalignment in Multimodal Representation Learning](https://arxiv.org/abs/2504.10143v8)** | 2026-10-19 | <details><summary>v8: C...</summary><p>v8: Corrected global to local block-identifiability (a.s.); see Appx. D.2</p></details> |
+| **[Modern GLOM: Canonical locks that encode part-whole hierarchies](https://arxiv.org/abs/2609.26046v3)** | 2026-10-19 | Work in Progress |
+| **[Brain-to-Language Decoding: Paradigms, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v5)** | 2026-10-19 |  |
+| **[Omni-Interactive Universal Embedder](https://arxiv.org/abs/2608.27044v2)** | 2026-10-19 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Project page: https://wywywang.github.io/omniue-demo/</p></details> |
+| **[STAR: Adaptive Spatial-Temporal Normalization for Unified Microservice Incident Management](https://arxiv.org/abs/2609.31645v2)** | 2026-10-19 |  |
+| **[AirMPA: A Meteorology-to-Pollution Adapter for Global Air Quality Forecasting](https://arxiv.org/abs/2610.25797v1)** | 2026-10-19 |  |
+| **[See the Future, Classify the Present: Stochastic Latent World Modeling for Hyperspectral Images](https://arxiv.org/abs/2610.25781v1)** | 2026-10-19 | 18 pages, 11 figures |
+| **[DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive Decentralized Multi-Robot Cooperative Grasping and Lifting](https://arxiv.org/abs/2603.08111v3)** | 2026-10-19 | 9 pages, 7 figures |
 
