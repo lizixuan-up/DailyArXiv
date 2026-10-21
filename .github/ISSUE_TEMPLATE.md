@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2026
+title: Latest 15 Papers - October 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum](https://arxiv.org/abs/2610.26824v1)** | 2026-10-19 | preprint |
-| **[TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation](https://arxiv.org/abs/2610.23050v2)** | 2026-10-19 | <details><summary>30pag...</summary><p>30pages, Project page: https://fantasy-amap.github.io/TriFold</p></details> |
-| **[Hierarchical Token Merging with Recursive Autoencoders for Unsupervised Grammar Induction](https://arxiv.org/abs/2610.26695v1)** | 2026-10-19 |  |
-| **[Global Time-Aware Conditioning (GTC): A Mechanism for Time-Aware Pediatric Sleep Representation Learning](https://arxiv.org/abs/2610.26618v1)** | 2026-10-19 |  |
-| **[BERT Is Already a Denoiser: Cheaply Unlocking Iterative Generation in Masked Language Models](https://arxiv.org/abs/2610.26601v1)** | 2026-10-19 |  |
-| **[Learning Geometry-Aware Planning Representations for Monocular Flight with Cross-Modal Supervision](https://arxiv.org/abs/2610.26508v1)** | 2026-10-19 |  |
-| **[TIM: Temporal Decoupling with Iterative Mutual-Refinement Model for Longitudinal Radiology Report Generation](https://arxiv.org/abs/2610.26271v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[On the Value of Cross-Modal Misalignment in Multimodal Representation Learning](https://arxiv.org/abs/2504.10143v8)** | 2026-10-19 | <details><summary>v8: C...</summary><p>v8: Corrected global to local block-identifiability (a.s.); see Appx. D.2</p></details> |
-| **[Modern GLOM: Canonical locks that encode part-whole hierarchies](https://arxiv.org/abs/2609.26046v3)** | 2026-10-19 | Work in Progress |
-| **[Brain-to-Language Decoding: Paradigms, Signals, Methods, Evaluation, Practical Use and Beyond](https://arxiv.org/abs/2609.27650v5)** | 2026-10-19 |  |
-| **[Omni-Interactive Universal Embedder](https://arxiv.org/abs/2608.27044v2)** | 2026-10-19 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Project page: https://wywywang.github.io/omniue-demo/</p></details> |
-| **[STAR: Adaptive Spatial-Temporal Normalization for Unified Microservice Incident Management](https://arxiv.org/abs/2609.31645v2)** | 2026-10-19 |  |
-| **[AirMPA: A Meteorology-to-Pollution Adapter for Global Air Quality Forecasting](https://arxiv.org/abs/2610.25797v1)** | 2026-10-19 |  |
-| **[See the Future, Classify the Present: Stochastic Latent World Modeling for Hyperspectral Images](https://arxiv.org/abs/2610.25781v1)** | 2026-10-19 | 18 pages, 11 figures |
-| **[DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive Decentralized Multi-Robot Cooperative Grasping and Lifting](https://arxiv.org/abs/2603.08111v3)** | 2026-10-19 | 9 pages, 7 figures |
+| **[Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics](https://arxiv.org/abs/2610.28579v1)** | 2026-10-20 | <details><summary>This ...</summary><p>This manuscript has been accepted at the NeurIPS 2026 Workshop on AI for Drug Discovery: Bridging the Translation Gap (AI4DD)</p></details> |
+| **[Multi-Marginal Inverse Optimal Transport for Contrastive Learning Via Explicit Anchor-Positive-Negative Coupling](https://arxiv.org/abs/2609.33741v3)** | 2026-10-20 |  |
+| **[Touch-JEPA: Tactile Representation Learning from Hand-Object Video with Limited Tactile Supervision](https://arxiv.org/abs/2610.28519v1)** | 2026-10-20 | <details><summary>Proje...</summary><p>Project Page: https://touch-jepa.github.io</p></details> |
+| **[Exploring Temporal Context-Aware Physical Grounding in Latent World Models](https://arxiv.org/abs/2610.28483v1)** | 2026-10-20 |  |
+| **[Causal Discovery for Linear Models with Latent Confounding via Multi-domain Identifiable Representation Learning](https://arxiv.org/abs/2610.28134v1)** | 2026-10-20 | 29 pages, 6 figures |
+| **[Robust Representation Learning for Spiking Neural Networks based on Conditional Information Bottleneck](https://arxiv.org/abs/2610.28110v1)** | 2026-10-20 | 17 pages |
+| **[Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data](https://arxiv.org/abs/2610.27995v1)** | 2026-10-20 | 9 pages, 4 figures |
+| **[HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data](https://arxiv.org/abs/2610.27941v1)** | 2026-10-20 |  |
+| **[EndoWorld-JEPA: Motion-Guided Global-Local Latent World Modeling for Endoscopic Video Representation Learning](https://arxiv.org/abs/2610.27890v1)** | 2026-10-20 |  |
+| **[Decoupled Representation Learning for Face Presentation Attack Detection under Smart Glass Capture](https://arxiv.org/abs/2610.27800v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026</p></details> |
+| **[PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting](https://arxiv.org/abs/2610.27696v1)** | 2026-10-20 | 9 pages, 5 figures |
+| **[Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems](https://arxiv.org/abs/2610.27614v1)** | 2026-10-20 |  |
+| **[Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction](https://arxiv.org/abs/2610.27594v1)** | 2026-10-20 |  |
+| **[STEAM: Stable Self-Training with Elastic Matching and Adaptive Purification](https://arxiv.org/abs/2607.09057v2)** | 2026-10-20 |  |
+| **[MiCLA: Mixture-to-Constituent Latent Alignment for Polyphonic Audio Representation Learning](https://arxiv.org/abs/2610.27491v1)** | 2026-10-20 | 13 pages, 3 figures |
 
