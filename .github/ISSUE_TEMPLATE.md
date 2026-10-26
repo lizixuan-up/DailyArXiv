@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2026
+title: Latest 15 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Augmentation Strategy for DINO in Glaucoma Classification](https://arxiv.org/abs/2610.32511v1)** | 2026-10-23 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Accepted at the 17th International Workshop on Machine Learning in Medical Imaging (MLMI 2026), held in conjunction with MICCAI 2026</p></details> |
+| **[DualGSL: Prior-Guided Graph Structure Learning with Node-Adaptive Prediction Fusion](https://arxiv.org/abs/2610.32462v1)** | 2026-10-23 |  |
+| **[Causal Representation Learning for Generalisable Recommendation](https://arxiv.org/abs/2605.27043v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Unified Condition-Action Modeling for Accurate One-Step Action Generation](https://arxiv.org/abs/2608.16153v5)** | 2026-10-23 | <details><summary>Corre...</summary><p>Corrected benchmark aggregation, seed-level uncertainty, and latency comparisons; updated the motivation figure and corresponding text</p></details> |
+| **[Representation Learning via Composite Subspace Flow Matching](https://arxiv.org/abs/2610.32256v1)** | 2026-10-23 | 27 pages, 4 figures |
+| **[Latent-Space Importance Weighting under Covariate Shift](https://arxiv.org/abs/2610.15571v2)** | 2026-10-23 | 37 pages, 2 figures |
+| **[Rethinking Representation Geometry in Supervised Contrastive Learning under Long-Tailed Data](https://arxiv.org/abs/2610.32039v1)** | 2026-10-23 |  |
+| **[OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning](https://arxiv.org/abs/2601.15351v2)** | 2026-10-23 |  |
+| **[VisFlow: Interpretable Flow Matching for Visibility Reconstruction, Characterization, and Recognition](https://arxiv.org/abs/2610.31892v1)** | 2026-10-22 |  |
+| **[Rethinking Multi-View Fusion for Urban Representation Learning](https://arxiv.org/abs/2610.31850v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by PVLDB 2027</p></details> |
 | **[Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation](https://arxiv.org/abs/2610.31305v1)** | 2026-10-22 | <details><summary>47 pa...</summary><p>47 pages, 14 figures, 5 tables</p></details> |
 | **[Is High Local Accuracy Enough? Geometric Consensus with Support-Adaptive Statistical Personalization for Federated Learning](https://arxiv.org/abs/2610.31133v1)** | 2026-10-22 | <details><summary>27 pa...</summary><p>27 pages, including 9 pages of supplementary material. Code: https://github.com/JL181/FedGRC-Benchmark</p></details> |
 | **[I$^2$-KAN: Interpretable Intra- and Inter-Modal Multi-Pathway Representation Learning for Multimodal Sentiment Analysis](https://arxiv.org/abs/2610.31087v1)** | 2026-10-22 |  |
 | **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v5)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026. The Objects365 pre-training results have also been updated. Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter</p></details> |
 | **[Beyond Phenotypic Similarity: Relation Refinement and Selective Population Graph Learning for Multimodal Brain Disorder Diagnosis](https://arxiv.org/abs/2610.30902v1)** | 2026-10-22 |  |
-| **[Primal-Dual Representation Learning for Low-Rank Constrained MDPs](https://arxiv.org/abs/2610.30756v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Learning from Next-Frame Prediction: Towards Unified and Scalable Visual Representation Learning](https://arxiv.org/abs/2610.30724v1)** | 2026-10-22 |  |
-| **[NEST: Nested Embedding Representation for Multiscale Clustering](https://arxiv.org/abs/2610.30520v1)** | 2026-10-21 |  |
-| **[MoRE: Motion-Regularized Encoding for Articulated 3D Generation](https://arxiv.org/abs/2610.30337v1)** | 2026-10-21 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 4 tables</p></details> |
-| **[Self-Distilling Future Video Representations for World Action Models](https://arxiv.org/abs/2610.30320v1)** | 2026-10-21 | <details><summary>27 pa...</summary><p>27 pages; Project page: https://huiwon-jang.github.io/FRED/</p></details> |
-| **[Implicit Feature Reweighting for Label-Free Graph Generalization](https://arxiv.org/abs/2610.29571v1)** | 2026-10-21 | <details><summary>We pr...</summary><p>We propose an implicit feature reweighting method to enhance graph-level OOD generalization without class labels</p></details> |
-| **[Are Joint-Embedding Predictive Objectives Effective for Longitudinal EHRs?](https://arxiv.org/abs/2610.29528v1)** | 2026-10-21 |  |
-| **[X-Embedding: Two-Stage Training for Multilingual Patent Prior-Art Retrieval](https://arxiv.org/abs/2610.29521v1)** | 2026-10-21 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 4 tables</p></details> |
-| **[BrainPro: Process-conditioned Pretraining with Topographic Retrieval for Large EEG Models](https://arxiv.org/abs/2509.22050v3)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
-| **[YingLan: A Multimodal Ocean Foundation Model for Unified Representation Learning from Heterogeneous Observations](https://arxiv.org/abs/2610.29313v1)** | 2026-10-21 |  |
 
