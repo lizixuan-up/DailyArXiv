@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2026
+title: Latest 15 Papers - October 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Augmentation Strategy for DINO in Glaucoma Classification](https://arxiv.org/abs/2610.32511v1)** | 2026-10-23 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Accepted at the 17th International Workshop on Machine Learning in Medical Imaging (MLMI 2026), held in conjunction with MICCAI 2026</p></details> |
-| **[DualGSL: Prior-Guided Graph Structure Learning with Node-Adaptive Prediction Fusion](https://arxiv.org/abs/2610.32462v1)** | 2026-10-23 |  |
-| **[Causal Representation Learning for Generalisable Recommendation](https://arxiv.org/abs/2605.27043v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Unified Condition-Action Modeling for Accurate One-Step Action Generation](https://arxiv.org/abs/2608.16153v5)** | 2026-10-23 | <details><summary>Corre...</summary><p>Corrected benchmark aggregation, seed-level uncertainty, and latency comparisons; updated the motivation figure and corresponding text</p></details> |
-| **[Representation Learning via Composite Subspace Flow Matching](https://arxiv.org/abs/2610.32256v1)** | 2026-10-23 | 27 pages, 4 figures |
-| **[Latent-Space Importance Weighting under Covariate Shift](https://arxiv.org/abs/2610.15571v2)** | 2026-10-23 | 37 pages, 2 figures |
-| **[Rethinking Representation Geometry in Supervised Contrastive Learning under Long-Tailed Data](https://arxiv.org/abs/2610.32039v1)** | 2026-10-23 |  |
-| **[OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning](https://arxiv.org/abs/2601.15351v2)** | 2026-10-23 |  |
-| **[VisFlow: Interpretable Flow Matching for Visibility Reconstruction, Characterization, and Recognition](https://arxiv.org/abs/2610.31892v1)** | 2026-10-22 |  |
-| **[Rethinking Multi-View Fusion for Urban Representation Learning](https://arxiv.org/abs/2610.31850v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by PVLDB 2027</p></details> |
-| **[Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation](https://arxiv.org/abs/2610.31305v1)** | 2026-10-22 | <details><summary>47 pa...</summary><p>47 pages, 14 figures, 5 tables</p></details> |
-| **[Is High Local Accuracy Enough? Geometric Consensus with Support-Adaptive Statistical Personalization for Federated Learning](https://arxiv.org/abs/2610.31133v1)** | 2026-10-22 | <details><summary>27 pa...</summary><p>27 pages, including 9 pages of supplementary material. Code: https://github.com/JL181/FedGRC-Benchmark</p></details> |
-| **[I$^2$-KAN: Interpretable Intra- and Inter-Modal Multi-Pathway Representation Learning for Multimodal Sentiment Analysis](https://arxiv.org/abs/2610.31087v1)** | 2026-10-22 |  |
-| **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v5)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026. The Objects365 pre-training results have also been updated. Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter</p></details> |
-| **[Beyond Phenotypic Similarity: Relation Refinement and Selective Population Graph Learning for Multimodal Brain Disorder Diagnosis](https://arxiv.org/abs/2610.30902v1)** | 2026-10-22 |  |
+| **[A theory of noisy linear recurrent neural network learning dynamics](https://arxiv.org/abs/2610.35785v1)** | 2026-10-26 | 27 pages, 6 figures |
+| **[Beyond Modeling Order: Dual-Path Spatiotemporal Representation Learning for Cross-Subject EEG Emotion Recognition](https://arxiv.org/abs/2610.35540v1)** | 2026-10-26 |  |
+| **[Multi-Horizon Future Discovery for Physics-Informed Exploration](https://arxiv.org/abs/2610.35468v1)** | 2026-10-26 |  |
+| **[TransECG-SSL: Hybrid Self-Supervised Representation Learning for ECG Arrhythmia Classification](https://arxiv.org/abs/2610.35378v1)** | 2026-10-26 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics</p></details> |
+| **[Shared-Factor-Conditioned Diffusion for Low-Rank Tensor Recovery](https://arxiv.org/abs/2610.35368v1)** | 2026-10-26 |  |
+| **[Low-rank MERA Decomposition of 3D OCT Image Volume for Compression, Denoising, Feature Extraction and Diagnosis of Retinal Diseases](https://arxiv.org/abs/2610.35271v1)** | 2026-10-26 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[LEAP: a Latent Embedding Anomaly Patch-Transformer for time-series anomaly detection](https://arxiv.org/abs/2610.35190v1)** | 2026-10-26 |  |
+| **[When Fusion Order Matters: Insights on Progressive Multimodal Representation Learning for Cross-modal Retrieval](https://arxiv.org/abs/2610.35125v1)** | 2026-10-26 |  |
+| **[FlowGenesis: Representation-Driven Self-Organization of Neural Architectures](https://arxiv.org/abs/2610.35108v1)** | 2026-10-26 |  |
+| **[AutoPRL: Automated Path Representation Learning via a Learnable View Generator](https://arxiv.org/abs/2610.35032v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted by IEEE TKDE 2026</p></details> |
+| **[Physics-Informed Structure Anchoring With Capture-Aware Prototype Calibration for Cross-Environment RF Fingerprinting](https://arxiv.org/abs/2607.09760v3)** | 2026-10-26 | data needs to change |
+| **[MoRE: Motion-Regularized Encoding for Articulated 3D Generation](https://arxiv.org/abs/2610.30337v2)** | 2026-10-26 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 4 tables</p></details> |
+| **[Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse](https://arxiv.org/abs/2610.34828v1)** | 2026-10-26 |  |
+| **[Multi-Domain Empirical Bayes for Linearly-Mixed Causal Representations](https://arxiv.org/abs/2603.18404v3)** | 2026-10-26 | <details><summary>26 pa...</summary><p>26 pages. Revised presentation and references, with new semi-synthetic single-cell experiments based on a myeloid gene-regulatory network and the Sachs protein-signalling data</p></details> |
+| **[InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models](https://arxiv.org/abs/2306.08757v2)** | 2026-10-26 | <details><summary>Publi...</summary><p>Published in ICML 2023; Code is available on the project page: https://yingheng-wang.com/infodiffusion-page/</p></details> |
 
