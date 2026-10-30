@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2026
+title: Latest 15 Papers - October 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -23,6 +23,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoFiGR: Coarse Routing, Fine Refinement via Level-Adaptive Distillation in Multimodal Generative Recommendation](https://arxiv.org/abs/2610.39470v1)** | 2026-10-29 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 10 tables</p></details> |
 | **[Can Complementary Signals Bridge Similarity Islands? Manifold-Augmented Graph Embedding for Multimodal Recommendation](https://arxiv.org/abs/2610.37409v1)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 33 pages, including references and appendices</p></details> |
 | **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v2)** | 2026-10-22 |  |
 | **[Multimodal Decoupling for Diversified Recommendation through Semantic and Structural Shaping](https://arxiv.org/abs/2610.26024v1)** | 2026-10-19 |  |
@@ -37,24 +38,23 @@ labels: documentation
 | **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v3)** | 2026-09-10 |  |
 | **[Latent-Aligned Reasoning for Multimodal Recommendation](https://arxiv.org/abs/2609.04645v1)** | 2026-09-04 |  |
 | **[MURAL: Multimodal Uncertainty-aware Recommendation via Adaptive edge Learning](https://arxiv.org/abs/2609.04574v1)** | 2026-09-04 |  |
-| **[Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation](https://arxiv.org/abs/2609.02152v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2026 (ACM MM 2026)</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ego-CEVR: Learning Cross-Embodiment Visual Representations from Human Egocentric Videos](https://arxiv.org/abs/2610.37509v1)** | 2026-10-27 |  |
-| **[Twincher: Towards Robust and Precise Physical AI via Bijective Representation Learning](https://arxiv.org/abs/2605.13470v3)** | 2026-10-27 |  |
-| **[Graph Representation Learning via Adaptive Expectile Aggregation](https://arxiv.org/abs/2610.37450v1)** | 2026-10-27 |  |
-| **[Euclidean Crowding-Driven Adaptive Euclidean-Hyperbolic Graph Learning](https://arxiv.org/abs/2610.37373v1)** | 2026-10-27 |  |
-| **[Latent Representation Learning from 3D Brain MRI for Latent Analysis and Prediction in Multiple Sclerosis](https://arxiv.org/abs/2510.00051v2)** | 2026-10-27 | <details><summary>The a...</summary><p>The abstract has been condensed to under 1920 characters</p></details> |
-| **[Efficient Generative Transformer Operators For Million-Point PDEs](https://arxiv.org/abs/2512.04974v2)** | 2026-10-27 |  |
-| **[Learning Pareto Stationary Fronts via Single-Pass Backpropagation](https://arxiv.org/abs/2610.06397v2)** | 2026-10-27 | <details><summary>30 pa...</summary><p>30 pages. Accepted at NeurIPS 2026. Camera-ready version</p></details> |
-| **[Systematic Morphometric Brain Autoencoding for Representation Learning in Neurodegenerative Diseases](https://arxiv.org/abs/2610.37074v1)** | 2026-10-27 |  |
-| **[When Diffusion Recommenders Stop Sampling: Preserving Generative Diversity](https://arxiv.org/abs/2610.36954v1)** | 2026-10-27 |  |
-| **[Dense Representation Learning and Differentiable Shape Modeling for Spine Landmark Detection](https://arxiv.org/abs/2610.36951v1)** | 2026-10-27 |  |
-| **[DeFM: Learning Foundation Representations from Depth for Robotics](https://arxiv.org/abs/2601.18923v3)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Robotics (T-RO), 2026</p></details> |
-| **[Intrinsic Information-Theoretic Analysis of ReLU Nets](https://arxiv.org/abs/2610.36864v1)** | 2026-10-27 |  |
-| **[Rethinking Multi-View Fusion for Urban Representation Learning](https://arxiv.org/abs/2610.31850v2)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted by PVLDB 2027</p></details> |
-| **[PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates](https://arxiv.org/abs/2606.16602v2)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[SpecLST: Spectral-Enhanced Long-Short Term Spatio-Temporal Multimodal Modeling for Traffic Forecasting](https://arxiv.org/abs/2610.36393v1)** | 2026-10-26 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 5 tables</p></details> |
+| **[Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](https://arxiv.org/abs/2606.18836v3)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted at IEEE RO-MAN 2026</p></details> |
+| **[Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors](https://arxiv.org/abs/2610.40401v1)** | 2026-10-29 | 12 pages, 6 figures |
+| **[LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT](https://arxiv.org/abs/2610.40284v1)** | 2026-10-29 | 25 pages, 9 figures |
+| **[Confidence-Aware Speed-over-Ground Estimation from Doppler Spectra via Reconstruction-Based Representation Learning](https://arxiv.org/abs/2610.40253v1)** | 2026-10-29 |  |
+| **[Fisher Contrastive Learning to Mitigate Feature Suppression: A Case Study in Acute Promyelocytic Leukemia Diagnosis](https://arxiv.org/abs/2610.40162v1)** | 2026-10-29 | <details><summary>31 pa...</summary><p>31 pages, including supplementary material; 3 figures and 2 tables</p></details> |
+| **[Adaptive Modular Retrieval-Augmented Framework for Cross-Domain Image Classification](https://arxiv.org/abs/2510.05071v2)** | 2026-10-29 |  |
+| **[Robust Scene Transfer for PointGoal Navigation via Privileged Sensor Guided Contrastive Learning](https://arxiv.org/abs/2606.05506v3)** | 2026-10-29 | <details><summary>8 pag...</summary><p>8 pages, Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Grounding Predictive Reliability through Masked Observability](https://arxiv.org/abs/2610.39728v1)** | 2026-10-29 |  |
+| **[Annotation-Free Representation Learning for Polyp Retrieval in Colonoscopy Videos](https://arxiv.org/abs/2610.39648v1)** | 2026-10-29 | <details><summary>Under...</summary><p>Under submission at ISBI 2027</p></details> |
+| **[Factorized Spectral Representations for Reinforcement Learning](https://arxiv.org/abs/2607.13498v2)** | 2026-10-29 |  |
+| **[A4-MR: Abnormality Aware Anatomical Alignment for MR](https://arxiv.org/abs/2610.13056v2)** | 2026-10-29 |  |
+| **[Integrated Feature Selection for classification and Representation Learning with Group-Lasso Siamese Networks](https://arxiv.org/abs/2610.39499v1)** | 2026-10-29 |  |
+| **[Topology Survives Shuffling: Robust Long-Context Memory Access Prediction for Graph Analytics](https://arxiv.org/abs/2610.39477v1)** | 2026-10-29 |  |
+| **[IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](https://arxiv.org/abs/2610.39246v1)** | 2026-10-29 |  |
+| **[Geometric Time Score Estimators: Bridging Self-Predictive Representations and Generative Occupancy Models For Reinforcement Learning](https://arxiv.org/abs/2610.38901v1)** | 2026-10-28 |  |
 
