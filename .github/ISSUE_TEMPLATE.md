@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 01, 2026
+title: Latest 15 Papers - November 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Variational decomposition autoencoding improves disentanglement of latent representations](https://arxiv.org/abs/2601.06844v2)** | 2026-10-30 | <details><summary>Suppl...</summary><p>Supplementary information file at: https://drive.google.com/drive/folders/1sZl2AcCtRK-1oav7XZSaxlu0Cq0-3MMs?usp=sharing</p></details> |
+| **[Structure-Aware Skill Retrieval and Arbitration for Optimization Modeling](https://arxiv.org/abs/2610.41909v1)** | 2026-10-30 |  |
+| **[Peeling the Matryoshka: Extracting Ontological Structure from Retrieval Embeddings](https://arxiv.org/abs/2610.41785v1)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 13 pages, 6 figures, 7 tables. Code: https://github.com/Eunchan24/PEEL</p></details> |
+| **[Towards Universal Tabular Embeddings: A Benchmark Across Data Tasks](https://arxiv.org/abs/2604.21696v3)** | 2026-10-30 |  |
+| **[MuCALD-SplitFed: Causal-Latent Diffusion for Privacy-Preserving Multi-Task Split-Federated Medical Image Segmentation](https://arxiv.org/abs/2605.04108v2)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to oral presentation and conference proceedings at IEEE International Conference on Image Processing (ICIP 2026), Finland</p></details> |
+| **[Evolution of Financial AI: From Statistical Models to Agentic AI](https://arxiv.org/abs/2610.41228v1)** | 2026-10-30 |  |
+| **[From Prediction to Action: Population Health World Model for Digital Medicine](https://arxiv.org/abs/2610.24662v2)** | 2026-10-30 |  |
+| **[MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding](https://arxiv.org/abs/2610.41127v1)** | 2026-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2026. 27 pages, 9 figures, 5 tables. Project page: https://www.cs.umd.edu/~edessale/motorsense/</p></details> |
+| **[Your Spending Needs Attention: Modeling Financial Habits with Transformers](https://arxiv.org/abs/2507.23267v3)** | 2026-10-29 | <details><summary>Prese...</summary><p>Presented at 9th Workshop on Machine Learning in Finance at KDD 2026</p></details> |
+| **[Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference](https://arxiv.org/abs/2602.22590v3)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of the Royal Statistical Society: Series B (Statistical Methodology)</p></details> |
+| **[TalkFlow: Structured Latent Flow Matching for Speech Driven Holistic Motion Generation](https://arxiv.org/abs/2610.40972v1)** | 2026-10-29 |  |
+| **[CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models](https://arxiv.org/abs/2610.40954v1)** | 2026-10-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, pre-print</p></details> |
 | **[Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](https://arxiv.org/abs/2606.18836v3)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted at IEEE RO-MAN 2026</p></details> |
 | **[Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors](https://arxiv.org/abs/2610.40401v1)** | 2026-10-29 | 12 pages, 6 figures |
-| **[LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT](https://arxiv.org/abs/2610.40284v1)** | 2026-10-29 | 25 pages, 9 figures |
-| **[Confidence-Aware Speed-over-Ground Estimation from Doppler Spectra via Reconstruction-Based Representation Learning](https://arxiv.org/abs/2610.40253v1)** | 2026-10-29 |  |
-| **[Fisher Contrastive Learning to Mitigate Feature Suppression: A Case Study in Acute Promyelocytic Leukemia Diagnosis](https://arxiv.org/abs/2610.40162v1)** | 2026-10-29 | <details><summary>31 pa...</summary><p>31 pages, including supplementary material; 3 figures and 2 tables</p></details> |
-| **[Adaptive Modular Retrieval-Augmented Framework for Cross-Domain Image Classification](https://arxiv.org/abs/2510.05071v2)** | 2026-10-29 |  |
-| **[Robust Scene Transfer for PointGoal Navigation via Privileged Sensor Guided Contrastive Learning](https://arxiv.org/abs/2606.05506v3)** | 2026-10-29 | <details><summary>8 pag...</summary><p>8 pages, Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Grounding Predictive Reliability through Masked Observability](https://arxiv.org/abs/2610.39728v1)** | 2026-10-29 |  |
-| **[Annotation-Free Representation Learning for Polyp Retrieval in Colonoscopy Videos](https://arxiv.org/abs/2610.39648v1)** | 2026-10-29 | <details><summary>Under...</summary><p>Under submission at ISBI 2027</p></details> |
-| **[Factorized Spectral Representations for Reinforcement Learning](https://arxiv.org/abs/2607.13498v2)** | 2026-10-29 |  |
-| **[A4-MR: Abnormality Aware Anatomical Alignment for MR](https://arxiv.org/abs/2610.13056v2)** | 2026-10-29 |  |
-| **[Integrated Feature Selection for classification and Representation Learning with Group-Lasso Siamese Networks](https://arxiv.org/abs/2610.39499v1)** | 2026-10-29 |  |
-| **[Topology Survives Shuffling: Robust Long-Context Memory Access Prediction for Graph Analytics](https://arxiv.org/abs/2610.39477v1)** | 2026-10-29 |  |
-| **[IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](https://arxiv.org/abs/2610.39246v1)** | 2026-10-29 |  |
-| **[Geometric Time Score Estimators: Bridging Self-Predictive Representations and Generative Occupancy Models For Reinforcement Learning](https://arxiv.org/abs/2610.38901v1)** | 2026-10-28 |  |
+| **[point2vec for Self-Supervised Representation Learning on Point Clouds](https://arxiv.org/abs/2303.16570v3)** | 2026-10-29 | <details><summary>Updat...</summary><p>Updated formatting and minor editorial improvements. GCPR 2023. CVPRW 2023. Project page at https://vision.rwth-aachen.de/point2vec</p></details> |
 
