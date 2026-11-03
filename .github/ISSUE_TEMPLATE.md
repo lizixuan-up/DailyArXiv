@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2026
+title: Latest 15 Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational decomposition autoencoding improves disentanglement of latent representations](https://arxiv.org/abs/2601.06844v2)** | 2026-10-30 | <details><summary>Suppl...</summary><p>Supplementary information file at: https://drive.google.com/drive/folders/1sZl2AcCtRK-1oav7XZSaxlu0Cq0-3MMs?usp=sharing</p></details> |
-| **[Structure-Aware Skill Retrieval and Arbitration for Optimization Modeling](https://arxiv.org/abs/2610.41909v1)** | 2026-10-30 |  |
-| **[Peeling the Matryoshka: Extracting Ontological Structure from Retrieval Embeddings](https://arxiv.org/abs/2610.41785v1)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 13 pages, 6 figures, 7 tables. Code: https://github.com/Eunchan24/PEEL</p></details> |
-| **[Towards Universal Tabular Embeddings: A Benchmark Across Data Tasks](https://arxiv.org/abs/2604.21696v3)** | 2026-10-30 |  |
-| **[MuCALD-SplitFed: Causal-Latent Diffusion for Privacy-Preserving Multi-Task Split-Federated Medical Image Segmentation](https://arxiv.org/abs/2605.04108v2)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to oral presentation and conference proceedings at IEEE International Conference on Image Processing (ICIP 2026), Finland</p></details> |
-| **[Evolution of Financial AI: From Statistical Models to Agentic AI](https://arxiv.org/abs/2610.41228v1)** | 2026-10-30 |  |
-| **[From Prediction to Action: Population Health World Model for Digital Medicine](https://arxiv.org/abs/2610.24662v2)** | 2026-10-30 |  |
-| **[MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding](https://arxiv.org/abs/2610.41127v1)** | 2026-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2026. 27 pages, 9 figures, 5 tables. Project page: https://www.cs.umd.edu/~edessale/motorsense/</p></details> |
-| **[Your Spending Needs Attention: Modeling Financial Habits with Transformers](https://arxiv.org/abs/2507.23267v3)** | 2026-10-29 | <details><summary>Prese...</summary><p>Presented at 9th Workshop on Machine Learning in Finance at KDD 2026</p></details> |
-| **[Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference](https://arxiv.org/abs/2602.22590v3)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of the Royal Statistical Society: Series B (Statistical Methodology)</p></details> |
-| **[TalkFlow: Structured Latent Flow Matching for Speech Driven Holistic Motion Generation](https://arxiv.org/abs/2610.40972v1)** | 2026-10-29 |  |
-| **[CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models](https://arxiv.org/abs/2610.40954v1)** | 2026-10-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, pre-print</p></details> |
-| **[Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](https://arxiv.org/abs/2606.18836v3)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted at IEEE RO-MAN 2026</p></details> |
-| **[Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors](https://arxiv.org/abs/2610.40401v1)** | 2026-10-29 | 12 pages, 6 figures |
-| **[point2vec for Self-Supervised Representation Learning on Point Clouds](https://arxiv.org/abs/2303.16570v3)** | 2026-10-29 | <details><summary>Updat...</summary><p>Updated formatting and minor editorial improvements. GCPR 2023. CVPRW 2023. Project page at https://vision.rwth-aachen.de/point2vec</p></details> |
+| **[Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP](https://arxiv.org/abs/2601.09859v2)** | 2026-11-02 | <details><summary>NeurI...</summary><p>NeurIPS 2026 spotlight</p></details> |
+| **[Circumventing Magnitude Collapse via Modular Two-Stage Open-Set Recognition](https://arxiv.org/abs/2611.03421v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted for publication at the British Machine Vision Conference (BMVC) 2026</p></details> |
+| **[Temporal Island Sparse Autoencoders for Interpreting Clinical Time-Series Models](https://arxiv.org/abs/2611.03420v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Fuse To Align: Multimodal Representation Learning for Retrieval via Hypergraph Regularization](https://arxiv.org/abs/2611.03370v1)** | 2026-11-02 | 24 pages, 7 figures |
+| **[DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval](https://arxiv.org/abs/2603.04743v2)** | 2026-11-02 | <details><summary>32 pa...</summary><p>32 pages, 8 figures, and 3 tables</p></details> |
+| **[TurboWAM: Learning What Matters for Fast World Action Models](https://arxiv.org/abs/2610.33941v2)** | 2026-11-02 | <details><summary>Techn...</summary><p>Technical report. Project page: https://turbowam.github.io/</p></details> |
+| **[RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](https://arxiv.org/abs/2606.05109v2)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
+| **[Relational Representation Learning Network for Cross-Spectral Image Patch Matching](https://arxiv.org/abs/2403.11751v4)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted by Information Fusion 2026</p></details> |
+| **[Robust Scene Transfer for PointGoal Navigation via Privileged Sensor Guided Contrastive Learning](https://arxiv.org/abs/2606.05506v4)** | 2026-11-02 | <details><summary>8 pag...</summary><p>8 pages, Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Accelerating Nonlinear MPC by Behavior Cloning with Separated Timescales: Application to Nuclear Reactor Load-Following](https://arxiv.org/abs/2610.38496v2)** | 2026-11-02 |  |
+| **[SpectralTF-MAE: A Pre-trained Spectral Foundation Model for Tokamak Fusion Plasma Diagnostics](https://arxiv.org/abs/2610.38593v2)** | 2026-11-02 |  |
+| **[ILLRAW: Illumination-Aware RAW Object Detection](https://arxiv.org/abs/2611.02995v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026</p></details> |
+| **[ILR-SMO: Iterative Latent Refinement for Robust Spatial Multi-Omics Integration](https://arxiv.org/abs/2611.02932v1)** | 2026-11-02 | <details><summary>Autho...</summary><p>Author-corrected version of the IJCAI-ECAI 2026 paper. Four numerical typographical errors in Table 1 have been corrected, and the caption has been clarified regarding V-measure and NMI. The method rankings and conclusions remain unchanged</p></details> |
+| **[Scaling Action-Free Video Latent Prediction for Transferable Representations in End-to-End Autonomous Driving](https://arxiv.org/abs/2611.02853v1)** | 2026-11-02 | 23 pages, 7 figures |
+| **[CARE: Contrastive Representation Learning with Environment-Invariance Regularization for Behavioural Intention Prediction](https://arxiv.org/abs/2611.02806v1)** | 2026-11-02 |  |
 
