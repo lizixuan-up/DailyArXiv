@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2026
+title: Latest 15 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP](https://arxiv.org/abs/2601.09859v2)** | 2026-11-02 | <details><summary>NeurI...</summary><p>NeurIPS 2026 spotlight</p></details> |
-| **[Circumventing Magnitude Collapse via Modular Two-Stage Open-Set Recognition](https://arxiv.org/abs/2611.03421v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted for publication at the British Machine Vision Conference (BMVC) 2026</p></details> |
-| **[Temporal Island Sparse Autoencoders for Interpreting Clinical Time-Series Models](https://arxiv.org/abs/2611.03420v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Fuse To Align: Multimodal Representation Learning for Retrieval via Hypergraph Regularization](https://arxiv.org/abs/2611.03370v1)** | 2026-11-02 | 24 pages, 7 figures |
-| **[DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval](https://arxiv.org/abs/2603.04743v2)** | 2026-11-02 | <details><summary>32 pa...</summary><p>32 pages, 8 figures, and 3 tables</p></details> |
-| **[TurboWAM: Learning What Matters for Fast World Action Models](https://arxiv.org/abs/2610.33941v2)** | 2026-11-02 | <details><summary>Techn...</summary><p>Technical report. Project page: https://turbowam.github.io/</p></details> |
-| **[RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](https://arxiv.org/abs/2606.05109v2)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
-| **[Relational Representation Learning Network for Cross-Spectral Image Patch Matching](https://arxiv.org/abs/2403.11751v4)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted by Information Fusion 2026</p></details> |
-| **[Robust Scene Transfer for PointGoal Navigation via Privileged Sensor Guided Contrastive Learning](https://arxiv.org/abs/2606.05506v4)** | 2026-11-02 | <details><summary>8 pag...</summary><p>8 pages, Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Accelerating Nonlinear MPC by Behavior Cloning with Separated Timescales: Application to Nuclear Reactor Load-Following](https://arxiv.org/abs/2610.38496v2)** | 2026-11-02 |  |
-| **[SpectralTF-MAE: A Pre-trained Spectral Foundation Model for Tokamak Fusion Plasma Diagnostics](https://arxiv.org/abs/2610.38593v2)** | 2026-11-02 |  |
-| **[ILLRAW: Illumination-Aware RAW Object Detection](https://arxiv.org/abs/2611.02995v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026</p></details> |
-| **[ILR-SMO: Iterative Latent Refinement for Robust Spatial Multi-Omics Integration](https://arxiv.org/abs/2611.02932v1)** | 2026-11-02 | <details><summary>Autho...</summary><p>Author-corrected version of the IJCAI-ECAI 2026 paper. Four numerical typographical errors in Table 1 have been corrected, and the caption has been clarified regarding V-measure and NMI. The method rankings and conclusions remain unchanged</p></details> |
-| **[Scaling Action-Free Video Latent Prediction for Transferable Representations in End-to-End Autonomous Driving](https://arxiv.org/abs/2611.02853v1)** | 2026-11-02 | 23 pages, 7 figures |
-| **[CARE: Contrastive Representation Learning with Environment-Invariance Regularization for Behavioural Intention Prediction](https://arxiv.org/abs/2611.02806v1)** | 2026-11-02 |  |
+| **[Diagnosis by Composition: Detecting and Localizing Unseen Diseases by Composing Learned Radiological Findings](https://arxiv.org/abs/2611.05231v1)** | 2026-11-03 |  |
+| **[Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](https://arxiv.org/abs/2303.12212v3)** | 2026-11-03 |  |
+| **[Basin2Vec: Learning Basin-Centric Embeddings for Scalable Hydrological Modeling](https://arxiv.org/abs/2611.05164v1)** | 2026-11-03 |  |
+| **[Dataset Recommendation for Heterogeneous and Dynamic Scholarly Graphs via Multimodal Representation Learning](https://arxiv.org/abs/2611.05071v1)** | 2026-11-03 |  |
+| **[CausalBind: Causal Modeling and Learning for Protein-Molecule Virtual Screening](https://arxiv.org/abs/2610.07340v2)** | 2026-11-03 | NeurIPS 2026 (Oral) |
+| **[UniFlow: Unified Multi-Scale Flow Matching for Time Series Generation](https://arxiv.org/abs/2611.04825v1)** | 2026-11-03 |  |
+| **[TAPES: Task-Aligned Joint Predictive Pretraining for Transaction Event Sequences](https://arxiv.org/abs/2611.04747v1)** | 2026-11-03 |  |
+| **[VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation](https://arxiv.org/abs/2608.21290v4)** | 2026-11-03 |  |
+| **[MambaHand: Local Identity and Behavioral Sequence Learning with Mamba for Dynamic Hand Gesture Authentication](https://arxiv.org/abs/2611.04626v1)** | 2026-11-03 |  |
+| **[E2I-Flow: EEG-to-Image Reconstruction via Wavelet-Temporal Cross-Attention and Conditional Flow Matching](https://arxiv.org/abs/2611.04524v1)** | 2026-11-03 |  |
+| **[All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy](https://arxiv.org/abs/2611.04485v1)** | 2026-11-03 |  |
+| **[The Implicit Bias of Hyperbolic Representation Learning for Multiclass Data: A Busemann Risk Perspective](https://arxiv.org/abs/2610.07131v2)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 as a Spotlight</p></details> |
+| **[CoDeFont: One-Shot Font Generation via Multi-Scale Factor-Specific Representation Learning](https://arxiv.org/abs/2610.21364v2)** | 2026-11-03 | 10 pages, 6 figures |
+| **[Pairwise Distortion Distribution with Graph-Based Importance Sampling for Quantization Error and Intrinsic Dimension Estimation](https://arxiv.org/abs/2611.04341v1)** | 2026-11-03 | 22 pages, 5 figures |
+| **[Radial Basis Function Networks as Projection Heads in Self-Supervised Learning](https://arxiv.org/abs/2606.21590v2)** | 2026-11-03 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted for publication (ICTAI 2026)</p></details> |
 
