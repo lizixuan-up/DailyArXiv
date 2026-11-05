@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -23,6 +23,7 @@ labels: documentation
 ## Multimodal Recommender
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PMRecBench: A Benchmark for Personalization in Recommendation Agents under Multimodal Queries](https://arxiv.org/abs/2611.06349v1)** | 2026-11-04 | <details><summary>13 pa...</summary><p>13 pages. Project page: https://pmrecbench.github.io/</p></details> |
 | **[RoFiGR: Coarse Routing, Fine Refinement via Level-Adaptive Distillation in Multimodal Generative Recommendation](https://arxiv.org/abs/2610.39470v1)** | 2026-10-29 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 10 tables</p></details> |
 | **[Can Complementary Signals Bridge Similarity Islands? Manifold-Augmented Graph Embedding for Multimodal Recommendation](https://arxiv.org/abs/2610.37409v1)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 33 pages, including references and appendices</p></details> |
 | **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v2)** | 2026-10-22 |  |
@@ -37,24 +38,23 @@ labels: documentation
 | **[Modality-Guided Mixture of Structured Experts with Entropy-Triggered Routing for Multimodal Recommendation](https://arxiv.org/abs/2602.20723v3)** | 2026-09-14 | <details><summary>36 pa...</summary><p>36 pages, 9 figures. Code and reproducibility configurations: https://github.com/jidaivita/MAGNET</p></details> |
 | **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v3)** | 2026-09-10 |  |
 | **[Latent-Aligned Reasoning for Multimodal Recommendation](https://arxiv.org/abs/2609.04645v1)** | 2026-09-04 |  |
-| **[MURAL: Multimodal Uncertainty-aware Recommendation via Adaptive edge Learning](https://arxiv.org/abs/2609.04574v1)** | 2026-09-04 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Message-passing graph persistence](https://arxiv.org/abs/2611.06801v1)** | 2026-11-04 |  |
+| **[Machine-learned particle flow as a foundation model for collider physics](https://arxiv.org/abs/2606.14373v2)** | 2026-11-04 | 16 pages, 14 figures |
+| **[Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation](https://arxiv.org/abs/2611.06724v1)** | 2026-11-04 | <details><summary>45 pa...</summary><p>45 pages, 8 figures, 21 tables. Structured narrative review of hardware, data, cross-embodiment transfer, foundation models, tactile sensing, and evaluation for dexterous robotic hands</p></details> |
+| **[Agent-Driven Generative Priors for Pathology Image Synthesis and Segmentation](https://arxiv.org/abs/2611.06701v1)** | 2026-11-04 | <details><summary>Code ...</summary><p>Code available at: https://github.com/script-Yang/Agent-GenPath</p></details> |
+| **[Deliberate Latent Reasoning for Sequential Recommendation](https://arxiv.org/abs/2611.06521v1)** | 2026-11-04 |  |
+| **[DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning](https://arxiv.org/abs/2610.16822v2)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 38 pages, 6 figures</p></details> |
+| **[UINO-FSS: Unifying Representation Learning and Few-shot Segmentation via Hierarchical Distillation and Mamba-HyperCorrelation](https://arxiv.org/abs/2504.15669v5)** | 2026-11-04 |  |
+| **[Semantic Prior-Guided Incomplete Cross-Modal Retrieval with Noisy Labels](https://arxiv.org/abs/2611.06113v1)** | 2026-11-04 |  |
+| **[OLIVE: View-Augmented Latent Prediction with Waveform Reconstruction for Speech SSL](https://arxiv.org/abs/2606.30356v2)** | 2026-11-03 |  |
+| **[Self-Supervised Learning of Universal Latent Spaces for Operator Learning](https://arxiv.org/abs/2611.05735v1)** | 2026-11-03 |  |
+| **[Balance-Guided Forest for Causal Effect Estimation](https://arxiv.org/abs/2611.05723v1)** | 2026-11-03 |  |
+| **[Decoupling Distance and Networks: Hybrid Graph Attention-Geostatistical Methods for Spatio-temporal Risk Mapping](https://arxiv.org/abs/2603.08393v3)** | 2026-11-03 | 55 pages, 6 figures |
+| **[Benchmarking Pretrained Molecular Embedding Models For Molecular Representation Learning](https://arxiv.org/abs/2508.06199v5)** | 2026-11-03 |  |
+| **[Manifold-Matching Autoencoders: Embedding Data into Chosen Geometric Structures](https://arxiv.org/abs/2603.16568v2)** | 2026-11-03 | <details><summary>32 pa...</summary><p>32 pages, 10 figures. Code: https://github.com/laurent-cheret/manifold-matching-autoencoders</p></details> |
 | **[Diagnosis by Composition: Detecting and Localizing Unseen Diseases by Composing Learned Radiological Findings](https://arxiv.org/abs/2611.05231v1)** | 2026-11-03 |  |
-| **[Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](https://arxiv.org/abs/2303.12212v3)** | 2026-11-03 |  |
-| **[Basin2Vec: Learning Basin-Centric Embeddings for Scalable Hydrological Modeling](https://arxiv.org/abs/2611.05164v1)** | 2026-11-03 |  |
-| **[Dataset Recommendation for Heterogeneous and Dynamic Scholarly Graphs via Multimodal Representation Learning](https://arxiv.org/abs/2611.05071v1)** | 2026-11-03 |  |
-| **[CausalBind: Causal Modeling and Learning for Protein-Molecule Virtual Screening](https://arxiv.org/abs/2610.07340v2)** | 2026-11-03 | NeurIPS 2026 (Oral) |
-| **[UniFlow: Unified Multi-Scale Flow Matching for Time Series Generation](https://arxiv.org/abs/2611.04825v1)** | 2026-11-03 |  |
-| **[TAPES: Task-Aligned Joint Predictive Pretraining for Transaction Event Sequences](https://arxiv.org/abs/2611.04747v1)** | 2026-11-03 |  |
-| **[VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation](https://arxiv.org/abs/2608.21290v4)** | 2026-11-03 |  |
-| **[MambaHand: Local Identity and Behavioral Sequence Learning with Mamba for Dynamic Hand Gesture Authentication](https://arxiv.org/abs/2611.04626v1)** | 2026-11-03 |  |
-| **[E2I-Flow: EEG-to-Image Reconstruction via Wavelet-Temporal Cross-Attention and Conditional Flow Matching](https://arxiv.org/abs/2611.04524v1)** | 2026-11-03 |  |
-| **[All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy](https://arxiv.org/abs/2611.04485v1)** | 2026-11-03 |  |
-| **[The Implicit Bias of Hyperbolic Representation Learning for Multiclass Data: A Busemann Risk Perspective](https://arxiv.org/abs/2610.07131v2)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 as a Spotlight</p></details> |
-| **[CoDeFont: One-Shot Font Generation via Multi-Scale Factor-Specific Representation Learning](https://arxiv.org/abs/2610.21364v2)** | 2026-11-03 | 10 pages, 6 figures |
-| **[Pairwise Distortion Distribution with Graph-Based Importance Sampling for Quantization Error and Intrinsic Dimension Estimation](https://arxiv.org/abs/2611.04341v1)** | 2026-11-03 | 22 pages, 5 figures |
-| **[Radial Basis Function Networks as Projection Heads in Self-Supervised Learning](https://arxiv.org/abs/2606.21590v2)** | 2026-11-03 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted for publication (ICTAI 2026)</p></details> |
 
