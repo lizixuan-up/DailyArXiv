@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2026
+title: Latest 15 Papers - November 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Message-passing graph persistence](https://arxiv.org/abs/2611.06801v1)** | 2026-11-04 |  |
-| **[Machine-learned particle flow as a foundation model for collider physics](https://arxiv.org/abs/2606.14373v2)** | 2026-11-04 | 16 pages, 14 figures |
-| **[Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation](https://arxiv.org/abs/2611.06724v1)** | 2026-11-04 | <details><summary>45 pa...</summary><p>45 pages, 8 figures, 21 tables. Structured narrative review of hardware, data, cross-embodiment transfer, foundation models, tactile sensing, and evaluation for dexterous robotic hands</p></details> |
-| **[Agent-Driven Generative Priors for Pathology Image Synthesis and Segmentation](https://arxiv.org/abs/2611.06701v1)** | 2026-11-04 | <details><summary>Code ...</summary><p>Code available at: https://github.com/script-Yang/Agent-GenPath</p></details> |
-| **[Deliberate Latent Reasoning for Sequential Recommendation](https://arxiv.org/abs/2611.06521v1)** | 2026-11-04 |  |
-| **[DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning](https://arxiv.org/abs/2610.16822v2)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 38 pages, 6 figures</p></details> |
-| **[UINO-FSS: Unifying Representation Learning and Few-shot Segmentation via Hierarchical Distillation and Mamba-HyperCorrelation](https://arxiv.org/abs/2504.15669v5)** | 2026-11-04 |  |
-| **[Semantic Prior-Guided Incomplete Cross-Modal Retrieval with Noisy Labels](https://arxiv.org/abs/2611.06113v1)** | 2026-11-04 |  |
-| **[OLIVE: View-Augmented Latent Prediction with Waveform Reconstruction for Speech SSL](https://arxiv.org/abs/2606.30356v2)** | 2026-11-03 |  |
-| **[Self-Supervised Learning of Universal Latent Spaces for Operator Learning](https://arxiv.org/abs/2611.05735v1)** | 2026-11-03 |  |
-| **[Balance-Guided Forest for Causal Effect Estimation](https://arxiv.org/abs/2611.05723v1)** | 2026-11-03 |  |
-| **[Decoupling Distance and Networks: Hybrid Graph Attention-Geostatistical Methods for Spatio-temporal Risk Mapping](https://arxiv.org/abs/2603.08393v3)** | 2026-11-03 | 55 pages, 6 figures |
-| **[Benchmarking Pretrained Molecular Embedding Models For Molecular Representation Learning](https://arxiv.org/abs/2508.06199v5)** | 2026-11-03 |  |
-| **[Manifold-Matching Autoencoders: Embedding Data into Chosen Geometric Structures](https://arxiv.org/abs/2603.16568v2)** | 2026-11-03 | <details><summary>32 pa...</summary><p>32 pages, 10 figures. Code: https://github.com/laurent-cheret/manifold-matching-autoencoders</p></details> |
-| **[Diagnosis by Composition: Detecting and Localizing Unseen Diseases by Composing Learned Radiological Findings](https://arxiv.org/abs/2611.05231v1)** | 2026-11-03 |  |
+| **[Scaling Neural Motor Decoding via Decoupled Behavioral Pretraining](https://arxiv.org/abs/2611.08263v1)** | 2026-11-05 |  |
+| **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v3)** | 2026-11-05 | NeurIPS 2026 |
+| **[How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels](https://arxiv.org/abs/2611.08136v1)** | 2026-11-05 | 16 pages, 13 figures |
+| **[Towards Practical 20 kbps Generative Video Compression via Adaptive Tokenization and Entropy Modeling](https://arxiv.org/abs/2611.08099v1)** | 2026-11-05 |  |
+| **[Less is More: Compact-Token Masked Feature Prediction for Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v4)** | 2026-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
+| **[Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction](https://arxiv.org/abs/2611.07998v1)** | 2026-11-05 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, accepted for publication in ACS Omega</p></details> |
+| **[Invariance before structure: two modes of emergent compression in representation learning](https://arxiv.org/abs/2611.07952v1)** | 2026-11-05 | <details><summary>Exten...</summary><p>Extended abstract, UniReps workshop at NeurIPS 2026</p></details> |
+| **[Emergent Generalization by Representation Learning in Artificial Neural Networks](https://arxiv.org/abs/2607.10430v2)** | 2026-11-05 |  |
+| **[InnerLogic-Surg: An Open Surgical Foundation Model via Continual Pretraining](https://arxiv.org/abs/2611.07883v1)** | 2026-11-05 |  |
+| **[SEROA: Stable Encrypted-Traffic Representation and Online Adaptation for Service-Aware Networks](https://arxiv.org/abs/2611.07550v1)** | 2026-11-05 |  |
+| **[Understanding Self-Supervised Representation Learning for Encrypted Traffic](https://arxiv.org/abs/2611.07452v1)** | 2026-11-05 |  |
+| **[Provably Efficient Representation Learning for Low-Rank CMDPs](https://arxiv.org/abs/2611.07295v1)** | 2026-11-05 |  |
+| **[Hypnos: Learning Generalisable Representations of Sleep Physiology via Next-Token Prediction](https://arxiv.org/abs/2606.09605v2)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[VINO: Revisiting 3D Representation Learning with Volume Transformers](https://arxiv.org/abs/2611.07176v1)** | 2026-11-04 | <details><summary>Proje...</summary><p>Project page at: vision.rwth-aachen.de/VINO</p></details> |
+| **[CSI-JEPA: Towards Foundation Representations for Ubiquitous Wi-Fi Sensing with Minimal Supervision](https://arxiv.org/abs/2605.14171v2)** | 2026-11-04 |  |
 
