@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2026
+title: Latest 15 Papers - November 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lizixuan-up/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,19 +42,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations](https://arxiv.org/abs/2611.09880v1)** | 2026-11-06 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Datasets and Benchmarks Track</p></details> |
-| **[Predictive Representation Learning for Manipulation via Streaming Egocentric 3D Hand Forecasting](https://arxiv.org/abs/2511.18127v3)** | 2026-11-06 | <details><summary>v2: t...</summary><p>v2: title changed from "SFHand: Learning Embodied Manipulation by Streaming Egocentric 3D Hand Forecasting"</p></details> |
-| **[FusionCLIP: Multimodal Contrastive Pretraining for Fusion Plasma Diagnostics](https://arxiv.org/abs/2611.09493v1)** | 2026-11-06 |  |
-| **[Spectral Alignment in Forward-Backward Representations via Temporal Abstraction](https://arxiv.org/abs/2603.20103v5)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (camera-ready). Project page and code: https://erfi.github.io/spectral_alignment/</p></details> |
-| **[MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning](https://arxiv.org/abs/2611.09293v1)** | 2026-11-06 | Corl 2026 |
-| **[Steering Training Trajectories in Diffusion Representation Learning](https://arxiv.org/abs/2607.05319v2)** | 2026-11-06 | <details><summary>Proce...</summary><p>Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems, Sydney, Australia</p></details> |
-| **[HMMF-Net: A Lightweight Hierarchical Multi-Frame Multimodal Fusion Network for Accurate Fish Feeding Intensity Assessment](https://arxiv.org/abs/2611.09224v1)** | 2026-11-06 | <details><summary>47 pa...</summary><p>47 pages, 10 figures, 15 tables</p></details> |
-| **[TailDART: Compute-Efficient Foundation Models for Financial Time-Series Forecasting](https://arxiv.org/abs/2611.09176v1)** | 2026-11-06 |  |
-| **[Learning to Solve Compositional Geometry Routing Problems](https://arxiv.org/abs/2605.18094v2)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026, 26 pages, 10 figures</p></details> |
-| **[Deep Learning Theory through the Lens of Statistical Physics: A Topical Review](https://arxiv.org/abs/2611.09138v1)** | 2026-11-06 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 1 table. Topical review published in Front. Phys. 22(1), 011302 (2027); this version contains minor corrections</p></details> |
-| **[PAGSL: Path-Augmenting Graph Structure Learning for explainable scholar recommendation](https://arxiv.org/abs/2611.09126v1)** | 2026-11-06 | 24pages, 12 figures |
-| **[Self-Distilling Future Video Representations for World Action Models](https://arxiv.org/abs/2610.30320v2)** | 2026-11-06 | <details><summary>27 pa...</summary><p>27 pages; Project page: https://huiwon-jang.github.io/FRED/</p></details> |
-| **[Provably Learning Diffusion Models under the Manifold Hypothesis: Collapse and Refine](https://arxiv.org/abs/2605.20235v2)** | 2026-11-06 | <details><summary>44 pa...</summary><p>44 pages, 2 figures, 10 tables</p></details> |
-| **[Dynamic Merging Mutually-Distilled Multi-View Networks for RGB-Event-based Representation Learning](https://arxiv.org/abs/2611.00107v2)** | 2026-11-06 |  |
-| **[LEF-JEPA: Denoising-Trained Latent Energy Fields for Spatial Representation Learning](https://arxiv.org/abs/2611.08989v1)** | 2026-11-06 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 7 tables. Includes supplementary material</p></details> |
+| **[Rethinking Radar 3D Perception: Representation Learning from Raw Spectra](https://arxiv.org/abs/2611.12334v1)** | 2026-11-09 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 18 tables. Accepted at NeurIPS 2026. Miao Zhang and Mohamed Abdelsamad contributed equally</p></details> |
+| **[Sharp Regret Bounds and a Task-Covariance Correction for Spectral Representation Learning](https://arxiv.org/abs/2609.15825v3)** | 2026-11-09 | <details><summary>45 pa...</summary><p>45 pages, 4 figures, 15 tables. Feedback and comments are welcome!</p></details> |
+| **[Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction](https://arxiv.org/abs/2611.07998v2)** | 2026-11-09 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, accepted for publication in ACS Omega</p></details> |
+| **[Harnessing Vision-Language Models for Federated Unsupervised Visual Recognition](https://arxiv.org/abs/2611.12187v1)** | 2026-11-09 |  |
+| **[The balance between feature learning and collapse in dynamical systems-based generative models](https://arxiv.org/abs/2611.12156v1)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control](https://arxiv.org/abs/2611.12102v1)** | 2026-11-09 | <details><summary>CoRL ...</summary><p>CoRL 2026. 16 pages, 3 figures, 13 tables</p></details> |
+| **[Parameter-Efficient Transfer Learning for Microseismic Phase Picking Using a Neural Operator](https://arxiv.org/abs/2512.13197v3)** | 2026-11-09 | <details><summary>v3: R...</summary><p>v3: Revised manuscript after journal review; updated methods/results</p></details> |
+| **[How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels](https://arxiv.org/abs/2611.08136v2)** | 2026-11-09 | <details><summary>16 pa...</summary><p>16 pages, 13 figures. Code available at PRISM-T (https://github.com/ideal-lab-sejong/PRISM_T) and PRISM-V (https://github.com/ideal-lab-sejong/PRISM_V)</p></details> |
+| **[Are UFOs Real? Introducing Unified Factored Organizers](https://arxiv.org/abs/2611.11862v1)** | 2026-11-09 |  |
+| **[MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction](https://arxiv.org/abs/2611.11839v1)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (Evaluations & Datasets Track)</p></details> |
+| **[PAIR: Proprioception-Aligned Image-Ray Representations for Viewpoint-Robust Manipulation](https://arxiv.org/abs/2611.11798v1)** | 2026-11-09 |  |
+| **[CABrain: A Correlation-Aware Brain Foundation Model for EEG Decoding](https://arxiv.org/abs/2611.11782v1)** | 2026-11-09 |  |
+| **[The Dark Matter of Clinical Data: An Identification Limit on Disentangling Physiology from Care Process in electronic health records](https://arxiv.org/abs/2611.11726v1)** | 2026-11-09 | <details><summary>24 pa...</summary><p>24 pages, 3 figures, 3 tables. Supplementary Information and code are provided as ancillary files. Interactive companion with narrated explainers: https://criticaldata.github.io/Dark_Matter/</p></details> |
+| **[Learning Pathology-Sensitive Representations for Unsupervised Retinal OCT Anomaly Detection](https://arxiv.org/abs/2610.33143v2)** | 2026-11-08 |  |
+| **[Self-Supervised Collapse Prevention with Score-Based Entropy Maximization](https://arxiv.org/abs/2611.11379v1)** | 2026-11-08 |  |
 
